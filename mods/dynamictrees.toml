@@ -1,13 +1,13 @@
 name = "Dynamic Trees"
-filename = "DynamicTrees-1.16.5-0.10.0-Beta24.jar"
+filename = "DynamicTrees-1.16.5-0.10.0-Beta25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3414/224/DynamicTrees-1.16.5-0.10.0-Beta24.jar"
+url = "https://edge.forgecdn.net/files/3480/621/DynamicTrees-1.16.5-0.10.0-Beta25.jar"
 hash-format = "murmur2"
-hash = "3318898680"
+hash = "2913254959"
 
 [update]
 [update.curseforge]
-file-id = 3414224
+file-id = 3480621
 project-id = 252818

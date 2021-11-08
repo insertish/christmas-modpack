@@ -1,13 +1,13 @@
 name = "Structurize"
-filename = "structurize-0.13.219-ALPHA-universal.jar"
+filename = "structurize-0.13.254-ALPHA-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3449/622/structurize-0.13.219-ALPHA-universal.jar"
+url = "https://edge.forgecdn.net/files/3493/989/structurize-0.13.254-ALPHA-universal.jar"
 hash-format = "murmur2"
-hash = "2814605557"
+hash = "3773635576"
 
 [update]
 [update.curseforge]
-file-id = 3449622
+file-id = 3493989
 project-id = 298744

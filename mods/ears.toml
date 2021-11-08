@@ -1,13 +1,13 @@
 name = "Ears"
-filename = "ears-forge-1.16-1.2.3.jar"
+filename = "ears-forge-1.16-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3440/607/ears-forge-1.16-1.2.3.jar"
+url = "https://edge.forgecdn.net/files/3504/840/ears-forge-1.16-1.4.0.jar"
 hash-format = "murmur2"
-hash = "3959350520"
+hash = "1831878360"
 
 [update]
 [update.curseforge]
-file-id = 3440607
+file-id = 3504840
 project-id = 412013

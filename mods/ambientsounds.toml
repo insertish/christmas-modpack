@@ -1,13 +1,13 @@
 name = "AmbientSounds 4"
-filename = "AmbientSounds_v3.1.9_mc1.16.5.jar"
+filename = "AmbientSounds_v3.1.11_mc1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3334/857/AmbientSounds_v3.1.9_mc1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3516/278/AmbientSounds_v3.1.11_mc1.16.5.jar"
 hash-format = "murmur2"
-hash = "6428736"
+hash = "2725407804"
 
 [update]
 [update.curseforge]
-file-id = 3334857
+file-id = 3516278
 project-id = 254284

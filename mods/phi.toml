@@ -1,13 +1,13 @@
 name = "Phi (Psi addon)"
-filename = "Phi-1.16-1.7.jar"
+filename = "Phi-1.16-2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3456/712/Phi-1.16-1.7.jar"
+url = "https://edge.forgecdn.net/files/3517/398/Phi-1.16-2.0.jar"
 hash-format = "murmur2"
-hash = "326697623"
+hash = "3563877920"
 
 [update]
 [update.curseforge]
-file-id = 3456712
+file-id = 3517398
 project-id = 476728

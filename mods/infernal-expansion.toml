@@ -1,13 +1,13 @@
 name = "Infernal Expansion"
-filename = "infernal-expansion-2.2.0.jar"
+filename = "infernal-expansion-2.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3421/482/infernal-expansion-2.2.0.jar"
+url = "https://edge.forgecdn.net/files/3487/698/infernal-expansion-2.3.2.jar"
 hash-format = "murmur2"
-hash = "1783870737"
+hash = "3937989984"
 
 [update]
 [update.curseforge]
-file-id = 3421482
+file-id = 3487698
 project-id = 395078

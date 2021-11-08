@@ -1,13 +1,13 @@
 name = "Christmas Festivity"
-filename = "christmasfestivity-1.3.6-1.16.4.jar"
+filename = "christmasfestivity-1.4.3-1.16.5-forge.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3140/410/christmasfestivity-1.3.6-1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3514/118/christmasfestivity-1.4.3-1.16.5-forge.jar"
 hash-format = "murmur2"
-hash = "972173082"
+hash = "612302766"
 
 [update]
 [update.curseforge]
-file-id = 3140410
+file-id = 3514118
 project-id = 282604

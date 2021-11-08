@@ -1,13 +1,13 @@
 name = "AttributeFix"
-filename = "AttributeFix-1.16.5-10.1.2.jar"
+filename = "AttributeFix-1.16.5-10.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3232/225/AttributeFix-1.16.5-10.1.2.jar"
+url = "https://edge.forgecdn.net/files/3348/562/AttributeFix-1.16.5-10.1.3.jar"
 hash-format = "murmur2"
-hash = "1672040521"
+hash = "1953602614"
 
 [update]
 [update.curseforge]
-file-id = 3232225
+file-id = 3348562
 project-id = 280510

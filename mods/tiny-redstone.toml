@@ -1,13 +1,13 @@
 name = "Tiny Redstone"
-filename = "tinyredstone-1.16.5-1.10.4.jar"
+filename = "tinyredstone-1.16.5-1.11.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3455/770/tinyredstone-1.16.5-1.10.4.jar"
+url = "https://edge.forgecdn.net/files/3498/83/tinyredstone-1.16.5-1.11.1.jar"
 hash-format = "murmur2"
-hash = "1631020997"
+hash = "1986400027"
 
 [update]
 [update.curseforge]
-file-id = 3455770
+file-id = 3498083
 project-id = 453746

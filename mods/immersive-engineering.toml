@@ -1,13 +1,13 @@
 name = "Immersive Engineering"
-filename = "ImmersiveEngineering-1.16.5-5.0.3-138.jar"
+filename = "ImmersiveEngineering-1.16.5-5.0.5-140.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3431/122/ImmersiveEngineering-1.16.5-5.0.3-138.jar"
+url = "https://edge.forgecdn.net/files/3497/359/ImmersiveEngineering-1.16.5-5.0.5-140.jar"
 hash-format = "murmur2"
-hash = "4265682932"
+hash = "2811759999"
 
 [update]
 [update.curseforge]
-file-id = 3431122
+file-id = 3497359
 project-id = 231951

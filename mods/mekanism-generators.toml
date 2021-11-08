@@ -1,13 +1,13 @@
 name = "Mekanism Generators"
-filename = "MekanismGenerators-1.16.5-10.0.21.448.jar"
+filename = "MekanismGenerators-1.16.5-10.0.24.453.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3206/395/MekanismGenerators-1.16.5-10.0.21.448.jar"
+url = "https://edge.forgecdn.net/files/3516/430/MekanismGenerators-1.16.5-10.0.24.453.jar"
 hash-format = "murmur2"
-hash = "1746161766"
+hash = "2781530793"
 
 [update]
 [update.curseforge]
-file-id = 3206395
+file-id = 3516430
 project-id = 268566

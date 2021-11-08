@@ -1,13 +1,13 @@
 name = "More Minecarts and Rails"
-filename = "moreminecarts-1.3.10.jar"
+filename = "moreminecarts-1.3.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3414/750/moreminecarts-1.3.10.jar"
+url = "https://edge.forgecdn.net/files/3489/944/moreminecarts-1.3.11.jar"
 hash-format = "murmur2"
-hash = "3782306886"
+hash = "198446293"
 
 [update]
 [update.curseforge]
-file-id = 3414750
+file-id = 3489944
 project-id = 440845

@@ -1,13 +1,13 @@
 name = "Mystical Agradditions"
-filename = "MysticalAgradditions-1.16.5-4.2.1.jar"
+filename = "MysticalAgradditions-1.16.5-4.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3448/807/MysticalAgradditions-1.16.5-4.2.1.jar"
+url = "https://edge.forgecdn.net/files/3477/875/MysticalAgradditions-1.16.5-4.2.2.jar"
 hash-format = "murmur2"
-hash = "362249342"
+hash = "1915588664"
 
 [update]
 [update.curseforge]
-file-id = 3448807
+file-id = 3477875
 project-id = 256247

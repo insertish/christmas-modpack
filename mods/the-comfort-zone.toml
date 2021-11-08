@@ -1,13 +1,13 @@
 name = "The Comfort Zone"
-filename = "TheComfortZone-1.16.5-1.0.2-b.jar"
+filename = "TheComfortZone-1.16.5-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3369/712/TheComfortZone-1.16.5-1.0.2-b.jar"
+url = "https://edge.forgecdn.net/files/3490/507/TheComfortZone-1.16.5-1.0.3.jar"
 hash-format = "murmur2"
-hash = "2490131419"
+hash = "2171649674"
 
 [update]
 [update.curseforge]
-file-id = 3369712
+file-id = 3490507
 project-id = 493947

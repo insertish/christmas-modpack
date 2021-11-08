@@ -1,13 +1,13 @@
 name = "Immersive Petroleum"
-filename = "ImmersivePetroleum-1.16.5-3.3.0-6.jar"
+filename = "ImmersivePetroleum-1.16.5-3.3.0-7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3454/143/ImmersivePetroleum-1.16.5-3.3.0-6.jar"
+url = "https://edge.forgecdn.net/files/3489/757/ImmersivePetroleum-1.16.5-3.3.0-7.jar"
 hash-format = "murmur2"
-hash = "3348380834"
+hash = "3616412215"
 
 [update]
 [update.curseforge]
-file-id = 3454143
+file-id = 3489757
 project-id = 268250
