@@ -2452,11 +2452,6 @@ hash = "f8a58cc4933231a1d115be9b3a5edad2027614b15403dae8d27fda623282e1ad"
 metafile = true
 
 [[files]]
-file = "mods/just-another-rotten-flesh-to-leather-mod.toml"
-hash = "03c43711372a3fae65814f0ae847152a37a01a8a69c779464d6335e7279e3233"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.toml"
 hash = "3faf409ac2710530bfaa2fa937583cf255d2afb423129ed1fc68628de1730391"
 metafile = true

@@ -1,12 +1,12 @@
 name = "Christmas Server"
 author = "insert"
-version = "0.6.1"
+version = "0.6.2"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d14117db5c8a67e1cd9843884e82079ecc239d98ab06560a40365edb874c5b3"
+hash = "2fd86b875665e89eb538891cd79885e8e82fcacb795f27ee3871253d8dc8c21e"
 
 [versions]
 forge = "36.2.4"
