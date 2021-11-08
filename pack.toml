@@ -1,6 +1,6 @@
 name = "Christmas Server"
 author = "insert"
-version = "0.6.0"
+version = "0.6.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
