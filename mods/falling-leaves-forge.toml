@@ -1,6 +1,6 @@
 name = "Falling Leaves (Forge)"
 filename = "Fallingleaves-1.16.3-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3474/929/Fallingleaves-1.16.3-1.1.2.jar"

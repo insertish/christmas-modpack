@@ -1,6 +1,6 @@
 name = "Halogen"
 filename = "sodium-forge-2.9.10+rev.ea6353c.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3410/21/sodium-forge-2.9.10+rev.ea6353c.jar"

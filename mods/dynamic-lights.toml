@@ -1,6 +1,6 @@
 name = "Dynamic Lights"
 filename = "dynamiclights-1.16.5.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3381/556/dynamiclights-1.16.5.1.jar"
