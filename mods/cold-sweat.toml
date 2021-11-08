@@ -1,0 +1,13 @@
+name = "Cold Sweat"
+filename = "ColdSweat-r1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3441/69/ColdSweat-r1.3.5.jar"
+hash-format = "murmur2"
+hash = "2148433758"
+
+[update]
+[update.curseforge]
+file-id = 3441069
+project-id = 506194

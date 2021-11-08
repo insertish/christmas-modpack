@@ -1,0 +1,13 @@
+name = "Nut Button"
+filename = "nut_button.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3456/301/nut_button.jar"
+hash-format = "murmur2"
+hash = "3348269079"
+
+[update]
+[update.curseforge]
+file-id = 3456301
+project-id = 526426

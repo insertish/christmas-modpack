@@ -1,0 +1,13 @@
+name = "Astral Sorcery"
+filename = "astralsorcery-1.16-1.16.5-1.13.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3333/980/astralsorcery-1.16-1.16.5-1.13.12.jar"
+hash-format = "murmur2"
+hash = "3597463763"
+
+[update]
+[update.curseforge]
+file-id = 3333980
+project-id = 241721

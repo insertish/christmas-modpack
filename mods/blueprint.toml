@@ -1,0 +1,13 @@
+name = "Blueprint"
+filename = "abnormals_core-1.16.5-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3457/851/abnormals_core-1.16.5-3.3.0.jar"
+hash-format = "murmur2"
+hash = "3561428952"
+
+[update]
+[update.curseforge]
+file-id = 3457851
+project-id = 382216

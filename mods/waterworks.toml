@@ -1,0 +1,13 @@
+name = "Waterworks"
+filename = "waterworks-1.16.x-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3203/677/waterworks-1.16.x-2.2.4.jar"
+hash-format = "murmur2"
+hash = "1957795908"
+
+[update]
+[update.curseforge]
+file-id = 3203677
+project-id = 267006

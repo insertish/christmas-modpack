@@ -1,0 +1,13 @@
+name = "Simple Planes (Forge)"
+filename = "simpleplanes-1.16.5-4.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/560/simpleplanes-1.16.5-4.6.0.jar"
+hash-format = "murmur2"
+hash = "838793131"
+
+[update]
+[update.curseforge]
+file-id = 3390560
+project-id = 388908

@@ -1,0 +1,13 @@
+name = "Login Protection"
+filename = "logprot-1.16-1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3038/361/logprot-1.16-1.3.jar"
+hash-format = "murmur2"
+hash = "1026959832"
+
+[update]
+[update.curseforge]
+file-id = 3038361
+project-id = 358304

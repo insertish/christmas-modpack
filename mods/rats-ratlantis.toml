@@ -1,0 +1,13 @@
+name = "Rats: Ratlantis"
+filename = "ratlantis-1.0.0-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3072/700/ratlantis-1.0.0-1.16.3.jar"
+hash-format = "murmur2"
+hash = "2887304013"
+
+[update]
+[update.curseforge]
+file-id = 3072700
+project-id = 411446

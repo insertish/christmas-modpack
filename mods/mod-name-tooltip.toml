@@ -1,0 +1,13 @@
+name = "Mod Name Tooltip"
+filename = "modnametooltip_1.16.2-1.15.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3038/982/modnametooltip_1.16.2-1.15.0.jar"
+hash-format = "murmur2"
+hash = "2927785846"
+
+[update]
+[update.curseforge]
+file-id = 3038982
+project-id = 238747

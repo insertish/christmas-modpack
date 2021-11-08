@@ -1,0 +1,13 @@
+name = "Trapcraft"
+filename = "Trapcraft-1.16.5-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3245/653/Trapcraft-1.16.5-3.3.0.jar"
+hash-format = "murmur2"
+hash = "1394151972"
+
+[update]
+[update.curseforge]
+file-id = 3245653
+project-id = 271272

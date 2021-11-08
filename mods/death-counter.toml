@@ -1,0 +1,13 @@
+name = "Death Counter"
+filename = "DeathCounter-1.16.3-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3062/117/DeathCounter-1.16.3-1.2.1.jar"
+hash-format = "murmur2"
+hash = "157765690"
+
+[update]
+[update.curseforge]
+file-id = 3062117
+project-id = 229068

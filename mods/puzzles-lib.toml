@@ -1,0 +1,13 @@
+name = "Puzzles Lib"
+filename = "PuzzlesLib-v1.0.12-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/315/PuzzlesLib-v1.0.12-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2178391618"
+
+[update]
+[update.curseforge]
+file-id = 3459315
+project-id = 495476

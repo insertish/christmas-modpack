@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-1.3.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3399/554/catalogue-1.3.0-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1032240676"
+
+[update]
+[update.curseforge]
+file-id = 3399554
+project-id = 459701

@@ -1,0 +1,2972 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/a-lib.toml"
+hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
+metafile = true
+
+[[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "589d5be860cd26328e0e59685d7f4b214e074c3453547e9799a2f409e0206b15"
+metafile = true
+
+[[files]]
+file = "mods/ae2-extras.toml"
+hash = "82341b2dbc5c24d2ee50fd61a704526885e2bff5e2370c80cb14192ce0315537"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.toml"
+hash = "6095b32c2b7c4f2182850093b37f080fa75951ae6cd1744a172076a3653033f3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "27bee3cc9b440a5338d4c68e103f3b562fbc10285cf26969e351110a77e3fa60"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "7ad16c01db81f520c2f0694a0a7dfb3c8e5ffca4afda15bbbf77f719cff71b2a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "3d68eb80a2c4e275cc2277e6d7f4b1cffed6d0c6ca7ab5b61f1f45fff02ed5b4"
+metafile = true
+
+[[files]]
+file = "mods/armor-toughness-bar.toml"
+hash = "e821d0aac9eb4ee7f465fd30922879ca336b269dd119656b60f5a7f96e1b0182"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.toml"
+hash = "fb6ac238efc53a010b94ab81e4167549356b00e48358b864c231f8cfb808052b"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.toml"
+hash = "923c7a79509fdf019b5c4d1abec3ce6938d8397f820953c56d3657f2ea2de9a2"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.toml"
+hash = "d1840a597685cee4a73dfba92192d789963198cafccda73887047e3bb7d66cb9"
+metafile = true
+
+[[files]]
+file = "mods/atmospheric.toml"
+hash = "dec67672b44a1ea7f4de07b2df3b5b7ec869288c8b443228f8c6b7c15d13a5f9"
+metafile = true
+
+[[files]]
+file = "mods/atomicstrykers-infernal-mobs.toml"
+hash = "8d061072de8f58c1fb55921f5f1e8a977902dbd47a884058fdc7650f12bf5468"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.toml"
+hash = "1532c834d3f8ddfabe7c7211bc6cedd8d49053967b592edaeba7e6545c0fa45a"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
+metafile = true
+
+[[files]]
+file = "mods/balanced-enchanting.toml"
+hash = "6ad1d42096ecd2ab17b7f780f54dbb0179c8a4c99963ec6687c09f91f9e5b0b3"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.toml"
+hash = "af6534c3924b4c9e15bfd95796dbc4fffe1316cf306afc496fe939ddbfebd97d"
+metafile = true
+
+[[files]]
+file = "mods/better-diving.toml"
+hash = "f3adca8d182e4379d2fa6db68b83131e21361e66613ef8d5a014905fe0986e8e"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.toml"
+hash = "0888ea1309085d0d065f5ec2cb72baa576da0d7badd5f52864e95b8d8ded7e4c"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "8427ecd7ac03c152df9b5923ed82084ca24ce3d24898ecb3b56912bf5eda4124"
+metafile = true
+
+[[files]]
+file = "mods/blast-craft.toml"
+hash = "dd9e3defadec543f4c7ff688ce9c7d241b7259861d79270c2bcdf5e5122dca16"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.toml"
+hash = "7d4345e3a5bb58d548dcac3ff093d467f9a739e3fb9eabd4400e067668aec283"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.toml"
+hash = "280f7ad1869fdf7c07153975036a85e58a2c30747fb85c544a1d2fb39f6b801d"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.toml"
+hash = "8fd9a2f2f866d567d52112bb2bd37024243a103d50abdbf8d60b2746736985c3"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "d5a19c84e3e588324bd52ffcf56c3ac36ceed36701e3c304bc1901654eb7c316"
+metafile = true
+
+[[files]]
+file = "mods/caelus.toml"
+hash = "e430edcf9d3041dcc215b6e6088583e477a2a43c34b5c1ac4203cdba0c7952a0"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.toml"
+hash = "bb576766c235be703dc89e56fcf310e90169754b95fc7bbb56d7d628fbcf6603"
+metafile = true
+
+[[files]]
+file = "mods/camera-overhaul-forge.toml"
+hash = "edbf3d61fc07f594fb50e4a16394e8eef27ed61c0f95b748ab3d55527717f0e1"
+metafile = true
+
+[[files]]
+file = "mods/cat-jammies.toml"
+hash = "684adb8b680012d88226587b66ee5b6344abea38c40224950de46806ac2c7426"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.toml"
+hash = "3b2c626656faf56bdda6c0286119e59f0ebde1227cfb3e632fcee56a80c9799b"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.toml"
+hash = "1b8db8754d1540e3dde94a92927977e6d4cb97b71ed8eef448a5a25a5b215ea3"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.toml"
+hash = "ce9e8bf5a5a9cd4ddeb5bfec2eb9c9450ae418eac8f6b2ab4c37043569f56122"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "3fbb4284e0fa040a88ff0f7a7e9db69a6bb52f8a07e5c267593b7c25c607c677"
+metafile = true
+
+[[files]]
+file = "mods/christmas-festivity.toml"
+hash = "8f40dcd51180c24cb03e7c2fe5cabece9d6a81bb28ece1bc39c3158fc01993b2"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.toml"
+hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.toml"
+hash = "efb8b1b3b52f36ce5c6abf515f39520035c7c20b9a83f869da395b8376a71f31"
+metafile = true
+
+[[files]]
+file = "mods/citadel.toml"
+hash = "e1c06b486de303676e9b35336db571f1045e8af8612e1351868295ca5ec1d727"
+metafile = true
+
+[[files]]
+file = "mods/click-machine.toml"
+hash = "be06db710565bafcdb57e69df80fd89d8e465d9513aa9c2bf8a3f456941e59b7"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "546c24b742668bdc9a683b960b45b2dfe425400d51e16ce6892d787d69f9cdb8"
+metafile = true
+
+[[files]]
+file = "mods/coal-explosion.toml"
+hash = "0ff32f6a4571390894dd7cf00ccccbc1c3b04e6d5f71fdba21d4ae19635087f0"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "7625de729f958e756d8c62ddc78552add7472239e9a373c4e07c9bcbab28726b"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "4d49df2cccb3df69cf167d1d5de17b6fbb4477e6af8f5b7ecf5c8235d68e5d96"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.toml"
+hash = "344afed14b521304934cf9f90f7a6d354f58129132af398f87491a10777884f2"
+metafile = true
+
+[[files]]
+file = "mods/collective.toml"
+hash = "3a8261989f56d32f92dc0bf0dbf2b26df22c4f88b066cbf07eaf9b9b2b7f2b9f"
+metafile = true
+
+[[files]]
+file = "mods/colossal-chests.toml"
+hash = "ef843da4a99cd47687ec290eb08709c5c29daf4c8edcd6c9d49ddcfa5d62c506"
+metafile = true
+
+[[files]]
+file = "mods/comforts.toml"
+hash = "d8fd41218d2e84f75f607cb75b6127b7c0b276a83b26927ca168aad051487251"
+metafile = true
+
+[[files]]
+file = "mods/configured.toml"
+hash = "363bc667897f80b267923e9f55e3db1804d28a981800a7e976829a8f9ecb6e4d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "937e10577b842b27c95d20e2a3702ab45395424aacd4835319e5b50ce0e7cea1"
+metafile = true
+
+[[files]]
+file = "mods/corpse.toml"
+hash = "4109a213aa1abc2de0d9eca5f2b5b898ef42bee9d219da6167dd636c7fff5ff4"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.toml"
+hash = "27b23287a8577a06c2978d0797641a2419d4826fc031b1e4802a5419c0132039"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.toml"
+hash = "85fd5608e5dde026475b5a9f6f84d64f579706085b501a5c541b47a7685fa739"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "9d75cf7b10c54391673ba9454d06da8aae9e524fea85806c5add89e5041aef5d"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.toml"
+hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "7897742b8363ad842e0e5d9569120bb62bdad605372fee30b28f58318fb9deb6"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.toml"
+hash = "6c9f1134fc8e3a9990abfb07da0e246a627ac6b4a7aa15caa052a67c3fa7aff5"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "b1d1f908e205ba112780d9496f63f0c8cd068036459588c5ef7aa1131c2e2b63"
+metafile = true
+
+[[files]]
+file = "mods/curious-elytra.toml"
+hash = "c45f5c7906c3c06c8b356617314a88492be32ccb9948dbf90d234c781d67ff53"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.toml"
+hash = "a73b31dab28724276db93d995986935727ef849e88ac94f80603e16e9ce9190b"
+metafile = true
+
+[[files]]
+file = "mods/datafixerslayer.toml"
+hash = "074287ffef63abb5ceec1c8bde9f445ae110a6c7497172254c763267cba1cd34"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.toml"
+hash = "0f6f6c31dc03e3e04f50b4224442fbdd61f56fe80045235e48ab3541b89942f2"
+metafile = true
+
+[[files]]
+file = "mods/demagnetize.toml"
+hash = "aaa7d5ca3fc7b89358424403d2b8a9a7ea0e38534861dec9bc99c970c41be634"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.toml"
+hash = "c22f9b5bd37998e8e2e2c858e477489c9dc28e3d31b271e09befe4040a808f62"
+metafile = true
+
+[[files]]
+file = "mods/dtbop.toml"
+hash = "0e140434d6e47a140b188716dc0a56be943be1e187184882ca4e7582ace0163a"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.toml"
+hash = "9316b53f01afae5053a83a38388fead40425f4c58d2eb893b2a79be8acdfa171"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.toml"
+hash = "068949389a1deedf679fc752807d239a1bbb7b2351f2213d3d424ba5939d8edf"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.toml"
+hash = "62b24a3a7a56dba6262cbf5909ad45c1eee6ac78b8d6c086d89c0fd3208ed2f2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "e86eaa4d1e1964cbeac23d0cf66fd73ab5f256b2bad2b56580171c34680a5ccd"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.toml"
+hash = "515047e49a114d23117854632cd7b89c7794435461b829e8ad4d6c40ccde2ed1"
+metafile = true
+
+[[files]]
+file = "mods/ears.toml"
+hash = "03f17454deecd45cbb8bef67797e1f2e6fa708f259b341c2397c626182da7d08"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.toml"
+hash = "73bc7bce64f0730ad564abd75a62fa6e0afd31246afc93a47f7aad172d7a914a"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.toml"
+hash = "e843cc6e87806326d13004f43f490a168a62339d875d97d1f25a602ae2ee5651"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.toml"
+hash = "b46aeed9311f6695b51660c3f7dc3c39e2f7b7e4da679a19021e73a91a451a65"
+metafile = true
+
+[[files]]
+file = "mods/expandability.toml"
+hash = "f3df9ce553774d251913d175277cba6f4a37db5e3d0b72cdc815e11127bd85ca"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.toml"
+hash = "78f6798880bde8d89c5f44b5bb14f7f54996465e15a314685e34dcd9248da4d2"
+metafile = true
+
+[[files]]
+file = "mods/farsight.toml"
+hash = "3bb734a7a01f9aae6f7f32132ecc9e750a956e5106b44fbbab2212fb1c7b6d74"
+metafile = true
+
+[[files]]
+file = "mods/findme.toml"
+hash = "7b02d51d919954ed5af4663521fcf77440876b48d84e7057869556b6651ae9b5"
+metafile = true
+
+[[files]]
+file = "mods/finite-water-infinite-lava.toml"
+hash = "f23004120ee1be267285006e5cd40f43842e6236f481a30f736abe75193f229a"
+metafile = true
+
+[[files]]
+file = "mods/flood.toml"
+hash = "ee687ef4734cd04cd7c5197d075ad5f34300facca15e9e256aff7a92655f24bb"
+metafile = true
+
+[[files]]
+file = "mods/floor-mats.toml"
+hash = "fa3fbd9046251009da9883ddd9010a2b0ee818e09565780a5e899e6729f2ab87"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.toml"
+hash = "58c6598b1045efd8774c3d0406c89d918d697d115aa6b1f9710d9ee0648d2974"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "c7d4faa76a2ade680487217896ad16413b16d5b607146cb0d023c2ab5c073ffb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "f2dd32809964a4d9e1e619dae56806c57861560599d047492b343b7802403771"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "ade1526caaf4088d0350f5b77d9700404e94b5bcd608ea9b750014f2befa174c"
+metafile = true
+
+[[files]]
+file = "mods/halogen.toml"
+hash = "c77a589c5c172b401c690bb4202788ca9b4c21477f85b16ff61640ede30cb066"
+metafile = true
+
+[[files]]
+file = "mods/hard-softcore.toml"
+hash = "80ee789930d35f6117b75c5728d28969600e67729a88ad45a07691bd20a3a556"
+metafile = true
+
+[[files]]
+file = "mods/hats.toml"
+hash = "594d1c72a32e538eb42f248a9fd62748da1d5e40e14379e2272b88b774a72831"
+metafile = true
+
+[[files]]
+file = "mods/hats/1980s is Calling/1980s is Calling.tbl"
+hash = "74701fd2197a93182b4a916c85bae8c07f7da04c517bd6c3ff6550bba29fe109"
+
+[[files]]
+file = "mods/hats/1980s is Calling/Extended Antenna.tbl"
+hash = "3d2214cd1140c8b963729113b1aa3dcbadf1fa33470d95de14c5cbe23440185b"
+
+[[files]]
+file = "mods/hats/5G for Everyone.tbl"
+hash = "fda736153d7bc71661be662824fb94c50a2e8069d0b4ec28f4e1f5ff5927239a"
+
+[[files]]
+file = "mods/hats/Abraham Lincoln Hat/Abraham Lincoln Hat.tbl"
+hash = "ac1e0874bd62c137b13c4b695116de5cac5ef2e3b03edcabfe6bf87d70a51bb2"
+
+[[files]]
+file = "mods/hats/Abraham Lincoln Hat/Beard.tbl"
+hash = "34f416df54624c48365a86c2cba14efd2682634e73f0624056e4737a37c29070"
+
+[[files]]
+file = "mods/hats/Aerwhale Hat.tbl"
+hash = "886d0f1675adf4e971358ad1bee6d3d5011e5c6fd6a935062a8b0d0ba7d3c24b"
+
+[[files]]
+file = "mods/hats/Anvilhead/Anvilhead.tbl"
+hash = "163548f21c2f366577aad451399f26661f4cefc4b7f092ac25bb7662c5b3a168"
+
+[[files]]
+file = "mods/hats/Anvilhead/Cracks.tbl"
+hash = "64cbeefc927595112fd4030e39dd9765820ba95f01bf7be76fc7b413e2e254c0"
+
+[[files]]
+file = "mods/hats/AppleHat/AppleHat.tbl"
+hash = "84f2b0c14f6fd286a933b5017394f5b9cc995d1a42539c27e33351bbf6902327"
+
+[[files]]
+file = "mods/hats/AppleHat/Missed Arrow.tbl"
+hash = "af24c95c9f0edaa5c2b52d73cae29f58f1791613bc7e4a996178628ea9cd36f6"
+
+[[files]]
+file = "mods/hats/Arrow Head.tbl"
+hash = "854ce59ceeeebd378511d558c892ecc075971bfda0c08d287f8d1f1f34d6985a"
+
+[[files]]
+file = "mods/hats/Australian Minecart.tbl"
+hash = "6f927fde1b33e1980ba3aeab735242ee13a8735a721ca21a36c9069e36ead417"
+
+[[files]]
+file = "mods/hats/Axehead.tbl"
+hash = "08118cdb9d2dcfab6b44cbc03e82fe4429c5be5854d7ddd97aa38a095770b2da"
+
+[[files]]
+file = "mods/hats/BSOD.tbl"
+hash = "2191c162a89e3cc05259d9d58d8d21010e759cac445a8f37ee32c196af98ceef"
+
+[[files]]
+file = "mods/hats/Baby Turtle.tbl"
+hash = "2af431a9acd5fc7caa7eccee4862b1af8a82181ac15315c52e6f559b633411f7"
+
+[[files]]
+file = "mods/hats/Bane Mask.tbl"
+hash = "feea3d9a577407144809dc27c9b58bc01a7e3dcc4167df8eeaeb398fee202fce"
+
+[[files]]
+file = "mods/hats/Blame The Community.tbl"
+hash = "64fd4c4d7101947d52fb84b7667a6a89fd8bc3fd64687c194a24ddce29f2d478"
+
+[[files]]
+file = "mods/hats/Bowler Hat/Bowler Hat.tbl"
+hash = "42fb129f5d2632c7bc0e894878e1d5bfec4896a2bca909e9925c0cab65cc5c84"
+
+[[files]]
+file = "mods/hats/Bowler Hat/Cake Hat.tbl"
+hash = "7d13cc37a34360d8d791f7fedba1d9163ea2fbe4d7ebb57e3bd1bc2c87678110"
+
+[[files]]
+file = "mods/hats/Boy of Silence Hat.tbl"
+hash = "7756a547fce6ec720b2e0f3fca79eefc0148f810d97995d3482320308e300a56"
+
+[[files]]
+file = "mods/hats/Brain/Brain.tbl"
+hash = "50cc6e5dc3ffde71d4ed05645e1eabe0f7e97bc75ebef1460ef551c85918faf5"
+
+[[files]]
+file = "mods/hats/Brain/Jar o' Brain.tbl"
+hash = "8381658f0d496eecbe8645b0dff5b2dce57779904a6b89a10f94e50878e471ed"
+
+[[files]]
+file = "mods/hats/Bread/Bread.tbl"
+hash = "f3605899b2470977b9df29f6a654bcb6d404769684eeec008ec58d490b089645"
+
+[[files]]
+file = "mods/hats/Bread/Breadfish.tbl"
+hash = "8c03f98daf7ee6a9cd775cb0cf86540c8829203c290947b193aaee0dfd38881b"
+
+[[files]]
+file = "mods/hats/Bright Hat/Bright Hat.tbl"
+hash = "2860ae41860fda06bec667c74f4adb387c57387b7f262151a0b902d18bbfdff4"
+
+[[files]]
+file = "mods/hats/Bright Hat/Helicopter Hat.tbl"
+hash = "c22595313accaaaaa87d5ea5918633a7512f58dcfb78cd223bee9b59c9ad6a9d"
+
+[[files]]
+file = "mods/hats/Cage Hat.tbl"
+hash = "53d0521874b501d8ceaa6b1954ba62ff6bc3d15ef2d7ad65070ecaabbb5d91de"
+
+[[files]]
+file = "mods/hats/Cap/Cap.tbl"
+hash = "52aa241ca3b077bbbf96dba5fc6b87529d805f74dde331c11e3b45aad6b471ce"
+
+[[files]]
+file = "mods/hats/Cap/Swag.tbl"
+hash = "5508f107ba5ff86d91a94a7ea43dc2555a1296616ac8ca5e7f351cec16626809"
+
+[[files]]
+file = "mods/hats/Cat in the Hat/Cat in the Hat.tbl"
+hash = "7d49603a53edc1ce2a8ca5c9843a3c58b88b4ef9954a68930e9aabf165899567"
+
+[[files]]
+file = "mods/hats/Cat in the Hat/Literal Cat in the Hat.tbl"
+hash = "04003b3634dce6c08b6d675a0198ffc8898f734981c7fbced2481cfd6b87ca1c"
+
+[[files]]
+file = "mods/hats/CheeseHat.tbl"
+hash = "3c00439e3d741454f02abb08ae831633f8191123f08a5cb7ed37717b052106f8"
+
+[[files]]
+file = "mods/hats/Chest/Chest.tbl"
+hash = "3dc713ce0fc35f1579b3dca7842f71766d90ae4437dc4f23dcb11615b9c67ec3"
+
+[[files]]
+file = "mods/hats/Chest/Ender Chest.tbl"
+hash = "656cf2f97aa5b1084d5cf5a3a9005a8c83691f38a3c4a743a6a10c3593cbd1c2"
+
+[[files]]
+file = "mods/hats/Clip on Rabbit Ears/Clip on Rabbit Ears.tbl"
+hash = "bf68c3a8357d06a2b8bfd02eb80a368b6f7bc92d47723568a317251ec2951d57"
+
+[[files]]
+file = "mods/hats/Clip on Rabbit Ears/Curious Ear.tbl"
+hash = "ef45260bf4bf9149860f19deca3149043b848cc66af989c4ca35ef005d0ad4ef"
+
+[[files]]
+file = "mods/hats/Clip-On Halo.tbl"
+hash = "62c67f3a2a9f3811c072ff36f3aa6a42280e75cfd769c7ddc215676da0982fa5"
+
+[[files]]
+file = "mods/hats/Cloudy Overhead/Cloudy Overhead.tbl"
+hash = "cedffcc9771a9f3221ed45a3623457afed0e8c470bed053ba49d5e0917dae79b"
+
+[[files]]
+file = "mods/hats/Cloudy Overhead/With A Chance Of Rain.tbl"
+hash = "be822c34428b0defb80415d791087e375355ccf11d3935725543aa04995c7df6"
+
+[[files]]
+file = "mods/hats/Computer.tbl"
+hash = "79c4b5b5df2dc5499f73dc160fd41e9557c91872fc5a36115f1a8e4680fd6f7a"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Blkdragon112.tbl"
+hash = "e84900523f4964d257b935f97ec9d4de7df5082e2fdfc1a6403645789b572f20"
+
+[[files]]
+file = "mods/hats/Contributors/(C) BlueTears__.tbl"
+hash = "9865b0dcc456f810566941ec2a16640ca8039298c0c600a8f569c10115c87fab"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Chakorii.tbl"
+hash = "c701b90ad1f2517c8fe804edbcb519d97e7fb2601b500bccab248462e46828d9"
+
+[[files]]
+file = "mods/hats/Contributors/(C) CherryJimbo.tbl"
+hash = "101920de21fda0620bdc862ff3ed0364f194573b14ee8c38d3db3b46256a2a79"
+
+[[files]]
+file = "mods/hats/Contributors/(C) ChipUK.tbl"
+hash = "d4017e90c7f9027be0ade0d7853fe589e150bcfc05aa1a5097badf56b8bf9792"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Cieronph.tbl"
+hash = "efd9694646a03a42c730ade64891c055c5d65882e8adf5ea0a703aeca9b64394"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Cloudhunter.tbl"
+hash = "9c773c38cea34ec15f4c2e38e13611c816b908433a7a7f0e3d516552b303fb1e"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Cronoo.tbl"
+hash = "173bf20b5279e209dab33fa93045a15adae3d869e35ecd89f4e7886ff6a94543"
+
+[[files]]
+file = "mods/hats/Contributors/(C) DJFLuFFy_vs_joe.tbl"
+hash = "e3e2b89b950813e06cc73e5aa05d69adeccb1ad3f2a1c8d211df60410147ac99"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Datagne.tbl"
+hash = "b63c7b56ffd987145cf5bbce181bc228de9d6db4703a733b17b5a267c1f69086"
+
+[[files]]
+file = "mods/hats/Contributors/(C) DeCMK.tbl"
+hash = "0f359797f23af542ffeec8c1ce671e196b0d3779d0f69d4b1089f237c06e17af"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Deadman775.tbl"
+hash = "97422a5f225737bb55ab9864fb1d443e742d971d6e698a67a6595b4ff1b83058"
+
+[[files]]
+file = "mods/hats/Contributors/(C) DigiplayW8 (2).tbl"
+hash = "26e0faa60d887331b02507c6aa8f1da196293223bd8748b4db77c13d46789629"
+
+[[files]]
+file = "mods/hats/Contributors/(C) DigiplayW8.tbl"
+hash = "978929a22769f377ad8b0857ca3a5b2413dbce46827d8c7338a65e2a32b0d746"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Direwolf20.tbl"
+hash = "563263fe42e766567c5f5f846d8c3a0e61c46b9c2dd5fc0e914e65cb09111447"
+
+[[files]]
+file = "mods/hats/Contributors/(C) E.V.A..tbl"
+hash = "bfcf909ca407e7959760ec58062e298e5df80fca15a7e90cbfbed32127c81cfc"
+
+[[files]]
+file = "mods/hats/Contributors/(C) FireBall1725.tbl"
+hash = "75c282f0d8866d4102d2cb848445a70bd904497e3a309fde6b84c4f11a3cd957"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Fridgeboy.tbl"
+hash = "c5e24b47fb030be01ed828733924d6963c964062bc9d731edf1694ad808f8c6e"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Grumpie.tbl"
+hash = "790a77c9b35237fd532982a4be79556de5f800596b2880d9dc5421432a82c020"
+
+[[files]]
+file = "mods/hats/Contributors/(C) HaloBoy12321.tbl"
+hash = "18e0445fc300a2c946a77426fb6d48eb4538b69793d66098a7cf883cc2b23b7b"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Hanse00.tbl"
+hash = "0f0b489e668011b61ec6b15729896f806a989eb9e1ddab4dfeacdc691e144b59"
+
+[[files]]
+file = "mods/hats/Contributors/(C) IvyKirax.tbl"
+hash = "3fc20850d2716121d11c6b32107211dc28041f77ac1db2b1af01b4fdb94162a1"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Jahdoh.tbl"
+hash = "5b031153b8aa56164b92444ce7630a0d39cc800cd82f95cd7965d55ede02f19c"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Jakja22.tbl"
+hash = "4a875487753524af1277608c6e4b5503f0cf08801e381e14b83b2c67d1885334"
+
+[[files]]
+file = "mods/hats/Contributors/(C) KaywinnitBeej.tbl"
+hash = "4f7f2db58c68984a7e7fb9baf109f18ff350de5b4bb860f95891be47b17690ea"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Kihira.tbl"
+hash = "45546aec5116653f88d51b851eec0ab379e16d5a4f28960f5137d655cfb001c0"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Lambert2191.tbl"
+hash = "e13254720c269b1c840c02176cab21b312a1ab95ab473b576e9206510e2b3e63"
+
+[[files]]
+file = "mods/hats/Contributors/(C) MidriffCryo.tbl"
+hash = "71e54114164c3b27d548674e07c5b0cd2fc313a000ae352c76012a1103edf32f"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Morvelaira.tbl"
+hash = "c03030d2b4869586a6c215199894b4128ddbbdd462d1cf2e466d3fcc36572371"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Mr. Haz.tbl"
+hash = "f846c07090ca24476ac6bfa8a3877705bdf4f049a879d8ad8dfc16753eefa51e"
+
+[[files]]
+file = "mods/hats/Contributors/(C) MrMallenby.tbl"
+hash = "0e34156bd7746b5544658271c9e92a443b2e68c8ab31c92712aa4d1c48547547"
+
+[[files]]
+file = "mods/hats/Contributors/(C) RoyalAngelzor.tbl"
+hash = "73104e7bef7d9df9adb1ecf4352e4d15d18075027cdbc1336d6675c9a9666662"
+
+[[files]]
+file = "mods/hats/Contributors/(C) SitDownCreepa.tbl"
+hash = "552b927076fa76c0860cff13c76e02b0a0a0c7777aa77670b3ab013500463c01"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Soaryn.tbl"
+hash = "f8ad69fa0aea7aafe1ad89971b8e116468b02953fc43f0cb39d8c08da1470abf"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Swisstobi.tbl"
+hash = "7c9187e623142ec3cab054d6ecc09e1767a078e1dcda965a26660fdfd96ab1e1"
+
+[[files]]
+file = "mods/hats/Contributors/(C) TheForensicDuck.tbl"
+hash = "e82decdcc07438aa148141bd9050922a2d44ac272fbc320bd477570c86822a9d"
+
+[[files]]
+file = "mods/hats/Contributors/(C) TheMattaBase.tbl"
+hash = "f6ab1519a1cacc9155326e6978af8d4edc105fc49640f84f1c9e2bdaecbcb603"
+
+[[files]]
+file = "mods/hats/Contributors/(C) TheMusicalBoy93.tbl"
+hash = "2d9be3a48cace3a3d57803ec2c658e17426af87791f5e4b115732593f68f84f0"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Tigereye10.tbl"
+hash = "d687fab8da039074399cb4746e25374eb10a697a444f21866ea3a4e6a4fdc9ca"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Toby1066.tbl"
+hash = "67c8b4a097531ea8fc063fcf8ff6f295f1d1e841562bbc031dc981bd145fd654"
+
+[[files]]
+file = "mods/hats/Contributors/(C) Umbra.tbl"
+hash = "56637ab8dc234e3d6455515d6e1e5cc72a7dbbb42aa7e0e3d87427fe19314397"
+
+[[files]]
+file = "mods/hats/Contributors/(C) bludde.tbl"
+hash = "cc55d889d4f71767d4347fbf2f2ab9d8a7c0bc939edb032cf439dbf12bba8548"
+
+[[files]]
+file = "mods/hats/Contributors/(C) claycorp.tbl"
+hash = "1adabe491fdf6962b69344fdea00332b77e54f5308f02e7366d8a88518118999"
+
+[[files]]
+file = "mods/hats/Contributors/(C) credstick.tbl"
+hash = "b5877b0cbf4ed4a5afefeafeea6e854dfbe8d21fef71cdb15d99b69a3287ea81"
+
+[[files]]
+file = "mods/hats/Contributors/(C) creeperdude12321.tbl"
+hash = "efb6292a02a3d5cf79746f5a6bd65886aa86279b54bfcac9c1cc685231268d70"
+
+[[files]]
+file = "mods/hats/Contributors/(C) daveydee3.tbl"
+hash = "b28d73e305a9512db951f55533f5e7596933e383113ca85fe80b6c77d59bfbdd"
+
+[[files]]
+file = "mods/hats/Contributors/(C) dimaleyko.tbl"
+hash = "382a26fa85e5fb9a0940abeff6e40f544b141b1109983b444c8ca03b67261c8a"
+
+[[files]]
+file = "mods/hats/Contributors/(C) failprone22.tbl"
+hash = "47e004d24c9291f9150e64825638a834b69c571bd2ddc8978ec20a5a9e52b106"
+
+[[files]]
+file = "mods/hats/Contributors/(C) gtakingiscool.tbl"
+hash = "8913470d88124db6eb15186ddf7a0d87843a40aa749d93e97d959048cb49b744"
+
+[[files]]
+file = "mods/hats/Contributors/(C) iChun.tbl"
+hash = "3ba3771ef1d31a04749de7e4dca380eaf922ec988c78f0d224a40e0e015a1d26"
+
+[[files]]
+file = "mods/hats/Contributors/(C) jmanpenilla.tbl"
+hash = "12fb34f22e646fd86927443ce76546f8896e0b8f10069e5dca97e651edef468a"
+
+[[files]]
+file = "mods/hats/Contributors/(C) kacifox.tbl"
+hash = "67debc6f998d2c226a713132aca526236e9303c478ca6c00ab29357dbf3e0083"
+
+[[files]]
+file = "mods/hats/Contributors/(C) kirby1502.tbl"
+hash = "b829cee4c1f6ba905788cdc8d1c186997dce91efb202f48de4c964c65d2f50a9"
+
+[[files]]
+file = "mods/hats/Contributors/(C) megatronp.tbl"
+hash = "37f1de92f088400b1190979ff4c9b7db868fc4cbaa8666fea701b9217a80b44e"
+
+[[files]]
+file = "mods/hats/Contributors/(C) mrgreaper.tbl"
+hash = "8a7a64816a7bb44cb21a6786b388d22f531b225690395fede45a784989014980"
+
+[[files]]
+file = "mods/hats/Contributors/(C) mroberts6.tbl"
+hash = "5ffb0c68f59878b361be8b31095036c70f52fab276bad7e7a6294d798ff1b847"
+
+[[files]]
+file = "mods/hats/Contributors/(C) odedex.tbl"
+hash = "1058c027cf8f25d82584c0dd23ed0fac1d17a71f498f9553a0e8026693e927cf"
+
+[[files]]
+file = "mods/hats/Contributors/(C) restoredhalo901.tbl"
+hash = "d67799313fdf02b1278c10934b563c94af3f6fc2f5da4648f7ed2560dfd12afd"
+
+[[files]]
+file = "mods/hats/Contributors/(C) rxiv (2).tbl"
+hash = "3053095056c50cd326b2756b9fc511adcabdbf9de41acdef5646ca04eb26c909"
+
+[[files]]
+file = "mods/hats/Contributors/(C) rxiv.tbl"
+hash = "f466e16299d91b00e551e4ea2af18157b3212f6919f4f327d1b2b7ed5124b28a"
+
+[[files]]
+file = "mods/hats/Contributors/(C) scarletr0se.tbl"
+hash = "a21e368c190cc619e7f82f8095dd82bda3d0722a7d63197d7eb9183dd545cf87"
+
+[[files]]
+file = "mods/hats/Contributors/(C) sivina.tbl"
+hash = "774a77236de3d0c8f2bccfa2caf6a0fae8a09101b700ebd9120987c483d0148f"
+
+[[files]]
+file = "mods/hats/Contributors/(C) skeledron.tbl"
+hash = "ab988b7e3a8b4995a405bc84eb5cf74ed4b84ebf4ec68e65f90a93f8b3b2fcb4"
+
+[[files]]
+file = "mods/hats/Contributors/(C) stonislandmodz.tbl"
+hash = "5a491b50b28137fc2282e7384a79d00f59e49e3f1ab53ef64ff4a3b961945e57"
+
+[[files]]
+file = "mods/hats/Contributors/(C) stramp_.tbl"
+hash = "95cc05ae4ff0a46b0d88e72b630e40581dff92ebde9c42c5a03207ec430a9f5c"
+
+[[files]]
+file = "mods/hats/Contributors/(C) tiena63.tbl"
+hash = "eb8c33d16f59fd256e610216dc845ce389834224c5615c4f9b72b2197a6f82c3"
+
+[[files]]
+file = "mods/hats/Contributors/(C) vincemuhs.tbl"
+hash = "84d0388fc149e4eee3dfb5989d1a2e823ee9a801ad486cf0e42459b0557b6e9c"
+
+[[files]]
+file = "mods/hats/Contributors/(C) wyld.tbl"
+hash = "ff06eeaff8e70cd73bfe532c7221ade5449078f31b114fe18b18373dda25adf8"
+
+[[files]]
+file = "mods/hats/Coonskin Cap/Coonskin Cap.tbl"
+hash = "9f451ba4b39629561c58eaad070180a81777a6853c0de07d39b2270a07ec259a"
+
+[[files]]
+file = "mods/hats/Coonskin Cap/Raccoonhat.tbl"
+hash = "5613fc3b2c893296578f3f7b177460202a0e56b3976ed947289a4952d54cfb4a"
+
+[[files]]
+file = "mods/hats/Crown.tbl"
+hash = "aa9e21d29b949b0a502d7d5397b73a357818673acf2a7863df3576be05e0a811"
+
+[[files]]
+file = "mods/hats/Cute Ocelot Hat/Cute Ocelot Hat.tbl"
+hash = "fa3463799d22b62ee100770221937771513a48c027b795adb6715a356313a3c4"
+
+[[files]]
+file = "mods/hats/Cute Ocelot Hat/Fish.tbl"
+hash = "462265988a0b3bb9b8458714338c9aa7b3ed856ad4e5102ec36ff81a7f5a4c9f"
+
+[[files]]
+file = "mods/hats/Cute Walrus/Cute Walrus.tbl"
+hash = "ff63dec4d44527c866faff5957f61201ccdc30fe038f8471195b5b68125784b5"
+
+[[files]]
+file = "mods/hats/Cute Walrus/Tusks.tbl"
+hash = "7b08ac1a8bb8c702de9cd2616e1bb4e2617726756df37c95866684ffbd43f942"
+
+[[files]]
+file = "mods/hats/Dalek Hat.tbl"
+hash = "b6db0ec4f8c05ea181549cfaea22190eb4cfc4f3345442007c736c3cf08148cd"
+
+[[files]]
+file = "mods/hats/Encouragement.tbl"
+hash = "227343504b01962f6bd5212e6f72946a941201c2c9eedf1157a4e1d16689ce91"
+
+[[files]]
+file = "mods/hats/Facehugger.tbl"
+hash = "54c099e1639c5507f82ad35070f6eed47c92ced81e14f8a95a4275bdb2057aa2"
+
+[[files]]
+file = "mods/hats/Fez/Fez Sideways.tbl"
+hash = "5540d6b6b51a7231e4b95a94fb03c44677e0f3ab6632521809e7f5dae6abec72"
+
+[[files]]
+file = "mods/hats/Fez/Fez.tbl"
+hash = "6f53fff1a2ca201b88ef6bb7bb9c44126d81014a4da99f3fe46ca7687b8b1f3e"
+
+[[files]]
+file = "mods/hats/Flat Hat/Bowl Hat Top.tbl"
+hash = "5481a5b27a9b3492114c212ef6fdd91574983a775fa85cf8c95eeb2cbb3c9091"
+
+[[files]]
+file = "mods/hats/Flat Hat/Flat Hat.tbl"
+hash = "472fa504f401b4b16734315c0f9f3b6c6e25d10fc44acbdea818ae1b11086fe0"
+
+[[files]]
+file = "mods/hats/Foam Finger.tbl"
+hash = "d0eb1fb23997b87f81763c4f29eb31febb7677bc86b8d078b28e5800a8ab2fa0"
+
+[[files]]
+file = "mods/hats/Frankenstein.tbl"
+hash = "d64b302a2cb22bbb5a8ed0afff24558c2592091f51860f66631d77112307847a"
+
+[[files]]
+file = "mods/hats/Fro Hat/Comb.tbl"
+hash = "a01f2356be5690e5aae8e599f689350e5c3f9d48abb866fed0e190db96f956dd"
+
+[[files]]
+file = "mods/hats/Fro Hat/Fro Hat.tbl"
+hash = "02389d87f123edee310778a90d14b9c77ec2fa464a1379461620b0ba0db423ba"
+
+[[files]]
+file = "mods/hats/Frog Hat.tbl"
+hash = "db1ff92244948adcf7491e552cc5d99efe42846c309cb2b9ce97e46d1eaa3fbb"
+
+[[files]]
+file = "mods/hats/Furry Hat/Furry Ears.tbl"
+hash = "a304947423f85b9ee1c3d7b06513cf9e2fc83b268ed16d366e48423abe5fba74"
+
+[[files]]
+file = "mods/hats/Furry Hat/Furry Hat.tbl"
+hash = "6b8c7281c59bf7c98e4c5aee9ca1b293c6d7d7f9ab1417940b0d5eb8a086e426"
+
+[[files]]
+file = "mods/hats/Ghastly Gibus.tbl"
+hash = "74600b7c1a13cd3fa839fd17a1ff731bb64cb7af357916d9ae112bad284932a7"
+
+[[files]]
+file = "mods/hats/GlassHat.tbl"
+hash = "3b80e3a0e00fb670552e39d2c90ffdcb34a40571264d3a9199118dd9eb45621d"
+
+[[files]]
+file = "mods/hats/Glasses/Glasses.tbl"
+hash = "8c953e5f2fb8c4a97873a34659607bd0af9279e57a6ec41e162f903423859c67"
+
+[[files]]
+file = "mods/hats/Glasses/Marx Glasses.tbl"
+hash = "072ab23ce5b8dd0ae9cd96292bee3ba40d71bed9930e0e188915a25e54666595"
+
+[[files]]
+file = "mods/hats/Glasses/Sunglasses.tbl"
+hash = "28bbb9a8864fcd052044fb61d97a8e933962dad253077d223632d65e22ed38b1"
+
+[[files]]
+file = "mods/hats/Glove World/First Finger.tbl"
+hash = "10045739f1ffcb666d17618a90f1a59d4f02af9166f89f73da723f7d0f6d101c"
+
+[[files]]
+file = "mods/hats/Glove World/Glove World.tbl"
+hash = "0eafd5a505702fc7e1d5caeaee90307952c44fc563022c780218678d1600dde4"
+
+[[files]]
+file = "mods/hats/Glove World/Second Finger.tbl"
+hash = "ddb5498d14e776867f0ca4bd5f71df85c5f87c7ccca0bfcf4a6c944e8bad3f93"
+
+[[files]]
+file = "mods/hats/Glove World/Third Finger.tbl"
+hash = "ffcb9c0d13ceb0d88239ff5631f836b82e2dd1963f68ac7d223ed10f2cb95d0e"
+
+[[files]]
+file = "mods/hats/Glove World/Thumb.tbl"
+hash = "c94eb1bcfae7270259bebeea7c4f23091d9b67d360e437b00f2323a5d01f5964"
+
+[[files]]
+file = "mods/hats/Googly Eyes.tbl"
+hash = "ee1ff85f01d5a222396c8c22a75d2c7bb33855452ca5bc05677b5964c5bbcdc8"
+
+[[files]]
+file = "mods/hats/HUD Hat.tbl"
+hash = "c1ed44b85d53aebf955477487d3e0546ce0a795ccb7690949913846954a336d5"
+
+[[files]]
+file = "mods/hats/Hair Bow.tbl"
+hash = "7c9b71a3a93c6761e4365b9744c58b2ca2bcb276432411c988cf26fdd418c2bd"
+
+[[files]]
+file = "mods/hats/Hard Hat.tbl"
+hash = "1e813f3d9c87c4e3600877b8eb41e2edc08a38f091590783bcaded5aef14e250"
+
+[[files]]
+file = "mods/hats/Hatpants.tbl"
+hash = "10e62dae0c177ffed8de56c6b3c9306d7467ce09598591cc7215f8dfeedd68c3"
+
+[[files]]
+file = "mods/hats/Haunted Hat.tbl"
+hash = "9ace7716f15b2c0cd526ca09e2ff42d1e6aaa8e5582b42d57f315b6456e2ed11"
+
+[[files]]
+file = "mods/hats/Headcrab.tbl"
+hash = "b201c1bb6d9fcf767bb25e9a9a7d41997a04a1cff8bdac85f3d2a10b87efe758"
+
+[[files]]
+file = "mods/hats/Headphones.tbl"
+hash = "184abcaf91f4482990f65ae534cdad8069f31a5ea0dc471cf9b24da4a59fb0fe"
+
+[[files]]
+file = "mods/hats/Headset.tbl"
+hash = "450fa7ece54294a3df6c9cb24db471b5ba1dae7704e404588a552bcbf4a8b362"
+
+[[files]]
+file = "mods/hats/Hot Dogger/Hot Dogger.tbl"
+hash = "318b4d82bb1b642cd8173fe52d619644c0ea4012d7d4f33c0f493593578b417d"
+
+[[files]]
+file = "mods/hats/Hot Dogger/Hotdog Hotdog.tbl"
+hash = "3429a2699868c566cd03be30426dbed89aa42b5ba02c3d812dd8a84388bf25d9"
+
+[[files]]
+file = "mods/hats/Hot Dogger/With Actual Hotdog.tbl"
+hash = "bfb1d9ff773aa35299127fd8dd4c3a35338a9800b1c7d189054f0226b6650d3e"
+
+[[files]]
+file = "mods/hats/I'm Different.tbl"
+hash = "b1eb71707c1a1d73bb9b9710422d5259f4a6bb18b2d0945d87df21ae8b1701a9"
+
+[[files]]
+file = "mods/hats/Inhaler/Inhaler.tbl"
+hash = "eeb19cf3dd7ab1af292662cd9db6d5083c4045a5c88cfb21a263d5071961268f"
+
+[[files]]
+file = "mods/hats/Inhaler/Scumbag Stevehaler.tbl"
+hash = "6f3775e3fc527e3e53ae8276ab385b39f1bee864876bb3687650e98886d93378"
+
+[[files]]
+file = "mods/hats/Italian Plumber/Italian Plumber's Sibling.tbl"
+hash = "0d9402118ad2b497c3031e54c2c58ac00bdea2b4b52f0bbcaedde0f7bee6da18"
+
+[[files]]
+file = "mods/hats/Italian Plumber/Italian Plumber.tbl"
+hash = "c1fddeb92062d1e5fa530cfda3e1fe0fbba419ab48cbc96bb729a7a3710b68b4"
+
+[[files]]
+file = "mods/hats/Jeremy.tbl"
+hash = "894bcb933a23d67e44fabcfdb3b88c9b014391983a4845b4725af58e81b3b631"
+
+[[files]]
+file = "mods/hats/Jester.tbl"
+hash = "a67a3d8808a799292a2913d9b3ac61d268054a44c17ea3d39311fba271bf6e5c"
+
+[[files]]
+file = "mods/hats/Lego Hat.tbl"
+hash = "d94c976a61dec74cb0a4fb2bc1c52607982505d7adf6ce8660cc6d3475910f3c"
+
+[[files]]
+file = "mods/hats/Leprechaun Hat.tbl"
+hash = "c38f2add6ced047484f281d7c7673937bae68293cfc167d37679293de81aca63"
+
+[[files]]
+file = "mods/hats/Miner Hat/Head Lamp.tbl"
+hash = "e3eb0cee7a2cddb6d4c27785ca98d40de8a86070001d6305a4968b7430b3f375"
+
+[[files]]
+file = "mods/hats/Miner Hat/Miner Hat.tbl"
+hash = "6465563dcd53bf66afc807047315eeb45a884685be029694adc4e53aa978c15e"
+
+[[files]]
+file = "mods/hats/Mini Rail/Mini Minecart.tbl"
+hash = "0f312132f9dfb64c0c00724b33677aea18dec8f251b4dcaf69f645017bd870a8"
+
+[[files]]
+file = "mods/hats/Mini Rail/Mini Rail.tbl"
+hash = "13b161634be5124e70481328b457bd2b4825276dc1fc4bf0c0b085acb8dbe2c4"
+
+[[files]]
+file = "mods/hats/Mooshroom Hat.tbl"
+hash = "728c15ddf8ebbff7ba7c00c22067d2794622aa998e28902229f9b0554081fbb5"
+
+[[files]]
+file = "mods/hats/Moviemaker's Beginner Setup/Moviemaker's Beginner Setup.tbl"
+hash = "13dc1aac02052406f2f8fc7a45026c9bfc8912140a2a29aabb42011f1a6e13e9"
+
+[[files]]
+file = "mods/hats/Moviemaker's Beginner Setup/Moviemaker's Heavy Duty Light Rig.tbl"
+hash = "256fb9dbdf52339126c0ecf42d9f9a8ed27eaa20bd768899041351c0b207e170"
+
+[[files]]
+file = "mods/hats/Moviemaker's Beginner Setup/Moviemaker's Lightweight Portable Boom Mic.tbl"
+hash = "f05c6a7afd7e272d03b039537a21e1a7d68e63e76a2eefd0b96c341a0e491839"
+
+[[files]]
+file = "mods/hats/Mr. T.tbl"
+hash = "5653757fd01cf3ba8069640b99369c44e62063ad5b88b1479a73114c23a2df68"
+
+[[files]]
+file = "mods/hats/Mr.Hazard's Mask/Left Gas Filter.tbl"
+hash = "0d3fd74da810f7988dd44b4135a4df64690dba34cef44c834180a207fdb65875"
+
+[[files]]
+file = "mods/hats/Mr.Hazard's Mask/Mr.Hazard's Mask.tbl"
+hash = "d7a98c806d61f3d4c1a4681ce61c2c197b23150ffeb7c393b64884cd543b6ba9"
+
+[[files]]
+file = "mods/hats/Mr.Hazard's Mask/Right Gas Filter.tbl"
+hash = "97d9f3b9b5b30604dd881b0c413d1eb939539b739dbce8cd7f96c061ce9d0fa9"
+
+[[files]]
+file = "mods/hats/Norwegian Flag.tbl"
+hash = "e097d9b0a19afa7d5b361a4e9c80d8ff78c44f8a7e01d1a03d3b43c08d116393"
+
+[[files]]
+file = "mods/hats/Nyan Hat/Nyan Ears.tbl"
+hash = "2d5532b2746ca1552105eb0f02d16cd3a73dd6c9df5118b191071b65c523d003"
+
+[[files]]
+file = "mods/hats/Nyan Hat/Nyan Hat.tbl"
+hash = "c387cf83957ae36eb980238ec6933654b8182956d21f7301c1eae1a13ebd7954"
+
+[[files]]
+file = "mods/hats/Overdose.tbl"
+hash = "45e03850da48610b3dd44edd602d9e3d4c710f5b866bf4c950a8ffd5d5b5fbc2"
+
+[[files]]
+file = "mods/hats/PahiHat/Goggles.tbl"
+hash = "ec90c0da2aee5b7e0e2da8c18e878fe00afc703ccf0170276a2bf223dff9206d"
+
+[[files]]
+file = "mods/hats/PahiHat/PahiHat.tbl"
+hash = "59e381ecc21e56339828b9f752ae1664c3d678860fae020979fae92f0d204cce"
+
+[[files]]
+file = "mods/hats/Panda Ushanka.tbl"
+hash = "c2cb6976af2dfb8095f416be3faddf9ba806c1d21bc7170fa921ce1e81c67e8e"
+
+[[files]]
+file = "mods/hats/Party Hat/Party Blower.tbl"
+hash = "b4eb3c5eeb89ef2e9c1f8125e5fb959a3eb2d6bbac01e2404ef9425737ce175c"
+
+[[files]]
+file = "mods/hats/Party Hat/Party Hat.tbl"
+hash = "8bca0a317ffd905db890a55348718214c9e1ae9a55cfa55e2cab14390b28e17c"
+
+[[files]]
+file = "mods/hats/PetRock/Cake.tbl"
+hash = "41c383e83655354e22009a81bf156c996d34079585556bea84e6457d77c8e920"
+
+[[files]]
+file = "mods/hats/PetRock/Creeper.tbl"
+hash = "898daf9ae319d97299a2be5c5a18a588c6af26a05fe4ff70c913aaaf68a836b0"
+
+[[files]]
+file = "mods/hats/PetRock/PetRock.tbl"
+hash = "2c0965c2e4877a45fe97a7f21ed57384fd46f37a1a3d49ba30e363b0b741f3ca"
+
+[[files]]
+file = "mods/hats/PetRock/Santa Hat.tbl"
+hash = "d68d7f00da3c5094ca9dbbdf19280c2834e346a8174528f010959de01698c2ac"
+
+[[files]]
+file = "mods/hats/PetRock/Slowpoke101.tbl"
+hash = "9066e427423be041b7d1b65a01f08c22bd53cecc39de7f0dc84df393483ddfc9"
+
+[[files]]
+file = "mods/hats/Pickaxe in Head/Blood Splatter.tbl"
+hash = "8e39e732c7a64d333548b9a759ce737c214564e92c3370403aba865f3f34ce6c"
+
+[[files]]
+file = "mods/hats/Pickaxe in Head/Pickaxe in Head.tbl"
+hash = "b561c2a2858d030416708e3c9a5ce3a65465dc5faebd21e0bd5249821d63b96c"
+
+[[files]]
+file = "mods/hats/Pig Ears/Pig Ears.tbl"
+hash = "3b658ee71b2b8b09507a1cae509e37f15fce76f9310f1f3c703d70519c1ff357"
+
+[[files]]
+file = "mods/hats/Pig Ears/Pig Nose.tbl"
+hash = "66064df97b4115fa86bcbc8ca00dcbdc7496ae4812c718044847354119d61a0e"
+
+[[files]]
+file = "mods/hats/Pig Hat/Flying Pig Hat.tbl"
+hash = "d67717ee7ab22e9c35b8853d3da20f485cebeaca99f8c3a1d533906bc0c373b9"
+
+[[files]]
+file = "mods/hats/Pig Hat/Pig Hat.tbl"
+hash = "7e92153fcac49485ed4ed9b7f8bd055be1e02e33df46d368da8ed78728baff97"
+
+[[files]]
+file = "mods/hats/Pig Hat/SuperPig.tbl"
+hash = "08a644043fe2bddad98d1c7893d6922c6655750442e06911060992b620156e86"
+
+[[files]]
+file = "mods/hats/Pillar Hat.tbl"
+hash = "b60782af8c70bb5cfde9b381a7248ba9da5907a8d1a599ef7ad209e8127bb84f"
+
+[[files]]
+file = "mods/hats/Pistontop/Extended Piston.tbl"
+hash = "b124b976a9d194fb209ab82456c89f7e631fe23e9cf7a9de0911561415e9e95b"
+
+[[files]]
+file = "mods/hats/Pistontop/Pistontop.tbl"
+hash = "84724671ca68a1d27ed7473f5f89b5858269752487a8f31de0399ba6f6fc53c5"
+
+[[files]]
+file = "mods/hats/Pistontop/Top Hat.tbl"
+hash = "f9e65bd9801d4fb8e2fd03bc6b5fed6d04780b390b8edba5441e5015036c5c76"
+
+[[files]]
+file = "mods/hats/PlatformHead/Hissing Hat.tbl"
+hash = "9f4296c5bfce8a4d74c0d8cc9ee5284a980342b3c4fd9566edc9ca3cfda173a7"
+
+[[files]]
+file = "mods/hats/PlatformHead/PlatformHead.tbl"
+hash = "6b847457d34efb787252a080e30779a7064f6906ef9f9694d95be77537bbbf14"
+
+[[files]]
+file = "mods/hats/PlumBob.tbl"
+hash = "5b0f479f4c4e2b81b8f8171de58fce5821708b39f345a5212012f87d83c1b181"
+
+[[files]]
+file = "mods/hats/Plunger Hat.tbl"
+hash = "dcb8d5ee6e55717d2b94a03e616fba6aa1df84d3b4b38b7e20d9fd213b5cfd0e"
+
+[[files]]
+file = "mods/hats/Ponytail.tbl"
+hash = "7b3117b6bd2745d4313b17dafe4ec94aa7d9d20c92e4aa2b11f54b82247e475d"
+
+[[files]]
+file = "mods/hats/Pool Toy Hat/Pool Giraffe.tbl"
+hash = "ba80c247ee3f7b4ab4ef54f40c9cdfd65bdf313301faabe9b5b33f94af3f6571"
+
+[[files]]
+file = "mods/hats/Pool Toy Hat/Pool Toy Hat.tbl"
+hash = "45feed567264ba9f1343631b53fcdf9ac4cca36d6418531a15a5fb0b6a0a39c9"
+
+[[files]]
+file = "mods/hats/Poolhat.tbl"
+hash = "37106a170d5b4ac3e684da499b07b06c6480b14b2a2a053c747cc7ad91728c49"
+
+[[files]]
+file = "mods/hats/Portable Jukebox/Classic Rock.tbl"
+hash = "af47d1f75f04798c850083ccee79934fb252547757b094401e56fd23cfda7751"
+
+[[files]]
+file = "mods/hats/Portable Jukebox/Portable Jukebox.tbl"
+hash = "28777d63f23fab17160a1e1904a44639361b86e6163b28d31d8083bb58575979"
+
+[[files]]
+file = "mods/hats/Portable Jukebox/Smooth Jazz.tbl"
+hash = "5dd96d6c5ecd43dbd69d0462ce3792d2a6890368197304e17ba4f6d0e05cfa04"
+
+[[files]]
+file = "mods/hats/Portable Jukebox/Wannabe DJ.tbl"
+hash = "fe00aff9ce8f6daba82bc7cbf49a25ef13d233d2c35c2beabdfd67b437f87872"
+
+[[files]]
+file = "mods/hats/Portal Hat/Faith Plate.tbl"
+hash = "684d47860134d44a623568161765576d2133f9d074d099fc501c22d357c4e796"
+
+[[files]]
+file = "mods/hats/Portal Hat/Faithful Companion Cube.tbl"
+hash = "ffdf2f3fabf411f27db3ae7840d40b34db423ff0871a03bafed32a9cdf86d821"
+
+[[files]]
+file = "mods/hats/Portal Hat/Looping Portals/Dropping Companion Cube.tbl"
+hash = "076347990700fe0d0f3d2471e415b83254681b3d1b50f9a9abf3aacd3745d60a"
+
+[[files]]
+file = "mods/hats/Portal Hat/Looping Portals/Dropping Weighted Cube.tbl"
+hash = "b5c647e37dace98fe4267040b7afc34e4208a5eef1da79710f1df3878b431c57"
+
+[[files]]
+file = "mods/hats/Portal Hat/Looping Portals/Looping Portals.tbl"
+hash = "8be5f2f519f6add3b760fdd9e769c188664fe0a620a8e5bd5dc3f6c601a5fd89"
+
+[[files]]
+file = "mods/hats/Portal Hat/Portal Hat.tbl"
+hash = "1393844748a004e28f7421f8ec7ca931d7573bafabe09f8b600f12294dcef5ae"
+
+[[files]]
+file = "mods/hats/Portal Hat/Top Portal Hat/Flying Companion Cube.tbl"
+hash = "03995d7681c317996b86a05bd12caa7aa7a92d69d59cf3f042a8eff57f360034"
+
+[[files]]
+file = "mods/hats/Portal Hat/Top Portal Hat/Flying Weighted Cube.tbl"
+hash = "811714e79ef05bf0aee1702c36936304455c38d33acc0e1261e453c01cadb87a"
+
+[[files]]
+file = "mods/hats/Portal Hat/Top Portal Hat/Top Portal Hat.tbl"
+hash = "8ca747005bfe4df0732339a1118adb379c8b4a1398ca1f085db673d3bd0edd1d"
+
+[[files]]
+file = "mods/hats/Portal Hat/Weighted Cube.tbl"
+hash = "9af4f1fe2c0fd84336decb479d96bd76d699ace12a078204a6e16fdb80b2daee"
+
+[[files]]
+file = "mods/hats/Present Hat.tbl"
+hash = "5a95a00a8c23e985464d09a1bd8d6abb4f1c8f4796fdb0a3327fbada75861839"
+
+[[files]]
+file = "mods/hats/Redstoner's Hat/Noteblock Attachment.tbl"
+hash = "a8bbe6b2db9b052672445b8306b8e06dbb41df21d5d8146b65a9c6b4db6a74cc"
+
+[[files]]
+file = "mods/hats/Redstoner's Hat/Redstone Torch Attachment.tbl"
+hash = "e7aec16085b6017969ae1212e409d36469531fa6f8ccb6f5e3a761e1e2b539db"
+
+[[files]]
+file = "mods/hats/Redstoner's Hat/Redstoner's Hat.tbl"
+hash = "1916b41a2ef67374b454875de2f964b49ca814a91f18e64329342f09e133a3b5"
+
+[[files]]
+file = "mods/hats/Safe N' Sound.tbl"
+hash = "4427583a9c9e8e82e98b27895065157dbafa14f73c6d21ac492693a72de4b463"
+
+[[files]]
+file = "mods/hats/Shady Baguette.tbl"
+hash = "3179d71689e73709610ab33c2a919d7b7c8790c03c513535c70791765f4e0b38"
+
+[[files]]
+file = "mods/hats/Shrek Beanie/Shrek Beanie.tbl"
+hash = "5c585f2c1c0c7f366c54b553e87dceaad3f75770f152831329783f9cef144c29"
+
+[[files]]
+file = "mods/hats/Shrek Beanie/The Clapper.tbl"
+hash = "f2f56d28c575773cc252b9f28e2da4aee8b2017763f0e1dc1423c6c2881fcfe7"
+
+[[files]]
+file = "mods/hats/Skycrane/Skycrane.tbl"
+hash = "76ba51c4ca5341cfa3a19299b8310bf4ead67414744372e9a826a729c0adc974"
+
+[[files]]
+file = "mods/hats/Skycrane/We Hat Liftoff!.tbl"
+hash = "8b172ea9560dcfff95207ea0ccf9984c0474c3853adead4ec400c1f6c450b387"
+
+[[files]]
+file = "mods/hats/Skyrim Hat/Left Horn.tbl"
+hash = "523b4aaa412bbe9d165bbb4eb6b94d0bb0ed77a323862f7efbb1bb311b52769f"
+
+[[files]]
+file = "mods/hats/Skyrim Hat/Right Horn.tbl"
+hash = "d30409c3e3cdb9ef1ea5f13906c4b1803e15254964635173a1d0fc9c8681d8b6"
+
+[[files]]
+file = "mods/hats/Skyrim Hat/Skyrim Hat.tbl"
+hash = "db57037272c458a46ea276e0814388a4aa9327ae58be80d2a5ed56e9a7862bb1"
+
+[[files]]
+file = "mods/hats/Slime Hat.tbl"
+hash = "8b2107ec7ad5d0a5f0582bdbe03182291e4f1a1e78d51eef315569b51a89dab9"
+
+[[files]]
+file = "mods/hats/Small Dog.tbl"
+hash = "08f42bcf487a4ac06157258dd6f8065840a1b6e963ddc203906f45079e351ad8"
+
+[[files]]
+file = "mods/hats/Solar Helmet.tbl"
+hash = "cad66e01f70c73c64f5abfb9640739e75984cf00c0fd41fddfacf080ad90c278"
+
+[[files]]
+file = "mods/hats/Sombrero.tbl"
+hash = "38247dd1a2ccc06453527459e58bdca51e2b896337d57ee6ee86b4582b1cde5c"
+
+[[files]]
+file = "mods/hats/Squid/Mr. Bubbles.tbl"
+hash = "f2c37f37aca5e377f7bd1d81f1916743c7c53bb31b7f611c8e2b079fe6500929"
+
+[[files]]
+file = "mods/hats/Squid/Squid.tbl"
+hash = "40384c3e008eb544e0a26cf80fbba437543d27b7f7be5c7a77f292fb2418e8ff"
+
+[[files]]
+file = "mods/hats/Squid/Top Hat.tbl"
+hash = "e1603fd66548cd0e3302ff42235a25bbc1248117e15d7368975638bc18ed27ef"
+
+[[files]]
+file = "mods/hats/Stainless Pot/Handle.tbl"
+hash = "bc547c0df71f0a23fc5b5882921e3f7964f787e0b9a163f5bd1f4022cb88bda1"
+
+[[files]]
+file = "mods/hats/Stainless Pot/Stainless Pot.tbl"
+hash = "25ced9429cafb83bf799e0a0be9fd7009b152a3cd424795c2c07cece095f0c4f"
+
+[[files]]
+file = "mods/hats/Straw Hat.tbl"
+hash = "2b2b89f26d10425f98710bf810f169037fc4bd1b026beec84b7660c85f7363a9"
+
+[[files]]
+file = "mods/hats/T-Rex.tbl"
+hash = "9d00d3f5a188f8eda7843c8809a4220f8d20fb8eff0bf3bbcd9178d5679d97ff"
+
+[[files]]
+file = "mods/hats/Tardis.tbl"
+hash = "d59475486e1de4c87a8203638fb2a11309a3c3df702ab4534e633baa02615ef6"
+
+[[files]]
+file = "mods/hats/TentaCool.tbl"
+hash = "5522b7cba333ee01ae085f61b5363a1ff4ac463bfeceeaccb2d5353618ead55f"
+
+[[files]]
+file = "mods/hats/The Crown of the Ice King.tbl"
+hash = "8e19ae6ba1203e8003c83eaf2496cf2c6acead6cfe7c5d9f19ed0d5f3cdf2ba6"
+
+[[files]]
+file = "mods/hats/The Lever/King Of The Levers.tbl"
+hash = "b0f8103f77a39cb6762cf86fae2cc7ffe1d3b3e75f0d2044432202d15f08ab5f"
+
+[[files]]
+file = "mods/hats/The Lever/Lever-Gasm.tbl"
+hash = "d5a08ac6d8df13f8ae604d34014746c82b45697b35990acdc7beee7a82eda36c"
+
+[[files]]
+file = "mods/hats/The Lever/Lever-Splosion Left.tbl"
+hash = "97cab892356363db0db3f89698f72a13799825da3535d0e25dfb5cc4ce96fd44"
+
+[[files]]
+file = "mods/hats/The Lever/Lever-Splosion Right.tbl"
+hash = "f636382dd91a79a33ebbe05d55c629f394f94b633adf14517fc76487c130114a"
+
+[[files]]
+file = "mods/hats/The Lever/No Lever Here.tbl"
+hash = "0ae24bb34572e6dbad9cf47a22550e69a5e5edab80e21488b5149e831b496761"
+
+[[files]]
+file = "mods/hats/The Lever/The Activated Lever.tbl"
+hash = "8cdd847ad12499ba71673919f7d32527755b3c96f0010d791eda1370dfa4e81f"
+
+[[files]]
+file = "mods/hats/The Lever/The Back Activated Lever.tbl"
+hash = "168604905ff0a26474991c0a2bf8be7ff698db1d6b952e1304837b26ac20f13e"
+
+[[files]]
+file = "mods/hats/The Lever/The Back Horizontal Activated Lever.tbl"
+hash = "2d8e4bc3c89b3ba8ef451e8dcd129b6f95a6f97578daa639cb8d7135e550061a"
+
+[[files]]
+file = "mods/hats/The Lever/The Back Horizontal Lever.tbl"
+hash = "6848fe1a50ac827c1910ca1591052b1fc14420966fc5b95e74339e581c027816"
+
+[[files]]
+file = "mods/hats/The Lever/The Back Lever.tbl"
+hash = "67b86f0b15c2b8282bd3874dd529ed70ad1e96f3f7c6d84296eb45a0738e2d62"
+
+[[files]]
+file = "mods/hats/The Lever/The Left Activated Lever.tbl"
+hash = "c01576946a7579762ea502eb0f412cc6a901265eb05069fb6aecb21752fd3970"
+
+[[files]]
+file = "mods/hats/The Lever/The Left Lever.tbl"
+hash = "e0f848450466577e84b64dfd0abe6a39da2df72e0dad9e5686b2f13d4b26562e"
+
+[[files]]
+file = "mods/hats/The Lever/The Left Vertical Activated Lever.tbl"
+hash = "1cb97e3676ad663fb6111870ab30f52a61d3a0b70903f89b9f8cc5ee5c7de55f"
+
+[[files]]
+file = "mods/hats/The Lever/The Left Vertical Lever.tbl"
+hash = "1fc0c957b9314be38c82b15635fc952ecc3ac97783fbf776ebe3459868ecd7f2"
+
+[[files]]
+file = "mods/hats/The Lever/The Lever.tbl"
+hash = "2c4ebddc2d86e92f83144235e126ba748bb8def4389f2db4ea9467dc5ce2029e"
+
+[[files]]
+file = "mods/hats/The Lever/The Right Activated Lever.tbl"
+hash = "a698c96b63af4cf014bcd1265cde464001d96c6297b50f875215ed84b9929040"
+
+[[files]]
+file = "mods/hats/The Lever/The Right Lever.tbl"
+hash = "5fc1dbf83e0df39671a00b705a70a1fdc7b73e266c7f299467ea38b76f8655f5"
+
+[[files]]
+file = "mods/hats/The Lever/The Right Vertical Activated Lever.tbl"
+hash = "855e54fcd9b4638ab54bac6e948a81a529e2ad62a2a0e4262563d240e48214c3"
+
+[[files]]
+file = "mods/hats/The Lever/The Right Vertical Lever.tbl"
+hash = "faf78922a071c39ed7ded9ae7102b85426a5fe6bd15b03ddd4a4249ef50520d0"
+
+[[files]]
+file = "mods/hats/The Lever/The Sideways Activated Lever.tbl"
+hash = "4d0cbb4942a94fe3f6cc1f98916f3dc17652a4561949c1e3dc2fba1281202da8"
+
+[[files]]
+file = "mods/hats/The Lever/The Sideways Lever.tbl"
+hash = "c256a8cc76c287b508ec20cea0730a0440d8f2419382776602f8d58f886e0335"
+
+[[files]]
+file = "mods/hats/The Prick/Back Prick.tbl"
+hash = "4af7827ab7ff6c2f60ab4818c38866f5f3ead8815f86c7203ad391d54f47cb01"
+
+[[files]]
+file = "mods/hats/The Prick/Front Prick.tbl"
+hash = "feef404f2d03be2829162009664f5e9b73f0f5897039dc4f70c011c06f9e4c0e"
+
+[[files]]
+file = "mods/hats/The Prick/Left Prick.tbl"
+hash = "c1a9d9699c7e0b6882a2a0775bc582c24eb6bd8b79dc2676991d62b82f0754f7"
+
+[[files]]
+file = "mods/hats/The Prick/Right Prick.tbl"
+hash = "1e1ad20bf9e3aa7772660563056bd4161fcf44c70ac84712e323ff74c6138d32"
+
+[[files]]
+file = "mods/hats/The Prick/The Prick.tbl"
+hash = "b132e5cb72986d944549d778a6f3125c08118cb22b7d78f6123394cc4571c4fb"
+
+[[files]]
+file = "mods/hats/This Is My Happy Face/This Is My Happy Face.tbl"
+hash = "7e7abe10c54d31b438fcb582bb1d5b249bc43aa4f43633a08c6de471c1056459"
+
+[[files]]
+file = "mods/hats/This Is My Happy Face/This Is My Not-So-Happy Face.tbl"
+hash = "8664fb820f6950cbca7be1f50c31eb1b73d42606696753bc3a29e7bb44c3d582"
+
+[[files]]
+file = "mods/hats/Top Hat/Arrowed Top Hat.tbl"
+hash = "52f4b4cc9ff3251b6e2832109e462128684f2e2de7c50722958b9753f704cc07"
+
+[[files]]
+file = "mods/hats/Top Hat/ModJam Hat.tbl"
+hash = "f96d18cf278c1f32eb13d73c4a22f8e413ec833526deec1f80110e568454c3b3"
+
+[[files]]
+file = "mods/hats/Top Hat/One Man Army/Minigun.tbl"
+hash = "7cf575a3ed197d14d08eb627064b46ad8e09c557d6a87a72aec735215ffc7dc1"
+
+[[files]]
+file = "mods/hats/Top Hat/One Man Army/Missile Launcher.tbl"
+hash = "a4a4efb3bfcb0de6cc453bf4ae6fff9547315ddb6f18655b03fa9143a60d207b"
+
+[[files]]
+file = "mods/hats/Top Hat/One Man Army/One Man Army.tbl"
+hash = "a33b6245ec3fd3d209a3d244784b17cc634dbdfcd9368a62e1260a5530026473"
+
+[[files]]
+file = "mods/hats/Top Hat/Open Top Hat/Open Top Hat.tbl"
+hash = "004af30e1d56b1a75e9ba6e8e49bb8a2577da7e51e36227cd0d86daccc51ce71"
+
+[[files]]
+file = "mods/hats/Top Hat/Open Top Hat/Pyro's Top Hat.tbl"
+hash = "8ca5c18f86418a69f356f98e84191ade0949c73fa8011348bc6998fc51a1d355"
+
+[[files]]
+file = "mods/hats/Top Hat/Open Top Hat/Turtle's Hideout.tbl"
+hash = "26c1c039049c8ece1ee3aea7aba0d2eef6abc55292567a1a37d3b6c690fe0b0e"
+
+[[files]]
+file = "mods/hats/Top Hat/Soda Top/Drinking Straw.tbl"
+hash = "ab1c79df7301e2c59938586e255f8264a34645c8b813a176ddd2177c241f31e8"
+
+[[files]]
+file = "mods/hats/Top Hat/Soda Top/Second Soda.tbl"
+hash = "49129973b3e5137492ae7b9e568e1867f949839fa3f379f449a96a20b9b7f970"
+
+[[files]]
+file = "mods/hats/Top Hat/Soda Top/Soda Top.tbl"
+hash = "dec36389d1f076e27f225bb079e237ab5e060d86fc207ff1d63fa0be3f95ebcc"
+
+[[files]]
+file = "mods/hats/Top Hat/Suspicious Hat.tbl"
+hash = "3efefd8387c51ac6e66e50c8fcb7a906ce49960e60b401d3dbc819717e838a79"
+
+[[files]]
+file = "mods/hats/Top Hat/Top Hat.tbl"
+hash = "196efedc389b1724f2eba41132dbf054859940719c1c087e9fa6b349abe29be6"
+
+[[files]]
+file = "mods/hats/Towering Pillar of Hats/First Hat Stack.tbl"
+hash = "9670b385ca42d20477ffd1ff8686b47ca4f32b5d1c53f25c46764eec7d4ba86f"
+
+[[files]]
+file = "mods/hats/Towering Pillar of Hats/Second Hat Stack.tbl"
+hash = "00abc033ffe52e0bf4ebd2dbe0408e829dd4cf907f8de219a616df8bdd1b6dba"
+
+[[files]]
+file = "mods/hats/Towering Pillar of Hats/Towering Pillar Of Hats.tbl"
+hash = "aa0fbc4d88701f97c2b10122a563aff258774c2b77adbf21ca4a1181a8605ee0"
+
+[[files]]
+file = "mods/hats/Trail Mix Mascot/Tall Hat.tbl"
+hash = "6ed44dbedd8d217333da1279c6739dfa54b8f16c051deb6604669a2f6c045221"
+
+[[files]]
+file = "mods/hats/Trail Mix Mascot/Trail Mix Mascot.tbl"
+hash = "3868680a2e31c73ed0c9dfafbf6bd3abb4ab2707dc8a2576c552763c28362261"
+
+[[files]]
+file = "mods/hats/Treehat.tbl"
+hash = "2a1aa1372b065cf05c57d7e39189a946b71d90d979306cc74dfcdf1d8199b479"
+
+[[files]]
+file = "mods/hats/Turkey Hat.tbl"
+hash = "84e22d92a895eae0ebd1e7721d01adef7ab3f4eac251227b554b400a67abb9e3"
+
+[[files]]
+file = "mods/hats/Twilight Squirrel.tbl"
+hash = "6a55aa0fb37da827aef4d26e741fa77939d88603f22486e5dee44eb2a2d7bc42"
+
+[[files]]
+file = "mods/hats/Universe Pumpkin.tbl"
+hash = "125d65437a8f00d4f8c4fc721abd223f9149d9367bbd918e72b988aa780822bf"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Flower 1.tbl"
+hash = "d2ac777f45678874410f81c2bbc7612e1159ec0342024373851a5fa02dcd76a3"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Flower 2.tbl"
+hash = "1a5f056f3de1a88cdadaf6dddf5ea8afdf288cf565ebaf1c97ebbfa96b74fc54"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Flower 3.tbl"
+hash = "65004b7613c7127eff0d1e51bed753b027da0b6be748ba3fca40849fddd3df62"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Flower 4.tbl"
+hash = "d90ae0d4c46a45106df3efd06590a1d9b2039b404ffc7d6e8d27d1a74a47961b"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Rabbit in a Hat.tbl"
+hash = "7e8076795ef4d4c5a9a6fcf3429f70119132a5ac5d33e2535af4edd6bbae11f3"
+
+[[files]]
+file = "mods/hats/Upside Down Hat/Upside Down Hat.tbl"
+hash = "68bf437c3208a20ae1f4673db7c06b822c5c11f7a1434e5d970767ec90b1ba52"
+
+[[files]]
+file = "mods/hats/Ushanka.tbl"
+hash = "45195149e6787329ea586acc1511688c9baf359133e4975bdad28ab887ffdf24"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Alex Mask.tbl"
+hash = "eb3d1505c4fcf0deda8d5410c267984273bfdbd4bb2b5cc49ff03554a24340b2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Blaze Mask (Old).tbl"
+hash = "9196bbbecd6af76a8395bb034532d3779728213ced381f8f1f6782d593b8b68a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Blaze Mask.tbl"
+hash = "395ae5be946b2eb3af0ebf5d96e7f94be5c30d918ad89946fe5bda0a60304f48"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Brown Mooshroom Mask.tbl"
+hash = "b4e7f6cf6a174ea2706f192218c04e157bc999debc007448aa092514cb12bdac"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Cave Spider Mask (Old).tbl"
+hash = "af512619d03a654f66dd4f51255a2548563b3ad089419e9f6b419f88b524c309"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Cave Spider Mask.tbl"
+hash = "b6df89c1500345569934326d0d90ce41672d40b03f8b1d8ac6f138ba3951e735"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Charged Vex Mask (Old).tbl"
+hash = "9019af2772a0e05cdaf3936572173d23ec36874f7d06da29b78bfb133d46a931"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Charged Vex Mask.tbl"
+hash = "63407f375acb66241bed131539498a3b8c89e9d674f2f3f4da6a1409f1f063e4"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Cow Mask (Old).tbl"
+hash = "daa88267d1a0ce91a8e1572b0eca3653e0194cfd45a6524d81d3d3f3f767a717"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Cow Mask.tbl"
+hash = "dc25f2c246aaf7f3dd90cb6c9ca98cfd2630c4c93508600e5089ef15717e52e9"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Creeper Mask.tbl"
+hash = "f4a165bdd7c644a21b03db61de0c14da4f42f6b5ca0f0a51bc8c1b61e9b4ef1a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Drowned Mask.tbl"
+hash = "43074a9069b0aa1081ef5eb04bb61f490cb573b0b54c81bee13707f41053f5b4"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Enderman Mask.tbl"
+hash = "c68d1263224da0d5872ff3142648c7ae42b87a62f636a2c233f138d18d95ae94"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Ghast Mask (Old).tbl"
+hash = "a44b3b3df96c8b7eb63c2dca51c9bb8bfcdeba2fa35932f63366c0e138847b57"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Ghast Mask.tbl"
+hash = "491a322aa2d371abe4efc17b7f5802757731793e2491f05d6d518bad87a9ebeb"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Husk Mask (Old).tbl"
+hash = "54a8e9791305a40be9d3d26e659969a616ea75ec7a38e74170f3adbf77ac9712"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Husk Mask.tbl"
+hash = "075eeda338c2a1c7484a12be152721cd1f337a7b291fb462f830784e012ca957"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Magma Cube Mask (Old).tbl"
+hash = "00ae534a3c0a7780cccb6f1c1db00480ca896cf330408c3395d6ac3f5498fb31"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Magma Cube Mask.tbl"
+hash = "234ce13577dafc48bd700ad852d37a79b6d1738f7a3f3d3b640e6098b7d7b639"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Moobloom Mask.tbl"
+hash = "677612a1b2e10d1520b4128dbb4f4832e4c2be13b75cb28fec4fa1424168d9a2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Muddy Pig Mask.tbl"
+hash = "e3664dfe7178d7c1a6d7b24d0d243bb8b48b5cb4433df97f25cdfcfd205f188c"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Pig Mask (Old).tbl"
+hash = "3adc45f9e91710e7cfe5952e9378faf322f1cc659a9b0bc8dd6e6c0d68359cc7"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Pig Mask.tbl"
+hash = "73cc15e0c15a9875ab7c89d8f47608c74037ffad2f5dea900b2cdcdbf27b430b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Pufferfish Mask.tbl"
+hash = "acc1d5633e28b74ac2b98a9dbec2ee5b55fa315d5285b4680135a6931ff1df41"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Red Mooshroom Mask (Old).tbl"
+hash = "0b54c3e1d25d0893008a93e9e2842810e51f3c5d9762a05a79070b61b130ebd7"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Red Mooshroom Mask.tbl"
+hash = "485ab92d9f54e82ae4576912d3dc3ea0e98543e5979f2641744e2d3e9ed17adf"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Shooting Ghast Mask (Old).tbl"
+hash = "595f5170b56304470b646c34b3d89f0020ff8ed318c970ae47bed82f1431bbcd"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Shooting Ghast Mask.tbl"
+hash = "1367d1f766569500dab9c177f60240de93ec07db77b6539c332394f8c613dc84"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Skeleton Mask (Old).tbl"
+hash = "45409b54e268255f36d98ad758810e842041add02e0b518b96dc271a7ee3c07d"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Skeleton Mask.tbl"
+hash = "bfc8eee85979180a5f6854298d9f0a91562574df99f35b9e4c5f5938afa9e725"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Slime Mask (Old).tbl"
+hash = "00b3abca51d5829e2ed64c40679e01702900a5f509ac576e1a908efdd2b9b303"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Slime Mask.tbl"
+hash = "6b10bee5941d90ef48ba809dc603b75f9e6325faceb6f6a1bee0054b7dd839d1"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Snow Golem Mask (Old).tbl"
+hash = "20210f9ea8ff08fc7c3c794322922a5cab6a74071ec76892126eddbd6e4ef172"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Snow Golem Mask.tbl"
+hash = "956e15a9fa6fa45b1e92c49d1d4d17d4c0c402a94553c530b63e679e4cd8d55a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Spider Mask (Old).tbl"
+hash = "7f592b41742e58f2f6b1c7c3abede4b4eb63201f8be47678f7eb5ff0dc022d77"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Spider Mask.tbl"
+hash = "5e9cfee9957ede3c2eb9d4cc6d3fab67b5f31566171ed7fa1a28596974a515e0"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Steve Mask (Old).tbl"
+hash = "c557c335e50b958154848051660e22cd79208c22b9d625aed3273f1f63137099"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Steve Mask.tbl"
+hash = "156181ae4ba84771599356859f104dc58084c916c5e23e68f0b6e10869559125"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Stray Mask (Old).tbl"
+hash = "4ddce43da278cb16519c9fd5fe05b805f42a2ea0d33937746564eeb49876eb10"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Stray Mask.tbl"
+hash = "a094306091e7f589778c8e9d7fd00946e2e3fc2e1e7bc8f206393e3396f2c52a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Vex Mask (Old).tbl"
+hash = "a0697d9a36438d793808539fbddd7306abf6b5163fd60212b17231dea8492e19"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Vex Mask.tbl"
+hash = "c2f0a0180ca257121dcb2394af3ba8e9cccb266640ba32c17a5ad3e23d0b291f"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Wither Middle Mask (Invulnerable).tbl"
+hash = "718f412c382f0c9396d6873f2e5f5289bc0671e735d01fc0e1a6cb9fd3bbfcec"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Wither Middle Mask.tbl"
+hash = "05254602ef2d8e1f2719b872f2a597f45220dbfc674a7402aa13eb8f86ffb012"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Wither Skeleton Mask (Old).tbl"
+hash = "11d968dbd2deda28981363e7234bfcf85913f1354c04e7af85059a73bce43587"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Wither Skeleton Mask.tbl"
+hash = "72a45a153a238e1704c76bdc081ba2ed8b2c36d012fc3d25c76d909552d7a181"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Zombie Mask (Old).tbl"
+hash = "cd647cc0f4f17d6717612b2b02643c7b4ec77603e07cd9e3e01dd14190d1c295"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Zombie Mask.tbl"
+hash = "cafc7e5da3fc9d363e775866024c93212e93e981cb88210195a3dfcfcce47ec8"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Zombie Pigman Mask (Old).tbl"
+hash = "bb9cf09c6d07a89b48b738326a533b37d1c230ff1b735e685203b3a61106d032"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/16x16 Masks/Zombie Pigman Mask.tbl"
+hash = "a1210bfd56d136a5c59e003754c33e0b8d1c1510a03142f7b51b795bd99578ed"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks (Old)/Bat Mask (Old).tbl"
+hash = "9cdb80542a906525d3efffa02f32a9ad1e35ec4b08e06b08c61d1468f87cc1dc"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks (Old)/Elder Guardian Mask (Old).tbl"
+hash = "eec003f535b585967c22ef8c8368d550df94680f216045873b92eb1edd4ebe06"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks (Old)/Guardian Mask (Old).tbl"
+hash = "a06b7cd1b20099721b319ea09ec65a57fe4dceb6801414005af19bc53ecb4215"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks (Old)/Sheep Mask (Old).tbl"
+hash = "cb6385c730f1b0e72105cac79522b96353ca873572ebfefc82f86ec5770d2ff9"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Bat Mask.tbl"
+hash = "4b29ce43fc8d8a03c081bd57fe47cf9d1c62da5a618253fe1b1e59928bd3a750"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Elder Guardian Mask.tbl"
+hash = "44a1bd471cf88879305af9968b677755785ab45cf8f4af82c14fc1da21c7ca0e"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Guardian Mask.tbl"
+hash = "ff9b87cec8d5a4d7e2c92e4c36649f5b7b61312d75e9eaa4f16260063a76c977"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Sheep Mask.tbl"
+hash = "ae258c1a33c3bfee75cf9efbd0979b5bfc232ef71b4b9f4b6ca74c5d6eb7a278"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Shulker Mask.tbl"
+hash = "a63414a8c51aa0bf6272d7da19f2f999aeca1f5ac7854e85e59227d9f7a16862"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Wither Side Mask (Invulnerable).tbl"
+hash = "1a36d959e8aa81aa39392d393d6131098ed253317f51e00ad9c5e3754b8fdc2d"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/6x6 Masks/Wither Side Mask.tbl"
+hash = "69984e94a4efe1a036f0e095e228fb2bc20cd03440d207cbdef6d1dbfec78d45"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/7x7 Masks/Angry Bee Mask (Nectar).tbl"
+hash = "39495a34bd3072849db564cf5289186f4577cb85f858e7c78a1641cce146a321"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/7x7 Masks/Angry Bee Mask.tbl"
+hash = "70deaf121342bcf40f8201be55bfef86306b81fd502124361ca81793e1b3f49b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/7x7 Masks/Bee Mask (Nectar).tbl"
+hash = "0f03d455b9b45a4dcc57d97c00b47d2cc709d34db2d10143a64581ca7b0101f0"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/7x7 Masks/Bee Mask.tbl"
+hash = "9e6b87e9f8c1496cf3556f430727fdbeca7666646c32ac15c571d51fc227f224"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks (Old)/Black Cat Mask (Old).tbl"
+hash = "76da32a162951f22fb9c3ac5530fd6450374c7b0dd2bbcf05d9c312b8018dc38"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks (Old)/Ocelot Mask (Old).tbl"
+hash = "d62c0144a757960e110074f3192c4848d019eaadeffd11f73b3a845462b2699b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks (Old)/Red Cat Mask.tbl"
+hash = "142dcabeb44bb39fac000c4a02017adbaa0fc450e76c9e40866ae05b0a2d1a6b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks (Old)/Siamese Cat Mask (Old).tbl"
+hash = "60ef74e6303409cd177925f1125fe7ec3d50952b362d3c77634a09fa6e7dd858"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/All Black Cat Mask.tbl"
+hash = "495ba95c5579910fd5a084e078094197b3acfa222947fe68afc03788e5853c72"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Black Cat Mask.tbl"
+hash = "0b590325cde3f9d2ebbbe1ca3caf8b2dbb5938e6fb688be678bc8be3595c31fb"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/British Shorthair Cat Mask.tbl"
+hash = "3c1da8364b2589f73a03eb16a36507d72aee6f60ac5daeb79a6bfbd62c5c01b2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Calico Cat Mask.tbl"
+hash = "82442669e23125ce0a5a2e8b71b7969d074b4929cc6f66469ac0938b63346772"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Gray Tabby Cat Mask.tbl"
+hash = "e8802e3f3e1782f070022f51a9965a4e136822b5b05d143382ebe9854174ea70"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Jellie Cat Mask.tbl"
+hash = "9d627b1b2aec3e77d7a49b5aceebc086a0f4d9f033e3b7ede971b262d7bdd709"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Ocelot Mask.tbl"
+hash = "d94ccbeace652d1bb95ae3b03f30877e5f8b319980c07f56743bf186a4faee94"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Persian Cat Mask.tbl"
+hash = "a461692968da635688144bdd05dd1599b45be08538751a47908b7f9e89046acc"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Purple Cat Mask.tbl"
+hash = "da479c9a386d5c27ecb6d0b73433f526a0e853d2dab17c566e886f7d5891b253"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Ragdoll Cat Mask.tbl"
+hash = "551fadc7315eeee5ef5610b453f88fea8683cb4cbc69287df52812f6631da464"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Siamese Cat Mask.tbl"
+hash = "52effb1ff3b8364d375f9e710a327acd59462663c1d6cfbf341f607656040ede"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/Tabby Cat Mask.tbl"
+hash = "d45ad747ccbf0419316f81bc39db66f616327ff21628971aba0858f726d49242"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Cat Masks/White Cat Mask.tbl"
+hash = "8a8a44210c1154197ab527e771bd9da05b90aaba632d0bba0a993165887a56a0"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Brown Llama Mask (Masked) (Old).tbl"
+hash = "4ee777981d0c9badf082f146f9b90c5da28d2f26000ee70e45444b6b2580c929"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Brown Llama Mask (Old).tbl"
+hash = "acb047bb0ac45970bc68eab99b743e0d4964db33048e240ac2986046b77692c2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Creamy Llama Mask (Masked) (Old).tbl"
+hash = "cff66efef8baf561be88f980a4d36c903b1de83d13e930ed0c6ff20593c7802b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Creamy Llama Mask (Old).tbl"
+hash = "b1d2e5c0cba2f03d11b68b79aadfe1060677be2132a962dad75d0b991010af9a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Gray Llama Mask (Masked) (Old).tbl"
+hash = "510f4a5cdb75a33625afbb3d7277534e183f1df1f23938caf7cc7146ec7c4796"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Gray Llama Mask (Old).tbl"
+hash = "896320ca289da1c1185a70ac4c648a9701c196d0571aff785d352b59d5de9102"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Llama Mask (Masked).tbl"
+hash = "df9223060af086a1c96fbaa09b595f98766b39632a47fa978fc4dba857c83e08"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/Llama Mask.tbl"
+hash = "89fbb140e8fe4fe20f2ee469b72546a0c02644feea6e4f61b853ab43614afcbc"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/White Llama Mask (Masked) (Old).tbl"
+hash = "aac95a5d8210f5730e93a65f89f7434059aad69940a7b8cb773f05e2ce2332f5"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks (Old)/White Llama Mask (Old).tbl"
+hash = "244c56cac904cd6824e60196017eb866e8783e035f25b520e9abca5261c4b21a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Brown Llama Mask (Masked).tbl"
+hash = "ba22f82c6d445c7ca95a30f7e67047b0d22aaba3e42324a455f4e37d06b36527"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Brown Llama Mask.tbl"
+hash = "86eb96ba0f0e6e35b09fe73e73e2db25d712e96678e413b0ab405de2f861e491"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Creamy Llama Mask (Masked).tbl"
+hash = "f0d14a381c3c2ae1202d925451753c539cf83d5787c433aa3fd1f9f6d3e395f5"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Creamy Llama Mask.tbl"
+hash = "3b94c930584eb6a786f0327054ae832518738c931709097c41b77387fd95ed2b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Gray Llama Mask (Masked).tbl"
+hash = "235beeca0a633e0ec322cd3cd41ba3f6f1de051322f0f915b1e535ff95af91b4"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/Gray Llama Mask.tbl"
+hash = "bcda00bf994a0710bc1327735901af27d39de86853b4c2e482a52bd8cd76c41d"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/White Llama Mask (Masked).tbl"
+hash = "2f64e1250122407b119ca658e96f96aa6354f58d6b813ce3811d2297694bf550"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Llama Masks/White Llama Mask.tbl"
+hash = "140099ca3f4290ed195fb4a005f8fdff546604c6861af614bf0188f8aff6e0a2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks (Old)/Chicken Mask (Old).tbl"
+hash = "c09bf5d98d8e78f5b6c6e73d513799891be44fec13cbeb50e11936b442ee7599"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks (Old)/PolarBear Mask (Old).tbl"
+hash = "7595d38c29ac124e348b55c31a49250ee9fc991b478695948d38d905f4bd4a7c"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks (Old)/Squid Mask (Old).tbl"
+hash = "89899232ba1636a1a0c8849bd48be929b21738ca780e8b60d176788cd13c953c"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks/Chicken Mask.tbl"
+hash = "bf6bb18bd3a69004e19579aa61838dad805265cf585e2074c5f1e36dc9c2e8ea"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks/Cluckshroom Mask.tbl"
+hash = "1866cca2ccef39dff1faa17fb51d6fd29793dfa5cc89b0b242564d5ce4330544"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks/Polar Bear Mask.tbl"
+hash = "2aebe33cd3e06e99330ab1de736d8803f894a16487a320e6fff986bdfe76799a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Other Masks/Squid Mask.tbl"
+hash = "b803ec92321185c45faa0822013aae568feab7d30621047005b78a6d9e0b52f2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Black Rabbit Mask (Old).tbl"
+hash = "46e0e245b9e79b5bf2d8d6fccea7723e7ce9d220100af52ffc9e971fcb495b00"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Brown Rabbit Mask (Old).tbl"
+hash = "58ef7733288857d7481b69e896b58104bbe885a61db1f87da67fe1712d182102"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Caerbannog Rabbit Mask (Old).tbl"
+hash = "e402d38b41acf43ba4baf2d4f928049b4392aaa25f735e80bdbfebe05a686a43"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Gold Rabbit Mask (Old).tbl"
+hash = "a680b72df358bd9498a4553a117f0d93a1ebda81a472a1fd192315253664400c"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Salt Rabbit Mask (Old).tbl"
+hash = "f967ae3884227e151a235d9a6354f9736cdb1298cb70dc1e4402776d4170d17d"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/Toast Rabbit Mask (Old).tbl"
+hash = "3c5472fa20e129532b47a8c1d9c14097119959a368ed84bc8fad7fef3aa2f134"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/White Rabbit Mask (Old).tbl"
+hash = "86dc88e16b2fc219856eed40aada865b8a2b90150c8c44175f9323e26ee48a1e"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks (Old)/White Splotched Rabbit Mask (Old).tbl"
+hash = "138516512525b2917b08895d876f6d23c34a90a4860d1754b067db6a6412da81"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Black Rabbit Mask.tbl"
+hash = "1b4a4ce9669613a2f1f3a8ed4157bba3bdacb335d3940fb73cdb5969a40f8c0a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Brown Rabbit Mask.tbl"
+hash = "8fd4a304d0a61271aa83f81124746f772f47132e7deaf04a2f2e9a751c2b1425"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Caerbannog Rabbit Mask.tbl"
+hash = "587cd5043d69dda34ae470a2629e59e1b87ce0701da25c3da54e02a36c280068"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Gold Rabbit Mask.tbl"
+hash = "07dcf763e7bdfc01504bb47ff7070e199356fb169dea3379c5e5085e8cea6156"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Salt Rabbit Mask.tbl"
+hash = "55af719f1adb4756d55a47ced461aefd5ed35120e1e4c9f8af046835c1396b55"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/Toast Rabbit Mask.tbl"
+hash = "e088ed9230c99867a52bbf93b3f8cdafe9d556d214cb33baacffd5cefc522074"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/White Rabbit Mask.tbl"
+hash = "751bce0f089e9b44af4718a1d43da78d1e2f6ad46d29e2c536116c7c40588cc2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Rabbit Masks/White Splotched Rabbit Mask.tbl"
+hash = "13b6d213a3f5601571ffe28cfc26bac320ba9eca217da9975569e88877aa1339"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Illager Mask (Old).tbl"
+hash = "3b6f7781f2cc9b18356519013bf5466495cbb02f62c04e964f194849ddc4b060"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Illusioner Mask (Old).tbl"
+hash = "593672329e45986781aa56407cdb72ac4889039f76c64e7535aa788b8e75412d"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Iron Golem Mask (Old).tbl"
+hash = "e317e033292ff34dc3c379ddc3d7e2055822ee782911354fb0c061fefc74f207"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Villager Mask (Old).tbl"
+hash = "0bdf19ff652a63fc74864a75379de4f9cc75a8cf3336a28d95b36a6fef6af2c3"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Witch Mask (Old).tbl"
+hash = "daa8d7ea803a2da29df1981e0a41908b1fa59d6aa34695f4a69fdfcc77a4ccd5"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Butcher Villager Mask (Old).tbl"
+hash = "6775e1c0b0a5e4e43f1daba049c8d782807f3a88398ab6375f3e9686f27e5196"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Farmer Villager Mask (Old).tbl"
+hash = "6ba09050dbaebfbbda81da2d1335fc7808b06e158f3aacb297130cf0fc4717e1"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Librarian Villager Mask (Old).tbl"
+hash = "dbeb470b407faacdf55df2133b9093ce844e53b440a8a32aeaf4b9e4c2b44668"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Priest Villager Mask (Old).tbl"
+hash = "ce111fb1130215b714a17b3f41c7bf56925f8e1fd6d06a6032a77db156eebbca"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Smith Villager Mask (Old).tbl"
+hash = "29fae58ee21dbf41d1853af9460fb67ad57b9325143aea056e8ccf174adf7516"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Villager Mask (Old) 1.tbl"
+hash = "9ae608ccf77122dc078506dd7b8ab92d2e0932285b19cdfe0578b337f305f9be"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks (Old)/Zombie Villager Mask (Old) 2.tbl"
+hash = "de8ec053f9eb511ccec9ff44dfd703c146af93186e01a5e463e140730b98f8ed"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Butcher.tbl"
+hash = "368b8ad12bd96095cc349642aab06883cb88b7711175b71653ceb4672a79ce42"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Cartographer.tbl"
+hash = "5b3bd078cede020497051b7131b11fd54958d2f364ddab8df1d2d05a94b331ae"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Farmer.tbl"
+hash = "e510f0e218e5668b2de46bd593dc87ae7e2060dbf3c281c27ff87344692c0623"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Fisherman.tbl"
+hash = "15f2ceddec5a76d481a77ea455646ac5137368161e035d84013d85950a8db2f6"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Fletcher.tbl"
+hash = "6b517693859a2ffaffd5b579d21a2e0175d45a74b839dbce2d548436dd3ae067"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Librarian.tbl"
+hash = "4f7545170bd35a89406c6372ed9a05585d2954a26a2ea62b742d8d8469fcd0ba"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Shepherd.tbl"
+hash = "b785126818905c6dacefc0aa3d7d82303428324855e07786303209f90c132cd2"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(P) Weaponsmith.tbl"
+hash = "88cf39a8031391f187f118fd239151007fd0276cc5404c2376bc6e24ec2db646"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(T) Deser.tbl"
+hash = "43d63bfbaf401ea59748aa98c6fc9d592df95c054869052ece95ddcdf6db0b65"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(T) Savanna.tbl"
+hash = "30f495cb78787b5029f2f78fb59144874b3137f93962daec224f6857a5c9142b"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(T) Snow.tbl"
+hash = "907fe115b1851c6764b907eb4b411478974d09edcf2fe03ee9f3c573a230b7a4"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(T) Swamp.tbl"
+hash = "36a1d9e64dcbf9ea384d9e252e8e2604651e46553fa58d7b12c35774f54267bc"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/(TP) Armorer.tbl"
+hash = "d165e8f4017f4e82b459d8a4a2d521856944f2e1092cf9e4c5add4609bcd0d70"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Illager Mask.tbl"
+hash = "3acda1de64894170c59909bd6af7bb09cc85853f85f190105a76a4454b70ebe3"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Illusioner Mask.tbl"
+hash = "f2bf816dae7d45187a335240466227dacbb0cf855866e0736dbcbacf7d972ac6"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Iron Golem Mask.tbl"
+hash = "0fe802e620ca7dd2a406d5d6bccafff64d1f05ded1097d833ef7dc1b96afbf69"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Ravager Mask.tbl"
+hash = "0e9ae3890b02f35410ce1adc0f4107df2bc19a5354e18797a767d8905784e7de"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Villager Mask.tbl"
+hash = "531b3efae9c033f2b2ff6a8d3228a72918b9583e4e3631214db8cdcf7a5f649a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Wandering Trader Mask.tbl"
+hash = "c559abb62931b4d6bd9792d078581154bde41aac6e9b0308c0985f714740e99a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Villager Masks/Witch Mask.tbl"
+hash = "301557403d41c081623e4a009367cbb72a537dd5c6f99b2f37b58f38d4e87bb6"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks (Old)/Angry Wolf Mask (Old).tbl"
+hash = "ed49a4c103ee5895bb1b03e99ef56067d913f236b59ae8cb3dd2ccf2c3f54ca3"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks (Old)/Tamed Wolf Mask (Old).tbl"
+hash = "10b690c9a68cd11b4d61b2427cf21b13d44b040506e98ea1353e49dd2e615a2a"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks (Old)/Wolf Mask (Old).tbl"
+hash = "28a4ef4ce2e1ec6ee47cac5962482243c9b7b29863cb3af50280dbcaac830e44"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks/Angry Wolf Mask.tbl"
+hash = "62f257bb6568adae24b26ea7233a100649f571b2627b1b2364161365747efd97"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks/Tamed Wolf Mask.tbl"
+hash = "ff1be6d49c30fe7da5b8c726590b11e918111e5fbb1e34976b15fc208ca7a83f"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Wolf Masks/Wolf Mask.tbl"
+hash = "d3bd13ce9241669039fedbe085ff3d49748a33a8ab4d64b44e3cc0c0d753338f"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Butcher Zombie.tbl"
+hash = "8c2d7c4634d278df5e3ae2bae72375de128be14addd1bf802d4174ce586edd1f"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Cartographer Zombie.tbl"
+hash = "2b4b4cefd3618875315c75845e8e620a83ad9310052154c19d3c41b5ea71cba3"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Fisherman Zombie.tbl"
+hash = "30af643cb64db47fea3779ead47ea2d44b6df7da248544d4325b1a4c6d64fcdc"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Fletcher Zombie.tbl"
+hash = "01bccf17350a6eaacaf19bbec25e8e5f82ad812060f8c4b0c772204279e01ac1"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Librarian Zombie.tbl"
+hash = "ac817a96f212d619aefba5741feee3773fb3e4d968c8af17b3fbbaa561b29e47"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Shepherd Zombie.tbl"
+hash = "946a59bb1821c8b6312e2c02ab0acea693bb46173bd33ec8ecd8de96a181b9cd"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(P) Weaponsmith Zombie.tbl"
+hash = "a1f30a32fe0d93f42a56b2d6b9ae76efb3a246814bb14049975336554fade7af"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(T) Desert Zombie.tbl"
+hash = "77146e8e54d8c2b32792de4f89ce02cdb9e1c2202bb6c57e1f093ee3e93c7bdb"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(T) Savanna Zombie.tbl"
+hash = "e4f284d82f34df1c8ca2adf8c1abd36b4bc1d1ea3f01128951689f4ba4e065b1"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(T) Snow Zombie.tbl"
+hash = "11e755542ae4c4cb505a80f726c84c69201d4cff145a1230e2780d85ef435722"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(T) Swamp Zombie.tbl"
+hash = "2153bfb9cf8f950d078693b66f880f9ce352e2b963b2c49fd3d424a2119d13fa"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/(TP) Armorer Zombie.tbl"
+hash = "26630cb0447dd5b716a8ec02ff96fb584a68b4176b9e50a3be5ca45b7b134182"
+
+[[files]]
+file = "mods/hats/Vanilla Masks/Zombie Villager Masks/Zombie Villager Mask.tbl"
+hash = "545687efb8d4829445203e86ca0d242ba9cb71e89b6aa6ce5a4364675c061d44"
+
+[[files]]
+file = "mods/hats/Viking Hat/Left Horn.tbl"
+hash = "53a9480d5a21ddbc8ef9fa5ef89fc8b38b58cdffa46dd11eea0beb1b1ba9e3b6"
+
+[[files]]
+file = "mods/hats/Viking Hat/Right Horn.tbl"
+hash = "3647f4841bb75b81cba4981be75d3c73cf1ea7d15bf0374748b296b6d7db5683"
+
+[[files]]
+file = "mods/hats/Viking Hat/Viking Hat.tbl"
+hash = "1908d2e88a6ccb47a55623251d8b209462076b6eeba253fdd842881e64ba7013"
+
+[[files]]
+file = "mods/hats/Welding Helmet.tbl"
+hash = "ebce7201d008b763260c6cd6619b2c6a5a874502e4ae30ced3879f5799dc0072"
+
+[[files]]
+file = "mods/hats/Winter Cap.tbl"
+hash = "cf82385d83c6e2cbc040d845bc2602db830ccb3740511e317e118e860130bdd1"
+
+[[files]]
+file = "mods/hats/WitherBoss/Left Head.tbl"
+hash = "169cdf5f0b1fbcc92837e91362a669af8caa85dfa31eca7f110a20fa4cb542da"
+
+[[files]]
+file = "mods/hats/WitherBoss/Right Head.tbl"
+hash = "bc6a91e64df5356498c78273489a8eaba3afab3820badd97bebd6d5e4b109001"
+
+[[files]]
+file = "mods/hats/WitherBoss/WitherBoss.tbl"
+hash = "302f384180d1f91fd4bb3795087e8fcf6aaa7c1014006dc6584409def090e0b7"
+
+[[files]]
+file = "mods/hats/Wizard Hat.tbl"
+hash = "56ca992b775201d1bea7aad9f28e730abf8246d0448e3125f751d9c47e777c64"
+
+[[files]]
+file = "mods/hats/Woodhat/Axe.tbl"
+hash = "e0989a9b808abc4667ee0774891cd617b31bfd07a535d7318580bc91ae183618"
+
+[[files]]
+file = "mods/hats/Woodhat/Woodhat.tbl"
+hash = "f29ef2b34b3f3e4756cf503ca0ad0b716866fca35121ec5c731894fb0bedb49c"
+
+[[files]]
+file = "mods/hats/files.extracted"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/ichunutil.toml"
+hash = "6302de9f5a7924dcacdb8a3e9517707aad5a4a5a4de947f856fdd5b3d532d24e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.toml"
+hash = "503acb2862726109f15487d5726e37f7fe661c3eb9dd4c3f0006d189787b5861"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.toml"
+hash = "af5678cef2c9f0d288b4209353a62e02547a55dc8436497dd167cdedd557eabe"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.toml"
+hash = "d7cb596bb9d05cac3096e940039730bd6ac10c16bdb76fa193b0d9251c416ed6"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion.toml"
+hash = "66ffb89cc6fc465bec0d47402c4dfd863a8e1656c6850e33109cb8e6666b1cc9"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.toml"
+hash = "632ab8d832f39f360f08eac52866bfc48b8489d55e6ef779e78c74686e0463bd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-renewed.toml"
+hash = "a65d1a6145b463985980a64fffa70776fcc10dc39470f3e93b05b0479e33f832"
+metafile = true
+
+[[files]]
+file = "mods/jade.toml"
+hash = "ed0e5dbc6d0b34c14c412a5dc00a9fa2202b3805baca3bf8503c1cd421a27473"
+metafile = true
+
+[[files]]
+file = "mods/jea.toml"
+hash = "f46a8dd09a5f02b2824ab82e65e15262adab43b30f79cb555405f199d1277977"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "7f90d88e7f7d12046bdd465e12ca1b66beac717fdab9327278cddddbe207bc69"
+metafile = true
+
+[[files]]
+file = "mods/joshuas-christmas-mod.toml"
+hash = "8a88146723cf6455c96a783fae9375f1745124bd3c5357075644db30e92ae606"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.toml"
+hash = "1c890c2a18cab93b2d3e575f86648218168742ad60c8027d3cb958401a3a2fde"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "f8a58cc4933231a1d115be9b3a5edad2027614b15403dae8d27fda623282e1ad"
+metafile = true
+
+[[files]]
+file = "mods/just-another-rotten-flesh-to-leather-mod.toml"
+hash = "03c43711372a3fae65814f0ae847152a37a01a8a69c779464d6335e7279e3233"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.toml"
+hash = "3faf409ac2710530bfaa2fa937583cf255d2afb423129ed1fc68628de1730391"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.toml"
+hash = "cba47dc8cf583dcdf2c2692f3696a76d0f613806e337068d0dc861d4cccec8d5"
+metafile = true
+
+[[files]]
+file = "mods/libx.toml"
+hash = "037f6239a565d75f8f4f390480958c61a24335dea3a68b92b68ac2ca108e0ddf"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.toml"
+hash = "f03f073f3e82daace2fc731739887b6157df068fb75439b11fb583b809113376"
+metafile = true
+
+[[files]]
+file = "mods/lootr.toml"
+hash = "602080304affb971774d2af6805f5104d09b06472dc2d9c32df7e6ed6da4579c"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "b0a1b26ea5f01877034935bbbb6743de1e678ed5f33b967b9a655d320ca98349"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.toml"
+hash = "69d00b0359df6fbe8a7a089e242735cb28e3736c7e688fbb05791155ca0052dc"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.toml"
+hash = "8f7aa781ca88a7ec625393dffd51c6dba91e464df211e25e225cb29e8081d02b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.toml"
+hash = "0b35d394482abbc48d36d416d014b85828012faa63025e68350accbd14b29b64"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.toml"
+hash = "037298780f4b5ddac2db7e8117c65901ac3597dddc87a9ee450750e6ea8e81fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.toml"
+hash = "946c28a9659c34f6fe1d7daf6971c91f57449391e0dda20b5abddfebef4ca4b3"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "0305d582f9556b79e18955dfddab4cde94d5d5e83030140ed8949c8684ad02f6"
+metafile = true
+
+[[files]]
+file = "mods/menu-companions.toml"
+hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.toml"
+hash = "8aaa5dea65c97d2972b99a17cbd3b4998c0c5ae49713a0541e78873697310c37"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.toml"
+hash = "876dfa45320b66976880807c559361e03636ff01b0b0009593d6942872c8963b"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.toml"
+hash = "75dcdde50b6564b3893b9895deda97fa6d74b362338f12f36fd23d680f1a810d"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.toml"
+hash = "388109fcd6fbe13e7de28371ca1ce9d97e9ba9f1657b60ecd7c4fbc05931f7c2"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.toml"
+hash = "c5366db509b1dce3b13dbf034e801a4064ad52609066fed7e3a8268db0233c0d"
+metafile = true
+
+[[files]]
+file = "mods/more-red-computercraft-integration.toml"
+hash = "7be1a8045e855b5deb723fc1c9a64700719106bc5eed048dcb2546fdada5b9e2"
+metafile = true
+
+[[files]]
+file = "mods/more-red.toml"
+hash = "014652a1af77c5049d20ad46ab6198af74f7c61bbd49c4d0df9bd453b37b0268"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.toml"
+hash = "c4b817dfe315f9f2e9bd149faee1a9e748c5556d36675ca6a7b023db9d3f547e"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "2ea760434c6bd74439868cc66c8937fdfd2073baf035cfa437e6de5d160b84fa"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.toml"
+hash = "48e02a33b24eb268c4e36d7449d82149a2e89f4cc3e2fa394ee10746faf00c04"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-more-furniture-mod.toml"
+hash = "806be7dab47ada073301a92ec86a8efb24abeb45b1efb46eaff4afb2831e3f82"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.toml"
+hash = "651c4374cba0e6442c68a56891f7f4c4143bf8d4294a6fcaf8d563e2eb97708c"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.toml"
+hash = "26395f9c35c10c270d22416008283efbcbacd16a2ddbe696ad15bac6026955fa"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "2f4a0f003ca0c35e4e363f4b8e5852c01d81456386e9ce7b80b1a913353ee39c"
+metafile = true
+
+[[files]]
+file = "mods/neat.toml"
+hash = "363d6aa44895fc1d1b0e28497f2b7eda4d0fd049194396939c662e3dc0df3752"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.toml"
+hash = "6864771b1db6485da50f8b2eef21f9a5944ae43b539d604b7bef11b5af8a8757"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "4fca5849d7a247cf5d1457945de96f0bf44618bfb6b2de21073dcef564bc2572"
+metafile = true
+
+[[files]]
+file = "mods/nicephore.toml"
+hash = "126043ac6257fd5a89a1a668900ee76f461ae834cc9ef0329559ebb56c72b357"
+metafile = true
+
+[[files]]
+file = "mods/no-tree-punching.toml"
+hash = "72a409d5de33e7fc7ac54e2712885d2c60ce4dd3decc581026ca516342854c5c"
+metafile = true
+
+[[files]]
+file = "mods/noel-christmas-mod.toml"
+hash = "e6081595485a177292a6a212846456a353c573214bf5e5b7c9629a5a1c9a8a43"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.toml"
+hash = "dbcabfb0b21b3901f68dcc2c6d4fca0cc0a1c7964d5bd373b8088272dd015ae3"
+metafile = true
+
+[[files]]
+file = "mods/nut-button.toml"
+hash = "d7f4b3c137c283e061b8f4b41500ee3b595ae5154316211d1e3b0732da8124a0"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.toml"
+hash = "34edc8b6bfe4c5d977a156d3a82f512ddad1cbda8cad7986e46571c4bc8ad80a"
+metafile = true
+
+[[files]]
+file = "mods/observable.toml"
+hash = "58af68595032b8dc97655acf8cdd7e3b5ca157acd14e6cb0217b67fa5bcaed8b"
+metafile = true
+
+[[files]]
+file = "mods/observerlib.toml"
+hash = "4832d69aabc7e0a41d45a820cab502700a00993c6735717bde3cb2a6a0c2e55c"
+metafile = true
+
+[[files]]
+file = "mods/online-picture-frame.toml"
+hash = "a0710f09afc0528603d0e73fb1667622b4711d282ef5bf9ed89fee75b4b8094d"
+metafile = true
+
+[[files]]
+file = "mods/orva-alarms.toml"
+hash = "e4de0c4abd4fa0ecca78c15252cfcc74e9e4bd0183b0fad23649d474d23e0c07"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "6ccbf83f1a1d5e0f68bf7b82ddfbf6aac114389b680e5ae9d0cfcf9b0e0175af"
+metafile = true
+
+[[files]]
+file = "mods/phi.toml"
+hash = "fd3ddac9703ee3aaa41ffe518c5cd893656c53fa87d6de61245e0f6514d41679"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.toml"
+hash = "d48e4c890b7d92137ade23049d7517c7d2617e16abf5eb3352a2a137795a13b0"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "703f9166e481fd2d4e2c7a0ecb11db6508729302ca7f9f20cdc9cbaedc19952c"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.toml"
+hash = "e4a425a4487c153a5d42b5174aa02ac51d8908cd6d7cb0947cb32c591be05d40"
+metafile = true
+
+[[files]]
+file = "mods/progressive-bosses.toml"
+hash = "74705cfdc3369a6a0c7254da093b3b858b1464a63c360bff2d66954ea955bda2"
+metafile = true
+
+[[files]]
+file = "mods/progressiveperipherals.toml"
+hash = "595a5592f244c219a4cd9ad0523ec6817590e1273b16f090ef79b6c5ad31099d"
+metafile = true
+
+[[files]]
+file = "mods/psi.toml"
+hash = "1d36b33cfbbdd31b2493628c00c67127b77044515e546873500da9d194c3f7f9"
+metafile = true
+
+[[files]]
+file = "mods/psionic-peripherals.toml"
+hash = "a9b89e7bcf9f3a20a9e9af59d36a9d2fbf6d8d1859ba752f04f833510bf84e64"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.toml"
+hash = "aaf9b75a46a572109babbe8a3a827417c00d0e565ffcb7ef89dd5ce9f10a0fa1"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "000ba1ffc92701aa07e17a140fa34ac3ccaab894cecd0926e3d05341234f1b5e"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.toml"
+hash = "e0ef646616594c72d923b2f21f3f5a6fec7bf04b5764f624d30fe59bb5b48c6c"
+metafile = true
+
+[[files]]
+file = "mods/rats-ratlantis.toml"
+hash = "20c7f1834953da9bd2093b286760ad8581a5e8bc61ecb9932bd56b2bcff36905"
+metafile = true
+
+[[files]]
+file = "mods/rats.toml"
+hash = "405a94a3eb8885f355632b7978cad63b32b5e14bd1ea33f252b379442a199dda"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.toml"
+hash = "5aa49dc12565ba5cc7522009688eb2bc140376e682fcb90c9983822822f3a574"
+metafile = true
+
+[[files]]
+file = "mods/reap-mod.toml"
+hash = "8f66a282ad13c8f4804a0935abde4740072fdf7c8073daf9e4fc4e0fdc16cba0"
+metafile = true
+
+[[files]]
+file = "mods/reauth.toml"
+hash = "9d0a725d5a4e2d31739b5e6b573be35532422a12765f6e5f9486fd92a5b63a5a"
+metafile = true
+
+[[files]]
+file = "mods/redstone-pen.toml"
+hash = "4ea286394fd6196f23461107f6e2e564103a15c9854b8e37d6c1636626023e85"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.toml"
+hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
+metafile = true
+
+[[files]]
+file = "mods/scannable.toml"
+hash = "e4b570012fe0191066941a19164f634e98576dcee8e31e5fa30cf277ad97b41b"
+metafile = true
+
+[[files]]
+file = "mods/scorge.toml"
+hash = "ff4982773107f22887cc12597689a82d26768716a9298df53832b42ed4b5109b"
+metafile = true
+
+[[files]]
+file = "mods/second-chance-forge.toml"
+hash = "89784b6d7f3f71af5307f93b9d805121329c86e12ef32e9e1b4e5f567b584dee"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.toml"
+hash = "1465f01ca603c876a813fa01a1946844c01f4d1f5e783944cd667194d4950341"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.toml"
+hash = "aa809217a57f673c3a0ca54d9d168085e1d775fad9d2f765854de0e094f6723f"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.toml"
+hash = "a5ce15f97ba121cdbc6adb7d6a910700ad6033b7d934788800ca6ff9993950b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "40dcf3747b1c93dad1966857255640145871f6ae8ca0f718e6541989be0801c2"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.toml"
+hash = "32201f7ec2b43a8153f1de37306f4c0acb6973ce4c4cfcc2bd7eb4625d3484ee"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.toml"
+hash = "1318b8f9bb90eba54dbb241fad54b978f2c935906bb4cdf3d4123e7eb7e715bb"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.toml"
+hash = "62731a1e839b2eefd7badef3eda44e9b5c8ed19dbb462c06edabd7115950dea2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.toml"
+hash = "520d3211eb92906f4f5e0577c9850bfb6ba2384409fe4181509119a29c599163"
+metafile = true
+
+[[files]]
+file = "mods/sound-filters.toml"
+hash = "a52ee767106b8347b0a24174286d1f6df15de4bcf3f9f49460b10bc8b12a60d3"
+metafile = true
+
+[[files]]
+file = "mods/spheric.toml"
+hash = "f86c1f50ebcd6f20d6bee9214881d442b310d61486c35c3324c9fff8084e52c5"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.toml"
+hash = "daf5931eaab3011e36359b250ca3761d852f3f6179f06cbd0eb4870fbf1f8630"
+metafile = true
+
+[[files]]
+file = "mods/structurize.toml"
+hash = "33dbb87825739503cd26aa2f11b13a83ea648185eae45176a120b8925fb3871c"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.toml"
+hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
+metafile = true
+
+[[files]]
+file = "mods/the-comfort-zone.toml"
+hash = "778df96523a831c010f2a847cd5c82d6b1b0c75c4d6a08c10d0bb063d1a16a46"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "014cdc116f1bce2406ad48177bdf7815a2162c2af0f21edeaaceb827d2cadeb0"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.toml"
+hash = "86169095b6cfee139fea6361b0019505aaaeec6f741228aa90cbabf45a61ca60"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "e372d2ff87c3a851afc9f4cd5275a63998c06bb71d694bb1c6030b830c119f79"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "0e02011cb14ae1ac0e1abbbda9e96ddb5b87dc77470b31132d24fa9f0087ea0f"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.toml"
+hash = "66e9821afd1ae3daf7c0f9b0e08b4d45bdf64b371203a8d6c3354a8cd6f9cacc"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.toml"
+hash = "aa49b2a9e032393799d85b357f4568f68ab0419f5b62e4d251d7d8b03a720ac5"
+metafile = true
+
+[[files]]
+file = "mods/throwability.toml"
+hash = "a29432cc0f5b85fd33df3674bcc124d859207a7206c753c16249aefeb2609183"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "29446569036494d01141577dfd3983c3c4d9154d9bc24c1d32809949b18bcd25"
+metafile = true
+
+[[files]]
+file = "mods/tiny-gates.toml"
+hash = "9bb4bacd75efec28c5839cf15b87a9be5a961e67059fc45a97670534acbb1aa7"
+metafile = true
+
+[[files]]
+file = "mods/tiny-redstone.toml"
+hash = "1cfdead99b2c32c55bca82ce80f901a87f16a6c6b794b9ec4ead385a1683b026"
+metafile = true
+
+[[files]]
+file = "mods/tis-3d.toml"
+hash = "a691d03abcf3295d6c25e552342f27e846864cfcb6f66ce0c62d27a0971ed797"
+metafile = true
+
+[[files]]
+file = "mods/titanium.toml"
+hash = "a5faa8c8fbfab799501f9b80fb7450d95dcf30bb1b696d3f5867a4f8a80a7815"
+metafile = true
+
+[[files]]
+file = "mods/total-darkness.toml"
+hash = "e04c6e9938102f41363e8a43e972fa870b131c82b43831102d809e6ed2308c98"
+metafile = true
+
+[[files]]
+file = "mods/trapcraft.toml"
+hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.toml"
+hash = "dab7fa0341c55cea7cbf98436b995cba49bfb1e2bff64cef163c72249c9e4ed2"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.toml"
+hash = "630f44e73cc459674ab1902d35271dbe6c534c0fbe9842e4028de425da285e8b"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.toml"
+hash = "0f4c4c9acdabc37764f4292bf71c7e807a17040e8d23f67f77cab92f2de778f0"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "e516af7105c4a5ad5089b6bda87c1348324169976e637b935ce8934edccd1521"
+metafile = true
+
+[[files]]
+file = "mods/waterworks.toml"
+hash = "215c58ceac4d70996d5d763160b23f1cc3506fa2ad8358b04716fea399f38a19"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-tweaks.toml"
+hash = "5161f689960bfaaf712d65e6a29171f34608d75110730f7e5e9f6f4da210b1cd"
+metafile = true
+
+[[files]]
+file = "mods/xplosives-mod.toml"
+hash = "474d492ff1f351f1d79200cd7f36db688e72d0fdf84e7472fc6fb6e2692699e1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "dc32a900014f072992599b39f01f9232ba183d4714c54bc3586309c5da7c5ab2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "9dcad50097c3bd89a9486979ba8806707218f7de917103eb9cceac95d878e009"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "816059b1cc418344fbfbe0b826ad72f6e965a861fbb1c5c4503bb7b6dea2d4b7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "7ceb888f8de7e735571200e033567dbca017c2f098ece1b07fc81c2b6d2c2ee8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
+metafile = true

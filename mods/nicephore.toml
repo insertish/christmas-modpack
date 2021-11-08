@@ -1,0 +1,13 @@
+name = "Nicephore (better screenshots) [Forge]"
+filename = "nicephore-1.16.x-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3318/114/nicephore-1.16.x-1.4.1.jar"
+hash-format = "murmur2"
+hash = "2960819231"
+
+[update]
+[update.curseforge]
+file-id = 3318114
+project-id = 401014

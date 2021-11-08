@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "Electrodynamics-1.16.5-0.4.0-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3328/9/Electrodynamics-1.16.5-0.4.0-1.jar"
+hash-format = "murmur2"
+hash = "1971599786"
+
+[update]
+[update.curseforge]
+file-id = 3328009
+project-id = 316867

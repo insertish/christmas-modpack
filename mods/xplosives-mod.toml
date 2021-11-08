@@ -1,0 +1,13 @@
+name = "Xplosives Mod"
+filename = "xplosives-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3454/610/xplosives-1.2.jar"
+hash-format = "murmur2"
+hash = "992988760"
+
+[update]
+[update.curseforge]
+file-id = 3454610
+project-id = 277137

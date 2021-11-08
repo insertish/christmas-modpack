@@ -1,0 +1,13 @@
+name = "Throwability"
+filename = "throwability-1.16.1-1.0.1.1-R.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/842/throwability-1.16.1-1.0.1.1-R.jar"
+hash-format = "murmur2"
+hash = "1155196408"
+
+[update]
+[update.curseforge]
+file-id = 3432842
+project-id = 507402

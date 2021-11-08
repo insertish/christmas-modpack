@@ -1,0 +1,13 @@
+name = "Reap Mod"
+filename = "reap-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3169/773/reap-1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1805693585"
+
+[update]
+[update.curseforge]
+file-id = 3169773
+project-id = 244256

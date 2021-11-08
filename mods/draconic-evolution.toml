@@ -1,0 +1,13 @@
+name = "Draconic Evolution"
+filename = "Draconic-Evolution-1.16.5-3.0.15.415-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3457/257/Draconic-Evolution-1.16.5-3.0.15.415-universal.jar"
+hash-format = "murmur2"
+hash = "1959543417"
+
+[update]
+[update.curseforge]
+file-id = 3457257
+project-id = 223565

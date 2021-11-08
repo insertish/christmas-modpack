@@ -1,0 +1,13 @@
+name = "Citadel"
+filename = "citadel-1.8.1-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3441/28/citadel-1.8.1-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1338246451"
+
+[update]
+[update.curseforge]
+file-id = 3441028
+project-id = 331936

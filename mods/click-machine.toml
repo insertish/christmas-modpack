@@ -1,0 +1,13 @@
+name = "Click Machine"
+filename = "ClickMachine-1.16.4-4.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3352/162/ClickMachine-1.16.4-4.4.0.jar"
+hash-format = "murmur2"
+hash = "2295436315"
+
+[update]
+[update.curseforge]
+file-id = 3352162
+project-id = 298275

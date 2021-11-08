@@ -1,0 +1,13 @@
+name = "Hard Softcore"
+filename = "SoftHardcore-r1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3404/522/SoftHardcore-r1.0.3.jar"
+hash-format = "murmur2"
+hash = "2886649867"
+
+[update]
+[update.curseforge]
+file-id = 3404522
+project-id = 506676

@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.16-5.0.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/861/mcjtylib-1.16-5.0.22.jar"
+hash-format = "murmur2"
+hash = "68474313"
+
+[update]
+[update.curseforge]
+file-id = 3402861
+project-id = 233105

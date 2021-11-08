@@ -1,0 +1,13 @@
+name = "Orva Alarms and Sirens 1.16.5/1.12.2"
+filename = "Orva Alarms 2.1 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/792/Orva Alarms 2.1 1.16.5.jar"
+hash-format = "murmur2"
+hash = "66882505"
+
+[update]
+[update.curseforge]
+file-id = 3426792
+project-id = 419734

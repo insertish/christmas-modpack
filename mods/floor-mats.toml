@@ -1,0 +1,13 @@
+name = "Floor Mats"
+filename = "floormats-1.16.5-v1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3443/778/floormats-1.16.5-v1.5.1.jar"
+hash-format = "murmur2"
+hash = "2171339015"
+
+[update]
+[update.curseforge]
+file-id = 3443778
+project-id = 413140

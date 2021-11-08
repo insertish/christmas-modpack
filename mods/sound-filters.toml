@@ -1,0 +1,13 @@
+name = "Sound Filters"
+filename = "SoundFilters-0.14_for_1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3039/955/SoundFilters-0.14_for_1.16.2.jar"
+hash-format = "murmur2"
+hash = "1188085335"
+
+[update]
+[update.curseforge]
+file-id = 3039955
+project-id = 222789

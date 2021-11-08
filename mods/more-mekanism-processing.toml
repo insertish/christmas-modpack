@@ -1,0 +1,13 @@
+name = "More Mekanism Processing"
+filename = "MoreMekanismProcessing-1.16.5-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3448/338/MoreMekanismProcessing-1.16.5-1.1.jar"
+hash-format = "murmur2"
+hash = "2512826640"
+
+[update]
+[update.curseforge]
+file-id = 3448338
+project-id = 511965

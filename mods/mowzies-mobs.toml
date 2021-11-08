@@ -1,0 +1,13 @@
+name = "Mowzie's Mobs"
+filename = "mowziesmobs-1.5.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3362/794/mowziesmobs-1.5.19.jar"
+hash-format = "murmur2"
+hash = "3860341341"
+
+[update]
+[update.curseforge]
+file-id = 3362794
+project-id = 250498

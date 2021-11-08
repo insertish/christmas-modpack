@@ -1,0 +1,13 @@
+name = "ProgressivePeripherals"
+filename = "progressiveperipherals-1.16.5-0.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3451/942/progressiveperipherals-1.16.5-0.0.11.jar"
+hash-format = "murmur2"
+hash = "2177363003"
+
+[update]
+[update.curseforge]
+file-id = 3451942
+project-id = 506252

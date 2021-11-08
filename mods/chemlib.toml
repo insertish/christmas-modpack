@@ -1,0 +1,13 @@
+name = "Chem Lib"
+filename = "chemlib-1.16.4-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3166/625/chemlib-1.16.4-1.jar"
+hash-format = "murmur2"
+hash = "3882142616"
+
+[update]
+[update.curseforge]
+file-id = 3166625
+project-id = 340666

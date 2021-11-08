@@ -1,0 +1,13 @@
+name = "Joshua's Christmas Mod"
+filename = "joshxmas-1.16.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3147/880/joshxmas-1.16.4-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2112760559"
+
+[update]
+[update.curseforge]
+file-id = 3147880
+project-id = 255459

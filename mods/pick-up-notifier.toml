@@ -1,0 +1,13 @@
+name = "Pick Up Notifier"
+filename = "PickUpNotifier-v1.2-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3066/596/PickUpNotifier-v1.2-1.16.3.jar"
+hash-format = "murmur2"
+hash = "1716857003"
+
+[update]
+[update.curseforge]
+file-id = 3066596
+project-id = 351441

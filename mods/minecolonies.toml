@@ -1,0 +1,13 @@
+name = "MineColonies"
+filename = "minecolonies-1.0.0-RELEASE-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3454/830/minecolonies-1.0.0-RELEASE-universal.jar"
+hash-format = "murmur2"
+hash = "1287515539"
+
+[update]
+[update.curseforge]
+file-id = 3454830
+project-id = 245506

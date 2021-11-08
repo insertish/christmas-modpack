@@ -1,0 +1,13 @@
+name = "FindMe"
+filename = "findme-1.16.3-2.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3297/137/findme-1.16.3-2.2.0.0.jar"
+hash-format = "murmur2"
+hash = "1009738247"
+
+[update]
+[update.curseforge]
+file-id = 3297137
+project-id = 291936

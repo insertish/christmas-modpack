@@ -1,0 +1,13 @@
+name = "Psi"
+filename = "Psi 1.16-95.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3385/312/Psi 1.16-95.jar"
+hash-format = "murmur2"
+hash = "3140514861"
+
+[update]
+[update.curseforge]
+file-id = 3385312
+project-id = 241665

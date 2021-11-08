@@ -1,0 +1,13 @@
+name = "Thermal Expansion"
+filename = "thermal_expansion-1.16.5-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3404/884/thermal_expansion-1.16.5-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2894410688"
+
+[update]
+[update.curseforge]
+file-id = 3404884
+project-id = 69163

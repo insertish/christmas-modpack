@@ -1,0 +1,13 @@
+name = "Christmas Server"
+author = "insert"
+version = "0.6.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a3169aa088d1542c3cc3f19ed3a9e005e175189da61889eafdca040590538121"
+
+[versions]
+forge = "36.2.4"
+minecraft = "1.16.5"

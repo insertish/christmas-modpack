@@ -1,0 +1,13 @@
+name = "Progressive Bosses"
+filename = "ProgressiveBosses-3.3.2-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3418/851/ProgressiveBosses-3.3.2-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "3792370200"
+
+[update]
+[update.curseforge]
+file-id = 3418851
+project-id = 289466

@@ -1,0 +1,13 @@
+name = "'Dustrial Decor"
+filename = "DustrialDecor-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/238/DustrialDecor-1.2.9.jar"
+hash-format = "murmur2"
+hash = "3685840737"
+
+[update]
+[update.curseforge]
+file-id = 3459238
+project-id = 401273

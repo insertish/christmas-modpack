@@ -1,0 +1,13 @@
+name = "Psionic Peripherals"
+filename = "psipherals-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3404/863/psipherals-1.4.1.jar"
+hash-format = "murmur2"
+hash = "3411433534"
+
+[update]
+[update.curseforge]
+file-id = 3404863
+project-id = 324813

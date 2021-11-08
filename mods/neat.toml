@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat 1.7-27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3182/258/Neat 1.7-27.jar"
+hash-format = "murmur2"
+hash = "191411038"
+
+[update]
+[update.curseforge]
+file-id = 3182258
+project-id = 238372

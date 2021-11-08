@@ -1,0 +1,13 @@
+name = "Demagnetize"
+filename = "demagnetize-forge-1.16.2-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/223/demagnetize-forge-1.16.2-1.2.2.jar"
+hash-format = "murmur2"
+hash = "2282712898"
+
+[update]
+[update.curseforge]
+file-id = 3033223
+project-id = 301356

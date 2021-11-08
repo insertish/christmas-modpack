@@ -1,0 +1,13 @@
+name = "DataFixerSlayer (improves RAM usage)"
+filename = "DataFixerSlayer 1.0-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3156/420/DataFixerSlayer 1.0-3.jar"
+hash-format = "murmur2"
+hash = "3846386954"
+
+[update]
+[update.curseforge]
+file-id = 3156420
+project-id = 416519

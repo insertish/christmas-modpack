@@ -1,0 +1,13 @@
+name = "NOEL - A Christmas Mod"
+filename = "noel-1.16.4-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3131/87/noel-1.16.4-1.5.0.jar"
+hash-format = "murmur2"
+hash = "2593557969"
+
+[update]
+[update.curseforge]
+file-id = 3131087
+project-id = 254455

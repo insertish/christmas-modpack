@@ -1,0 +1,13 @@
+name = "Morpheus"
+filename = "Morpheus-1.16.5-4.2.70.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3215/383/Morpheus-1.16.5-4.2.70.jar"
+hash-format = "murmur2"
+hash = "2731782916"
+
+[update]
+[update.curseforge]
+file-id = 3215383
+project-id = 69118

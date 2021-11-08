@@ -1,0 +1,13 @@
+name = "Menu Companions"
+filename = "MenuCompanions-v1.2.3-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3247/997/MenuCompanions-v1.2.3-1.16.5.jar"
+hash-format = "murmur2"
+hash = "873591258"
+
+[update]
+[update.curseforge]
+file-id = 3247997
+project-id = 410617

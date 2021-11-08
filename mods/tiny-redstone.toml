@@ -1,0 +1,13 @@
+name = "Tiny Redstone"
+filename = "tinyredstone-1.16.5-1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3455/770/tinyredstone-1.16.5-1.10.4.jar"
+hash-format = "murmur2"
+hash = "1631020997"
+
+[update]
+[update.curseforge]
+file-id = 3455770
+project-id = 453746

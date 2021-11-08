@@ -1,0 +1,13 @@
+name = "Small Ships"
+filename = "smallships-1.16.5-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3425/477/smallships-1.16.5-1.10.1.jar"
+hash-format = "murmur2"
+hash = "2526975144"
+
+[update]
+[update.curseforge]
+file-id = 3425477
+project-id = 450659

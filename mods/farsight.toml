@@ -1,0 +1,13 @@
+name = "Farsight"
+filename = "farsight-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/650/farsight-1.6.jar"
+hash-format = "murmur2"
+hash = "844992217"
+
+[update]
+[update.curseforge]
+file-id = 3431650
+project-id = 495693

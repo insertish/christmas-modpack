@@ -1,0 +1,13 @@
+name = "Balanced Enchanting"
+filename = "balancedenchanting-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3019/938/balancedenchanting-1.0.jar"
+hash-format = "murmur2"
+hash = "3592721516"
+
+[update]
+[update.curseforge]
+file-id = 3019938
+project-id = 399246

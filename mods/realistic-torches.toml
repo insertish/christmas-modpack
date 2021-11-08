@@ -1,0 +1,13 @@
+name = "Realistic Torches"
+filename = "RealisticTorches-1.16.5-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3191/715/RealisticTorches-1.16.5-3.1.2.jar"
+hash-format = "murmur2"
+hash = "868712241"
+
+[update]
+[update.curseforge]
+file-id = 3191715
+project-id = 235729

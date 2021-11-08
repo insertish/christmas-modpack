@@ -1,0 +1,13 @@
+name = "Coal Explosion"
+filename = "coalexplosion-1.16.5-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3439/19/coalexplosion-1.16.5-1.4.5.jar"
+hash-format = "murmur2"
+hash = "2539804562"
+
+[update]
+[update.curseforge]
+file-id = 3439019
+project-id = 410164

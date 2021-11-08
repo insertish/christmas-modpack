@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-1.16.5-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3310/670/car-1.16.5-1.0.17.jar"
+hash-format = "murmur2"
+hash = "1260914863"
+
+[update]
+[update.curseforge]
+file-id = 3310670
+project-id = 267458

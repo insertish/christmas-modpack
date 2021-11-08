@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.16.5-1.23.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3457/549/ars_nouveau-1.16.5-1.23.7.jar"
+hash-format = "murmur2"
+hash = "1159754528"
+
+[update]
+[update.curseforge]
+file-id = 3457549
+project-id = 401955

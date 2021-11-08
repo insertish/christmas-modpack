@@ -1,0 +1,13 @@
+name = "Finite Water & Infinite Lava"
+filename = "finitewater-3.1-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3068/377/finitewater-3.1-1.16.3.jar"
+hash-format = "murmur2"
+hash = "2575849118"
+
+[update]
+[update.curseforge]
+file-id = 3068377
+project-id = 353794

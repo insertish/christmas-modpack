@@ -1,0 +1,13 @@
+name = "Armor Toughness Bar"
+filename = "toughnessbar-6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3145/252/toughnessbar-6.1.jar"
+hash-format = "murmur2"
+hash = "3937597624"
+
+[update]
+[update.curseforge]
+file-id = 3145252
+project-id = 313816

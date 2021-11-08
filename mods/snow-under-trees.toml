@@ -1,0 +1,13 @@
+name = "Snow Under Trees"
+filename = "snowundertrees-1.16.5-v1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3446/932/snowundertrees-1.16.5-v1.2.jar"
+hash-format = "murmur2"
+hash = "1430424888"
+
+[update]
+[update.curseforge]
+file-id = 3446932
+project-id = 353942

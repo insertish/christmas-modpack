@@ -1,0 +1,13 @@
+name = "LibX"
+filename = "LibX-1.16.3-1.0.76.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/216/LibX-1.16.3-1.0.76.jar"
+hash-format = "murmur2"
+hash = "3832570968"
+
+[update]
+[update.curseforge]
+file-id = 3329216
+project-id = 412525

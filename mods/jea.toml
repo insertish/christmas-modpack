@@ -1,0 +1,13 @@
+name = "Just Enough Advancements (JEA)"
+filename = "JustEnoughAdvancements-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3300/267/JustEnoughAdvancements-1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3683728538"
+
+[update]
+[update.curseforge]
+file-id = 3300267
+project-id = 444941

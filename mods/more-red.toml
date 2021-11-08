@@ -1,0 +1,13 @@
+name = "More Red"
+filename = "morered-1.16.5-2.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3338/192/morered-1.16.5-2.1.1.0.jar"
+hash-format = "murmur2"
+hash = "3624573994"
+
+[update]
+[update.curseforge]
+file-id = 3338192
+project-id = 387638

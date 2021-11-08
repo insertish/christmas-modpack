@@ -1,0 +1,13 @@
+name = "Observable"
+filename = "observable-0.1.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/78/observable-0.1.3-forge.jar"
+hash-format = "murmur2"
+hash = "1611129670"
+
+[update]
+[update.curseforge]
+file-id = 3431078
+project-id = 509575

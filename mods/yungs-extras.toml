@@ -1,0 +1,13 @@
+name = "YUNG's Extras (Forge)"
+filename = "YungsExtras-Forge-1.16.4-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3303/283/YungsExtras-Forge-1.16.4-1.0.jar"
+hash-format = "murmur2"
+hash = "1257816973"
+
+[update]
+[update.curseforge]
+file-id = 3303283
+project-id = 480006

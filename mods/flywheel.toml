@@ -1,0 +1,13 @@
+name = "Flywheel"
+filename = "flywheel-1.16-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/392/flywheel-1.16-0.2.3.jar"
+hash-format = "murmur2"
+hash = "3063944626"
+
+[update]
+[update.curseforge]
+file-id = 3419392
+project-id = 486392

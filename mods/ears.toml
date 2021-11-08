@@ -1,0 +1,13 @@
+name = "Ears"
+filename = "ears-forge-1.16-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3440/607/ears-forge-1.16-1.2.3.jar"
+hash-format = "murmur2"
+hash = "3959350520"
+
+[update]
+[update.curseforge]
+file-id = 3440607
+project-id = 412013

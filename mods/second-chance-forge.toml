@@ -1,0 +1,13 @@
+name = "Second Chance (Forge)"
+filename = "secondchanceforge-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3410/55/secondchanceforge-1.2.0.jar"
+hash-format = "murmur2"
+hash = "3688027979"
+
+[update]
+[update.curseforge]
+file-id = 3410055
+project-id = 509239

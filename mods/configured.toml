@@ -1,0 +1,13 @@
+name = "Configured"
+filename = "configured-1.2.0-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3434/71/configured-1.2.0-1.16.3.jar"
+hash-format = "murmur2"
+hash = "895730471"
+
+[update]
+[update.curseforge]
+file-id = 3434071
+project-id = 457570

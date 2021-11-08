@@ -1,0 +1,13 @@
+name = "Hats"
+filename = "Hats-1.16.5-10.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/247/Hats-1.16.5-10.3.1.jar"
+hash-format = "murmur2"
+hash = "2728028008"
+
+[update]
+[update.curseforge]
+file-id = 3346247
+project-id = 229073

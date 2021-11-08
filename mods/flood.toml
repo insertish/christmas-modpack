@@ -1,0 +1,13 @@
+name = "Flood"
+filename = "Flood-1.16.5-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3401/74/Flood-1.16.5-0.1.jar"
+hash-format = "murmur2"
+hash = "2538487095"
+
+[update]
+[update.curseforge]
+file-id = 3401074
+project-id = 319156

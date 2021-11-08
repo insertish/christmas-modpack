@@ -1,0 +1,13 @@
+name = "Redstone Pen"
+filename = "redstonepen-1.16.5-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/960/redstonepen-1.16.5-1.0.6.jar"
+hash-format = "murmur2"
+hash = "2506627402"
+
+[update]
+[update.curseforge]
+file-id = 3348960
+project-id = 461710

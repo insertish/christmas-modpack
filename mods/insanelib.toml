@@ -1,0 +1,13 @@
+name = "InsaneLib"
+filename = "InsaneLib-1.2.1-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/48/InsaneLib-1.2.1-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "1077529644"
+
+[update]
+[update.curseforge]
+file-id = 3442048
+project-id = 465109

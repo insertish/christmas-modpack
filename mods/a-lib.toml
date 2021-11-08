@@ -1,0 +1,13 @@
+name = "A Lib"
+filename = "alib-1.16.4-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3166/674/alib-1.16.4-1.jar"
+hash-format = "murmur2"
+hash = "795114602"
+
+[update]
+[update.curseforge]
+file-id = 3166674
+project-id = 293426

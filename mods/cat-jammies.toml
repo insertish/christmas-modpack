@@ -1,0 +1,13 @@
+name = "Cat Jammies"
+filename = "catjammies-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3252/734/catjammies-1.1.0.jar"
+hash-format = "murmur2"
+hash = "797192788"
+
+[update]
+[update.curseforge]
+file-id = 3252734
+project-id = 430906

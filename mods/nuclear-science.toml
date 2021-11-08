@@ -1,0 +1,13 @@
+name = "Nuclear Science"
+filename = "Nuclear Science-1.16.5-0.3.0-0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3316/889/Nuclear Science-1.16.5-0.3.0-0.jar"
+hash-format = "murmur2"
+hash = "3089763988"
+
+[update]
+[update.curseforge]
+file-id = 3316889
+project-id = 318646

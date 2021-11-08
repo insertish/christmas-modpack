@@ -1,0 +1,13 @@
+name = "Chisel"
+filename = "Chisel-MC1.16.5-2.0.1-alpha.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3376/782/Chisel-MC1.16.5-2.0.1-alpha.4.jar"
+hash-format = "murmur2"
+hash = "1882005860"
+
+[update]
+[update.curseforge]
+file-id = 3376782
+project-id = 235279

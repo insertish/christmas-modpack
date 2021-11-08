@@ -1,0 +1,13 @@
+name = "Modern Online Picture Frame"
+filename = "OPF-1.16.X-v1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3221/381/OPF-1.16.X-v1.jar"
+hash-format = "murmur2"
+hash = "3855195212"
+
+[update]
+[update.curseforge]
+file-id = 3221381
+project-id = 428377

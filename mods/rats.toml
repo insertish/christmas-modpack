@@ -1,0 +1,13 @@
+name = "Rats"
+filename = "rats-7.2.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/810/rats-7.2.0-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1598472365"
+
+[update]
+[update.curseforge]
+file-id = 3319810
+project-id = 323596
