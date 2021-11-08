@@ -2823,7 +2823,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "c5bd3ab2a8fd452214a3de1373f6a40e31961f1d7c4c26d3091bd259ee63f8e5"
+hash = "d4f6a299c59b85246baa02c74837c1717dc8b45e13edf7c9d5a184886cff0b58"
 metafile = true
 
 [[files]]
