@@ -11,3 +11,8 @@ hash = "1828589442"
 [update.curseforge]
 file-id = 3191725
 project-id = 443034
+
+[option]
+default = true
+description = "Add camera rotation when moving, may want to disable this if you can get motion sick easily."
+optional = true
