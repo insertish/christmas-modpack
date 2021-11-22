@@ -166,11 +166,6 @@ hash = "3fbb4284e0fa040a88ff0f7a7e9db69a6bb52f8a07e5c267593b7c25c607c677"
 metafile = true
 
 [[files]]
-file = "mods/christmas-festivity.toml"
-hash = "4a9bf67394e8378a866b1fe0f3dcaaf685523b516c4accd2144c810e3e9eed9a"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.toml"
 hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
 metafile = true
