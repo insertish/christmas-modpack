@@ -2512,11 +2512,6 @@ hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.toml"
-hash = "3ca822b407602eae3e3354d124610843aac97bf69da0f8718a3fe2576e8d11af"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.toml"
 hash = "ba084332cfd430a544eefd160378bd44b4b6e00f92c827dc6031e60985170b98"
 metafile = true
