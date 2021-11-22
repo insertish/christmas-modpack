@@ -1,0 +1,13 @@
+name = "Chocolate Fix"
+filename = "chocolate-1.3.0-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3166/929/chocolate-1.3.0-1.16.4.jar"
+hash-format = "murmur2"
+hash = "312453768"
+
+[update]
+[update.curseforge]
+file-id = 3166929
+project-id = 416306

@@ -166,6 +166,11 @@ hash = "3fbb4284e0fa040a88ff0f7a7e9db69a6bb52f8a07e5c267593b7c25c607c677"
 metafile = true
 
 [[files]]
+file = "mods/chocolate-fix.toml"
+hash = "a3b298faa8a4819c601925dc230bd2529beed44403edc693bc25ab962041fc6a"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.toml"
 hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
 metafile = true
@@ -331,6 +336,11 @@ hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.toml"
+hash = "fa5e0c00a9cbaf63ec7011dba95488509ccb259d271d3ba3195831e3694eb873"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.toml"
 hash = "78e73336a0564e803848677d671e3299aa5ebb4e754935e30ae658bd66ea8554"
 metafile = true
@@ -356,6 +366,11 @@ hash = "b46aeed9311f6695b51660c3f7dc3c39e2f7b7e4da679a19021e73a91a451a65"
 metafile = true
 
 [[files]]
+file = "mods/entity-culling.toml"
+hash = "29204f2a923f74274ee13d3820e11d8138a2e6b946d5d5c3f7c4d0c02233ae6a"
+metafile = true
+
+[[files]]
 file = "mods/expandability.toml"
 hash = "f3df9ce553774d251913d175277cba6f4a37db5e3d0b72cdc815e11127bd85ca"
 metafile = true
@@ -368,6 +383,21 @@ metafile = true
 [[files]]
 file = "mods/farsight.toml"
 hash = "751118effcdb834b8bc7497de2f1bee8d53da1a6641fa9a8c9d92bb1bd2f2722"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace-minus-replacement.toml"
+hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench-minus-replacement.toml"
+hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
 
 [[files]]
@@ -2739,6 +2769,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.toml"
 hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.toml"
+hash = "d5df6c068c9f26e8a3eae90cc37da8bf20435ff38679b038cfb35130445df87b"
 metafile = true
 
 [[files]]
