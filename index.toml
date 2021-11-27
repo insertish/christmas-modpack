@@ -2808,7 +2808,7 @@ metafile = true
 
 [[files]]
 file = "mods/spheric.toml"
-hash = "f86c1f50ebcd6f20d6bee9214881d442b310d61486c35c3324c9fff8084e52c5"
+hash = "c73dfeb5148c0c4633efa41b17b868b6bf4da75bd3f71446d01e5fea500b7b23"
 metafile = true
 
 [[files]]
