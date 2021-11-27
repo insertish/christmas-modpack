@@ -11,3 +11,8 @@ hash = "2952406189"
 [update.curseforge]
 file-id = 3419985
 project-id = 255389
+
+[option]
+default = false
+description = "EnhancedVisuals provides a more immersive experience by adding effects to the HUD. (not recommended by me but someone wanted it)"
+optional = true
