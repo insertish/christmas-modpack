@@ -2662,6 +2662,11 @@ hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
 metafile = true
 
 [[files]]
+file = "mods/persistent-players.toml"
+hash = "27b47ae656bc510c4b0f8a5ec07c958fe2513c4993a8361be2afe10832baf032"
+metafile = true
+
+[[files]]
 file = "mods/phi.toml"
 hash = "ba5cb01796f9b371c02a791b3fda35dc33017ef2e0d0ac0e645c91f84b72d7b3"
 metafile = true
