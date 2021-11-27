@@ -131,11 +131,6 @@ hash = "bb576766c235be703dc89e56fcf310e90169754b95fc7bbb56d7d628fbcf6603"
 metafile = true
 
 [[files]]
-file = "mods/camera-overhaul-forge.toml"
-hash = "c8c72a53cfc28899f91b1f5a07ce166727fbeb91daf0455c72b01edabad8b3cc"
-metafile = true
-
-[[files]]
 file = "mods/cat-jammies.toml"
 hash = "684adb8b680012d88226587b66ee5b6344abea38c40224950de46806ac2c7426"
 metafile = true
@@ -343,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/engineers-decor.toml"
 hash = "464c7686f6a2080aad816794043d10c90bea1f52edf9da30eefecb9ae125ae2f"
-metafile = true
-
-[[files]]
-file = "mods/enhancedvisuals.toml"
-hash = "8a006b98353dd88e8fe1f0894cc855e938587fb9218773898b52d085fb6a503c"
 metafile = true
 
 [[files]]
