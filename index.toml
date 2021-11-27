@@ -2492,6 +2492,46 @@ hash = "607e1be5c2d0eed5ac2cd184398b6a50e1ea9964c9eb474780108c1cd6ab627b"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-biome-o-plenty.toml"
+hash = "ca9c8964a2bc2516b5d52f10fb06d6acb27b269e77a8c10ea64f252b416e0454"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.toml"
+hash = "1aa1049bc0c2c2abf632db87f3466c3d592c33fdafc1748ddbb13801b26e9f70"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.toml"
+hash = "f389a89931655fb5a62b9e839a4020867e9ab5970207f7b9869106fe510b8239"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.toml"
+hash = "aacb97f3f4d0f1c331ae85be2acff86699f94fbbf6435d85a86221595bb795e0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.toml"
+hash = "40f471ea932d374e6b51385de754de543e21ce52217a58dce46e42f1ca87e9d2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.toml"
+hash = "21a0e8318c48320517fd5d480fbf42c55903e2670ab0f606dd20d2b7e7892832"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.toml"
+hash = "179260172536378d3bbd72ee1b4bdca049abbef28c14a33952f12243541ddd45"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.toml"
+hash = "0cea76e821a951219479dd31de0cf6142be9ecaecd228daf49db0051f9e44ae8"
+metafile = true
+
+[[files]]
 file = "mods/mantle.toml"
 hash = "b6fc9d64f5205956b12652009515cffb990edf7af1d253f8691e2883b2fd52e6"
 metafile = true

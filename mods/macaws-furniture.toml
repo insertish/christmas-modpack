@@ -1,0 +1,13 @@
+name = "Macaw's Furniture"
+filename = "mcw-furniture-2.0.1-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3182/349/mcw-furniture-2.0.1-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "3652373917"
+
+[update]
+[update.curseforge]
+file-id = 3182349
+project-id = 359540
