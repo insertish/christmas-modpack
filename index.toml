@@ -71,8 +71,18 @@ hash = "f7170d4f5a319585990a100771af2ad03b98d13ba3427bb60351b262b14626b9"
 metafile = true
 
 [[files]]
+file = "mods/auto-restart.toml"
+hash = "7646c71aa20f946ff8486173b5e43ddaff9e9adf09d242a0c3b94c8db96a730e"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.toml"
+hash = "db8f43a8863d9ccfdba5614950fef5a0f87d3630d6389cc36ce746da8ad9b107"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ hash = "0f6f6c31dc03e3e04f50b4224442fbdd61f56fe80045235e48ab3541b89942f2"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.toml"
+hash = "ddcac5d7e9557e17b8955b2188667cb86dc0d563f981ddcead3864f88f2150a3"
+metafile = true
+
+[[files]]
 file = "mods/demagnetize.toml"
 hash = "aaa7d5ca3fc7b89358424403d2b8a9a7ea0e38534861dec9bc99c970c41be634"
 metafile = true
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.toml"
 hash = "8142fcf03778ce398dfa1a5fd94c04e84161c4ac577682d5248128d616967743"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.toml"
+hash = "ba331169ed09c972be6ce5ac3b35007077c30ccf116a1db618e100e633f9d197"
 metafile = true
 
 [[files]]
@@ -2397,6 +2417,11 @@ hash = "d7cb596bb9d05cac3096e940039730bd6ac10c16bdb76fa193b0d9251c416ed6"
 metafile = true
 
 [[files]]
+file = "mods/industrial-reborn.toml"
+hash = "3725e127aeeb315c7323eed0e55d6e168cc3486053661265819814da23998fdc"
+metafile = true
+
+[[files]]
 file = "mods/infernal-expansion.toml"
 hash = "a091d41e1bd5b2878660e0286a4dfbfaa52c935d649859b19eae6f0da0f70e59"
 metafile = true
@@ -2757,6 +2782,11 @@ hash = "d7b5990f1662278a9c326df55899054bfc5cdf8590e3395a99d66278d3035800"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-leave-join-notification.toml"
+hash = "b9d719a1d94da707ef9febe0074e0fe1329ea843e6201ac8d15fcc6a223b1c62"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.toml"
 hash = "aa809217a57f673c3a0ca54d9d168085e1d775fad9d2f765854de0e094f6723f"
 metafile = true
@@ -2809,6 +2839,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.toml"
 hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.toml"
+hash = "6bf9ea27218615c3ba4e634e7c1da215cfb57b2fca97481abe119cb6189f6e82"
 metafile = true
 
 [[files]]
@@ -2877,6 +2912,11 @@ hash = "d1b20e54df03d467558c39164d19ab729a739732c8073e04123b39d15431d33c"
 metafile = true
 
 [[files]]
+file = "mods/torchslabs-mod.toml"
+hash = "4fbb498343da2f773cc213522a50e9b574eb8145ddc4af9ce0b6e7778725e510"
+metafile = true
+
+[[files]]
 file = "mods/total-darkness.toml"
 hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
 metafile = true
@@ -2884,6 +2924,11 @@ metafile = true
 [[files]]
 file = "mods/trapcraft.toml"
 hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.toml"
+hash = "91c8824b9fbaba02b57ba41e93b751f69f4616c54eeeb203d77fe0737fae7e7f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Torch Slabs Mod"
+filename = "torchslabmod-1.16.4_v1.6.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3294/191/torchslabmod-1.16.4_v1.6.19.jar"
+hash-format = "murmur2"
+hash = "1236181627"
+
+[update]
+[update.curseforge]
+file-id = 3294191
+project-id = 355649

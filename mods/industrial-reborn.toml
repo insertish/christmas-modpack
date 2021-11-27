@@ -1,0 +1,13 @@
+name = "Industrial Reborn"
+filename = "Industrial-Reborn-1.16.3-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3076/845/Industrial-Reborn-1.16.3-0.9.1.jar"
+hash-format = "murmur2"
+hash = "2848179674"
+
+[update]
+[update.curseforge]
+file-id = 3076845
+project-id = 358877

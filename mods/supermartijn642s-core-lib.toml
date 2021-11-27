@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Core Lib"
+filename = "supermartijn642corelib-1.0.14a-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3528/744/supermartijn642corelib-1.0.14a-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "209564513"
+
+[update]
+[update.curseforge]
+file-id = 3528744
+project-id = 454372
