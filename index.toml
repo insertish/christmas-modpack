@@ -81,11 +81,6 @@ hash = "6ad1d42096ecd2ab17b7f780f54dbb0179c8a4c99963ec6687c09f91f9e5b0b3"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.toml"
-hash = "af6534c3924b4c9e15bfd95796dbc4fffe1316cf306afc496fe939ddbfebd97d"
-metafile = true
-
-[[files]]
 file = "mods/better-diving.toml"
 hash = "f3adca8d182e4379d2fa6db68b83131e21361e66613ef8d5a014905fe0986e8e"
 metafile = true
@@ -103,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "0e575eb8be48a3c5e3ebef0b7978575f2ffdb8870377baa93a47822abd66a180"
-metafile = true
-
-[[files]]
-file = "mods/blast-craft.toml"
-hash = "dd9e3defadec543f4c7ff688ce9c7d241b7259861d79270c2bcdf5e5122dca16"
 metafile = true
 
 [[files]]
@@ -353,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/eidolon.toml"
 hash = "f6c9520a0de1cdcc64d377f075e0698c61376c317f7122f8b522b180318130ef"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.toml"
-hash = "73bc7bce64f0730ad564abd75a62fa6e0afd31246afc93a47f7aad172d7a914a"
 metafile = true
 
 [[files]]
@@ -2644,11 +2629,6 @@ metafile = true
 [[files]]
 file = "mods/noel-christmas-mod.toml"
 hash = "e6081595485a177292a6a212846456a353c573214bf5e5b7c9629a5a1c9a8a43"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.toml"
-hash = "dbcabfb0b21b3901f68dcc2c6d4fca0cc0a1c7964d5bd373b8088272dd015ae3"
 metafile = true
 
 [[files]]
