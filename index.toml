@@ -20,6 +20,11 @@ hash = "82341b2dbc5c24d2ee50fd61a704526885e2bff5e2370c80cb14192ce0315537"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.toml"
+hash = "ff077112475cb469c371f5c7c595cd5c9e924250b2a6ffe5a72a3839f2d255f9"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.toml"
 hash = "417b9097f2754e37c6f4042ef0264ee0ef7bb25eca2bc033d530c20d7972268b"
 metafile = true
