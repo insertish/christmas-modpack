@@ -211,11 +211,6 @@ hash = "4d49df2cccb3df69cf167d1d5de17b6fbb4477e6af8f5b7ecf5c8235d68e5d96"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.toml"
-hash = "5e55ce8192417535a0c2a0395392089cf292afc72ef05e2e0b4c848bec151bbd"
-metafile = true
-
-[[files]]
 file = "mods/collective.toml"
 hash = "3a8261989f56d32f92dc0bf0dbf2b26df22c4f88b066cbf07eaf9b9b2b7f2b9f"
 metafile = true
@@ -2852,6 +2847,11 @@ hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
 metafile = true
 
 [[files]]
+file = "mods/survive.toml"
+hash = "cf61092aead3409cd1b16ce6c8da77e5250723b5765377feabdd451de3c4b438"
+metafile = true
+
+[[files]]
 file = "mods/the-comfort-zone.toml"
 hash = "bdb2a5271ed2298bf6cc8c04f71c5a457081de711b142b5fdddfe72ed8f4003c"
 metafile = true
@@ -2934,6 +2934,11 @@ metafile = true
 [[files]]
 file = "mods/ultimate-car-mod.toml"
 hash = "630f44e73cc459674ab1902d35271dbe6c534c0fbe9842e4028de425da285e8b"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.toml"
+hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "UnionLib"
+filename = "UnionLib-1.16.5-3.3.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/963/UnionLib-1.16.5-3.3.7.jar"
+hash-format = "murmur2"
+hash = "1351909435"
+
+[update]
+[update.curseforge]
+file-id = 3405963
+project-id = 367806
