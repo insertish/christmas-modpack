@@ -1,6 +1,6 @@
 name = "Simple Discord Webhook Leave/Join Notification"
 filename = "minecraft-plugin-join-notification-1.0-SNAPSHOT.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3344/241/minecraft-plugin-join-notification-1.0-SNAPSHOT.jar"

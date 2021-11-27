@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "ed6a0e39ab9e12f66decfc063ed42e90421a4605ba50beb97d55b8fd221a8d3e"
+
+[[files]]
 file = "mods/a-lib.toml"
 hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-restart.toml"
-hash = "7646c71aa20f946ff8486173b5e43ddaff9e9adf09d242a0c3b94c8db96a730e"
+hash = "7965503acb6bdb41da45f1ca7741b34ac64f8b34602581d3281a5ca01adc564d"
 metafile = true
 
 [[files]]
@@ -2823,7 +2827,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-leave-join-notification.toml"
-hash = "b9d719a1d94da707ef9febe0074e0fe1329ea843e6201ac8d15fcc6a223b1c62"
+hash = "c3bbb9a03231909bd8a8f422d8eab58d7e3d03bf9d9e8ad179f9e7fc42446d42"
 metafile = true
 
 [[files]]

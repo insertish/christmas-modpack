@@ -1,6 +1,6 @@
 name = "Auto Restart"
 filename = "AutoRestart-1.16.5-2.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3302/6/AutoRestart-1.16.5-2.0.0.jar"
