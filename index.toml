@@ -2662,6 +2662,11 @@ hash = "4832d69aabc7e0a41d45a820cab502700a00993c6735717bde3cb2a6a0c2e55c"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "e09e2f97155235c31987bd3eec350666cb94315daf1157497b2861bfd96494ea"
+metafile = true
+
+[[files]]
 file = "mods/online-picture-frame.toml"
 hash = "a0710f09afc0528603d0e73fb1667622b4711d282ef5bf9ed89fee75b4b8094d"
 metafile = true
@@ -2749,11 +2754,6 @@ metafile = true
 [[files]]
 file = "mods/reap-mod.toml"
 hash = "9d07d7d44e00c8d3af375a5e274b5a2a5211e2a1bff29e78906261b7da84661b"
-metafile = true
-
-[[files]]
-file = "mods/reauth.toml"
-hash = "f7139a9e38f9a42a9a07ba6f2a454744fc85594176f692af64e07001e135c14b"
 metafile = true
 
 [[files]]
