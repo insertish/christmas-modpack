@@ -296,11 +296,6 @@ hash = "aaa7d5ca3fc7b89358424403d2b8a9a7ea0e38534861dec9bc99c970c41be634"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.toml"
-hash = "4fcc5927344163cbfea3994b10d253ff851f2d4c22b5dc41cbf053fadfaefa68"
-metafile = true
-
-[[files]]
 file = "mods/dtbop.toml"
 hash = "0e140434d6e47a140b188716dc0a56be943be1e187184882ca4e7582ace0163a"
 metafile = true
