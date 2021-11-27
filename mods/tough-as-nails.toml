@@ -1,0 +1,13 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-1.16.5-4.1.0.9-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3430/873/ToughAsNails-1.16.5-4.1.0.9-universal.jar"
+hash-format = "murmur2"
+hash = "699816463"
+
+[update]
+[update.curseforge]
+file-id = 3430873
+project-id = 246391

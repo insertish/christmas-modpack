@@ -2832,11 +2832,6 @@ hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
 metafile = true
 
 [[files]]
-file = "mods/survive.toml"
-hash = "cf61092aead3409cd1b16ce6c8da77e5250723b5765377feabdd451de3c4b438"
-metafile = true
-
-[[files]]
 file = "mods/the-comfort-zone.toml"
 hash = "bdb2a5271ed2298bf6cc8c04f71c5a457081de711b142b5fdddfe72ed8f4003c"
 metafile = true
@@ -2904,6 +2899,11 @@ metafile = true
 [[files]]
 file = "mods/total-darkness.toml"
 hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.toml"
+hash = "9db7217320a926228cc8b104e9ed0914cc6bd53d3480e6419ae8194f178d7c74"
 metafile = true
 
 [[files]]
