@@ -1,6 +1,6 @@
 name = "CameraOverhaul (Forge)"
 filename = "cameraoverhaul-1.0-1.16.4.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3191/725/cameraoverhaul-1.0-1.16.4.jar"
