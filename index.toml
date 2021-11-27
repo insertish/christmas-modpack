@@ -80,11 +80,6 @@ hash = "f7170d4f5a319585990a100771af2ad03b98d13ba3427bb60351b262b14626b9"
 metafile = true
 
 [[files]]
-file = "mods/auto-restart.toml"
-hash = "7965503acb6bdb41da45f1ca7741b34ac64f8b34602581d3281a5ca01adc564d"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.toml"
 hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
@@ -2828,11 +2823,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.toml"
 hash = "d7b5990f1662278a9c326df55899054bfc5cdf8590e3395a99d66278d3035800"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-leave-join-notification.toml"
-hash = "c3bbb9a03231909bd8a8f422d8eab58d7e3d03bf9d9e8ad179f9e7fc42446d42"
 metafile = true
 
 [[files]]
