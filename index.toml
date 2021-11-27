@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-overhaul-forge.toml"
-hash = "c8c72a53cfc28899f91b1f5a07ce166727fbeb91daf0455c72b01edabad8b3cc"
+hash = "8eea559388f85e96384b82d521563382e986c172a0a0671d4758231bcdc8725c"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedvisuals.toml"
-hash = "b46aeed9311f6695b51660c3f7dc3c39e2f7b7e4da679a19021e73a91a451a65"
+hash = "8a006b98353dd88e8fe1f0894cc855e938587fb9218773898b52d085fb6a503c"
 metafile = true
 
 [[files]]
