@@ -2742,6 +2742,11 @@ hash = "1e25a73f54ced6a653ee72e0b114459ba75d6608ee72800b19fd83d3bc474eed"
 metafile = true
 
 [[files]]
+file = "mods/reliquary-v1-3.toml"
+hash = "a546407370bd5e8fe3b595c30f768a109006b47810c5a0eb178a243c5e7427bc"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.toml"
 hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Reliquary v1.3"
+filename = "reliquary-1.16.5-1.3.5.1100.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/285/reliquary-1.16.5-1.3.5.1100.jar"
+hash-format = "murmur2"
+hash = "2624437392"
+
+[update]
+[update.curseforge]
+file-id = 3361285
+project-id = 241319
