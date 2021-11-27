@@ -1,0 +1,13 @@
+name = "Eidolon"
+filename = "eidolon-0.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3157/832/eidolon-0.2.7.jar"
+hash-format = "murmur2"
+hash = "360156398"
+
+[update]
+[update.curseforge]
+file-id = 3157832
+project-id = 429625

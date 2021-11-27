@@ -96,6 +96,11 @@ hash = "0888ea1309085d0d065f5ec2cb72baa576da0d7badd5f52864e95b8d8ded7e4c"
 metafile = true
 
 [[files]]
+file = "mods/betterend-forge-port.toml"
+hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "0e575eb8be48a3c5e3ebef0b7978575f2ffdb8870377baa93a47822abd66a180"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "af9f240c8ba8b99b1204a72261bd45f8e1f51013c747a7824bfb7aeaf5bd56fb"
+metafile = true
+
+[[files]]
+file = "mods/eidolon.toml"
+hash = "f6c9520a0de1cdcc64d377f075e0698c61376c317f7122f8b522b180318130ef"
 metafile = true
 
 [[files]]
@@ -2644,6 +2654,11 @@ metafile = true
 [[files]]
 file = "mods/nut-button.toml"
 hash = "d7f4b3c137c283e061b8f4b41500ee3b595ae5154316211d1e3b0732da8124a0"
+metafile = true
+
+[[files]]
+file = "mods/oauth.toml"
+hash = "3a48625d9bd510a48613b275095079e27f5a38cf970626203dc4aa7df95abc74"
 metafile = true
 
 [[files]]
