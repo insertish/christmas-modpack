@@ -2597,11 +2597,6 @@ hash = "126043ac6257fd5a89a1a668900ee76f461ae834cc9ef0329559ebb56c72b357"
 metafile = true
 
 [[files]]
-file = "mods/no-tree-punching.toml"
-hash = "72a409d5de33e7fc7ac54e2712885d2c60ce4dd3decc581026ca516342854c5c"
-metafile = true
-
-[[files]]
 file = "mods/noel-christmas-mod.toml"
 hash = "e6081595485a177292a6a212846456a353c573214bf5e5b7c9629a5a1c9a8a43"
 metafile = true
