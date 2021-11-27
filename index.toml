@@ -2642,11 +2642,6 @@ hash = "4832d69aabc7e0a41d45a820cab502700a00993c6735717bde3cb2a6a0c2e55c"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go.toml"
-hash = "e09e2f97155235c31987bd3eec350666cb94315daf1157497b2861bfd96494ea"
-metafile = true
-
-[[files]]
 file = "mods/online-picture-frame.toml"
 hash = "a0710f09afc0528603d0e73fb1667622b4711d282ef5bf9ed89fee75b4b8094d"
 metafile = true
@@ -2812,11 +2807,6 @@ hash = "a52ee767106b8347b0a24174286d1f6df15de4bcf3f9f49460b10bc8b12a60d3"
 metafile = true
 
 [[files]]
-file = "mods/spheric.toml"
-hash = "c73dfeb5148c0c4633efa41b17b868b6bf4da75bd3f71446d01e5fea500b7b23"
-metafile = true
-
-[[files]]
 file = "mods/structure-gel-api.toml"
 hash = "d2bc6913bb43d9547ffd7fc7b87230f1abd5ca39b51ecd2e6334a0c4a8781e83"
 metafile = true
@@ -2899,11 +2889,6 @@ metafile = true
 [[files]]
 file = "mods/total-darkness.toml"
 hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
-metafile = true
-
-[[files]]
-file = "mods/tough-as-nails.toml"
-hash = "9db7217320a926228cc8b104e9ed0914cc6bd53d3480e6419ae8194f178d7c74"
 metafile = true
 
 [[files]]
