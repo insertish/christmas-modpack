@@ -2426,6 +2426,11 @@ hash = "3725e127aeeb315c7323eed0e55d6e168cc3486053661265819814da23998fdc"
 metafile = true
 
 [[files]]
+file = "mods/infernal-expansion.toml"
+hash = "a2ffb1ab729824b8d1f6dcb3270cf00aa3aeb3a67e547ce90421d71732a85398"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.toml"
 hash = "7795a1a7d33043f06bbf74ca44cf2c473f6dceec85b98eac6563d865bed6840b"
 metafile = true
@@ -2618,6 +2623,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-more-furniture-mod.toml"
+hash = "806be7dab47ada073301a92ec86a8efb24abeb45b1efb46eaff4afb2831e3f82"
 metafile = true
 
 [[files]]
