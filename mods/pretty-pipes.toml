@@ -1,0 +1,13 @@
+name = "Pretty Pipes"
+filename = "PrettyPipes-1.9.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/990/PrettyPipes-1.9.5.jar"
+hash-format = "murmur2"
+hash = "3727158791"
+
+[update]
+[update.curseforge]
+file-id = 3472990
+project-id = 376737

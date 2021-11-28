@@ -2726,6 +2726,16 @@ hash = "65134b2b67c2ac3ec8df64fff1416aea631d1c822fe63e2a643abcdb8bad0eb3"
 metafile = true
 
 [[files]]
+file = "mods/pretty-pipes-fluids.toml"
+hash = "e590bb7e80cb99f0849a68a4e0814caf73197b14b1ec1e0622c318ad6c6fbde8"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.toml"
+hash = "3b847c40789690e91ddae890ba04e3f2d3ecd304676f2bcefa04fed31a0dd75b"
+metafile = true
+
+[[files]]
 file = "mods/progressive-bosses.toml"
 hash = "9d386f075430a8455ee4c0101c6d7c88ed12fb27d6cb0bc6eb300beff7323f85"
 metafile = true
