@@ -295,6 +295,11 @@ hash = "074287ffef63abb5ceec1c8bde9f445ae110a6c7497172254c763267cba1cd34"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.toml"
+hash = "df714792f07e03387375655b1fa96389cdd1e4ac7dcb22633671197381a41e52"
+metafile = true
+
+[[files]]
 file = "mods/death-counter.toml"
 hash = "0f6f6c31dc03e3e04f50b4224442fbdd61f56fe80045235e48ab3541b89942f2"
 metafile = true
