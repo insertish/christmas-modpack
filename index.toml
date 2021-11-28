@@ -415,6 +415,11 @@ hash = "964b50698c50ca5a2fb91e1b7e09caa3aef53beb95a41e0656de11af29ec19b2"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.toml"
+hash = "4453d0966af8917e770ec5520accada23007d6162281985f3e907ea36b2e944e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.toml"
 hash = "8142fcf03778ce398dfa1a5fd94c04e84161c4ac577682d5248128d616967743"
 metafile = true
@@ -432,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/halogen.toml"
 hash = "53fe32c8984f3a0818b15390483ac8fa19fbd979804d6703c3b5bf20668f6ba3"
-metafile = true
-
-[[files]]
-file = "mods/hard-softcore.toml"
-hash = "80ee789930d35f6117b75c5728d28969600e67729a88ad45a07691bd20a3a556"
 metafile = true
 
 [[files]]
