@@ -1,0 +1,13 @@
+name = "Dismount Entity (Forge)"
+filename = "dismountentity_1.16.5-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/862/dismountentity_1.16.5-1.5.jar"
+hash-format = "murmur2"
+hash = "1460424776"
+
+[update]
+[update.curseforge]
+file-id = 3379862
+project-id = 348262

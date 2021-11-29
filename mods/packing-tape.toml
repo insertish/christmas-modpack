@@ -1,0 +1,13 @@
+name = "Packing Tape"
+filename = "PackingTape-1.16.5-0.10.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/691/PackingTape-1.16.5-0.10.1.jar"
+hash-format = "murmur2"
+hash = "2223477660"
+
+[update]
+[update.curseforge]
+file-id = 3397691
+project-id = 238659

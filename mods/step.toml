@@ -1,0 +1,13 @@
+name = "Step"
+filename = "step-1.16.4-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3223/291/step-1.16.4-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1727590857"
+
+[update]
+[update.curseforge]
+file-id = 3223291
+project-id = 374371

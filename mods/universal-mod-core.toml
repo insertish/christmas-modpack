@@ -1,0 +1,13 @@
+name = "Universal Mod Core"
+filename = "UniversalModCore-1.16.5-forge-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3427/254/UniversalModCore-1.16.5-forge-1.1.3.jar"
+hash-format = "murmur2"
+hash = "4046705346"
+
+[update]
+[update.curseforge]
+file-id = 3427254
+project-id = 371784

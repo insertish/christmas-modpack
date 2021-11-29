@@ -1,0 +1,13 @@
+name = "Better Burning"
+filename = "BetterBurning-1.16.5-6.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/573/BetterBurning-1.16.5-6.0.7.jar"
+hash-format = "murmur2"
+hash = "1587881114"
+
+[update]
+[update.curseforge]
+file-id = 3348573
+project-id = 353434

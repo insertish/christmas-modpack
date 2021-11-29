@@ -1,0 +1,13 @@
+name = "Scuba Gear"
+filename = "scuba-gear-1.16.5-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3243/305/scuba-gear-1.16.5-1.0.3.jar"
+hash-format = "murmur2"
+hash = "2510305140"
+
+[update]
+[update.curseforge]
+file-id = 3243305
+project-id = 399090

@@ -1,0 +1,13 @@
+name = "Spawner Head"
+filename = "spawnerhead-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3449/327/spawnerhead-1.1.jar"
+hash-format = "murmur2"
+hash = "1074412797"
+
+[update]
+[update.curseforge]
+file-id = 3449327
+project-id = 522339

@@ -1,0 +1,13 @@
+name = "Lava Monsters"
+filename = "lava-monster-1.16.4-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/352/lava-monster-1.16.4-1.0.9.jar"
+hash-format = "murmur2"
+hash = "461614105"
+
+[update]
+[update.curseforge]
+file-id = 3100352
+project-id = 60329

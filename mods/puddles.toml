@@ -1,0 +1,13 @@
+name = "Puddles"
+filename = "puddles-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3445/621/puddles-3.0.0.jar"
+hash-format = "murmur2"
+hash = "3078844389"
+
+[update]
+[update.curseforge]
+file-id = 3445621
+project-id = 312039

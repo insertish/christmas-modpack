@@ -1,0 +1,13 @@
+name = "Blur"
+filename = "Blur-1.1.0-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3271/923/Blur-1.1.0-1.jar"
+hash-format = "murmur2"
+hash = "2289402510"
+
+[update]
+[update.curseforge]
+file-id = 3271923
+project-id = 268324

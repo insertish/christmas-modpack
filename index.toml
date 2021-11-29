@@ -95,6 +95,11 @@ hash = "6ad1d42096ecd2ab17b7f780f54dbb0179c8a4c99963ec6687c09f91f9e5b0b3"
 metafile = true
 
 [[files]]
+file = "mods/better-burning.toml"
+hash = "a52a87162dc1100f8aa2305462d83eb8cebc36ee8705ee68345ebcb130ada97f"
+metafile = true
+
+[[files]]
 file = "mods/better-diving.toml"
 hash = "f3adca8d182e4379d2fa6db68b83131e21361e66613ef8d5a014905fe0986e8e"
 metafile = true
@@ -125,8 +130,18 @@ hash = "b130651e2273cba439cbdcb9d7625d28e2ee105812677e53fcb0693c5ae862f4"
 metafile = true
 
 [[files]]
+file = "mods/blue-skies.toml"
+hash = "7ed82426578da1ce836b9be007e0c2bd95249dafd2599edd4f7d33b8349486a0"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.toml"
 hash = "280f7ad1869fdf7c07153975036a85e58a2c30747fb85c544a1d2fb39f6b801d"
+metafile = true
+
+[[files]]
+file = "mods/blur.toml"
+hash = "4db4a2850af880cb951ebd51fa035ccc691cf4ed5ace2f305b39e0070f7ab503"
 metafile = true
 
 [[files]]
@@ -167,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/chemlib.toml"
 hash = "f67c2170e384300fb9d77afb3d7c45c25c9c6671d092dfc5522f1561244a1424"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.toml"
+hash = "0885b1fc485d483e41c10dab45e5451c8d5da3f00b54677c145c6e40906c98d0"
 metafile = true
 
 [[files]]
@@ -265,6 +285,11 @@ hash = "520a38dabd41115dd6d6bad0267315de9bc4726acba62edda6e5e60d625da91c"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.toml"
+hash = "40b007f7114938d1d86851ec346fe31e877aeb0ba83474435fa83d3af200920b"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -295,6 +320,11 @@ hash = "950ca5d70d522432663f3fc18ca977c11a09198fe587727c3251eb321863a1fc"
 metafile = true
 
 [[files]]
+file = "mods/dash.toml"
+hash = "89a97647c814aee4f2d77965524a0b33b3fb7070de3b552daafbce7a4cb67bde"
+metafile = true
+
+[[files]]
 file = "mods/datafixerslayer.toml"
 hash = "074287ffef63abb5ceec1c8bde9f445ae110a6c7497172254c763267cba1cd34"
 metafile = true
@@ -317,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/demagnetize.toml"
 hash = "aaa7d5ca3fc7b89358424403d2b8a9a7ea0e38534861dec9bc99c970c41be634"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.toml"
+hash = "19649f31bdc246f50660614b5eeca1316d4de962411bbee3311a4ee214b5cb52"
 metafile = true
 
 [[files]]
@@ -2436,6 +2471,11 @@ hash = "5405819b87cc2bfae1dc09bb861340a2f065020527610b0622694cd5150f75c5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-railroading.toml"
+hash = "13f2dc8c9ee1b23eda7ee1e73411fc7141202701e1bb6c6997857b6663e8a7e6"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.toml"
 hash = "d7cb596bb9d05cac3096e940039730bd6ac10c16bdb76fa193b0d9251c416ed6"
 metafile = true
@@ -2498,6 +2538,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.toml"
 hash = "cba47dc8cf583dcdf2c2692f3696a76d0f613806e337068d0dc861d4cccec8d5"
+metafile = true
+
+[[files]]
+file = "mods/lava-monsters.toml"
+hash = "e5864fe1e517a2caf7cd2bdc901972f397b81b497ba6bf87f8fbaafcb6718613"
+metafile = true
+
+[[files]]
+file = "mods/leap.toml"
+hash = "8cd281a64731c481bb3997f865c1c018430893e5c3fa2370c0f1be37db5111db"
 metafile = true
 
 [[files]]
@@ -2593,6 +2643,16 @@ metafile = true
 [[files]]
 file = "mods/menu-companions.toml"
 hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
+metafile = true
+
+[[files]]
+file = "mods/miners-helmet.toml"
+hash = "bce297ece6c9c32b58e54e1b9fbaec9cc10bb1a9edae0b9eed1940715b57e017"
+metafile = true
+
+[[files]]
+file = "mods/minicoal.toml"
+hash = "035ffa01f9ae7b9539da395bcc224b36a55d73e3a8115e42804844e8f3a01031"
 metafile = true
 
 [[files]]
@@ -2726,6 +2786,11 @@ hash = "e4de0c4abd4fa0ecca78c15252cfcc74e9e4bd0183b0fad23649d474d23e0c07"
 metafile = true
 
 [[files]]
+file = "mods/packing-tape.toml"
+hash = "e0150e6e3169c50e3d2a02674bd6cace401ff0c34f853a8906b9e7dd65b92949"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
 metafile = true
@@ -2781,6 +2846,11 @@ hash = "595a5592f244c219a4cd9ad0523ec6817590e1273b16f090ef79b6c5ad31099d"
 metafile = true
 
 [[files]]
+file = "mods/project-vibrant-journeys.toml"
+hash = "c93a86d888eae6c829d3761f1957c7bf8083549e7ba25e032939385e756e6475"
+metafile = true
+
+[[files]]
 file = "mods/psi.toml"
 hash = "f5292434c5c0b7a8a6a802d90377345da4ad6586bc112ee5d9a5c92b8c229bd2"
 metafile = true
@@ -2791,6 +2861,11 @@ hash = "a9b89e7bcf9f3a20a9e9af59d36a9d2fbf6d8d1859ba752f04f833510bf84e64"
 metafile = true
 
 [[files]]
+file = "mods/puddles.toml"
+hash = "2a1564a6520987b5d46a8e6cd971920791ce67bcefdc23acca9bc0a1eb630bb3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.toml"
 hash = "b2c9e0dcffeefeaaef5a1f9699c128707f34dcf2c1b65dc7bed343805434336e"
 metafile = true
@@ -2798,6 +2873,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "c2aeaa953798cb30f6ffd8fb71e26e3346df46a57ea057730f993d7ba96873ae"
+metafile = true
+
+[[files]]
+file = "mods/randomite-classic.toml"
+hash = "fc5a3ceedd8322ae51b370f81217a7fcc6564717df596938a2376bbc6bde3b84"
 metafile = true
 
 [[files]]
@@ -2861,6 +2941,11 @@ hash = "ff4982773107f22887cc12597689a82d26768716a9298df53832b42ed4b5109b"
 metafile = true
 
 [[files]]
+file = "mods/scuba-gear.toml"
+hash = "b3c1b761f1fb11814d05c358ca283c35e404b31a97d90a076426c4c993f1aa32"
+metafile = true
+
+[[files]]
 file = "mods/second-chance-forge.toml"
 hash = "89784b6d7f3f71af5307f93b9d805121329c86e12ef32e9e1b4e5f567b584dee"
 metafile = true
@@ -2918,6 +3003,16 @@ metafile = true
 [[files]]
 file = "mods/spartan-shields.toml"
 hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
+metafile = true
+
+[[files]]
+file = "mods/spawner-head.toml"
+hash = "185510682a513749e260bd4f235af4c304b8d4ff5dce933c8256e370c154686b"
+metafile = true
+
+[[files]]
+file = "mods/step.toml"
+hash = "dcb084118a82eac4c512468f0191690cf312f3397e7df9ac0a06f7c4e399a157"
 metafile = true
 
 [[files]]
@@ -3021,6 +3116,11 @@ hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
 metafile = true
 
 [[files]]
+file = "mods/track-api.toml"
+hash = "f07436c9f51c261b324ca7aed33b6faf3bca15b26c8e8942247d0e31b447cd75"
+metafile = true
+
+[[files]]
 file = "mods/trapcraft.toml"
 hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
 metafile = true
@@ -3048,6 +3148,11 @@ metafile = true
 [[files]]
 file = "mods/unionlib.toml"
 hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.toml"
+hash = "d20e4bee8c82a3e80a00d3af665eeb08062cd3e067e78625c867120dc51ab8f3"
 metafile = true
 
 [[files]]

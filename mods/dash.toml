@@ -1,0 +1,13 @@
+name = "Dash"
+filename = "dash-1.16.4-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/345/dash-1.16.4-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2892068857"
+
+[update]
+[update.curseforge]
+file-id = 3100345
+project-id = 370782
