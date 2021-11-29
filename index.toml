@@ -370,11 +370,6 @@ hash = "068949389a1deedf679fc752807d239a1bbb7b2351f2213d3d424ba5939d8edf"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.toml"
-hash = "1c5a21bab493771a0fa720e33db125a35f80a679aef052dd763911ca47a46c6c"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-surroundings.toml"
 hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
 metafile = true
@@ -487,11 +482,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "843a1e3292b21d8ffdb859307fdfa21baf99acd3442b404e1f2b873855af6065"
-metafile = true
-
-[[files]]
-file = "mods/halogen.toml"
-hash = "53fe32c8984f3a0818b15390483ac8fa19fbd979804d6703c3b5bf20668f6ba3"
 metafile = true
 
 [[files]]
