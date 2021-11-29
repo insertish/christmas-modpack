@@ -1,8 +1,14 @@
+# Christmas Server Modpack
+
 ## Applied Patches
 
 - Disabled Quark's "Automatic Recipe Unlock" tweak.
 
   This would cause the server to hang between 30 seconds to over 60 seconds causing server to crash.
+
+- Disable Optifine nag screen in Twilight Forest.
+
+  This modpack is intended for a server, OF shouldn't mess with worldgen.
 
 ## Additional Configuration
 
