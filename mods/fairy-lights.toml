@@ -1,0 +1,13 @@
+name = "Fairy Lights"
+filename = "fairylights-4.0.5-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3216/206/fairylights-4.0.5-1.16.5.jar"
+hash-format = "murmur2"
+hash = "3960214111"
+
+[update]
+[update.curseforge]
+file-id = 3216206
+project-id = 233342

@@ -10,6 +10,11 @@ hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.toml"
+hash = "524ac9eb8350d1156acc060be2f2a924e95420935633dc30270a8c2e252552e8"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.toml"
 hash = "59c81b1fb46402b93f5706749c92f80d9723b4a20955cb73dc72a96109d62408"
 metafile = true
@@ -380,6 +385,11 @@ hash = "f3df9ce553774d251913d175277cba6f4a37db5e3d0b72cdc815e11127bd85ca"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.toml"
+hash = "6d7bc0a6d1da03c3586b0ff331de0e89b385c0bbb553e369f565d08e831a4a06"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-forge.toml"
 hash = "022a264e9e089c72e38f9016d9c1582f46dfd4f3f9de83eb81f1af6cfb144cf2"
 metafile = true
@@ -422,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.toml"
 hash = "964b50698c50ca5a2fb91e1b7e09caa3aef53beb95a41e0656de11af29ec19b2"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.toml"
+hash = "f38eabfbbd86bcc171abe2b6298c5f1326286bfcf82f99ec45f972c65bc9b878"
 metafile = true
 
 [[files]]
@@ -2746,6 +2761,11 @@ hash = "65134b2b67c2ac3ec8df64fff1416aea631d1c822fe63e2a643abcdb8bad0eb3"
 metafile = true
 
 [[files]]
+file = "mods/pollution-of-the-realms.toml"
+hash = "126fca56d6b5970587ffc01097ccafb9b49c828ec7901fa5e1153aa660dbe179"
+metafile = true
+
+[[files]]
 file = "mods/pretty-pipes-fluids.toml"
 hash = "e590bb7e80cb99f0849a68a4e0814caf73197b14b1ec1e0622c318ad6c6fbde8"
 metafile = true
@@ -2757,7 +2777,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressive-bosses.toml"
-hash = "9d386f075430a8455ee4c0101c6d7c88ed12fb27d6cb0bc6eb300beff7323f85"
+hash = "c46f813d6cd2ef8bf09583e1acd717557a5b969edb9f0a9dfbf406ac491cdacf"
 metafile = true
 
 [[files]]

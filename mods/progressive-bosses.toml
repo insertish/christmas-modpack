@@ -1,13 +1,13 @@
 name = "Progressive Bosses"
-filename = "ProgressiveBosses-Alpha-3.4.0-mc1.16.5.jar"
+filename = "ProgressiveBosses-3.4.1-mc1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3518/244/ProgressiveBosses-Alpha-3.4.0-mc1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3536/765/ProgressiveBosses-3.4.1-mc1.16.5.jar"
 hash-format = "murmur2"
-hash = "3904961842"
+hash = "1468931562"
 
 [update]
 [update.curseforge]
-file-id = 3518244
+file-id = 3536765
 project-id = 289466

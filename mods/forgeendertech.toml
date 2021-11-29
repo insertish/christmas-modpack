@@ -1,0 +1,13 @@
+name = "ForgeEndertech"
+filename = "ForgeEndertech-1.16.5-7.2.2.0-build.0202.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3529/333/ForgeEndertech-1.16.5-7.2.2.0-build.0202.jar"
+hash-format = "murmur2"
+hash = "3306933816"
+
+[update]
+[update.curseforge]
+file-id = 3529333
+project-id = 244844

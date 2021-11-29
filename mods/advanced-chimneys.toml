@@ -1,0 +1,13 @@
+name = "Advanced Chimneys"
+filename = "AdChimneys-1.16.5-6.0.12.2-build.0191.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3523/963/AdChimneys-1.16.5-6.0.12.2-build.0191.jar"
+hash-format = "murmur2"
+hash = "3221390257"
+
+[update]
+[update.curseforge]
+file-id = 3523963
+project-id = 244830

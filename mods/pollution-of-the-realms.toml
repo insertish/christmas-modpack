@@ -1,0 +1,13 @@
+name = "Pollution of the Realms"
+filename = "AdPother-1.16.5-4.1.2.0-build.0189.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3521/271/AdPother-1.16.5-4.1.2.0-build.0189.jar"
+hash-format = "murmur2"
+hash = "3150622714"
+
+[update]
+[update.curseforge]
+file-id = 3521271
+project-id = 269973
