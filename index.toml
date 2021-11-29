@@ -2516,6 +2516,11 @@ hash = "f8a58cc4933231a1d115be9b3a5edad2027614b15403dae8d27fda623282e1ad"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "b1ad499364683d41dfcc4d7e63f75bf1939f8d8fd3d663af26f9103d9245571e"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.toml"
 hash = "0efbc0aba038960e7f55d143943dc3ae7c8b4c44d6305e7d0637aadbbbefb401"
 metafile = true
