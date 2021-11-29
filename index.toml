@@ -110,6 +110,11 @@ hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
 metafile = true
 
 [[files]]
+file = "mods/bigbuckets.toml"
+hash = "73df62bcaca4bd442077aff4d9aa0f9342e6670ced93221998f3a30a83cfa484"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "0e575eb8be48a3c5e3ebef0b7978575f2ffdb8870377baa93a47822abd66a180"
 metafile = true

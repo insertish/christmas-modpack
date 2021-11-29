@@ -1,0 +1,13 @@
+name = "Big Buckets"
+filename = "bigbuckets-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3130/911/bigbuckets-1.1.5.jar"
+hash-format = "murmur2"
+hash = "581187471"
+
+[update]
+[update.curseforge]
+file-id = 3130911
+project-id = 351856
