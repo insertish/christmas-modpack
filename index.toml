@@ -2457,7 +2457,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.toml"
-hash = "7795a1a7d33043f06bbf74ca44cf2c473f6dceec85b98eac6563d865bed6840b"
+hash = "5f7dfce5c654638fab99946437724b838993fd845f3f8c3d9b59287d9e5093e6"
 metafile = true
 
 [[files]]
