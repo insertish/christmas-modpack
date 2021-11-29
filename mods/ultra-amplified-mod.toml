@@ -1,0 +1,13 @@
+name = "Ultra Amplified Dimension (Forge)"
+filename = "ultra_amplified_dimension-1.16.5-9.2.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3531/845/ultra_amplified_dimension-1.16.5-9.2.6-forge.jar"
+hash-format = "murmur2"
+hash = "1401814147"
+
+[update]
+[update.curseforge]
+file-id = 3531845
+project-id = 296449

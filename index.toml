@@ -3011,6 +3011,11 @@ hash = "630f44e73cc459674ab1902d35271dbe6c534c0fbe9842e4028de425da285e8b"
 metafile = true
 
 [[files]]
+file = "mods/ultra-amplified-mod.toml"
+hash = "0a59661468f53a392e378b3fcbad79cb9f5256e416078fa19406c79f8d49fb3f"
+metafile = true
+
+[[files]]
 file = "mods/unionlib.toml"
 hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
 metafile = true
