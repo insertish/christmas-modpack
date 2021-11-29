@@ -2826,6 +2826,11 @@ hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
 metafile = true
 
 [[files]]
+file = "mods/savage-and-ravage.toml"
+hash = "e2c9f43a649ddbd5c8b63a9b1104252b59ea45d832c80cca975542bd4a854240"
+metafile = true
+
+[[files]]
 file = "mods/scannable.toml"
 hash = "e4b570012fe0191066941a19164f634e98576dcee8e31e5fa30cf277ad97b41b"
 metafile = true
