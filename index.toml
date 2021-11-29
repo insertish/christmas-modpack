@@ -2821,6 +2821,11 @@ hash = "a546407370bd5e8fe3b595c30f768a109006b47810c5a0eb178a243c5e7427bc"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures.toml"
+hash = "a3dc934f76f41daa0d5b8aa9ca274789ffe308379fa69ff5730ad693c4522cdd"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.toml"
 hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
 metafile = true
