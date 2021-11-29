@@ -5,6 +5,14 @@ file = "config/quark-common.toml"
 hash = "ed6a0e39ab9e12f66decfc063ed42e90421a4605ba50beb97d55b8fd221a8d3e"
 
 [[files]]
+file = "config/twilightforest-client.toml"
+hash = "5d39477cadb1a8f194b179378dbbc702fc28caa2aa48a355fd570020c6d2c9e6"
+
+[[files]]
+file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
+hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
+
+[[files]]
 file = "mods/a-lib.toml"
 hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
