@@ -1,6 +1,6 @@
 name = "First-person Model (Forge/Fabric)"
 filename = "FirstPersonMod-2.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3296/12/FirstPersonMod-2.0.1.jar"

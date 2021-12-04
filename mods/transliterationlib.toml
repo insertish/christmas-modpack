@@ -1,6 +1,6 @@
 name = "TRansliterationLib"
 filename = "TRansliterationLib-1.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3251/51/TRansliterationLib-1.0.4.jar"

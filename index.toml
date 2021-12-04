@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.toml"
-hash = "40e5824ca7e93991cd7bc5e0f3b2fa6df98deccecfa627cd50f2d7211cd54d99"
+hash = "9b97acbe32e0ad2811f95571c50b494a40a0b1744fa8ebd7abcdb43ad6f30186"
 metafile = true
 
 [[files]]
@@ -3255,7 +3255,7 @@ metafile = true
 
 [[files]]
 file = "mods/transliterationlib.toml"
-hash = "0b8c655db985df657fc836a08e18d695355dcd478ab4d3fab7c3d065bab0943d"
+hash = "8da02a36af6641dff0cfc31713b29613aff0dff76c21035d9e9e5f26976b3eb0"
 metafile = true
 
 [[files]]
