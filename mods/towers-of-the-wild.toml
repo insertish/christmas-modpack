@@ -1,0 +1,13 @@
+name = "Towers Of The Wild"
+filename = "towers_of_the_wild-1.16.4-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3103/750/towers_of_the_wild-1.16.4-2.0.1.jar"
+hash-format = "murmur2"
+hash = "2289824670"
+
+[update]
+[update.curseforge]
+file-id = 3103750
+project-id = 386415

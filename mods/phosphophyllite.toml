@@ -1,0 +1,13 @@
+name = "Phosphophyllite"
+filename = "phosphophyllite-1.16.5-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/407/phosphophyllite-1.16.5-0.5.1.jar"
+hash-format = "murmur2"
+hash = "1682093934"
+
+[update]
+[update.curseforge]
+file-id = 3397407
+project-id = 412551

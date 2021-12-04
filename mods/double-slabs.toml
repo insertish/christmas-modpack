@@ -1,0 +1,13 @@
+name = "Double Slabs"
+filename = "DoubleSlabs-1.16-3.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3474/792/DoubleSlabs-1.16-3.7.2.jar"
+hash-format = "murmur2"
+hash = "2949249946"
+
+[update]
+[update.curseforge]
+file-id = 3474792
+project-id = 350179

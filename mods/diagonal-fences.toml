@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v1.1.1-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3364/147/DiagonalFences-v1.1.1-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2480785486"
+
+[update]
+[update.curseforge]
+file-id = 3364147
+project-id = 458048

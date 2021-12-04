@@ -1,0 +1,13 @@
+name = "Enchanted Book Redesign"
+filename = "enchantedbookredesign-3.3-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3239/927/enchantedbookredesign-3.3-1.16.4.jar"
+hash-format = "murmur2"
+hash = "1213078011"
+
+[update]
+[update.curseforge]
+file-id = 3239927
+project-id = 348076

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "FeaturedServers/featuredservers.json"
+hash = "dd50ad2506d519bc4213b0c9e72142b0c4b70a66eaf116f0d379be94b139e40b"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "ed6a0e39ab9e12f66decfc063ed42e90421a4605ba50beb97d55b8fd221a8d3e"
 
@@ -128,6 +132,11 @@ hash = "73df62bcaca4bd442077aff4d9aa0f9342e6670ced93221998f3a30a83cfa484"
 metafile = true
 
 [[files]]
+file = "mods/biggerreactors.toml"
+hash = "766eeb52f2b7e37135183aaadf78eb56ed8e13b41bb7a0f6ce67d4df66024cfe"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "0e575eb8be48a3c5e3ebef0b7978575f2ffdb8870377baa93a47822abd66a180"
 metafile = true
@@ -195,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.toml"
 hash = "0885b1fc485d483e41c10dab45e5451c8d5da3f00b54677c145c6e40906c98d0"
+metafile = true
+
+[[files]]
+file = "mods/chipped.toml"
+hash = "0d6730b131872ea288f5354c5138dd9ee5adbc61d2ede50db14e314be123909b"
 metafile = true
 
 [[files]]
@@ -303,6 +317,11 @@ hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "394e30cd35e99f57c9fb37d79422059e8fb42c96ba62f30026973d97f80d2e36"
+metafile = true
+
+[[files]]
 file = "mods/ctm.toml"
 hash = "7897742b8363ad842e0e5d9569120bb62bdad605372fee30b28f58318fb9deb6"
 metafile = true
@@ -358,8 +377,18 @@ hash = "aaa7d5ca3fc7b89358424403d2b8a9a7ea0e38534861dec9bc99c970c41be634"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.toml"
+hash = "e43e67f824c83bd6f6ec214a9db8b120b95f7695002a58eb6869a9bb84c92c15"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.toml"
 hash = "19649f31bdc246f50660614b5eeca1316d4de962411bbee3311a4ee214b5cb52"
+metafile = true
+
+[[files]]
+file = "mods/double-slabs.toml"
+hash = "92d69a91bebc4aab8b46c6165f73b530298657d3332283d49c10a6ee059ba233"
 metafile = true
 
 [[files]]
@@ -400,6 +429,21 @@ metafile = true
 [[files]]
 file = "mods/eidolon.toml"
 hash = "f6c9520a0de1cdcc64d377f075e0698c61376c317f7122f8b522b180318130ef"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.toml"
+hash = "a69cae9dfbc6d2f9f80e60c9ebd6ea6a178ca4fde6c7f87cc8574ab8b0deb9a1"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-book-redesign.toml"
+hash = "2593ad55b872f6b3792382827c3d067c2b8a25205eb0aae03e9bd772f6afae0d"
+metafile = true
+
+[[files]]
+file = "mods/ender-mail.toml"
+hash = "b6cf736ab16825e44606e4abf4ca5984eaafa62a3573116d3375b30bb6d4b629"
 metafile = true
 
 [[files]]
@@ -2759,6 +2803,11 @@ hash = "e6081595485a177292a6a212846456a353c573214bf5e5b7c9629a5a1c9a8a43"
 metafile = true
 
 [[files]]
+file = "mods/notes.toml"
+hash = "074341d6b6f2f1d8f65229b64ae4e6c3724c7ff38d49b2e629b67e1811f5d051"
+metafile = true
+
+[[files]]
 file = "mods/nut-button.toml"
 hash = "d7f4b3c137c283e061b8f4b41500ee3b595ae5154316211d1e3b0732da8124a0"
 metafile = true
@@ -2804,6 +2853,11 @@ hash = "e0150e6e3169c50e3d2a02674bd6cace401ff0c34f853a8906b9e7dd65b92949"
 metafile = true
 
 [[files]]
+file = "mods/pane-in-the-glass.toml"
+hash = "7b067108a7812c7b610afb535be7c1dbb38fd8a6488fed80ef3b2e2e02af35c6"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
 metafile = true
@@ -2819,8 +2873,13 @@ hash = "ba5cb01796f9b371c02a791b3fda35dc33017ef2e0d0ac0e645c91f84b72d7b3"
 metafile = true
 
 [[files]]
+file = "mods/phosphophyllite.toml"
+hash = "65ff43a7e601693ad902e6386dfae7493b3ae145594a88f37e78d48a1cf93bb1"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.toml"
-hash = "d48e4c890b7d92137ade23049d7517c7d2617e16abf5eb3352a2a137795a13b0"
+hash = "ce412c5f4a2b38da38c226c6a97e6c5f09f183985a92a850f13e1f6ac5a95107"
 metafile = true
 
 [[files]]
@@ -3134,6 +3193,11 @@ hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
 metafile = true
 
 [[files]]
+file = "mods/towers-of-the-wild.toml"
+hash = "2a39f0b7058499932ba95c19faa36c71223953f5e3e458d6e29a2b9db8e86e03"
+metafile = true
+
+[[files]]
 file = "mods/trapcraft.toml"
 hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
 metafile = true
@@ -3141,6 +3205,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.toml"
 hash = "91c8824b9fbaba02b57ba41e93b751f69f4616c54eeeb203d77fe0737fae7e7f"
+metafile = true
+
+[[files]]
+file = "mods/travelers-index.toml"
+hash = "d421a8879cb2964ee88817dcb989d6ce30294cb1abb2a9c952f6383d0d90c212"
 metafile = true
 
 [[files]]
