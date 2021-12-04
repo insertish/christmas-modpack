@@ -1,0 +1,13 @@
+name = "Cursor Mod"
+filename = "ForgeCustomCursorMod-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/670/ForgeCustomCursorMod-1.2.2.jar"
+hash-format = "murmur2"
+hash = "689145895"
+
+[update]
+[update.curseforge]
+file-id = 3319670
+project-id = 278476

@@ -1,0 +1,13 @@
+name = "First-person Model (Forge/Fabric)"
+filename = "FirstPersonMod-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3296/12/FirstPersonMod-2.0.1.jar"
+hash-format = "murmur2"
+hash = "1938992774"
+
+[update]
+[update.curseforge]
+file-id = 3296012
+project-id = 333287

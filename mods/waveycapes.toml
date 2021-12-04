@@ -1,0 +1,13 @@
+name = "Wavey Capes"
+filename = "WaveyCapes-forge-1.0.4-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3516/539/WaveyCapes-forge-1.0.4-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "76996462"
+
+[update]
+[update.curseforge]
+file-id = 3516539
+project-id = 521594

@@ -1,0 +1,13 @@
+name = "PaperDoll"
+filename = "paperdoll-forge-1.0.0-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3496/153/paperdoll-forge-1.0.0-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "2198199690"
+
+[update]
+[update.curseforge]
+file-id = 3496153
+project-id = 537079

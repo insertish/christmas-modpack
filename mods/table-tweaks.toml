@@ -1,0 +1,13 @@
+name = "Table Tweaks"
+filename = "tabletweaks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3036/695/tabletweaks-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3671589671"
+
+[update]
+[update.curseforge]
+file-id = 3036695
+project-id = 402861

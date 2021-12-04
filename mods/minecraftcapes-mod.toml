@@ -1,0 +1,13 @@
+name = "MinecraftCapes Mod"
+filename = "MinecraftCapes Forge 1.16.5-11.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3398/885/MinecraftCapes Forge 1.16.5-11.0.0.jar"
+hash-format = "murmur2"
+hash = "723191217"
+
+[update]
+[update.curseforge]
+file-id = 3398885
+project-id = 359836

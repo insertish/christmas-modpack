@@ -1,0 +1,13 @@
+name = "Path Under Gates"
+filename = "pathundergates-1.16.4-2.0.0-release.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3151/289/pathundergates-1.16.4-2.0.0-release.jar"
+hash-format = "murmur2"
+hash = "434235468"
+
+[update]
+[update.curseforge]
+file-id = 3151289
+project-id = 358580

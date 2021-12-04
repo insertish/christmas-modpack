@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/blood-magic.toml"
-hash = "b130651e2273cba439cbdcb9d7625d28e2ee105812677e53fcb0693c5ae862f4"
+hash = "4e225fd14d1a524fb8c53a9f2f26ab347287eb57dddf092094c97887b225fe77"
 metafile = true
 
 [[files]]
@@ -177,6 +177,11 @@ hash = "e430edcf9d3041dcc215b6e6088583e477a2a43c34b5c1ac4203cdba0c7952a0"
 metafile = true
 
 [[files]]
+file = "mods/caged-mobs.toml"
+hash = "0bc43b8e1e0b54bead92adb12c39b62e45a653e0aa68247b9270da6ddbcda04e"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.toml"
 hash = "bb576766c235be703dc89e56fcf310e90169754b95fc7bbb56d7d628fbcf6603"
 metafile = true
@@ -194,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.toml"
 hash = "1b8db8754d1540e3dde94a92927977e6d4cb97b71ed8eef448a5a25a5b215ea3"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "c4de65fde1a40aa47d1067b6ef4f23422f327f78facdb659904e79b8cf5f7817"
 metafile = true
 
 [[files]]
@@ -339,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/curious-elytra.toml"
 hash = "c45f5c7906c3c06c8b356617314a88492be32ccb9948dbf90d234c781d67ff53"
+metafile = true
+
+[[files]]
+file = "mods/cursor-mod.toml"
+hash = "b2fa88717d7b96791e649b8364a52c53ebc93f0162fc72255fd66720127b304f"
 metafile = true
 
 [[files]]
@@ -509,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/finite-water-infinite-lava.toml"
 hash = "f23004120ee1be267285006e5cd40f43842e6236f481a30f736abe75193f229a"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.toml"
+hash = "40e5824ca7e93991cd7bc5e0f3b2fa6df98deccecfa627cd50f2d7211cd54d99"
 metafile = true
 
 [[files]]
@@ -2698,6 +2718,11 @@ hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
 metafile = true
 
 [[files]]
+file = "mods/minecraftcapes-mod.toml"
+hash = "a452373d8b65d9f295fd3bb7bca1ea1a68a169396cd7495ac83347fa27c666fc"
+metafile = true
+
+[[files]]
 file = "mods/miners-helmet.toml"
 hash = "bce297ece6c9c32b58e54e1b9fbaec9cc10bb1a9edae0b9eed1940715b57e017"
 metafile = true
@@ -2803,6 +2828,16 @@ hash = "e6081595485a177292a6a212846456a353c573214bf5e5b7c9629a5a1c9a8a43"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.toml"
+hash = "87acfad72f73f4392689441f71bdf75b3beaa6114d8915da7ef07cc07f787bff"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "3dab80aa90008490f6e516101c24e6550e4d4107e00e8e5412cdd7ddd9004385"
+metafile = true
+
+[[files]]
 file = "mods/notes.toml"
 hash = "074341d6b6f2f1d8f65229b64ae4e6c3724c7ff38d49b2e629b67e1811f5d051"
 metafile = true
@@ -2858,8 +2893,18 @@ hash = "7b067108a7812c7b610afb535be7c1dbb38fd8a6488fed80ef3b2e2e02af35c6"
 metafile = true
 
 [[files]]
+file = "mods/paperdoll.toml"
+hash = "a8e090d1c68e9083d57b2ee038754315c5625e9592b6cb62647c710967aa7721"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
+metafile = true
+
+[[files]]
+file = "mods/path-under-gates.toml"
+hash = "d8fd50bba1a76dd53f20e8bfb41860a656023df221e0b0b6e3c331542fc46ee6"
 metafile = true
 
 [[files]]
@@ -3123,6 +3168,11 @@ hash = "ddf69ef6058a21651d460427aecda3d7d5046d58b3f7ab964e61199ebb9691b5"
 metafile = true
 
 [[files]]
+file = "mods/table-tweaks.toml"
+hash = "e96fc36a08fd8426f181b5bd7878b315c20a6eb90a3d626c13c28c5566407d81"
+metafile = true
+
+[[files]]
 file = "mods/the-comfort-zone.toml"
 hash = "bdb2a5271ed2298bf6cc8c04f71c5a457081de711b142b5fdddfe72ed8f4003c"
 metafile = true
@@ -3203,6 +3253,11 @@ hash = "2a39f0b7058499932ba95c19faa36c71223953f5e3e458d6e29a2b9db8e86e03"
 metafile = true
 
 [[files]]
+file = "mods/transliterationlib.toml"
+hash = "0b8c655db985df657fc836a08e18d695355dcd478ab4d3fab7c3d065bab0943d"
+metafile = true
+
+[[files]]
 file = "mods/trapcraft.toml"
 hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
 metafile = true
@@ -3255,6 +3310,11 @@ metafile = true
 [[files]]
 file = "mods/waterworks.toml"
 hash = "215c58ceac4d70996d5d763160b23f1cc3506fa2ad8358b04716fea399f38a19"
+metafile = true
+
+[[files]]
+file = "mods/waveycapes.toml"
+hash = "5a748d1519f3af1ef046e991bc34b29c56ea1d22fbb49f0f8f9b5ef47009abbf"
 metafile = true
 
 [[files]]
