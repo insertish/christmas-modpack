@@ -1,0 +1,13 @@
+name = "RoadRunner"
+filename = "RoadRunner-mc1.16.5-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/988/RoadRunner-mc1.16.5-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2611572159"
+
+[update]
+[update.curseforge]
+file-id = 3487988
+project-id = 529754

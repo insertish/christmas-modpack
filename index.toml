@@ -489,6 +489,11 @@ hash = "843a1e3292b21d8ffdb859307fdfa21baf99acd3442b404e1f2b873855af6065"
 metafile = true
 
 [[files]]
+file = "mods/halogen.toml"
+hash = "c77a589c5c172b401c690bb4202788ca9b4c21477f85b16ff61640ede30cb066"
+metafile = true
+
+[[files]]
 file = "mods/hats.toml"
 hash = "594d1c72a32e538eb42f248a9fd62748da1d5e40e14379e2272b88b774a72831"
 metafile = true
@@ -2917,6 +2922,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.toml"
 hash = "1a60507a79c3d2abe8657a77ce62dadb9c8d2076192928f0e34dc835195a0334"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.toml"
+hash = "d5df6c068c9f26e8a3eae90cc37da8bf20435ff38679b038cfb35130445df87b"
 metafile = true
 
 [[files]]
