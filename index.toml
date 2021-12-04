@@ -9,6 +9,10 @@ file = "config/twilightforest-client.toml"
 hash = "5d39477cadb1a8f194b179378dbbc702fc28caa2aa48a355fd570020c6d2c9e6"
 
 [[files]]
+file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
+hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
+
+[[files]]
 file = "mods/a-lib.toml"
 hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
@@ -3018,10 +3022,6 @@ metafile = true
 file = "mods/spawner-head.toml"
 hash = "185510682a513749e260bd4f235af4c304b8d4ff5dce933c8256e370c154686b"
 metafile = true
-
-[[files]]
-file = "mods/starlight-forge-1.0.0-RC2-1.16.5.jar"
-hash = "02c7b7bba187d8a066ce0bbb1f60c1d17961cb4cc2a61a9d0138232a9e1eebf0"
 
 [[files]]
 file = "mods/step.toml"
