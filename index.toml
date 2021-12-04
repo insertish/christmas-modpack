@@ -2523,11 +2523,6 @@ hash = "5405819b87cc2bfae1dc09bb861340a2f065020527610b0622694cd5150f75c5"
 metafile = true
 
 [[files]]
-file = "mods/immersive-railroading.toml"
-hash = "13f2dc8c9ee1b23eda7ee1e73411fc7141202701e1bb6c6997857b6663e8a7e6"
-metafile = true
-
-[[files]]
 file = "mods/immersiveposts.toml"
 hash = "d7cb596bb9d05cac3096e940039730bd6ac10c16bdb76fa193b0d9251c416ed6"
 metafile = true
@@ -3053,6 +3048,11 @@ hash = "f580a086724ad7f77e7e5ab132789ff131457352e583185e5a96bab8f9a2f303"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "89404ae37a6c6314944002a41e075f35ee7cd074241f644cf3701025ba5b7cab"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.toml"
 hash = "5a445c3f0c0bad75158760a255fa9400bcbf116d8cc3cc71222fb263a09f43c5"
 metafile = true
@@ -3203,11 +3203,6 @@ hash = "2a39f0b7058499932ba95c19faa36c71223953f5e3e458d6e29a2b9db8e86e03"
 metafile = true
 
 [[files]]
-file = "mods/track-api.toml"
-hash = "f07436c9f51c261b324ca7aed33b6faf3bca15b26c8e8942247d0e31b447cd75"
-metafile = true
-
-[[files]]
 file = "mods/trapcraft.toml"
 hash = "27fc7a944fd9269e530991bdafd001023b76a260970abbda4d6a7ad1ffa7a637"
 metafile = true
@@ -3240,11 +3235,6 @@ metafile = true
 [[files]]
 file = "mods/unionlib.toml"
 hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
-metafile = true
-
-[[files]]
-file = "mods/universal-mod-core.toml"
-hash = "d20e4bee8c82a3e80a00d3af665eeb08062cd3e067e78625c867120dc51ab8f3"
 metafile = true
 
 [[files]]

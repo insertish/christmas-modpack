@@ -1,0 +1,13 @@
+name = "Skin Layers 3D (Fabric/Forge)"
+filename = "3dSkinLayers-forge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3456/514/3dSkinLayers-forge-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1802940443"
+
+[update]
+[update.curseforge]
+file-id = 3456514
+project-id = 521480
