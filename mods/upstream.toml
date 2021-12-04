@@ -1,0 +1,13 @@
+name = "Upstream"
+filename = "upstream-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/159/upstream-1.0.jar"
+hash-format = "murmur2"
+hash = "2386058385"
+
+[update]
+[update.curseforge]
+file-id = 3139159
+project-id = 428483
