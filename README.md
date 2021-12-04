@@ -6,6 +6,10 @@
 
   This would cause the server to hang between 30 seconds to over 60 seconds causing server to crash.
 
+- Disabled Quark's "Gold Bars" building.
+
+  Would cause the server to crash when going into the Nether.
+
 - Disable Optifine nag screen in Twilight Forest.
 
   This modpack is intended for a server, OF shouldn't mess with worldgen.

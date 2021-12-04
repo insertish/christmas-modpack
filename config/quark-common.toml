@@ -225,7 +225,7 @@
 		"Enable Iron Ladder" = true
 
 	[building.gold_bars]
-		"Generate In Nether Fortress" = true
+		"Generate In Nether Fortress" = false
 
 [management]
 	"Chests In Boats" = true
