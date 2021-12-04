@@ -1,6 +1,6 @@
 name = "MinecraftCapes Mod"
 filename = "MinecraftCapes Forge 1.16.5-11.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3398/885/MinecraftCapes Forge 1.16.5-11.0.0.jar"

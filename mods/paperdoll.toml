@@ -1,6 +1,6 @@
 name = "PaperDoll"
 filename = "paperdoll-forge-1.0.0-mc1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3496/153/paperdoll-forge-1.0.0-mc1.16.5.jar"

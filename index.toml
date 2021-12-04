@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
-hash = "c4de65fde1a40aa47d1067b6ef4f23422f327f78facdb659904e79b8cf5f7817"
+hash = "e7ba9511ef37b63fb8ba306d36c2b760face5d919560795f5af072cd557ce543"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/cursor-mod.toml"
-hash = "b2fa88717d7b96791e649b8364a52c53ebc93f0162fc72255fd66720127b304f"
+hash = "51af6a481cd76614c3313e4fbcbaa647bc234be2efe8ae89f1d40a6fe3dee213"
 metafile = true
 
 [[files]]
@@ -2719,7 +2719,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "a452373d8b65d9f295fd3bb7bca1ea1a68a169396cd7495ac83347fa27c666fc"
+hash = "d16dba02d62e9c77f4f77ee0af7dc78023958b99e123ebdb87621930732d4d19"
 metafile = true
 
 [[files]]
@@ -2829,12 +2829,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "87acfad72f73f4392689441f71bdf75b3beaa6114d8915da7ef07cc07f787bff"
+hash = "55e10f00cf8904e1e768a7d9c3cc34ecbaec781b6b4a3c11825f8d3edc093a3d"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3dab80aa90008490f6e516101c24e6550e4d4107e00e8e5412cdd7ddd9004385"
+hash = "9bbd93f370ec0b21b3ee608e2e9d85fcd44de61ccade05a541d364a26f45eede"
 metafile = true
 
 [[files]]
@@ -2894,7 +2894,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.toml"
-hash = "a8e090d1c68e9083d57b2ee038754315c5625e9592b6cb62647c710967aa7721"
+hash = "730841017ebfc91ca712962b9e42581d9c937bf10e8b9c89403623eac7717ce1"
 metafile = true
 
 [[files]]
@@ -3314,7 +3314,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.toml"
-hash = "5a748d1519f3af1ef046e991bc34b29c56ea1d22fbb49f0f8f9b5ef47009abbf"
+hash = "c46a3908bdfd8576bad100c2f1c42b8ba986112db591013f273332f662f16465"
 metafile = true
 
 [[files]]

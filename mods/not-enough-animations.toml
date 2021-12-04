@@ -1,6 +1,6 @@
 name = "Not Enough Animations (Forge/Fabric)"
 filename = "notenoughanimations-1.2.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3296/39/notenoughanimations-1.2.4.jar"

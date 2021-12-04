@@ -1,6 +1,6 @@
 name = "Wavey Capes"
 filename = "WaveyCapes-forge-1.0.4-mc1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3516/539/WaveyCapes-forge-1.0.4-mc1.16.5.jar"
