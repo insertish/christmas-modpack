@@ -3352,7 +3352,3 @@ metafile = true
 file = "mods/yungs-extras.toml"
 hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
 metafile = true
-
-[[files]]
-file = "static/OptiFine_1.16.5_HD_U_G8.jar"
-hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"

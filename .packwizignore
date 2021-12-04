@@ -1,4 +1,5 @@
 .git/**
 .gitattributes
 .gitignore
+static/**
 README.md
