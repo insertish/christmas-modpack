@@ -1,0 +1,13 @@
+name = "Featured Servers"
+filename = "featuredservers-1.16.5-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/633/featuredservers-1.16.5-1.0.9.jar"
+hash-format = "murmur2"
+hash = "3972577998"
+
+[update]
+[update.curseforge]
+file-id = 3423633
+project-id = 306187

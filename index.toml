@@ -448,6 +448,11 @@ hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
 
 [[files]]
+file = "mods/featured-servers.toml"
+hash = "311d95ed67d670affcaa108a7ed2aa5f0b88ad6e828bd1c36fdeb228a8ce1d04"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.toml"
 hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
