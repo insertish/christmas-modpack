@@ -1,0 +1,13 @@
+name = "FastSuite"
+filename = "FastSuite-1.16.4-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/895/FastSuite-1.16.4-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1775162445"
+
+[update]
+[update.curseforge]
+file-id = 3419895
+project-id = 475117

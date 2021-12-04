@@ -434,6 +434,11 @@ hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.toml"
+hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench-minus-replacement.toml"
 hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
@@ -486,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "843a1e3292b21d8ffdb859307fdfa21baf99acd3442b404e1f2b873855af6065"
-metafile = true
-
-[[files]]
-file = "mods/halogen.toml"
-hash = "c77a589c5c172b401c690bb4202788ca9b4c21477f85b16ff61640ede30cb066"
 metafile = true
 
 [[files]]
@@ -2785,6 +2785,11 @@ hash = "e4de0c4abd4fa0ecca78c15252cfcc74e9e4bd0183b0fad23649d474d23e0c07"
 metafile = true
 
 [[files]]
+file = "mods/out-of-sight.toml"
+hash = "494c338d96e2345a52020ffcff2cee46af36543d556af3d8beeeb79704e59454"
+metafile = true
+
+[[files]]
 file = "mods/packing-tape.toml"
 hash = "e0150e6e3169c50e3d2a02674bd6cace401ff0c34f853a8906b9e7dd65b92949"
 metafile = true
@@ -2977,6 +2982,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.toml"
 hash = "5a445c3f0c0bad75158760a255fa9400bcbf116d8cc3cc71222fb263a09f43c5"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-forge.toml"
+hash = "2e56351521265d4b212cce56d97cacf26e77520ed4c916afacb298a31e751a57"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Smooth Boot (Forge)"
+filename = "smoothboot-forge-1.16.4-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3224/252/smoothboot-forge-1.16.4-1.2.2.jar"
+hash-format = "murmur2"
+hash = "1408340562"
+
+[update]
+[update.curseforge]
+file-id = 3224252
+project-id = 420913

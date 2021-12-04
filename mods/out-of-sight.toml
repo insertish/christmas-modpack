@@ -1,0 +1,13 @@
+name = "Out Of Sight"
+filename = "out_of_sight-1.16.4-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3143/752/out_of_sight-1.16.4-1.0.1.jar"
+hash-format = "murmur2"
+hash = "4195844751"
+
+[update]
+[update.curseforge]
+file-id = 3143752
+project-id = 428199
