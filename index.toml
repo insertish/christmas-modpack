@@ -13,10 +13,6 @@ file = "config/twilightforest-client.toml"
 hash = "5d39477cadb1a8f194b179378dbbc702fc28caa2aa48a355fd570020c6d2c9e6"
 
 [[files]]
-file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
-hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
-
-[[files]]
 file = "mods/a-lib.toml"
 hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
@@ -2873,6 +2869,11 @@ hash = "a0710f09afc0528603d0e73fb1667622b4711d282ef5bf9ed89fee75b4b8094d"
 metafile = true
 
 [[files]]
+file = "mods/optifine.toml"
+hash = "aa4f162593c62d39903c1fb8f07206f6d832a4ea00583a1f17fc28e71de119c7"
+metafile = true
+
+[[files]]
 file = "mods/orva-alarms.toml"
 hash = "e4de0c4abd4fa0ecca78c15252cfcc74e9e4bd0183b0fad23649d474d23e0c07"
 metafile = true
@@ -3351,3 +3352,7 @@ metafile = true
 file = "mods/yungs-extras.toml"
 hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
 metafile = true
+
+[[files]]
+file = "static/OptiFine_1.16.5_HD_U_G8.jar"
+hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
