@@ -193,6 +193,11 @@ hash = "3b2c626656faf56bdda6c0286119e59f0ebde1227cfb3e632fcee56a80c9799b"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.toml"
+hash = "7bb696c90fbdeb41943d02f1fba0966c207719f1abfe29e2257c63351c0e2d59"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "1b8db8754d1540e3dde94a92927977e6d4cb97b71ed8eef448a5a25a5b215ea3"
 metafile = true
@@ -2769,16 +2774,6 @@ hash = "34f474eb3ce1beea4dd46482f03f85d5cdeaa902f203da301a6a218f4eba63c3"
 metafile = true
 
 [[files]]
-file = "mods/more-red-computercraft-integration.toml"
-hash = "7be1a8045e855b5deb723fc1c9a64700719106bc5eed048dcb2546fdada5b9e2"
-metafile = true
-
-[[files]]
-file = "mods/more-red.toml"
-hash = "014652a1af77c5049d20ad46ab6198af74f7c61bbd49c4d0df9bd453b37b0268"
-metafile = true
-
-[[files]]
 file = "mods/morpheus.toml"
 hash = "c4b817dfe315f9f2e9bd149faee1a9e748c5556d36675ca6a7b023db9d3f547e"
 metafile = true
@@ -2989,6 +2984,31 @@ hash = "595a5592f244c219a4cd9ad0523ec6817590e1273b16f090ef79b6c5ad31099d"
 metafile = true
 
 [[files]]
+file = "mods/project-red-core.toml"
+hash = "411b28f34a20ad65370026701be7c5896ff3acda53b19165d12b318464bb95b8"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.toml"
+hash = "c25f9d4721805b5348ae7877c22ebcf89e42fe98e384fce10579e67a88aeab25"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.toml"
+hash = "7bee82928385ccf5185cc25a61c740dd86cd5498cd0d0eba3b6932853d479b22"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.toml"
+hash = "f597d124e71f3d89fb09ec83d3abed359382b2ab63d17d948a8b87c725e23307"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.toml"
+hash = "3cabc6b2235dbca4babb1187b7adb7854c1969c48411273421f9d41149abd50e"
+metafile = true
+
+[[files]]
 file = "mods/project-vibrant-journeys.toml"
 hash = "c93a86d888eae6c829d3761f1957c7bf8083549e7ba25e032939385e756e6475"
 metafile = true
@@ -3051,11 +3071,6 @@ metafile = true
 [[files]]
 file = "mods/reap-mod.toml"
 hash = "9d07d7d44e00c8d3af375a5e274b5a2a5211e2a1bff29e78906261b7da84661b"
-metafile = true
-
-[[files]]
-file = "mods/redstone-pen.toml"
-hash = "1e25a73f54ced6a653ee72e0b114459ba75d6608ee72800b19fd83d3bc474eed"
 metafile = true
 
 [[files]]
@@ -3256,16 +3271,6 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.toml"
 hash = "43582543401ad8c186bb87c77cc2519fceb5bed24c49954fbf4015e966b65f7e"
-metafile = true
-
-[[files]]
-file = "mods/tiny-gates.toml"
-hash = "aca37107876c9dd7b0228566e3125cb6501421beb200fc7748c8fef5d2a86b20"
-metafile = true
-
-[[files]]
-file = "mods/tiny-redstone.toml"
-hash = "c8865c2d60e43232d17179cbfd72be38e28fb5d2a1bb8dd5417533cb1eff9bbf"
 metafile = true
 
 [[files]]

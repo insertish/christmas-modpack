@@ -1,0 +1,13 @@
+name = "Project Red - Transmission"
+filename = "ProjectRed-1.16.5-4.11.0-beta-6-transmission.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3535/648/ProjectRed-1.16.5-4.11.0-beta-6-transmission.jar"
+hash-format = "murmur2"
+hash = "1428938404"
+
+[update]
+[update.curseforge]
+file-id = 3535648
+project-id = 478939
