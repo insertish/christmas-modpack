@@ -1,0 +1,13 @@
+name = "SwingThroughGrass"
+filename = "swingthroughgrass-1.16.4-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3103/28/swingthroughgrass-1.16.4-1.5.3.jar"
+hash-format = "murmur2"
+hash = "2288553898"
+
+[update]
+[update.curseforge]
+file-id = 3103028
+project-id = 264353

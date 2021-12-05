@@ -1,0 +1,13 @@
+name = "Public Gui Announcement"
+filename = "PGA-1.16.4-1.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3131/46/PGA-1.16.4-1.1.2.1.jar"
+hash-format = "murmur2"
+hash = "3548770340"
+
+[update]
+[update.curseforge]
+file-id = 3131046
+project-id = 341727

@@ -303,6 +303,11 @@ hash = "27b23287a8577a06c2978d0797641a2419d4826fc031b1e4802a5419c0132039"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.toml"
+hash = "3879f48bc0c146ff01dc7986885d5f7eda5913e766df47283309a24faad17496"
+metafile = true
+
+[[files]]
 file = "mods/crash-utilities.toml"
 hash = "85fd5608e5dde026475b5a9f6f84d64f579706085b501a5c541b47a7685fa739"
 metafile = true
@@ -2524,6 +2529,11 @@ file = "mods/hats/files.extracted"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/hot-or-not.toml"
+hash = "bebee893905aea9a3982e9790d87b26f9e22931347098083e648bbdb8249fbdf"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.toml"
 hash = "6302de9f5a7924dcacdb8a3e9517707aad5a4a5a4de947f856fdd5b3d532d24e"
 metafile = true
@@ -2541,6 +2551,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "d7cb596bb9d05cac3096e940039730bd6ac10c16bdb76fa193b0d9251c416ed6"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.toml"
+hash = "3da6636df7a75736d35b88093984a512e9e3d1f47c9bb844541409c76a724f35"
 metafile = true
 
 [[files]]
@@ -2576,6 +2591,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "3c93c65c6653238765f332ed2ddfbf3683f1a3f2b93fa0bed3833052d4c22d01"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.toml"
+hash = "6968aeee7674253f334d0c210428685a30b5423227dc0d29c1dd1181b74eb2ca"
 metafile = true
 
 [[files]]
@@ -2894,6 +2914,11 @@ hash = "7b067108a7812c7b610afb535be7c1dbb38fd8a6488fed80ef3b2e2e02af35c6"
 metafile = true
 
 [[files]]
+file = "mods/panorama.toml"
+hash = "dc7a427d146bb6736d514f54a37d92f586837f06c087a90d9e7da9bef3d6853e"
+metafile = true
+
+[[files]]
 file = "mods/paperdoll.toml"
 hash = "730841017ebfc91ca712962b9e42581d9c937bf10e8b9c89403623eac7717ce1"
 metafile = true
@@ -2976,6 +3001,11 @@ metafile = true
 [[files]]
 file = "mods/psionic-peripherals.toml"
 hash = "a9b89e7bcf9f3a20a9e9af59d36a9d2fbf6d8d1859ba752f04f833510bf84e64"
+metafile = true
+
+[[files]]
+file = "mods/public-gui-announcement.toml"
+hash = "da529d52b158ec58beafc1612c0d38eac5b47009274a5056de051c0c979c74bc"
 metafile = true
 
 [[files]]
@@ -3084,6 +3114,11 @@ hash = "aa809217a57f673c3a0ca54d9d168085e1d775fad9d2f765854de0e094f6723f"
 metafile = true
 
 [[files]]
+file = "mods/simple-shops.toml"
+hash = "c3fdd2a3449844645f5167df67ae5e764efb897dcb8aa36268049b00640989a2"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.toml"
 hash = "430a387d728ccfba73426f17ca89db29a7018624df0efb18d7acbbf33747b222"
 metafile = true
@@ -3169,6 +3204,11 @@ hash = "ddf69ef6058a21651d460427aecda3d7d5046d58b3f7ab964e61199ebb9691b5"
 metafile = true
 
 [[files]]
+file = "mods/swingthroughgrass.toml"
+hash = "ef285b1aeaba3e7240c76651fde6a74085dc6388b6d016abe56429f030363c9e"
+metafile = true
+
+[[files]]
 file = "mods/table-tweaks.toml"
 hash = "e96fc36a08fd8426f181b5bd7878b315c20a6eb90a3d626c13c28c5566407d81"
 metafile = true
@@ -3249,8 +3289,8 @@ hash = "93ee483f00239c7d5b9dcfbdfcd78b07f0f1b37f671f9c9e1440d7b886a20b4a"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild.toml"
-hash = "2a39f0b7058499932ba95c19faa36c71223953f5e3e458d6e29a2b9db8e86e03"
+file = "mods/towers-of-the-wild-reloaded.toml"
+hash = "0084422d60075eeeccd811363f4932166c58743321a82ffe3743c338f1d24dfc"
 metafile = true
 
 [[files]]

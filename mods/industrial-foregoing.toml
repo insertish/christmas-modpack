@@ -1,0 +1,13 @@
+name = "Industrial Foregoing"
+filename = "industrial-foregoing-1.16.5-3.2.14.7-16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3525/789/industrial-foregoing-1.16.5-3.2.14.7-16.jar"
+hash-format = "murmur2"
+hash = "4125242687"
+
+[update]
+[update.curseforge]
+file-id = 3525789
+project-id = 266515

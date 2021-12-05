@@ -1,0 +1,13 @@
+name = "Hot or Not"
+filename = "hotornot-1.16.5-1.0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3176/3/hotornot-1.16.5-1.0.2.2.jar"
+hash-format = "murmur2"
+hash = "3123905698"
+
+[update]
+[update.curseforge]
+file-id = 3176003
+project-id = 293536

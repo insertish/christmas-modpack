@@ -1,0 +1,13 @@
+name = "Towers of the Wild: Reloaded"
+filename = "towers_of_the_wild-1.16.3-2.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/397/towers_of_the_wild-1.16.3-2.1.0.1.jar"
+hash-format = "murmur2"
+hash = "855436463"
+
+[update]
+[update.curseforge]
+file-id = 3487397
+project-id = 535766

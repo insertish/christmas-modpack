@@ -1,0 +1,13 @@
+name = "Simple Shops"
+filename = "simpleshops-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/278/simpleshops-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3416754358"
+
+[update]
+[update.curseforge]
+file-id = 3505278
+project-id = 517272
