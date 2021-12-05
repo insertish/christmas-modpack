@@ -1,5 +1,7 @@
 # Christmas Server Modpack
 
+- [Mod List](mods.md)
+
 ## Applied Patches
 
 - Disabled Quark's "Automatic Recipe Unlock" tweak.
