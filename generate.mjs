@@ -3,11 +3,7 @@
 import fs from "fs-extra";
 import toml from "toml";
 
-const listing = [
-    '# Mods\n',
-    '|Name|Side||',
-    '|---|---|---|'
-];
+const listing = [];
 
 const mods = await fs.readdir("mods");
 for (const mod of mods) {
@@ -26,4 +22,6 @@ for (const mod of mods) {
     }
 }
 
-await fs.writeFile('mods.md', listing.join('\n'));
+await fs.writeFile('mods.md',
+    `# ${listing.length} Mods\n\n|Name|Side|\n|---|---|---|\n` + listing.join('\n')
+);
