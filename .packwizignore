@@ -1,5 +1,9 @@
 .git/**
 .gitattributes
+node_modules/**
 .gitignore
 static/**
+generate.mjs
+package.json
+yarn.lock
 README.md
