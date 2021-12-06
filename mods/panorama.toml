@@ -1,6 +1,6 @@
 name = "Panorama"
 filename = "panorama-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3446/520/panorama-1.2.0.jar"
