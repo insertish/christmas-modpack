@@ -13,10 +13,6 @@ file = "config/twilightforest-client.toml"
 hash = "5d39477cadb1a8f194b179378dbbc702fc28caa2aa48a355fd570020c6d2c9e6"
 
 [[files]]
-file = "mods.md"
-hash = "277463feef8a08ab9fd72c381707e992cb2f71adb0f695fd1dd92cefee93136b"
-
-[[files]]
 file = "mods/a-lib.toml"
 hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true

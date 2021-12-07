@@ -6,4 +6,5 @@ static/**
 generate.mjs
 package.json
 yarn.lock
+mods.md
 README.md
