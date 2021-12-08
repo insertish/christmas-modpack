@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-animations-collection.toml"
-hash = "049355af1225d7768b048d74cfa9d29e7c81f429a2336729032f72c25f124b64"
+hash = "13ebd771ab4719d32f51c73166245958a6ce5ac8c19c7c2bccad80b3181188a5"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/darker-loading-screen.toml"
-hash = "4d7725755bb094b35f3a29ab6a8f75173e8f152eb38698779af25d744a42ea86"
+hash = "926784e7ce4f940333f58e06e848fa34b5e39ac763fd7e8afcd328fb0f0b5f9a"
 metafile = true
 
 [[files]]
@@ -2560,7 +2560,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.toml"
-hash = "eb341d9690c01d3b6614e2d68318ee406dda568ea6aff791ac4f704f0af1926c"
+hash = "c4c5319082cbc2322697dd7d748542e7dce735cff718dd060a75f0a8d386e86e"
 metafile = true
 
 [[files]]
@@ -2610,7 +2610,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders.toml"
-hash = "ab9939d223853d6a9be9925acb91fd068121b35eb134d1c51da4d537d41c3432"
+hash = "65850d0eb9074513f8903d445db7cdc40bff980217ee426fcc6508fc8046b673"
 metafile = true
 
 [[files]]

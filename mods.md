@@ -1,8 +1,9 @@
-# 291 Mods
+# 299 Mods
 
 |Name|Side|
 |---|---|---|
 |A Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/a-lib)|
+|Actually Compatible|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/actually-compatible)|
 |Advanced Chimneys|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)|
 |Advanced Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)|
 |AE2 Extras|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-extras)|
@@ -20,6 +21,7 @@
 |AutoRegLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)|
 |Bad Wither No Cookie - Reloaded|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)|
 |Balanced Enchanting|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting)|
+|Better Animations Collection|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection)|
 |Better Burning|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-burning)|
 |Better Diving|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-diving)|
 |Better Ping Display|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)|
@@ -72,6 +74,7 @@
 |Curious Elytra (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)|
 |Cursor Mod|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cursor-mod)|
 |Cyclops Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)|
+|Darker Loading Screen|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/darker-loading-screen)|
 |Dash|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dash)|
 |DataFixerSlayer (improves RAM usage)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer)|
 |Discord Integration Forge|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dcintegration)|
@@ -117,6 +120,7 @@
 |Hats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hats)|
 |Hostile Neural Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)|
 |Hot or Not|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hot-or-not)|
+|Iceberg|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/iceberg)|
 |iChunUtil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ichunutil)|
 |Immersive Engineering|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)|
 |Immersive Petroleum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)|
@@ -126,6 +130,7 @@
 |Infernal Expansion|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)|
 |InsaneLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/insanelib)|
 |Inventory Tweaks Renewed|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)|
+|Item Borders|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-borders)|
 |Jade 🔍|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)|
 |Just Enough Advancements (JEA)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jea)|
 |Just Enough Items (JEI)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)|
@@ -159,6 +164,7 @@
 |Menu Companions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/menu-companions)|
 |MinecraftCapes Mod|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod)|
 |Miner's Helmet|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)|
+|Mini Effects (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mini-effects)|
 |MiniCoal|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minicoal)|
 |MmmMmmMmmMmm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)|
 |Mod Name Tooltip|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)|
@@ -186,6 +192,7 @@
 |Obfuscate|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/obfuscate)|
 |Observable|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/observable)|
 |ObserverLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/observerlib)|
+|Occultism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism)|
 |Oh The Biomes You'll Go|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)|
 |Modern Online Picture Frame|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/online-picture-frame)|
 |Open Loader|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader)|
@@ -260,6 +267,7 @@
 |Table Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/table-tweaks)|
 |The Comfort Zone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-comfort-zone)|
 |The Twilight Forest|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)|
+|The Undergarden|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)|
 |Thermal Cultivation|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)|
 |Thermal Expansion|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)|
 |Thermal Foundation|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)|
