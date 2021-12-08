@@ -3424,77 +3424,77 @@ hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
 metafile = true
 
 [[files]]
-file = "openloader/resources/afk display v1.1.2.zip"
+file = "openloader/data/afk display v1.1.2.zip"
 hash = "06ddc43cc7bf45c425fcc9c095cc6370f1134b5e6afcbbbaa39bfcfa2df5acd2"
 
 [[files]]
-file = "openloader/resources/anti enderman grief v1.1.2.zip"
+file = "openloader/data/anti enderman grief v1.1.2.zip"
 hash = "c17a9b4a1b2262b261a9a0244730e92ccaed7a21afe031e35ad70e3d69603d31"
 
 [[files]]
-file = "openloader/resources/armor statues v2.8.3.zip"
+file = "openloader/data/armor statues v2.8.3.zip"
 hash = "ab6cf7fb7580970695d6bf25167c37fc817e9dec750b3524eb42adf23d33436d"
 
 [[files]]
-file = "openloader/resources/coordinates hud v1.2.2.zip"
+file = "openloader/data/coordinates hud v1.2.2.zip"
 hash = "3b35be5afe3f7364744408f28b4f93d978ad97d6120511f2263e2fdfb6e94ffc"
 
 [[files]]
-file = "openloader/resources/custom nether portals v2.3.4.zip"
+file = "openloader/data/custom nether portals v2.3.4.zip"
 hash = "1875a17dc321ea80b3f8182cd124ed09107f70cd4bdcd9560021ed414389cfbb"
 
 [[files]]
-file = "openloader/resources/durability ping v1.1.2.zip"
+file = "openloader/data/durability ping v1.1.2.zip"
 hash = "84c4f5c4a6e875e8badd95e5eb69eaf42bc8ad2d5931eaa79945502fd2d98a98"
 
 [[files]]
-file = "openloader/resources/ichphilipp-s-endcity-v1-1-1-16-2-forge.zip"
+file = "openloader/data/ichphilipp-s-endcity-v1-1-1-16-2-forge.zip"
 hash = "3cce4cfcf3d64a1d920b96d26c5908b1cd2fbfc5dc846011ad0663ac4a76026b"
 
 [[files]]
-file = "openloader/resources/more mob heads v2.9.3.zip"
+file = "openloader/data/more mob heads v2.9.3.zip"
 hash = "d3603816594bd60fc7b4d05160904edd84634114880355d1c91c4c298a00e339"
 
 [[files]]
-file = "openloader/resources/nether portal coords v1.1.2.zip"
+file = "openloader/data/nether portal coords v1.1.2.zip"
 hash = "3b9274bb063954f3e689a15645030f722847c65ce8c9e432d8804f22a934c9aa"
 
 [[files]]
-file = "openloader/resources/pillager tools v1.1.2.zip"
+file = "openloader/data/pillager tools v1.1.2.zip"
 hash = "25b04dbedbf051b991badcef4b25fe8b4cfce1c075cd5530ae9f29fb24e92a9d"
 
 [[files]]
-file = "openloader/resources/player head drops v1.1.2.zip"
+file = "openloader/data/player head drops v1.1.2.zip"
 hash = "1d05bf4f7cba485fa596d513eac6a3b1c146caad79910e09b9c9db9ea09ce341"
 
 [[files]]
-file = "openloader/resources/real time clock v1.1.2.zip"
+file = "openloader/data/real time clock v1.1.2.zip"
 hash = "8574e73d4909cc33280c9dc8bfe0a9763225e57465110ec6e1f18a72aa953f2b"
 
 [[files]]
-file = "openloader/resources/silence mobs v1.1.2.zip"
+file = "openloader/data/silence mobs v1.1.2.zip"
 hash = "25221c4b4920c3bd9a9d25907a5c27173f453894da4821e61318460536c63784"
 
 [[files]]
-file = "openloader/resources/spectator conduit power v1.1.2.zip"
+file = "openloader/data/spectator conduit power v1.1.2.zip"
 hash = "5ec69d926a4c0be1ceafd4e3935d3f22368398e0b6a6084d66ae8eaf0dc151fa"
 
 [[files]]
-file = "openloader/resources/spectator night vision v1.1.2.zip"
+file = "openloader/data/spectator night vision v1.1.2.zip"
 hash = "005a369f1e72accddd361553d8800d695f90edc4e5bea071cf198d3fab1ec278"
 
 [[files]]
-file = "openloader/resources/track raw statistics v1.5.2.zip"
+file = "openloader/data/track raw statistics v1.5.2.zip"
 hash = "fcd20df5405bbe3467f28bea7cc685b05b47ed9893af19893c3fdeb75cdd5639"
 
 [[files]]
-file = "openloader/resources/track statistics v1.1.3.zip"
+file = "openloader/data/track statistics v1.1.3.zip"
 hash = "22bc41e1b414b3b30ee43ee1ec24a363ef2a632a88d5d5ed44778a4804f4a3f8"
 
 [[files]]
-file = "openloader/resources/villager workstation highlights v1.1.2.zip"
+file = "openloader/data/villager workstation highlights v1.1.2.zip"
 hash = "fbadae3a40d00c01dd3fbc10d97fb46b1c7c35ddd13b569ec72d7cdad2223ebd"
 
 [[files]]
-file = "openloader/resources/wandering trades v1.5.1.zip"
+file = "openloader/data/wandering trades v1.5.1.zip"
 hash = "3ff2f588cd57d9b3ff49a8cf0dc6bbd04e3cdcc7644261c5e54bdd58a2a0fb66"
