@@ -178,11 +178,6 @@ hash = "e430edcf9d3041dcc215b6e6088583e477a2a43c34b5c1ac4203cdba0c7952a0"
 metafile = true
 
 [[files]]
-file = "mods/caged-mobs.toml"
-hash = "0bc43b8e1e0b54bead92adb12c39b62e45a653e0aa68247b9270da6ddbcda04e"
-metafile = true
-
-[[files]]
 file = "mods/camera-mod.toml"
 hash = "bb576766c235be703dc89e56fcf310e90169754b95fc7bbb56d7d628fbcf6603"
 metafile = true
