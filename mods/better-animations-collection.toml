@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3527/69/BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar"
+hash-format = "murmur2"
+hash = "1316672609"
+
+[update]
+[update.curseforge]
+file-id = 3527069
+project-id = 323976

@@ -1,0 +1,13 @@
+name = "The Undergarden"
+filename = "The_Undergarden-1.16.5-0.5.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3477/594/The_Undergarden-1.16.5-0.5.5.jar"
+hash-format = "murmur2"
+hash = "155674298"
+
+[update]
+[update.curseforge]
+file-id = 3477594
+project-id = 379849

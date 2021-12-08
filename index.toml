@@ -18,6 +18,11 @@ hash = "f8ca6a3d3eb792f384f27efb80ffa4e4b77ac14938f37cfd7676a33defd1ce66"
 metafile = true
 
 [[files]]
+file = "mods/actually-compatible.toml"
+hash = "446381336c279b005785ffaa9573e8dadf80c58721000b6d68dff02831f2be8c"
+metafile = true
+
+[[files]]
 file = "mods/advanced-chimneys.toml"
 hash = "524ac9eb8350d1156acc060be2f2a924e95420935633dc30270a8c2e252552e8"
 metafile = true
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/balanced-enchanting.toml"
 hash = "6ad1d42096ecd2ab17b7f780f54dbb0179c8a4c99963ec6687c09f91f9e5b0b3"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.toml"
+hash = "049355af1225d7768b048d74cfa9d29e7c81f429a2336729032f72c25f124b64"
 metafile = true
 
 [[files]]
@@ -360,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.toml"
 hash = "950ca5d70d522432663f3fc18ca977c11a09198fe587727c3251eb321863a1fc"
+metafile = true
+
+[[files]]
+file = "mods/darker-loading-screen.toml"
+hash = "4d7725755bb094b35f3a29ab6a8f75173e8f152eb38698779af25d744a42ea86"
 metafile = true
 
 [[files]]
@@ -2544,6 +2559,11 @@ hash = "bebee893905aea9a3982e9790d87b26f9e22931347098083e648bbdb8249fbdf"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.toml"
+hash = "eb341d9690c01d3b6614e2d68318ee406dda568ea6aff791ac4f704f0af1926c"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.toml"
 hash = "6302de9f5a7924dcacdb8a3e9517707aad5a4a5a4de947f856fdd5b3d532d24e"
 metafile = true
@@ -2586,6 +2606,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-tweaks-renewed.toml"
 hash = "d673b08d0bf142804390f37c07b7833b8e261d4a6b889113b3b3c47fdc9a757c"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.toml"
+hash = "ab9939d223853d6a9be9925acb91fd068121b35eb134d1c51da4d537d41c3432"
 metafile = true
 
 [[files]]
@@ -2754,6 +2779,11 @@ hash = "bce297ece6c9c32b58e54e1b9fbaec9cc10bb1a9edae0b9eed1940715b57e017"
 metafile = true
 
 [[files]]
+file = "mods/mini-effects.toml"
+hash = "c596ca28b54094d18425cdf1db38ef0685d7e21348332b41b5ec88130d9b1bbd"
+metafile = true
+
+[[files]]
 file = "mods/minicoal.toml"
 hash = "035ffa01f9ae7b9539da395bcc224b36a55d73e3a8115e42804844e8f3a01031"
 metafile = true
@@ -2886,6 +2916,11 @@ metafile = true
 [[files]]
 file = "mods/observerlib.toml"
 hash = "4832d69aabc7e0a41d45a820cab502700a00993c6735717bde3cb2a6a0c2e55c"
+metafile = true
+
+[[files]]
+file = "mods/occultism.toml"
+hash = "55ec306c02d22e0fc2532761fb1c0a4afa33580ad93c2d3a9b517d3e21fde23b"
 metafile = true
 
 [[files]]
@@ -3256,6 +3291,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.toml"
 hash = "014cdc116f1bce2406ad48177bdf7815a2162c2af0f21edeaaceb827d2cadeb0"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.toml"
+hash = "da936d02cc6228f03b11b95274a8b7e9bceb9c195f3034a5f0686250f637fe2a"
 metafile = true
 
 [[files]]

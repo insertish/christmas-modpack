@@ -1,0 +1,13 @@
+name = "Darker Loading Screen"
+filename = "darkerloadingscreen-2.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3051/45/darkerloadingscreen-2.2.jar"
+hash-format = "murmur2"
+hash = "3534680251"
+
+[update]
+[update.curseforge]
+file-id = 3051045
+project-id = 385783

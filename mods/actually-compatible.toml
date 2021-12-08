@@ -1,0 +1,13 @@
+name = "Actually Compatible"
+filename = "actually-compatible-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3539/581/actually-compatible-0.1.1.jar"
+hash-format = "murmur2"
+hash = "3685839804"
+
+[update]
+[update.curseforge]
+file-id = 3539581
+project-id = 550269

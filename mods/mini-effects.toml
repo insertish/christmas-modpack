@@ -1,0 +1,13 @@
+name = "Mini Effects (Forge)"
+filename = "MiniEffects-1.16.5-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/9/MiniEffects-1.16.5-2.0.0.jar"
+hash-format = "murmur2"
+hash = "559041873"
+
+[update]
+[update.curseforge]
+file-id = 3393009
+project-id = 502649

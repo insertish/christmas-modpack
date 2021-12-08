@@ -1,0 +1,13 @@
+name = "Item Borders"
+filename = "ItemBorders-1.16.5-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3469/455/ItemBorders-1.16.5-1.1.2.jar"
+hash-format = "murmur2"
+hash = "2639588969"
+
+[update]
+[update.curseforge]
+file-id = 3469455
+project-id = 513769
