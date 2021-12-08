@@ -1,0 +1,13 @@
+name = "Desolation (Forge)"
+filename = "Desolation 1.1.0-2 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3520/961/Desolation 1.1.0-2 1.16.5.jar"
+hash-format = "murmur2"
+hash = "2736110356"
+
+[update]
+[update.curseforge]
+file-id = 3520961
+project-id = 445926
