@@ -1,0 +1,13 @@
+name = "Universal Power Monitor (UPM)"
+filename = "upm-1.16.5-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3357/643/upm-1.16.5-1.0.13.jar"
+hash-format = "murmur2"
+hash = "2837131363"
+
+[update]
+[update.curseforge]
+file-id = 3357643
+project-id = 481942

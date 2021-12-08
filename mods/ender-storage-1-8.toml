@@ -1,0 +1,13 @@
+name = "Ender Storage 1.8.+"
+filename = "EnderStorage-1.16.5-2.8.0.168-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/748/EnderStorage-1.16.5-2.8.0.168-universal.jar"
+hash-format = "murmur2"
+hash = "858512634"
+
+[update]
+[update.curseforge]
+file-id = 3361748
+project-id = 245174

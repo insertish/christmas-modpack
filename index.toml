@@ -118,6 +118,11 @@ hash = "0888ea1309085d0d065f5ec2cb72baa576da0d7badd5f52864e95b8d8ded7e4c"
 metafile = true
 
 [[files]]
+file = "mods/better-weather.toml"
+hash = "ae578c8ecfe6f63391d63bbeab033f747cd4bc8fca813c308db30d52fa1f76c5"
+metafile = true
+
+[[files]]
 file = "mods/betterend-forge-port.toml"
 hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
 metafile = true
@@ -465,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/ender-mail.toml"
 hash = "b6cf736ab16825e44606e4abf4ca5984eaafa62a3573116d3375b30bb6d4b629"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "80650bf7cd944ec5aec843308be2886468ea565edb596c9938ab8ee6df26d6ab"
 metafile = true
 
 [[files]]
@@ -2534,6 +2544,11 @@ file = "mods/hats/files.extracted"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/hostile-neural-networks.toml"
+hash = "e3989ac0b85560c16ad428d7de976c70397fda79a14df8a92b3dc270096e284a"
+metafile = true
+
+[[files]]
 file = "mods/hot-or-not.toml"
 hash = "bebee893905aea9a3982e9790d87b26f9e22931347098083e648bbdb8249fbdf"
 metafile = true
@@ -2774,6 +2789,11 @@ hash = "34f474eb3ce1beea4dd46482f03f85d5cdeaa902f203da301a6a218f4eba63c3"
 metafile = true
 
 [[files]]
+file = "mods/more-mounted-storages.toml"
+hash = "b0de2cb0fc18b29d1c74cce4221d6f13793981e0c40c5d75446f92b2b4cde993"
+metafile = true
+
+[[files]]
 file = "mods/morpheus.toml"
 hash = "c4b817dfe315f9f2e9bd149faee1a9e748c5556d36675ca6a7b023db9d3f547e"
 metafile = true
@@ -2876,6 +2896,11 @@ metafile = true
 [[files]]
 file = "mods/observerlib.toml"
 hash = "4832d69aabc7e0a41d45a820cab502700a00993c6735717bde3cb2a6a0c2e55c"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "e09e2f97155235c31987bd3eec350666cb94315daf1157497b2861bfd96494ea"
 metafile = true
 
 [[files]]
@@ -3341,6 +3366,11 @@ metafile = true
 [[files]]
 file = "mods/unionlib.toml"
 hash = "455cd5991fe4903ef51e8ecb4dacc13c3def1cc49020dd17b630477d07066c0c"
+metafile = true
+
+[[files]]
+file = "mods/universal-power-monitor-upm.toml"
+hash = "95d780fd3d37bdae82995492e88d691470dac77e9101887161d3a8802e11803f"
 metafile = true
 
 [[files]]

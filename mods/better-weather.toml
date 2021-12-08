@@ -1,0 +1,13 @@
+name = "Better Weather - Seasons, Blizzards, and more!"
+filename = "betterweather-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/517/betterweather-2.0.1.jar"
+hash-format = "murmur2"
+hash = "685114045"
+
+[update]
+[update.curseforge]
+file-id = 3420517
+project-id = 400714
