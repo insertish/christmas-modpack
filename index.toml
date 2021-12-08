@@ -528,11 +528,6 @@ hash = "7b02d51d919954ed5af4663521fcf77440876b48d84e7057869556b6651ae9b5"
 metafile = true
 
 [[files]]
-file = "mods/finite-water-infinite-lava.toml"
-hash = "f23004120ee1be267285006e5cd40f43842e6236f481a30f736abe75193f229a"
-metafile = true
-
-[[files]]
 file = "mods/first-person-model.toml"
 hash = "9b97acbe32e0ad2811f95571c50b494a40a0b1744fa8ebd7abcdb43ad6f30186"
 metafile = true
