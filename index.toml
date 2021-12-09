@@ -2610,11 +2610,6 @@ hash = "3da6636df7a75736d35b88093984a512e9e3d1f47c9bb844541409c76a724f35"
 metafile = true
 
 [[files]]
-file = "mods/industrial-reborn.toml"
-hash = "3725e127aeeb315c7323eed0e55d6e168cc3486053661265819814da23998fdc"
-metafile = true
-
-[[files]]
 file = "mods/infernal-expansion.toml"
 hash = "a2ffb1ab729824b8d1f6dcb3270cf00aa3aeb3a67e547ce90421d71732a85398"
 metafile = true
@@ -3130,11 +3125,6 @@ hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
 metafile = true
 
 [[files]]
-file = "mods/randomite-classic.toml"
-hash = "fc5a3ceedd8322ae51b370f81217a7fcc6564717df596938a2376bbc6bde3b84"
-metafile = true
-
-[[files]]
 file = "mods/randompatches-forge.toml"
 hash = "e0ef646616594c72d923b2f21f3f5a6fec7bf04b5764f624d30fe59bb5b48c6c"
 metafile = true
@@ -3217,11 +3207,6 @@ metafile = true
 [[files]]
 file = "mods/simple-shops.toml"
 hash = "c3fdd2a3449844645f5167df67ae5e764efb897dcb8aa36268049b00640989a2"
-metafile = true
-
-[[files]]
-file = "mods/simple-storage-network.toml"
-hash = "430a387d728ccfba73426f17ca89db29a7018624df0efb18d7acbbf33747b222"
 metafile = true
 
 [[files]]
