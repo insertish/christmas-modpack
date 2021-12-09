@@ -1,0 +1,13 @@
+name = "Sulfuric"
+filename = "sulfuric-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3496/27/sulfuric-1.1.jar"
+hash-format = "murmur2"
+hash = "2295792407"
+
+[update]
+[update.curseforge]
+file-id = 3496027
+project-id = 533801

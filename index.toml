@@ -308,6 +308,11 @@ hash = "c224bce51b0106e6fc6f807b2345f6bee027005affcb66c7087d1b3f362f9001"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.toml"
+hash = "c47bdec2f58310a36353e94c108a164b5d6d4632e395f9c152658d15ee6d2a4e"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.toml"
 hash = "27b23287a8577a06c2978d0797641a2419d4826fc031b1e4802a5419c0132039"
 metafile = true
@@ -2991,6 +2996,11 @@ metafile = true
 [[files]]
 file = "mods/phosphophyllite.toml"
 hash = "65ff43a7e601693ad902e6386dfae7493b3ae145594a88f37e78d48a1cf93bb1"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-reforged.toml"
+hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
 metafile = true
 
 [[files]]
