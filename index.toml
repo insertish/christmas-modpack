@@ -164,11 +164,6 @@ hash = "73df62bcaca4bd442077aff4d9aa0f9342e6670ced93221998f3a30a83cfa484"
 metafile = true
 
 [[files]]
-file = "mods/biggerreactors.toml"
-hash = "766eeb52f2b7e37135183aaadf78eb56ed8e13b41bb7a0f6ce67d4df66024cfe"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
 metafile = true
