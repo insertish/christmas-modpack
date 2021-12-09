@@ -524,11 +524,6 @@ hash = "f3df9ce553774d251913d175277cba6f4a37db5e3d0b72cdc815e11127bd85ca"
 metafile = true
 
 [[files]]
-file = "mods/fairy-lights.toml"
-hash = "6d7bc0a6d1da03c3586b0ff331de0e89b385c0bbb553e369f565d08e831a4a06"
-metafile = true
-
-[[files]]
 file = "mods/falling-leaves-forge.toml"
 hash = "44d05b634a9e1ae0eeb13622b53e7e8728433c1dc9342684cb586499f0f3078b"
 metafile = true
