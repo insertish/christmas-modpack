@@ -108,6 +108,11 @@ hash = "6ad1d42096ecd2ab17b7f780f54dbb0179c8a4c99963ec6687c09f91f9e5b0b3"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.toml"
+hash = "b0d55afbb19202e6fafc0890842d8f44784674d9a3621b185f49231210fe5fe4"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.toml"
 hash = "13ebd771ab4719d32f51c73166245958a6ce5ac8c19c7c2bccad80b3181188a5"
 metafile = true
