@@ -1,4 +1,4 @@
-# 299 Mods
+# 302 Mods
 
 |Name|Side|
 |---|---|---|
@@ -21,6 +21,7 @@
 |AutoRegLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)|
 |Bad Wither No Cookie - Reloaded|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)|
 |Balanced Enchanting|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting)|
+|Better Advancements|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements)|
 |Better Animations Collection|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection)|
 |Better Burning|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-burning)|
 |Better Diving|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-diving)|
@@ -61,6 +62,7 @@
 |Configured|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured)|
 |Controlling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)|
 |Corpse|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)|
+|Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |Crafting Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)|
 |CraftTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)|
 |Crash Utilities|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)|
@@ -113,6 +115,7 @@
 |Floor Mats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/floor-mats)|
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
+|FTB Backups (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)|
 |FTB Essentials (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
@@ -167,7 +170,6 @@
 |Mini Effects (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mini-effects)|
 |MiniCoal|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minicoal)|
 |MmmMmmMmmMmm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)|
-|Mod Name Tooltip|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)|
 |More Mekanism Processing|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing)|
 |More Minecarts and Rails|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)|
 |More Mounted Storages|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-mounted-storages)|
@@ -208,6 +210,7 @@
 |Persistent Players|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/persistent-players)|
 |Phi (Psi addon)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phi)|
 |Phosphophyllite|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite)|
+|Sulfuric|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged)|
 |Pick Up Notifier [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
