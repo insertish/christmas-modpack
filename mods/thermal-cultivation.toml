@@ -1,13 +1,13 @@
 name = "Thermal Cultivation"
-filename = "thermal_cultivation-1.16.5-1.3.0.jar"
+filename = "thermal_cultivation-1.16.5-1.4.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3404/883/thermal_cultivation-1.16.5-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3555/668/thermal_cultivation-1.16.5-1.4.1.3.jar"
 hash-format = "murmur2"
-hash = "1890181059"
+hash = "3544485314"
 
 [update]
 [update.curseforge]
-file-id = 3404883
+file-id = 3555668
 project-id = 271835

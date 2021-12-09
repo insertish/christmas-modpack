@@ -1,13 +1,13 @@
 name = "OAuth"
-filename = "oauth-1.1.2-1.16.jar"
+filename = "oauth-1.1.5-1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3538/41/oauth-1.1.2-1.16.jar"
+url = "https://edge.forgecdn.net/files/3556/246/oauth-1.1.5-1.16.jar"
 hash-format = "murmur2"
-hash = "1265081664"
+hash = "1166094656"
 
 [update]
 [update.curseforge]
-file-id = 3538041
+file-id = 3556246
 project-id = 513857

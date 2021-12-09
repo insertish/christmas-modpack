@@ -1,13 +1,13 @@
 name = "Thermal Innovation"
-filename = "thermal_innovation-1.16.5-1.3.0.jar"
+filename = "thermal_innovation-1.16.5-1.4.1.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3404/886/thermal_innovation-1.16.5-1.3.0.jar"
+url = "https://edge.forgecdn.net/files/3556/270/thermal_innovation-1.16.5-1.4.1.3.jar"
 hash-format = "murmur2"
-hash = "3270795898"
+hash = "1294553485"
 
 [update]
 [update.curseforge]
-file-id = 3404886
+file-id = 3556270
 project-id = 291737

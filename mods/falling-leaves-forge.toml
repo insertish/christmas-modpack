@@ -1,13 +1,13 @@
 name = "Falling Leaves (Forge)"
-filename = "Fallingleaves-1.16.3-1.1.2.jar"
+filename = "Fallingleaves-1.16.3-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3474/929/Fallingleaves-1.16.3-1.1.2.jar"
+url = "https://edge.forgecdn.net/files/3529/751/Fallingleaves-1.16.3-1.2.2.jar"
 hash-format = "murmur2"
-hash = "1355596653"
+hash = "637678545"
 
 [update]
 [update.curseforge]
-file-id = 3474929
+file-id = 3529751
 project-id = 463155

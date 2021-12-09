@@ -1,13 +1,13 @@
 name = "Advanced Peripherals"
-filename = "advancedperipherals-1.16.5-0.7.3r.jar"
+filename = "advancedperipherals-1.16.5-0.7.5r.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3489/937/advancedperipherals-1.16.5-0.7.3r.jar"
+url = "https://edge.forgecdn.net/files/3537/51/advancedperipherals-1.16.5-0.7.5r.jar"
 hash-format = "murmur2"
-hash = "3926533479"
+hash = "3993741365"
 
 [update]
 [update.curseforge]
-file-id = 3489937
+file-id = 3537051
 project-id = 431725

@@ -1,13 +1,13 @@
 name = "Thermal Foundation"
-filename = "thermal_foundation-1.16.5-1.3.2.jar"
+filename = "thermal_foundation-1.16.5-1.4.1.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3412/300/thermal_foundation-1.16.5-1.3.2.jar"
+url = "https://edge.forgecdn.net/files/3556/268/thermal_foundation-1.16.5-1.4.1.6.jar"
 hash-format = "murmur2"
-hash = "2482344754"
+hash = "2914095614"
 
 [update]
 [update.curseforge]
-file-id = 3412300
+file-id = 3556268
 project-id = 222880

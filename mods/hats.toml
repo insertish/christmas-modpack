@@ -1,13 +1,13 @@
 name = "Hats"
-filename = "Hats-1.16.5-10.3.1.jar"
+filename = "Hats-1.16.5-10.3.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3346/247/Hats-1.16.5-10.3.1.jar"
+url = "https://edge.forgecdn.net/files/3548/423/Hats-1.16.5-10.3.3.jar"
 hash-format = "murmur2"
-hash = "2728028008"
+hash = "416188168"
 
 [update]
 [update.curseforge]
-file-id = 3346247
+file-id = 3548423
 project-id = 229073

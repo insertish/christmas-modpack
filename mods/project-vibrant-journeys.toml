@@ -1,13 +1,13 @@
 name = "Project: Vibrant Journeys"
-filename = "projectvibrantjourneys-1.16.5-3.2.10.jar"
+filename = "projectvibrantjourneys-1.16.5-3.2.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3468/243/projectvibrantjourneys-1.16.5-3.2.10.jar"
+url = "https://edge.forgecdn.net/files/3549/712/projectvibrantjourneys-1.16.5-3.2.11.jar"
 hash-format = "murmur2"
-hash = "3410786210"
+hash = "2461093131"
 
 [update]
 [update.curseforge]
-file-id = 3468243
+file-id = 3549712
 project-id = 300297

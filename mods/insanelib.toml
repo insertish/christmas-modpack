@@ -1,13 +1,13 @@
 name = "InsaneLib"
-filename = "InsaneLib-1.4.0-mc1.16.5.jar"
+filename = "InsaneLib-1.4.1-mc1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3537/107/InsaneLib-1.4.0-mc1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3548/568/InsaneLib-1.4.1-mc1.16.5.jar"
 hash-format = "murmur2"
-hash = "3729093999"
+hash = "3357843066"
 
 [update]
 [update.curseforge]
-file-id = 3537107
+file-id = 3548568
 project-id = 465109

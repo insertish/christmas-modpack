@@ -1,13 +1,13 @@
 name = "Wither Skeleton Tweaks"
-filename = "Wither-Skeleton-Tweaks-1.16.4-5.3.0.jar"
+filename = "WitherSkeletonTweaks-1.16.5-5.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3172/803/Wither-Skeleton-Tweaks-1.16.4-5.3.0.jar"
+url = "https://edge.forgecdn.net/files/3537/512/WitherSkeletonTweaks-1.16.5-5.4.1.jar"
 hash-format = "murmur2"
-hash = "169920213"
+hash = "2416667038"
 
 [update]
 [update.curseforge]
-file-id = 3172803
+file-id = 3537512
 project-id = 255902

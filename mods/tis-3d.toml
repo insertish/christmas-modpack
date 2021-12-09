@@ -1,13 +1,13 @@
 name = "TIS-3D"
-filename = "tis3d-1.16.5-forge-1.6.6+25.jar"
+filename = "tis3d-1.16.5-forge-1.6.8+30.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3462/756/tis3d-1.16.5-forge-1.6.6+25.jar"
+url = "https://edge.forgecdn.net/files/3553/103/tis3d-1.16.5-forge-1.6.8+30.jar"
 hash-format = "murmur2"
-hash = "3258335208"
+hash = "2759503344"
 
 [update]
 [update.curseforge]
-file-id = 3462756
+file-id = 3553103
 project-id = 238603

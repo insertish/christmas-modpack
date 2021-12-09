@@ -1,13 +1,13 @@
 name = "iChunUtil"
-filename = "iChunUtil-1.16.5-10.4.1.jar"
+filename = "iChunUtil-1.16.5-10.5.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3346/209/iChunUtil-1.16.5-10.4.1.jar"
+url = "https://edge.forgecdn.net/files/3548/417/iChunUtil-1.16.5-10.5.1.jar"
 hash-format = "murmur2"
-hash = "1991337855"
+hash = "2269053490"
 
 [update]
 [update.curseforge]
-file-id = 3346209
+file-id = 3548417
 project-id = 229060

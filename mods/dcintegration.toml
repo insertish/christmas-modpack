@@ -1,13 +1,13 @@
 name = "Discord Integration Forge"
-filename = "dcintegration-forge-2.1.1-1.16.jar"
+filename = "dcintegration-forge-2.3.5-1.16.jar"
 side = "server"
 
 [download]
-url = "https://media.forgecdn.net/files/3258/592/dcintegration-forge-2.1.1-1.16.jar"
+url = "https://edge.forgecdn.net/files/3514/256/dcintegration-forge-2.3.5-1.16.jar"
 hash-format = "murmur2"
-hash = "305229086"
+hash = "4182896917"
 
 [update]
 [update.curseforge]
-file-id = 3258592
+file-id = 3514256
 project-id = 324952

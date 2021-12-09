@@ -1,13 +1,13 @@
 name = "Better Diving"
-filename = "BetterDiving-1.16.5-1.3.2.jar"
+filename = "BetterDiving-1.16.5-1.3.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3425/106/BetterDiving-1.16.5-1.3.2.jar"
+url = "https://edge.forgecdn.net/files/3533/234/BetterDiving-1.16.5-1.3.4.jar"
 hash-format = "murmur2"
-hash = "3028762620"
+hash = "940268961"
 
 [update]
 [update.curseforge]
-file-id = 3425106
+file-id = 3533234
 project-id = 310303

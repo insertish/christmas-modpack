@@ -1,13 +1,13 @@
 name = "Nether Portal Spread (Forge)"
-filename = "netherportalspread_1.16.5-5.4.jar"
+filename = "netherportalspread_1.16.5-5.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3448/55/netherportalspread_1.16.5-5.4.jar"
+url = "https://edge.forgecdn.net/files/3542/678/netherportalspread_1.16.5-5.6.jar"
 hash-format = "murmur2"
-hash = "3441904120"
+hash = "2701411989"
 
 [update]
 [update.curseforge]
-file-id = 3448055
+file-id = 3542678
 project-id = 342097
