@@ -2794,11 +2794,6 @@ hash = "ba084332cfd430a544eefd160378bd44b4b6e00f92c827dc6031e60985170b98"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.toml"
-hash = "75dcdde50b6564b3893b9895deda97fa6d74b362338f12f36fd23d680f1a810d"
-metafile = true
-
-[[files]]
 file = "mods/more-mekanism-processing.toml"
 hash = "388109fcd6fbe13e7de28371ca1ce9d97e9ba9f1657b60ecd7c4fbc05931f7c2"
 metafile = true
