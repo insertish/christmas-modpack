@@ -343,6 +343,11 @@ hash = "40b007f7114938d1d86851ec346fe31e877aeb0ba83474435fa83d3af200920b"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.toml"
+hash = "46b316cce9a996c4d9c3a751543129f386c1cf97d76968596a6f26cd61d3623d"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true

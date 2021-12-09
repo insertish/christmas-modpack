@@ -1,0 +1,13 @@
+name = "CreateTweaker"
+filename = "CreateTweaker-1.0.0.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3552/866/CreateTweaker-1.0.0.26.jar"
+hash-format = "murmur2"
+hash = "1455184290"
+
+[update]
+[update.curseforge]
+file-id = 3552866
+project-id = 437717
