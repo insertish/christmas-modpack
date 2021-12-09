@@ -578,6 +578,11 @@ hash = "f38eabfbbd86bcc171abe2b6298c5f1326286bfcf82f99ec45f972c65bc9b878"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-forge.toml"
+hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.toml"
 hash = "4453d0966af8917e770ec5520accada23007d6162281985f3e907ea36b2e944e"
 metafile = true
