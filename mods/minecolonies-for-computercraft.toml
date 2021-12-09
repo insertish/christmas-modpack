@@ -1,0 +1,13 @@
+name = "MineColonies for ComputerCraft"
+filename = "Colony4ComputerCraft-1.16.5-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/601/Colony4ComputerCraft-1.16.5-1.4.1.jar"
+hash-format = "murmur2"
+hash = "3077348537"
+
+[update]
+[update.curseforge]
+file-id = 3553601
+project-id = 445290

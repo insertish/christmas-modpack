@@ -2789,6 +2789,16 @@ hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies-for-computercraft.toml"
+hash = "4b7e498aee90f5be565bc486fc00561176333466868f403b1263ab52ad3bfa83"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.toml"
+hash = "a7325dcfb35faa781ca91bdecf9814d04ce938ba76ca8c292b603d75dec86a25"
+metafile = true
+
+[[files]]
 file = "mods/minecraftcapes-mod.toml"
 hash = "d16dba02d62e9c77f4f77ee0af7dc78023958b99e123ebdb87621930732d4d19"
 metafile = true
