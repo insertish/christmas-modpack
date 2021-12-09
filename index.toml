@@ -229,11 +229,6 @@ hash = "310d03d3480d0752f021968e38b74134fb5995aa8241eb9aeae84f77c910cb8b"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.toml"
-hash = "e7ba9511ef37b63fb8ba306d36c2b760face5d919560795f5af072cd557ce543"
-metafile = true
-
-[[files]]
 file = "mods/chemlib.toml"
 hash = "f67c2170e384300fb9d77afb3d7c45c25c9c6671d092dfc5522f1561244a1424"
 metafile = true
