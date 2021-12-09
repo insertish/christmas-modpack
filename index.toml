@@ -5,6 +5,22 @@ file = "FeaturedServers/featuredservers.json"
 hash = "dd50ad2506d519bc4213b0c9e72142b0c4b70a66eaf116f0d379be94b139e40b"
 
 [[files]]
+file = "config/adpother/Pollutants/carbon.cfg"
+hash = "492605953d4215ce4da9cd2e8a7c4802bae7edad71a5682bac6d83c09f91f406"
+
+[[files]]
+file = "config/adpother/Pollutants/dust.cfg"
+hash = "ad5f82770aa228103512b97cc6c6ef75b498cb0d65978a13ce24d86498ae890d"
+
+[[files]]
+file = "config/adpother/Pollutants/sulfur.cfg"
+hash = "1fa00836c94de68109858c662604c3d1943d94eb0bea8804db18e4f11e0fe499"
+
+[[files]]
+file = "config/adpother/adpother.cfg"
+hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
 
@@ -3512,6 +3528,10 @@ hash = "72bc53dde16336757ca33695b5743a6ff14ab6f0a7a2db49450bc18653be1722"
 [[files]]
 file = "openloader/data/custom nether portals v2.3.2.zip"
 hash = "a8a03fc827821f9388c701c307736c3220e3838a91e3682bc5ce35c02e72f5c6"
+
+[[files]]
+file = "openloader/data/deez-emojiful-datapack.zip"
+hash = "b0acaf7fc39e4ee52b88f9b3f5df671a605e17e69212c8536ca13a6e2c7d75c4"
 
 [[files]]
 file = "openloader/data/durability ping v1.1.0.zip"
