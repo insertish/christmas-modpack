@@ -22,6 +22,14 @@
   2. Disabled emission on entity death.
   3. Limited pollution to overworld dimension only.
 
+- Mekanism config changes:
+
+  1. Changed Digital Miner "per operation tick" energy usage to `2000 J` (20x the default)
+  2. Changed Digital Miner energy storage to `500,000 J` (10x the default)
+  3. Nerf wind generator (max) base energy generation from `480 J/t` to `200 J/t`
+  4. Buff basic solar generator (peak) energy generation from `50 J/t` to `120 J/t`
+  5. Buff advanced solar generator (peak) energy generation from `300 J/t` to `720 J/t`
+
 ## Additional Configuration
 
 The following should be configured on the server:
