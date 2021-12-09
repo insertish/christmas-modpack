@@ -16,6 +16,12 @@
 
   This modpack is intended for a server, OF shouldn't mess with worldgen.
 
+- Pollution of the Realms changes:
+
+  1. Dropped global emission rate from 100% to 5%.
+  2. Disabled emission on entity death.
+  3. Limited pollution to overworld dimension only.
+
 ## Additional Configuration
 
 The following should be configured on the server:
