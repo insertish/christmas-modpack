@@ -1,0 +1,13 @@
+name = "Chipped"
+filename = "chipped-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/808/chipped-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3354636867"
+
+[update]
+[update.curseforge]
+file-id = 3424808
+project-id = 456956

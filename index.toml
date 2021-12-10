@@ -255,6 +255,11 @@ hash = "0885b1fc485d483e41c10dab45e5451c8d5da3f00b54677c145c6e40906c98d0"
 metafile = true
 
 [[files]]
+file = "mods/chipped.toml"
+hash = "0d6730b131872ea288f5354c5138dd9ee5adbc61d2ede50db14e314be123909b"
+metafile = true
+
+[[files]]
 file = "mods/chisel.toml"
 hash = "3fbb4284e0fa040a88ff0f7a7e9db69a6bb52f8a07e5c267593b7c25c607c677"
 metafile = true
