@@ -5,6 +5,18 @@ file = "FeaturedServers/featuredservers.json"
 hash = "dd50ad2506d519bc4213b0c9e72142b0c4b70a66eaf116f0d379be94b139e40b"
 
 [[files]]
+file = "config/Mekanism/generators.toml"
+hash = "c5a8b9163389a76535ee0961fa521de0a45f15cb24401068922522d9b80fbc18"
+
+[[files]]
+file = "config/Mekanism/machine-storage.toml"
+hash = "b7f82946b8c272c7ef67942fa22505fd2d92c86d7a62ec50aa1f1bece75bbb84"
+
+[[files]]
+file = "config/Mekanism/machine-usage.toml"
+hash = "f6d95b6cde51d8a971df5fd83b134204caa136ffa2610d335af86c68b5269f14"
+
+[[files]]
 file = "config/adpother/Pollutants/carbon.cfg"
 hash = "492605953d4215ce4da9cd2e8a7c4802bae7edad71a5682bac6d83c09f91f406"
 
@@ -23,6 +35,10 @@ hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
 [[files]]
 file = "config/quark-common.toml"
 hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
+
+[[files]]
+file = "config/totaldarkness-client.toml"
+hash = "313649b592e0e0270b9597902d43b7e8fdc89ebf9144cc1969395b53f24d52d3"
 
 [[files]]
 file = "config/twilightforest-client.toml"

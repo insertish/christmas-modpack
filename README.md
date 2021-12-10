@@ -30,6 +30,11 @@
   4. Buff basic solar generator (peak) energy generation from `50 J/t` to `120 J/t`
   5. Buff advanced solar generator (peak) energy generation from `300 J/t` to `720 J/t`
 
+- Adjust Total Darkness mod:
+
+  1. Disabled in Nether
+  2. Disabled in End
+
 ## Additional Configuration
 
 The following should be configured on the server:
