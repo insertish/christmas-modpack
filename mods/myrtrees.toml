@@ -1,0 +1,13 @@
+name = "Myrtrees"
+filename = "myrtrees-forge-1.0.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/611/myrtrees-forge-1.0.19.jar"
+hash-format = "murmur2"
+hash = "2025225197"
+
+[update]
+[update.curseforge]
+file-id = 3553611
+project-id = 546151

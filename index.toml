@@ -510,6 +510,11 @@ hash = "f6c9520a0de1cdcc64d377f075e0698c61376c317f7122f8b522b180318130ef"
 metafile = true
 
 [[files]]
+file = "mods/emendatus-enigmatica.toml"
+hash = "1487e7b84b0ebf8e8765548b5bf9c65df40222b32ee36840b217185da52a649c"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.toml"
 hash = "a69cae9dfbc6d2f9f80e60c9ebd6ea6a178ca4fde6c7f87cc8574ab8b0deb9a1"
 metafile = true
@@ -612,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-essentials-forge.toml"
 hash = "4453d0966af8917e770ec5520accada23007d6162281985f3e907ea36b2e944e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-industrial-contraptions.toml"
+hash = "aaebdb2a39864472ce4d7adc18bf505c199a34f24df3b3c054edb65b0af19114"
 metafile = true
 
 [[files]]
@@ -2878,6 +2888,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-more-furniture-mod.toml"
 hash = "806be7dab47ada073301a92ec86a8efb24abeb45b1efb46eaff4afb2831e3f82"
+metafile = true
+
+[[files]]
+file = "mods/myrtrees.toml"
+hash = "58528dcad3d616f386f676d61ce41963516b8d97a9195aba4c10add657008e6d"
 metafile = true
 
 [[files]]

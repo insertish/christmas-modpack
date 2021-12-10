@@ -1,0 +1,13 @@
+name = "FTB Industrial Contraptions"
+filename = "ftb-industrial-contraptions-1605.1.3-build.103.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/246/ftb-industrial-contraptions-1605.1.3-build.103.jar"
+hash-format = "murmur2"
+hash = "4259358007"
+
+[update]
+[update.curseforge]
+file-id = 3553246
+project-id = 539097
