@@ -2601,6 +2601,11 @@ file = "mods/hats/files.extracted"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/homeassistantmc.toml"
+hash = "93c961f043e43852e827f844a9be8c3872eec831e67d9faa87f040c7ec5d269d"
+metafile = true
+
+[[files]]
 file = "mods/hostile-neural-networks.toml"
 hash = "e3989ac0b85560c16ad428d7de976c70397fda79a14df8a92b3dc270096e284a"
 metafile = true

@@ -1,0 +1,13 @@
+name = "HomeAssistantMC"
+filename = "homeassistantmc-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/196/homeassistantmc-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2608358786"
+
+[update]
+[update.curseforge]
+file-id = 3381196
+project-id = 501457
