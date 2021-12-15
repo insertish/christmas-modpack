@@ -35,6 +35,8 @@
   1. Disabled in Nether
   2. Disabled in End
 
+- Disable Advanced Peripherals's "Scientist Village" generations as it can cause crashes.
+
 ## Additional Configuration
 
 The following should be configured on the server:
