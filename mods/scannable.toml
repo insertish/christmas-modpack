@@ -1,13 +1,13 @@
 name = "Scannable"
-filename = "Scannable-MC1.16.5-Forge-1.7.4+21.jar"
+filename = "scannable-1.16.5-forge-1.7.6+00198b7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3398/418/Scannable-MC1.16.5-Forge-1.7.4+21.jar"
+url = "https://edge.forgecdn.net/files/3565/727/scannable-1.16.5-forge-1.7.6+00198b7.jar"
 hash-format = "murmur2"
-hash = "801866381"
+hash = "4270721782"
 
 [update]
 [update.curseforge]
-file-id = 3398418
+file-id = 3565727
 project-id = 266784

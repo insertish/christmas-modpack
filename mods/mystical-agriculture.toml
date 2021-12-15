@@ -1,13 +1,13 @@
 name = "Mystical Agriculture"
-filename = "MysticalAgriculture-1.16.5-4.2.5.jar"
+filename = "MysticalAgriculture-1.16.5-4.2.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3523/924/MysticalAgriculture-1.16.5-4.2.5.jar"
+url = "https://edge.forgecdn.net/files/3562/127/MysticalAgriculture-1.16.5-4.2.6.jar"
 hash-format = "murmur2"
-hash = "2307231670"
+hash = "658454806"
 
 [update]
 [update.curseforge]
-file-id = 3523924
+file-id = 3562127
 project-id = 246640

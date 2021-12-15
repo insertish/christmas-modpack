@@ -1,13 +1,13 @@
 name = "JourneyMap Integration"
-filename = "jmi-1.16.5-0.4-21.jar"
+filename = "jmi-1.16.5-0.4-22.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3476/230/jmi-1.16.5-0.4-21.jar"
+url = "https://edge.forgecdn.net/files/3559/888/jmi-1.16.5-0.4-22.jar"
 hash-format = "murmur2"
-hash = "1331222922"
+hash = "1686580730"
 
 [update]
 [update.curseforge]
-file-id = 3476230
+file-id = 3559888
 project-id = 525447

@@ -1,13 +1,13 @@
 name = "Hostile Neural Networks"
-filename = "HostileNeuralNetworks-1.16.5-1.0.1.jar"
+filename = "HostileNeuralNetworks-1.16.5-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/223/HostileNeuralNetworks-1.16.5-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3567/53/HostileNeuralNetworks-1.16.5-1.0.2.jar"
 hash-format = "murmur2"
-hash = "4038730807"
+hash = "2184959781"
 
 [update]
 [update.curseforge]
-file-id = 3551223
+file-id = 3567053
 project-id = 552574
