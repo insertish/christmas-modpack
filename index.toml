@@ -2821,6 +2821,11 @@ hash = "03a2db8e219a522f6f5ff3f43e34e94717a4047644a24f2be520eb79f650bbbb"
 metafile = true
 
 [[files]]
+file = "mods/mgui.toml"
+hash = "f94cd5dffe7edc642c9131287ea2584d2496f48b325754f2c7edff5aa561a448"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies-for-computercraft.toml"
 hash = "4b7e498aee90f5be565bc486fc00561176333466868f403b1263ab52ad3bfa83"
 metafile = true
@@ -3338,6 +3343,11 @@ metafile = true
 [[files]]
 file = "mods/table-tweaks.toml"
 hash = "e96fc36a08fd8426f181b5bd7878b315c20a6eb90a3d626c13c28c5566407d81"
+metafile = true
+
+[[files]]
+file = "mods/tetra.toml"
+hash = "6658d3865ab959c98efb1b55b050bb6f5c970f6ed5e31535b7a0cd7020f77853"
 metafile = true
 
 [[files]]

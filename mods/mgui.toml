@@ -1,0 +1,13 @@
+name = "mGui"
+filename = "mgui-1.16.5-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3456/505/mgui-1.16.5-3.3.0.jar"
+hash-format = "murmur2"
+hash = "3261480363"
+
+[update]
+[update.curseforge]
+file-id = 3456505
+project-id = 351914

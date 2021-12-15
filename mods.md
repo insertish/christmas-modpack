@@ -1,4 +1,4 @@
-# 299 Mods
+# 306 Mods
 
 |Name|Side|
 |---|---|---|
@@ -44,6 +44,7 @@
 |CC: Tweaked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)|
 |Chem Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemlib)|
 |Cherished Worlds (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)|
+|Chipped|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)|
 |Chisel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisel)|
 |Chocolate Fix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chocolate-fix)|
 |Chunk Loaders|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)|
@@ -94,6 +95,7 @@
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ears)|
 |Eidolon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/eidolon)|
+|Emendatus Enigmatica|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
 |Enchanted Book Redesign|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign)|
 |Ender Mail|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-mail)|
@@ -115,10 +117,12 @@
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
 |FTB Backups (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)|
 |FTB Essentials (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
+|FTB Industrial Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Hats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hats)|
+|HomeAssistantMC|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/homeassistantmc)|
 |Hostile Neural Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)|
 |Hot or Not|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hot-or-not)|
 |Iceberg|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/iceberg)|
@@ -162,6 +166,7 @@
 |Mekanism Tools|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)|
 |Mekanism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism)|
 |Menu Companions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/menu-companions)|
+|mGui|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mgui)|
 |MineColonies for ComputerCraft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies-for-computercraft)|
 |MineColonies|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies)|
 |MinecraftCapes Mod|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod)|
@@ -177,6 +182,7 @@
 |Mowzie's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)|
 |MrCrayfish's Furniture Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)|
 |MrCrayfish's More Furniture Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-more-furniture-mod)|
+|Myrtrees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/myrtrees)|
 |Mystical Agradditions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)|
 |Mystical Agriculture|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)|
 |Nature's Compass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)|
@@ -265,6 +271,7 @@
 |Supplementaries|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries)|
 |SwingThroughGrass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)|
 |Table Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/table-tweaks)|
+|Tetra|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tetra)|
 |The Comfort Zone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-comfort-zone)|
 |The Twilight Forest|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)|
 |The Undergarden|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)|
