@@ -5,6 +5,10 @@ file = "FeaturedServers/featuredservers.json"
 hash = "dd50ad2506d519bc4213b0c9e72142b0c4b70a66eaf116f0d379be94b139e40b"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "55cac26105136fa4db21007028afb25b4801d8618a6a7ce63ba91443316e4d2d"
+
+[[files]]
 file = "config/Mekanism/generators.toml"
 hash = "c5a8b9163389a76535ee0961fa521de0a45f15cb24401068922522d9b80fbc18"
 
