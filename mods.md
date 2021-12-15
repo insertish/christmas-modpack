@@ -1,4 +1,4 @@
-# 306 Mods
+# 311 Mods
 
 |Name|Side|
 |---|---|---|
@@ -87,6 +87,7 @@
 |Diagonal Fences|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)|
 |Dismount Entity (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dismount-entity)|
 |Double Slabs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/double-slabs)|
+|Draconic Evolution|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)|
 |Dynamic Trees - Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dtbop)|
 |Dungeon Crawl|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)|
 |'Dustrial Decor|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)|
@@ -97,9 +98,9 @@
 |Eidolon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/eidolon)|
 |Emendatus Enigmatica|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
-|Enchanted Book Redesign|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign)|
 |Ender Mail|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-mail)|
 |Ender Storage 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
+|EnderTanks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/endertanks)|
 |Engineer's Decor|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)|
 |Entity Culling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-culling)|
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
@@ -113,10 +114,10 @@
 |FindMe|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/findme)|
 |First-person Model (Forge/Fabric)|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/first-person-model)|
 |Floor Mats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/floor-mats)|
+|Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
 |FTB Backups (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)|
-|FTB Essentials (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
 |FTB Industrial Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
@@ -149,6 +150,7 @@
 |Leap|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/leap)|
 |LibX|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/libx)|
 |Login Protection|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/login-protection)|
+|Lollipop|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lollipop)|
 |Lootr|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)|
 |Macaw's Bridges - Biome O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)|
 |Macaw's Bridges|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)|
@@ -187,6 +189,7 @@
 |Mystical Agriculture|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)|
 |Nature's Compass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)|
 |Neat|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/neat)|
+|Neko's Enchanted Books|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)|
 |Nether Portal Spread (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)|
 |NetherPortalFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|
 |Nicephore (better screenshots) [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nicephore)|
@@ -220,6 +223,7 @@
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
 |Pollution of the Realms|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)|
+|Powah!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah)|
 |Pretty Pipes: Fluids|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)|
 |Pretty Pipes|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)|
 |Progressive Bosses|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)|
@@ -244,6 +248,7 @@
 |Reliquary v1.3|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
 |Repurposed Structures (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)|
 |RFTools Base|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base)|
+|RFTools Dimensions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)|
 |Savage & Ravage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)|
 |Scannable|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/scannable)|
 |Scorge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/scorge)|
@@ -251,6 +256,7 @@
 |Second Chance (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/second-chance-forge)|
 |Selene Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)|
 |Serene Seasons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)|
+|ShetiPhianCore|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)|
 |Simple Planes (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-planes)|
 |Simple Shops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-shops)|
 |Simple Voice Chat|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)|
@@ -302,7 +308,6 @@
 |Waterworks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waterworks)|
 |Wavey Capes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waveycapes)|
 |Wither Skeleton Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)|
-|Xplosives Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xplosives-mod)|
 |YUNG's API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)|
 |YUNG's Better Caves (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)|
 |YUNG's Better Dungeons (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)|

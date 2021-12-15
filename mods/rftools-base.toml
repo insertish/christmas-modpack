@@ -1,13 +1,13 @@
 name = "RFTools Base"
-filename = "rftoolsbase-1.16-2.1.0.jar"
+filename = "rftoolsbase-1.16-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3539/364/rftoolsbase-1.16-2.1.0.jar"
+url = "https://edge.forgecdn.net/files/3556/984/rftoolsbase-1.16-2.1.1.jar"
 hash-format = "murmur2"
-hash = "2851581807"
+hash = "4175908136"
 
 [update]
 [update.curseforge]
-file-id = 3539364
+file-id = 3556984
 project-id = 326041

@@ -1,0 +1,13 @@
+name = "Powah!"
+filename = "Powah-1.16.5-2.3.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3232/535/Powah-1.16.5-2.3.16.jar"
+hash-format = "murmur2"
+hash = "872581196"
+
+[update]
+[update.curseforge]
+file-id = 3232535
+project-id = 352656

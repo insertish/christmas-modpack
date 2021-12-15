@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-1.16-1.9.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/99/endertanks-1.16-1.9.7.jar"
+hash-format = "murmur2"
+hash = "489189261"
+
+[update]
+[update.curseforge]
+file-id = 3562099
+project-id = 59613

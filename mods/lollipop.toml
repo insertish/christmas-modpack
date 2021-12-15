@@ -1,0 +1,13 @@
+name = "Lollipop"
+filename = "Lollipop-1.16.5-3.2.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3232/534/Lollipop-1.16.5-3.2.9.jar"
+hash-format = "murmur2"
+hash = "3157196806"
+
+[update]
+[update.curseforge]
+file-id = 3232534
+project-id = 347954
