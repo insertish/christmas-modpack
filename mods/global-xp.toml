@@ -1,0 +1,13 @@
+name = "Global XP"
+filename = "globalxp-1.16.5-v1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/578/globalxp-1.16.5-v1.9.jar"
+hash-format = "murmur2"
+hash = "4095834067"
+
+[update]
+[update.curseforge]
+file-id = 3566578
+project-id = 268647

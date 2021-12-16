@@ -41,6 +41,10 @@ file = "config/quark-common.toml"
 hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
 
 [[files]]
+file = "config/roadrunner/rules.properties"
+hash = "de149f06d4a79eeb97d64b18d85fd92c2a196848e5da9fe22191d01328fa3ae9"
+
+[[files]]
 file = "config/totaldarkness-client.toml"
 hash = "313649b592e0e0270b9597902d43b7e8fdc89ebf9144cc1969395b53f24d52d3"
 
@@ -646,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
+metafile = true
+
+[[files]]
+file = "mods/global-xp.toml"
+hash = "713c3636449beb7b1dcaeed91e42a9b9f9c5b8a1ba15e692485afae2e9e92b12"
 metafile = true
 
 [[files]]
@@ -3237,6 +3246,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-dimensions.toml"
 hash = "acd509f4e42651f3416b727f9e67fb4d10f2828b728af9eefec7039808a37c1a"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.toml"
+hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
 
 [[files]]
