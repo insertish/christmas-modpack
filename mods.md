@@ -1,4 +1,4 @@
-# 313 Mods
+# 317 Mods
 
 |Name|Side|
 |---|---|---|
@@ -190,7 +190,7 @@
 |Mystical Agriculture|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)|
 |Nature's Compass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)|
 |Neat|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/neat)|
-|Neko's Enchanted Books|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)|
+|Neko's Enchanted Books|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)|
 |Nether Portal Spread (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)|
 |NetherPortalFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|
 |Nicephore (better screenshots) [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nicephore)|
@@ -235,6 +235,7 @@
 |Project Red - Integration|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-red-integration)|
 |Project Red - Transmission|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-red-transmission)|
 |Project: Vibrant Journeys|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys)|
+|ProjectE|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/projecte)|
 |Psi|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/psi)|
 |Psionic Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/psionic-peripherals)|
 |Public Gui Announcement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement)|
@@ -259,9 +260,11 @@
 |Selene Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)|
 |Serene Seasons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)|
 |ShetiPhianCore|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)|
+|Simple Discord Rich Presence|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)|
 |Simple Planes (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-planes)|
 |Simple Shops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-shops)|
 |Simple Voice Chat|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)|
+|SKDS Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skds-core)|
 |Skin Layers 3D (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)|
 |Small Ships|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/small-ships)|
 |Smooth Boot (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)|
@@ -307,6 +310,7 @@
 |Upstream|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/upstream)|
 |Valhelsia Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)|
 |Valhelsia Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)|
+|Water Physics Overhaul|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul)|
 |Waterworks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waterworks)|
 |Wavey Capes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waveycapes)|
 |Wither Skeleton Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)|
