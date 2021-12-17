@@ -1,5 +1,6 @@
 .git/**
 .gitattributes
+presence_images/**
 node_modules/**
 .gitignore
 static/**

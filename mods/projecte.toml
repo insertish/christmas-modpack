@@ -1,0 +1,13 @@
+name = "ProjectE"
+filename = "ProjectE-1.16.5-PE1.0.1B.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3223/221/ProjectE-1.16.5-PE1.0.1B.jar"
+hash-format = "murmur2"
+hash = "2823440963"
+
+[update]
+[update.curseforge]
+file-id = 3223221
+project-id = 226410

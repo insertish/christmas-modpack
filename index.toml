@@ -3174,6 +3174,11 @@ hash = "0585d196dc9c0b08768c16d8ffe30377431a8eaa22927322ee22a6631032fdfc"
 metafile = true
 
 [[files]]
+file = "mods/projecte.toml"
+hash = "a7c339f5ed947568c2fe71ceb0061d02cadf76479980d57c84dc5bdd8f158123"
+metafile = true
+
+[[files]]
 file = "mods/psi.toml"
 hash = "f5292434c5c0b7a8a6a802d90377345da4ad6586bc112ee5d9a5c92b8c229bd2"
 metafile = true
@@ -3291,6 +3296,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.toml"
 hash = "8ac2d5a67641c6ef33b5d598403daed6d20745f1680bd5293172fbc9c57ecde7"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.toml"
+hash = "35b1dc4234efb4dfa7191d1c49c9a2edb4420a5fdee80ce6a49495d5d01c64cf"
 metafile = true
 
 [[files]]
@@ -3534,6 +3544,11 @@ hash = "307b243d9c4fb0be4364e73359f86ff87c073b697bd6a7cb70dbe0189a17ad14"
 metafile = true
 
 [[files]]
+file = "mods/water-physics-overhaul.toml"
+hash = "38e5a91179ba20dd0da59e9a7edd4125a048b5b5453925d1ca505dad147dea83"
+metafile = true
+
+[[files]]
 file = "mods/waterworks.toml"
 hash = "215c58ceac4d70996d5d763160b23f1cc3506fa2ad8358b04716fea399f38a19"
 metafile = true
@@ -3572,6 +3587,10 @@ metafile = true
 file = "mods/yungs-extras.toml"
 hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
 metafile = true
+
+[[files]]
+file = "openloader/data/VanillaTweaks_c410994.zip"
+hash = "ceeb8537a838cc904dbd69f1ba8afa97fa5b66b75078ef2ce6a1a181da782b52"
 
 [[files]]
 file = "openloader/data/afk display v1.1.0.zip"

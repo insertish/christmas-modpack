@@ -1,0 +1,13 @@
+name = "Simple Discord Rich Presence"
+filename = "SimpleDiscordRichPresence-1.4.0-build.3+mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3535/218/SimpleDiscordRichPresence-1.4.0-build.3+mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "4284385953"
+
+[update]
+[update.curseforge]
+file-id = 3535218
+project-id = 334853

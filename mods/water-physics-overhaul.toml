@@ -1,0 +1,13 @@
+name = "Water Physics Overhaul"
+filename = "water_physics_overhaul-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3309/28/water_physics_overhaul-0.1.1.jar"
+hash-format = "murmur2"
+hash = "239344427"
+
+[update]
+[update.curseforge]
+file-id = 3309028
+project-id = 431345
