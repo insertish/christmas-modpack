@@ -45,6 +45,10 @@ file = "config/roadrunner/rules.properties"
 hash = "de149f06d4a79eeb97d64b18d85fd92c2a196848e5da9fe22191d01328fa3ae9"
 
 [[files]]
+file = "config/sdrp-client.toml"
+hash = "ae2e83140db6c10c821f3476d472281fee03a77e6b2715952152c61847d5a1e0"
+
+[[files]]
 file = "config/totaldarkness-client.toml"
 hash = "313649b592e0e0270b9597902d43b7e8fdc89ebf9144cc1969395b53f24d52d3"
 
