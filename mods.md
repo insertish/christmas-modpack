@@ -1,4 +1,4 @@
-# 317 Mods
+# 314 Mods
 
 |Name|Side|
 |---|---|---|
@@ -264,7 +264,6 @@
 |Simple Planes (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-planes)|
 |Simple Shops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-shops)|
 |Simple Voice Chat|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)|
-|SKDS Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skds-core)|
 |Skin Layers 3D (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)|
 |Small Ships|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/small-ships)|
 |Smooth Boot (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)|
@@ -310,8 +309,6 @@
 |Upstream|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/upstream)|
 |Valhelsia Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)|
 |Valhelsia Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)|
-|Water Physics Overhaul|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul)|
-|Waterworks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waterworks)|
 |Wavey Capes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waveycapes)|
 |Wither Skeleton Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)|
 |YUNG's API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)|
