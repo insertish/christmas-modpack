@@ -3319,11 +3319,6 @@ hash = "f580a086724ad7f77e7e5ab132789ff131457352e583185e5a96bab8f9a2f303"
 metafile = true
 
 [[files]]
-file = "mods/skds-core.toml"
-hash = "70c6d59295a43addc3db8a874845c2438ec4d16162dd164129663175dd95aa9d"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "89404ae37a6c6314944002a41e075f35ee7cd074241f644cf3701025ba5b7cab"
 metafile = true
@@ -3546,16 +3541,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.toml"
 hash = "307b243d9c4fb0be4364e73359f86ff87c073b697bd6a7cb70dbe0189a17ad14"
-metafile = true
-
-[[files]]
-file = "mods/water-physics-overhaul.toml"
-hash = "38e5a91179ba20dd0da59e9a7edd4125a048b5b5453925d1ca505dad147dea83"
-metafile = true
-
-[[files]]
-file = "mods/waterworks.toml"
-hash = "215c58ceac4d70996d5d763160b23f1cc3506fa2ad8358b04716fea399f38a19"
 metafile = true
 
 [[files]]
