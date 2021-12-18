@@ -647,6 +647,11 @@ hash = "ba331169ed09c972be6ce5ac3b35007077c30ccf116a1db618e100e633f9d197"
 metafile = true
 
 [[files]]
+file = "mods/gamemenumodoption.toml"
+hash = "5cfde6a27fc91f05d7e50f4230433cd9c275c301c7fa1ff05d4fa78b533fed72"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Game Menu Mod Option [Forge]"
+filename = "GameMenuModOption-1.16.4-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/863/GameMenuModOption-1.16.4-1.8.jar"
+hash-format = "murmur2"
+hash = "2629987178"
+
+[update]
+[update.curseforge]
+file-id = 3273863
+project-id = 353051
