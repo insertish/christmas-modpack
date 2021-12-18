@@ -40,6 +40,9 @@
 ## Additional Configuration
 
 The following should be configured on the server:
+- Disable spawn protection
+- Enforce whitelist if needed
+- Change `max-players`
 - Enable command blocks if required
 - Set `world-type` to `biomesoplenty`
 - Set `allow-flight` to `true`
