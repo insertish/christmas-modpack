@@ -1,4 +1,4 @@
-# 314 Mods
+# 313 Mods
 
 |Name|Side|
 |---|---|---|
@@ -100,7 +100,6 @@
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
 |Ender Mail|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-mail)|
 |Ender Storage 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
-|EnderTanks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/endertanks)|
 |Engineer's Decor|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)|
 |Entity Culling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-culling)|
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
