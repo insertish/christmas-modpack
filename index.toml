@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "FeaturedServers/featuredservers.json"
-hash = "dd50ad2506d519bc4213b0c9e72142b0c4b70a66eaf116f0d379be94b139e40b"
+hash = "4be0dcb26333e4da2ca1d4215e21a0b4f872df68f07798e4cd1e1e545781ea2d"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
@@ -39,6 +39,10 @@ hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
 [[files]]
 file = "config/quark-common.toml"
 hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
+
+[[files]]
+file = "config/restrictedportals-common.toml"
+hash = "ec7097838238ea7a293d9ced5d2b2df15e47c5ddfb4b017bc0bc6333a38a99aa"
 
 [[files]]
 file = "config/roadrunner/rules.properties"
@@ -3675,3 +3679,31 @@ hash = "4a893768b560824fa36c35ccf884ffd1a9f01b6b8eabce6388faf5dd16837db4"
 [[files]]
 file = "openloader/data/wandering trades v1.4.0.zip"
 hash = "85a380ef71d59b09b6c0a2caa767c0f5586346f5d74e4868d54c59aaf1daf2af"
+
+[[files]]
+file = "scripts/christmas_modpack/banned_items.zs"
+hash = "343962612304a447644882a1d80e1358dcc1d594610452ebd04ee3219f7b365a"
+
+[[files]]
+file = "scripts/christmas_modpack/mekanism_factories.zs"
+hash = "5864e1fb9ae7975f27230cc1aeba02b6c5b712f7ff287d5a1a0227a6ee4da597"
+
+[[files]]
+file = "scripts/christmas_modpack/no_vanilla_tools.zs"
+hash = "f5b8423375af61943156bcc595f887de2b9d79bc03d6f2e9f75cdf47ce526845"
+
+[[files]]
+file = "scripts/christmas_modpack/pneumatic_craft.zs"
+hash = "ee161c26ceab711387dedc47fb2909a7cd37ed489e21ceda324af46e53952b49"
+
+[[files]]
+file = "scripts/christmas_modpack/progression.zs"
+hash = "dcd35dc2e2d50d71d9bdc00a613e51a680271177be281c0e5fb47e3c0ef0db6d"
+
+[[files]]
+file = "scripts/christmas_modpack/progression_magic_cara.zs"
+hash = "6a8178b3d4e4a96fa03d2ffa56afb1ac3f49db44ac821aeef6c4bcad8a4618e9"
+
+[[files]]
+file = "scripts/christmas_modpack/removed_recipes.zs"
+hash = "05db10e79def813ad8510ede9dd299df1e2f27f8795caa80d23edf0da657e17b"
