@@ -547,11 +547,6 @@ hash = "80650bf7cd944ec5aec843308be2886468ea565edb596c9938ab8ee6df26d6ab"
 metafile = true
 
 [[files]]
-file = "mods/endertanks.toml"
-hash = "b2b81bc0702810a4b3357fb842ff445ca20a88afd6bf2b1111f86703c14a8002"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.toml"
 hash = "2579c5e8d0d72bb446cc44cfca4724fde78ca711c40391482ec581bee775fd8e"
 metafile = true
