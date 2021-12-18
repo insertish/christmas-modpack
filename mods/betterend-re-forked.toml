@@ -1,0 +1,13 @@
+name = "BetterEnd Reforked"
+filename = "betterendforge-1.16.5-2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3523/90/betterendforge-1.16.5-2.5.jar"
+hash-format = "murmur2"
+hash = "590505163"
+
+[update]
+[update.curseforge]
+file-id = 3523090
+project-id = 537247

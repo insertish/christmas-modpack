@@ -182,8 +182,8 @@ hash = "ae578c8ecfe6f63391d63bbeab033f747cd4bc8fca813c308db30d52fa1f76c5"
 metafile = true
 
 [[files]]
-file = "mods/betterend-forge-port.toml"
-hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
+file = "mods/betterend-re-forked.toml"
+hash = "48a95450570eb95d5f5ea8a7ed0cc6b0f73fca8b452e1ea7defe4d4ace77a26a"
 metafile = true
 
 [[files]]

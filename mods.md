@@ -27,7 +27,7 @@
 |Better Diving|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-diving)|
 |Better Ping Display|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)|
 |Better Weather - Seasons, Blizzards, and more!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-weather)|
-|BetterEnd (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)|
+|BetterEnd Reforked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)|
 |Big Buckets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bigbuckets)|
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
 |Blood Magic |both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)|
