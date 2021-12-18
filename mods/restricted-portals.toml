@@ -1,0 +1,13 @@
+name = "Restricted Portals"
+filename = "restrictedportals-1.16.4-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3193/746/restrictedportals-1.16.4-1.1.7.jar"
+hash-format = "murmur2"
+hash = "1641764035"
+
+[update]
+[update.curseforge]
+file-id = 3193746
+project-id = 228266

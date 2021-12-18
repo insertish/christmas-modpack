@@ -3243,6 +3243,11 @@ hash = "fde205f400e4d1cd634d7d81609db4b95cef08c169493d885764b66cf81db0da"
 metafile = true
 
 [[files]]
+file = "mods/restricted-portals.toml"
+hash = "a83abe610c25e7d63ad5c1559f46714bd97402861366847776169a06963765c5"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.toml"
 hash = "fc612c6344e19f0c82d2c6b448ba5f2a0831ab263f7d1aea467f2b03cebad307"
 metafile = true

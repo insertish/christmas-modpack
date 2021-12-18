@@ -1,4 +1,4 @@
-# 313 Mods
+# 314 Mods
 
 |Name|Side|
 |---|---|---|
@@ -248,6 +248,7 @@
 |Reap Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reap-mod)|
 |Reliquary v1.3|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
 |Repurposed Structures (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)|
+|Restricted Portals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/restricted-portals)|
 |RFTools Base|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base)|
 |RFTools Dimensions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)|
 |RoadRunner|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roadrunner)|

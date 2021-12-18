@@ -40,7 +40,8 @@
 ## Additional Configuration
 
 The following should be configured on the server:
-- Set `world-type` to `biomesop`
+- Enable command blocks if required
+- Set `world-type` to `biomesoplenty`
 - Set `allow-flight` to `true`
 - Configure [Simple Voice Chat](https://modrepo.de/minecraft/voicechat/wiki?t=setup)
 - Configure [Discord Integration](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge/wiki/Quick-Setup) for providing a Discord bridge
