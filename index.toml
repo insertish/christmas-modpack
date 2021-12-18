@@ -3682,7 +3682,7 @@ hash = "85a380ef71d59b09b6c0a2caa767c0f5586346f5d74e4868d54c59aaf1daf2af"
 
 [[files]]
 file = "scripts/christmas_modpack/banned_items.zs"
-hash = "343962612304a447644882a1d80e1358dcc1d594610452ebd04ee3219f7b365a"
+hash = "4a9820e42a6fc86707db48ab3e8da034b29493752af176c010108b751e1415aa"
 
 [[files]]
 file = "scripts/christmas_modpack/mekanism_factories.zs"
