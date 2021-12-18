@@ -2693,6 +2693,11 @@ hash = "a8b5eba447239b2159b0ad37de87974cc7ad6994d1dd1f3faf80c8dc545de22c"
 metafile = true
 
 [[files]]
+file = "mods/jei-integration.toml"
+hash = "cdc7355fa30a8e9d6f3dab5514513348996afd0b1904c30ddc55cd8e3eb7e2b9"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
 metafile = true

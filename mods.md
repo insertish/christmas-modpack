@@ -1,4 +1,4 @@
-# 314 Mods
+# 315 Mods
 
 |Name|Side|
 |---|---|---|
@@ -138,6 +138,7 @@
 |Item Borders|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-borders)|
 |Jade 🔍|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)|
 |Just Enough Advancements (JEA)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jea)|
+|JEI Integration|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei-integration)|
 |Just Enough Items (JEI)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)|
 |JEITweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)|
 |Joshua's Christmas Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/joshuas-christmas-mod)|
