@@ -1,4 +1,4 @@
-# 315 Mods
+# 316 Mods
 
 |Name|Side|
 |---|---|---|
@@ -120,6 +120,7 @@
 |FTB Industrial Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
+|Game Menu Mod Option [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Global XP|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/global-xp)|
 |Hats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hats)|
