@@ -37,6 +37,14 @@ file = "config/adpother/adpother.cfg"
 hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
 
 [[files]]
+file = "config/dynview-common.toml"
+hash = "8994420efcbce2b1dc8b37a3c2dab9566413dadd1eff634e29d9d3fcc0653e9a"
+
+[[files]]
+file = "config/ftbbackups-common.toml"
+hash = "de291b52c8d3919d4c4dc2d7e63d540872e0cce3c42e36c23d7b3ec1035269d0"
+
+[[files]]
 file = "config/mowziesmobs-common.toml"
 hash = "8cc396e89bfbbdc097ae9a595a4859b347118618505aa3e9090995e3929bee23"
 
@@ -538,6 +546,11 @@ hash = "78e73336a0564e803848677d671e3299aa5ebb4e754935e30ae658bd66ea8554"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.toml"
+hash = "7dc3752e584d837f7322a3373c10f559dfb4f77ebe4d420ae6c22a6e355f9f8c"
+metafile = true
+
+[[files]]
 file = "mods/ears.toml"
 hash = "f17910abd40a9db3dce8a00009047e8e5a2c484fa14ef9b29a84ed1630c21c2f"
 metafile = true
@@ -660,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-forge.toml"
 hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.toml"
+hash = "7eebb732b674f90f8cd1427ed974cba38b774d9b025152e7460f9783edb9b8ce"
 metafile = true
 
 [[files]]

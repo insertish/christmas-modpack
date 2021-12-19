@@ -41,6 +41,8 @@
 
 - Disabled land protection and chunk claiming in FTB Chunks. (used only for showing claims)
 
+- Changed FTB backups interval and added DynMap to blacklist.
+
 ## Additional Configuration
 
 The following should be configured on the server:
