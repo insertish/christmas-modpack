@@ -3330,6 +3330,10 @@ hash = "d7b5990f1662278a9c326df55899054bfc5cdf8590e3395a99d66278d3035800"
 metafile = true
 
 [[files]]
+file = "mods/sexmod-1.0.jar"
+hash = "55681fe43d9352437091d8f34198c8e07b6ada59b9f339213a05251a2a4c8b70"
+
+[[files]]
 file = "mods/shetiphiancore.toml"
 hash = "8ac2d5a67641c6ef33b5d598403daed6d20745f1680bd5293172fbc9c57ecde7"
 metafile = true
