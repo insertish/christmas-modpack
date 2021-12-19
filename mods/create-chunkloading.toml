@@ -1,0 +1,13 @@
+name = "Create Chunkloading"
+filename = "createchunkloading-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/38/createchunkloading-0.2.1.jar"
+hash-format = "murmur2"
+hash = "3584135931"
+
+[update]
+[update.curseforge]
+file-id = 3571038
+project-id = 494206

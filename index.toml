@@ -384,6 +384,11 @@ hash = "85fd5608e5dde026475b5a9f6f84d64f579706085b501a5c541b47a7685fa739"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.toml"
+hash = "3fac58f23765b7b5f91ebce95335911c5926ed82f73b25104210d3857d66c4a9"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "c10ba5bc7a69c5e4a67a9ca9dd1af49624de3dd7d82f49ed6126ba6cff8139c0"
 metafile = true
