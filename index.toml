@@ -65,6 +65,10 @@ file = "config/twilightforest-client.toml"
 hash = "5d39477cadb1a8f194b179378dbbc702fc28caa2aa48a355fd570020c6d2c9e6"
 
 [[files]]
+file = "defaultconfigs/ftbchunks.snbt"
+hash = "651ff83d619ad04c99b1edee2b960d1afbe2a4edef5162da588afa2374477151"
+
+[[files]]
 file = "defaultconfigs/ftbessentials.snbt"
 hash = "63304c9b3995209631ca52def09cbbc71e81ff8ec239cc458e3a6eb286e1202c"
 

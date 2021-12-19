@@ -37,6 +37,10 @@
 
 - Disable Advanced Peripherals's "Scientist Village" generations as it can cause crashes.
 
+- Disabled teleporation commands in FTB Essentials.
+
+- Disabled land protection and chunk claiming in FTB Chunks. (used only for showing claims)
+
 ## Additional Configuration
 
 The following should be configured on the server:
