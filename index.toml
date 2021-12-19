@@ -580,6 +580,11 @@ hash = "751118effcdb834b8bc7497de2f1bee8d53da1a6641fa9a8c9d92bb1bd2f2722"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "c54386eaab93ae91222dd3548d3489469f05ace3d3062b385fdf00d1bbf01824"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace-minus-replacement.toml"
 hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
 metafile = true
@@ -3128,6 +3133,11 @@ metafile = true
 [[files]]
 file = "mods/pollution-of-the-realms.toml"
 hash = "f1799504ae0d823809145a33f978fe64977805adfbc498337549eabc5dc11662"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.toml"
+hash = "697efe53f52890f61b11b5a14657db5728a8512e0a9095841aa32e78acf61d3e"
 metafile = true
 
 [[files]]
