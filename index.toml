@@ -37,6 +37,10 @@ file = "config/adpother/adpother.cfg"
 hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
 
 [[files]]
+file = "config/mowziesmobs-common.toml"
+hash = "8cc396e89bfbbdc097ae9a595a4859b347118618505aa3e9090995e3929bee23"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
 
@@ -3092,11 +3096,6 @@ hash = "d8fd50bba1a76dd53f20e8bfb41860a656023df221e0b0b6e3c331542fc46ee6"
 metafile = true
 
 [[files]]
-file = "mods/persistent-players.toml"
-hash = "27b47ae656bc510c4b0f8a5ec07c958fe2513c4993a8361be2afe10832baf032"
-metafile = true
-
-[[files]]
 file = "mods/phi.toml"
 hash = "1c607d93f04db1ade51f420b445c0574c90c112eae0992d3195be95928e7f9fd"
 metafile = true
@@ -3234,11 +3233,6 @@ metafile = true
 [[files]]
 file = "mods/rats.toml"
 hash = "405a94a3eb8885f355632b7978cad63b32b5e14bd1ea33f252b379442a199dda"
-metafile = true
-
-[[files]]
-file = "mods/realistic-torches.toml"
-hash = "5aa49dc12565ba5cc7522009688eb2bc140376e682fcb90c9983822822f3a574"
 metafile = true
 
 [[files]]
@@ -3706,4 +3700,4 @@ hash = "6a8178b3d4e4a96fa03d2ffa56afb1ac3f49db44ac821aeef6c4bcad8a4618e9"
 
 [[files]]
 file = "scripts/christmas_modpack/removed_recipes.zs"
-hash = "05db10e79def813ad8510ede9dd299df1e2f27f8795caa80d23edf0da657e17b"
+hash = "78f4604f5c9c3cc82adcdc26f783493ab403458713c9c5f77d573e70851f19b0"

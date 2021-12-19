@@ -2,9 +2,6 @@
 # Force use of Create roller
 craftingTable.removeRecipe(<item:immersiveengineering:wire_copper>);
 
-# Remove all torch recipes and make sure Realistic Torches is used
-craftingTable.removeRecipe(<item:minecraft:torch>);
-
 # Disable Draconic Evolution
 craftingTable.removeRecipe(<item:draconicevolution:draconium_core>);
 craftingTable.removeRecipe(<item:draconicevolution:module_core>);
