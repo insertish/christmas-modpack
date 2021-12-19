@@ -1,4 +1,4 @@
-# 316 Mods
+# 317 Mods
 
 |Name|Side|
 |---|---|---|
@@ -105,6 +105,7 @@
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
 |Falling Leaves (Forge)|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge)|
 |Farsight|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/farsight)|
+|Fast Leaf Decay|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)|
 |Fast Furnace minus Replacement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastfurnace-minus-replacement)|
 |FastSuite|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastsuite)|
 |FastWorkbench Minus Replacement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)|
@@ -117,6 +118,7 @@
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
 |FTB Backups (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)|
+|FTB Essentials (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
 |FTB Industrial Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-contraptions)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
@@ -217,7 +219,6 @@
 |PaperDoll|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/paperdoll)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
 |Path Under Gates|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)|
-|Persistent Players|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/persistent-players)|
 |Phi (Psi addon)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phi)|
 |Phosphophyllite|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite)|
 |Sulfuric|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged)|
@@ -225,6 +226,7 @@
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
 |Pollution of the Realms|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)|
+|Polymorph (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)|
 |Powah!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah)|
 |Pretty Pipes: Fluids|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)|
 |Pretty Pipes|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)|
@@ -246,7 +248,6 @@
 |RandomPatches (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)|
 |Rats: Ratlantis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis)|
 |Rats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats)|
-|Realistic Torches|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/realistic-torches)|
 |Reap Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reap-mod)|
 |Reliquary v1.3|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
 |Repurposed Structures (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)|
