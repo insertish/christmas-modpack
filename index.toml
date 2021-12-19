@@ -645,6 +645,11 @@ hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.toml"
+hash = "4453d0966af8917e770ec5520accada23007d6162281985f3e907ea36b2e944e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-industrial-contraptions.toml"
 hash = "31f6408693ce837a40b229f0ec535962a67b496959e646e251e6c6d99d1d94af"
 metafile = true

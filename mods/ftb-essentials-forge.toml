@@ -1,0 +1,13 @@
+name = "FTB Essentials (Forge)"
+filename = "ftb-essentials-1605.1.5-build.32.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3510/643/ftb-essentials-1605.1.5-build.32.jar"
+hash-format = "murmur2"
+hash = "2287512223"
+
+[update]
+[update.curseforge]
+file-id = 3510643
+project-id = 410811
