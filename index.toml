@@ -3646,6 +3646,10 @@ hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
 metafile = true
 
 [[files]]
+file = "openloader/data/Mystical+Cloche+Support.zip"
+hash = "e3b1369db5432990f79d985cc041e605e233b67feb370cb4c76d80431615b373"
+
+[[files]]
 file = "openloader/data/VanillaTweaks_c410994.zip"
 hash = "ceeb8537a838cc904dbd69f1ba8afa97fa5b66b75078ef2ce6a1a181da782b52"
 
