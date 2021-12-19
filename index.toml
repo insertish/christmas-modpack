@@ -594,6 +594,11 @@ hash = "c54386eaab93ae91222dd3548d3489469f05ace3d3062b385fdf00d1bbf01824"
 metafile = true
 
 [[files]]
+file = "mods/faster-ladder-climbing.toml"
+hash = "b265d8be63dc35b9024339820e598a0342d88d556b53672fb78bc7473cdb2aa5"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace-minus-replacement.toml"
 hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Faster Ladder Climbing"
+filename = "FasterLadderClimbing-1.16.4-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3121/858/FasterLadderClimbing-1.16.4-0.2.1.jar"
+hash-format = "murmur2"
+hash = "2557307310"
+
+[update]
+[update.curseforge]
+file-id = 3121858
+project-id = 258881
