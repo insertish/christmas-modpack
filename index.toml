@@ -91,11 +91,6 @@ hash = "446381336c279b005785ffaa9573e8dadf80c58721000b6d68dff02831f2be8c"
 metafile = true
 
 [[files]]
-file = "mods/advanced-chimneys.toml"
-hash = "ed91061fa6317b3a397e12dc7b2dd1e308548c7f47e36fd0742fcbdbc8b06d2d"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.toml"
 hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
 metafile = true
@@ -3169,11 +3164,6 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.toml"
 hash = "f85d74030152934ea2590a6adb92073e8e47e2bdaaa39d9ea435242a75aa9c70"
-metafile = true
-
-[[files]]
-file = "mods/pollution-of-the-realms.toml"
-hash = "f1799504ae0d823809145a33f978fe64977805adfbc498337549eabc5dc11662"
 metafile = true
 
 [[files]]

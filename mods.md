@@ -1,10 +1,9 @@
-# 321 Mods
+# 319 Mods
 
 |Name|Side|
 |---|---|---|
 |A Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/a-lib)|
 |Actually Compatible|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/actually-compatible)|
-|Advanced Chimneys|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)|
 |Advanced Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)|
 |AE2 Extras|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-extras)|
 |AmbientSounds 4|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)|
@@ -229,7 +228,6 @@
 |Pick Up Notifier [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
-|Pollution of the Realms|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms)|
 |Polymorph (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)|
 |Powah!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah)|
 |Pretty Pipes: Fluids|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids)|
