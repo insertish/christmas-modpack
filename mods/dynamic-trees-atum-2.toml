@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Atum 2"
+filename = "DynamicTreesAtum-1.16.5-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/615/DynamicTreesAtum-1.16.5-1.1.1.jar"
+hash-format = "murmur2"
+hash = "2584402218"
+
+[update]
+[update.curseforge]
+file-id = 3394615
+project-id = 408807

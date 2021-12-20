@@ -33,10 +33,6 @@ file = "config/adpother/Pollutants/sulfur.cfg"
 hash = "1fa00836c94de68109858c662604c3d1943d94eb0bea8804db18e4f11e0fe499"
 
 [[files]]
-file = "config/adpother/adpother.cfg"
-hash = "547694a584c9f4ae57f84942f92a541804cc1aae09e09a80b5798017f91005bf"
-
-[[files]]
 file = "config/dynview-common.toml"
 hash = "8994420efcbce2b1dc8b37a3c2dab9566413dadd1eff634e29d9d3fcc0653e9a"
 
@@ -153,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.toml"
 hash = "f7170d4f5a319585990a100771af2ad03b98d13ba3427bb60351b262b14626b9"
+metafile = true
+
+[[files]]
+file = "mods/atum.toml"
+hash = "f818fe7eef16f66e93ee9637c81f8e37f28035e02e112ed8d755afa9be0f03ed"
 metafile = true
 
 [[files]]
@@ -528,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.toml"
 hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-atum-2.toml"
+hash = "889c09776f9ef4ac29ddfc3aa1a32e5d1114575f63ca9786e44ebfa1225294d4"
 metafile = true
 
 [[files]]
@@ -2942,6 +2948,11 @@ hash = "ba084332cfd430a544eefd160378bd44b4b6e00f92c827dc6031e60985170b98"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.toml"
+hash = "979670c01ea10287745e8c5fb58d262332f7ea14ec1176912ba061a0ecb81600"
+metafile = true
+
+[[files]]
 file = "mods/more-mekanism-processing.toml"
 hash = "388109fcd6fbe13e7de28371ca1ce9d97e9ba9f1657b60ecd7c4fbc05931f7c2"
 metafile = true
@@ -3292,6 +3303,11 @@ hash = "fde205f400e4d1cd634d7d81609db4b95cef08c169493d885764b66cf81db0da"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-bees.toml"
+hash = "f846095edf67092ba5ccf58aae68ba88435f1d9283b9034c9abe7a6db768cdf5"
+metafile = true
+
+[[files]]
 file = "mods/restricted-portals.toml"
 hash = "a83abe610c25e7d63ad5c1559f46714bd97402861366847776169a06963765c5"
 metafile = true
@@ -3348,7 +3364,7 @@ metafile = true
 
 [[files]]
 file = "mods/sexmod-1.0.jar"
-hash = "55681fe43d9352437091d8f34198c8e07b6ada59b9f339213a05251a2a4c8b70"
+hash = "c1e05b97412cd57c51f8a2734a5679fed52439728217de309daaf155e5254353"
 
 [[files]]
 file = "mods/shetiphiancore.toml"
