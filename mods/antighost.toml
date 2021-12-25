@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-1.16.4-forge35.0.7-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3106/799/antighost-1.16.4-forge35.0.7-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3245122459"
+
+[update]
+[update.curseforge]
+file-id = 3106799
+project-id = 273279

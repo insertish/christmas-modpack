@@ -1,0 +1,13 @@
+name = "Reload Audio Driver (RAD) [Forge]"
+filename = "rad-1.16-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3280/843/rad-1.16-4.1.1.jar"
+hash-format = "murmur2"
+hash = "3259387557"
+
+[update]
+[update.curseforge]
+file-id = 3280843
+project-id = 305373

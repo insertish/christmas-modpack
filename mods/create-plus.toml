@@ -1,0 +1,13 @@
+name = "Create Plus"
+filename = "createplus-1.16.4_v0.3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/486/createplus-1.16.4_v0.3.2.1.jar"
+hash-format = "murmur2"
+hash = "3408096121"
+
+[update]
+[update.curseforge]
+file-id = 3388486
+project-id = 377835

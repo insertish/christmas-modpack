@@ -1,4 +1,4 @@
-# 321 Mods
+# 328 Mods
 
 |Name|Side|
 |---|---|---|
@@ -7,7 +7,10 @@
 |Advanced Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)|
 |AE2 Extras|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-extras)|
 |AmbientSounds 4|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)|
+|AntiGhost|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost)|
+|Apotheosis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
 |AppleSkin|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)|
+|Applied Energistics 2 Wireless Terminals Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge)|
 |Applied Energistics 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)|
 |Architectury API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)|
 |Armor Toughness Bar|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)|
@@ -57,6 +60,7 @@
 |Collective (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)|
 |Colossal Chests|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)|
 |Comforts (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/comforts)|
+|Compact Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compact-machines)|
 |Configured|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured)|
 |Controlling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)|
 |Corpse|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)|
@@ -65,6 +69,7 @@
 |CraftTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)|
 |Crash Utilities|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)|
 |Create Chunkloading|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading)|
+|Create Plus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-plus)|
 |Create|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)|
 |Create Crafts & Additions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/createaddition)|
 |CreateTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/createtweaker)|
@@ -254,6 +259,7 @@
 |Rats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats)|
 |Reap Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reap-mod)|
 |Reliquary v1.3|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
+|Reload Audio Driver (RAD) [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)|
 |Repurposed Structures (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)|
 |Restricted Portals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/restricted-portals)|
 |RFTools Base|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base)|
@@ -301,6 +307,7 @@
 |Tinkers Construct|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|
 |TIS-3D|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tis-3d)|
 |Titanium|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/titanium)|
+|Torchmaster|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/torchmaster)|
 |Torch Slabs Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod)|
 |Total Darkness|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/total-darkness)|
 |Towers of the Wild: Reloaded|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-reloaded)|

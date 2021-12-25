@@ -73,7 +73,7 @@ file = "defaultconfigs/ftbchunks.snbt"
 hash = "651ff83d619ad04c99b1edee2b960d1afbe2a4edef5162da588afa2374477151"
 
 [[files]]
-file = "defaultconfigs/ftbessentials.snbt"
+file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "63304c9b3995209631ca52def09cbbc71e81ff8ec239cc458e3a6eb286e1202c"
 
 [[files]]
@@ -102,8 +102,23 @@ hash = "417b9097f2754e37c6f4042ef0264ee0ef7bb25eca2bc033d530c20d7972268b"
 metafile = true
 
 [[files]]
+file = "mods/antighost.toml"
+hash = "c8dace497e601f858ef6c9c74eee75087dac0884a95d5b27403332bc042c2bca"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.toml"
+hash = "b5ed6dc6b7cecf64dc583d9eb90e8556f6d6589d35780e306e834b7b8893e996"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "b8a396b086d710d4d798f38c72c683e61eb5a4e087576c544de4f7606797b34d"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals-forge.toml"
+hash = "1e0bd7591d156c295f0629cc416be15595ac39d60c449e4c593a29adfb35bfeb"
 metafile = true
 
 [[files]]
@@ -352,6 +367,11 @@ hash = "d8fd41218d2e84f75f607cb75b6127b7c0b276a83b26927ca168aad051487251"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.toml"
+hash = "4fc459a145e3dc8f7e1dddbf14301f146a637af0e18f55a8ea3a9b20a8c3cf2e"
+metafile = true
+
+[[files]]
 file = "mods/configured.toml"
 hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
 metafile = true
@@ -389,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/create-chunkloading.toml"
 hash = "3fac58f23765b7b5f91ebce95335911c5926ed82f73b25104210d3857d66c4a9"
+metafile = true
+
+[[files]]
+file = "mods/create-plus.toml"
+hash = "3c331827fb600191305249d7ba71b8b34090df2744b8586b128082583a49acf8"
 metafile = true
 
 [[files]]
@@ -3293,6 +3318,11 @@ hash = "a546407370bd5e8fe3b595c30f768a109006b47810c5a0eb178a243c5e7427bc"
 metafile = true
 
 [[files]]
+file = "mods/reload-audio-driver-rad.toml"
+hash = "8808cdd3fa2b5104309bf44da9aa268e8b157a67876722d5e538b7a9e1bbdda5"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.toml"
 hash = "fde205f400e4d1cd634d7d81609db4b95cef08c169493d885764b66cf81db0da"
 metafile = true
@@ -3354,7 +3384,7 @@ metafile = true
 
 [[files]]
 file = "mods/sexmod-1.0.jar"
-hash = "c1e05b97412cd57c51f8a2734a5679fed52439728217de309daaf155e5254353"
+hash = "0593c19812249ac9faa02f66ed4bb123e8207b699916aa88a0aea39c4a54eeaa"
 
 [[files]]
 file = "mods/shetiphiancore.toml"
@@ -3529,6 +3559,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.toml"
 hash = "a1f772c3934e6ad45f4a89616b343254b09d1bfe7bf1ab4a8c44acf2f74b8a9e"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.toml"
+hash = "6c4648bf48792c29de6eb36108a0d3281d7e93a7da0c126415fd1ec10ebed7e6"
 metafile = true
 
 [[files]]
