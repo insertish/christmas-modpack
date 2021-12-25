@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "c8dace497e601f858ef6c9c74eee75087dac0884a95d5b27403332bc042c2bca"
+hash = "59ce10185ace4ec07a6484fc3ff491a85315e87b7ae31b040bd1fc046d4734cb"
 metafile = true
 
 [[files]]
@@ -3298,7 +3298,7 @@ metafile = true
 
 [[files]]
 file = "mods/reload-audio-driver-rad.toml"
-hash = "8808cdd3fa2b5104309bf44da9aa268e8b157a67876722d5e538b7a9e1bbdda5"
+hash = "0e2b566c5867e6a195ffced8d9d11632b8de274b0863e6b4c74fdf6a38d6464b"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Reload Audio Driver (RAD) [Forge]"
 filename = "rad-1.16-4.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3280/843/rad-1.16-4.1.1.jar"

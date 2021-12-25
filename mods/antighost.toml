@@ -1,6 +1,6 @@
 name = "AntiGhost"
 filename = "antighost-1.16.4-forge35.0.7-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3106/799/antighost-1.16.4-forge35.0.7-1.1.2.jar"
