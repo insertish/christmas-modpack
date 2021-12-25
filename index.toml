@@ -207,11 +207,6 @@ hash = "d138b8a760c031141a87d7a7934fab996dec0bd0ed93b0bf88b924771bac86a6"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display.toml"
-hash = "0888ea1309085d0d065f5ec2cb72baa576da0d7badd5f52864e95b8d8ded7e4c"
-metafile = true
-
-[[files]]
 file = "mods/betterend-re-forked.toml"
 hash = "48a95450570eb95d5f5ea8a7ed0cc6b0f73fca8b452e1ea7defe4d4ace77a26a"
 metafile = true
