@@ -21,6 +21,10 @@ file = "config/Mekanism/machine-usage.toml"
 hash = "f6d95b6cde51d8a971df5fd83b134204caa136ffa2610d335af86c68b5269f14"
 
 [[files]]
+file = "config/actuallycompatible-common.toml"
+hash = "57e1fbdf56b505a2f00f8b6251dabcc482e6901f3466e183402595e925be71a0"
+
+[[files]]
 file = "config/adpother/Pollutants/carbon.cfg"
 hash = "492605953d4215ce4da9cd2e8a7c4802bae7edad71a5682bac6d83c09f91f406"
 
