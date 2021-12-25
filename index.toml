@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "59ce10185ace4ec07a6484fc3ff491a85315e87b7ae31b040bd1fc046d4734cb"
+hash = "110b3098eb49208dde22292b8655d0d002c54ad1e7658808c37c5ff8a4047cf4"
 metafile = true
 
 [[files]]

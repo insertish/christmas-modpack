@@ -1,4 +1,4 @@
-# 328 Mods
+# 325 Mods
 
 |Name|Side|
 |---|---|---|
@@ -7,10 +7,8 @@
 |Advanced Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)|
 |AE2 Extras|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-extras)|
 |AmbientSounds 4|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)|
-|AntiGhost|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost)|
-|Apotheosis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
+|AntiGhost|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost)|
 |AppleSkin|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)|
-|Applied Energistics 2 Wireless Terminals Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge)|
 |Applied Energistics 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)|
 |Architectury API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)|
 |Armor Toughness Bar|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)|
@@ -28,7 +26,6 @@
 |Better Animations Collection|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection)|
 |Better Burning|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-burning)|
 |Better Diving|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-diving)|
-|Better Ping Display|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)|
 |BetterEnd Reforked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)|
 |Big Buckets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bigbuckets)|
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
@@ -259,7 +256,7 @@
 |Rats|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats)|
 |Reap Mod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reap-mod)|
 |Reliquary v1.3|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
-|Reload Audio Driver (RAD) [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)|
+|Reload Audio Driver (RAD) [Forge]|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)|
 |Repurposed Structures (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)|
 |Restricted Portals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/restricted-portals)|
 |RFTools Base|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base)|
