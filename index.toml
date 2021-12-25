@@ -396,6 +396,11 @@ hash = "3fac58f23765b7b5f91ebce95335911c5926ed82f73b25104210d3857d66c4a9"
 metafile = true
 
 [[files]]
+file = "mods/create-plus.toml"
+hash = "3c331827fb600191305249d7ba71b8b34090df2744b8586b128082583a49acf8"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "c10ba5bc7a69c5e4a67a9ca9dd1af49624de3dd7d82f49ed6126ba6cff8139c0"
 metafile = true
