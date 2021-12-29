@@ -1,0 +1,13 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.18.17-mc1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3556/279/moreoverlays-1.18.17-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "3856557307"
+
+[update]
+[update.curseforge]
+file-id = 3556279
+project-id = 391382
