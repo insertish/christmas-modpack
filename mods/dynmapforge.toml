@@ -1,6 +1,6 @@
 name = "Dynmap-Forge/Fabric"
 filename = "Dynmap-3.3-beta-3-forge-1.16.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3571/578/Dynmap-3.3-beta-3-forge-1.16.5.jar"
