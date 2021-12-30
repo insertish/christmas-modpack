@@ -2976,7 +2976,7 @@ file = "mods/more-mounted-storages.toml"
 hash = "b0de2cb0fc18b29d1c74cce4221d6f13793981e0c40c5d75446f92b2b4cde993"
 metafile = true
 
-[[]]
+[[files]]
 file = "mods/more-overlays-updated.toml"
 hash = "b26bca93c2b6ea2a11705ce3e0d9c8ce2b17be0b33698fc4a17f4e75340f7c07"
 metafile = true
