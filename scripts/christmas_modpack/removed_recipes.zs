@@ -2,10 +2,6 @@
 # Force use of Create roller
 craftingTable.removeRecipe(<item:immersiveengineering:wire_copper>);
 
-# Disable Draconic Evolution
-craftingTable.removeRecipe(<item:draconicevolution:draconium_core>);
-craftingTable.removeRecipe(<item:draconicevolution:module_core>);
-
 # Disable ProjectE
 craftingTable.removeRecipe(<item:projecte:alchemical_chest>);
 craftingTable.removeRecipe(<item:projecte:philosophers_stone>);
