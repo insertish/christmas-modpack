@@ -54,7 +54,7 @@ hash = "a7af9230895ef320d42acf6d0615a25ed07b1ee0673a6ce00a06062c5dc5d75a"
 
 [[files]]
 file = "config/restrictedportals-common.toml"
-hash = "ec7097838238ea7a293d9ced5d2b2df15e47c5ddfb4b017bc0bc6333a38a99aa"
+hash = "3d1b5983cfc18c82026d297e4ced7a94bb4b15def847e9f6bf5ab2803d7aad77"
 
 [[files]]
 file = "config/roadrunner/rules.properties"
