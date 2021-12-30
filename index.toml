@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "FeaturedServers/featuredservers.json"
-hash = "4be0dcb26333e4da2ca1d4215e21a0b4f872df68f07798e4cd1e1e545781ea2d"
+hash = "acc9ede89b2bbf57ecfaf5fe46cfdb9e05594302aeb4fc4e6e1c1198db4c16e7"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.toml"
-hash = "7dc3752e584d837f7322a3373c10f559dfb4f77ebe4d420ae6c22a6e355f9f8c"
+hash = "81c7b937700f0b98e99cb209a89eb32b47005fb6f196aed3c03a44a3ff8ea3b1"
 metafile = true
 
 [[files]]
