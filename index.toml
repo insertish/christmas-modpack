@@ -30,6 +30,11 @@ hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "8e146a9aba8869cd7725e6bcae4a541ade4461cf8f4c1c03a3b9dcfa77e9beac"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "eef8d94e5a2fc55d2315744d1242139d6fe4e523188e19aca395ce8eef3e1238"
 metafile = true
