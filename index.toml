@@ -70,11 +70,6 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
-file = "mods/mojangster.pw.toml"
-hash = "bca25886157ccd07ca49621254cce4fd64188594a8892197a808b29b5d78573a"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
