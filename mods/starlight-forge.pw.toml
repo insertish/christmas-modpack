@@ -1,0 +1,13 @@
+name = "Starlight (Forge)"
+filename = "starlight-1.0.2+forge.546ae87.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.2+1.18.2/starlight-1.0.2%2Bforge.546ae87.jar"
+hash-format = "sha1"
+hash = "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
+
+[update]
+[update.modrinth]
+mod-id = "iRfIGC1s"
+version = "5aMZMK7v"

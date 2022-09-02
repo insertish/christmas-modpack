@@ -1,0 +1,13 @@
+name = "Flywheel"
+filename = "flywheel-forge-1.18.2-0.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5lpsZoRi/versions/0.6.5-1.18.2/flywheel-forge-1.18.2-0.6.5.jar"
+hash-format = "sha1"
+hash = "c4052cab3cacd1211a7a83bab0202d770558d972"
+
+[update]
+[update.modrinth]
+mod-id = "5lpsZoRi"
+version = "GfIEktLS"

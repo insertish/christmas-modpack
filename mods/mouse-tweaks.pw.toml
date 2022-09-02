@@ -1,0 +1,13 @@
+name = "Mouse Tweaks"
+filename = "MouseTweaks-forge-mc1.18-2.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.18-2.22-forge/MouseTweaks-forge-mc1.18-2.22.jar"
+hash-format = "sha1"
+hash = "8de9df6854e267cb585d9b47447a46476cbf3b61"
+
+[update]
+[update.modrinth]
+mod-id = "aC3cM3Vq"
+version = "q0CGibTg"

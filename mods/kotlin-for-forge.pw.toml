@@ -1,0 +1,13 @@
+name = "Kotlin for Forge"
+filename = "kotlinforforge-3.7.1-obf.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ordsPcFz/versions/3.7.1/kotlinforforge-3.7.1-obf.jar"
+hash-format = "sha1"
+hash = "9ffbf7048c78e860c2f1e5010b5af6004b99d542"
+
+[update]
+[update.modrinth]
+mod-id = "ordsPcFz"
+version = "V1ndWaSk"

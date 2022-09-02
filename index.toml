@@ -3,3 +3,103 @@ hash-format = "sha256"
 [[files]]
 file = "FeaturedServers/featuredservers.json"
 hash = "acc9ede89b2bbf57ecfaf5fe46cfdb9e05594302aeb4fc4e6e1c1198db4c16e7"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "af3cd35c5a473d574b60bb2e2c514ac2cad1d8aa25cd36c8be301c9b8ec5982b"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "eef8d94e5a2fc55d2315744d1242139d6fe4e523188e19aca395ce8eef3e1238"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "6fb5887bff18d8381f5a2ba41f926255f3fce20580aba061ab64267f0a5eeac6"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "f654a47fe0dde9acb9ac75bea1be750148ab3bb62db886d1aef50ed1102dc1b7"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "146e95129963a7e9370289607d89b03aa94b510f4a29d3bd6e39b16eccb449ac"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "2515f68217da6eed81888a3fad75be77689c05d56ba1eb97cacb4015b98283ba"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/mojangster.pw.toml"
+hash = "bca25886157ccd07ca49621254cce4fd64188594a8892197a808b29b5d78573a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "4b246e34443a88933c58477c2d86325ba78de5d86bccaae462b8f2806bffcf30"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "91c15824654b38e0927d622159f9cb2bfed9f9bd37567d8a6fe5b312ac7f1774"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c6397c3fafeed44c67b0ea31e5cbdabc4001e4fee78013c7f3e0cfe88c25a42d"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true

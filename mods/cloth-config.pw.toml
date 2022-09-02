@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-forge-6.2.62.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62+forge/cloth-config-forge-6.2.62.jar"
+hash-format = "sha1"
+hash = "1da6c984afef261cd5484ede8685abfe5242198b"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "DmOAoTTg"
