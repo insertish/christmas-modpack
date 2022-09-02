@@ -80,6 +80,11 @@ hash = "4b246e34443a88933c58477c2d86325ba78de5d86bccaae462b8f2806bffcf30"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "91c15824654b38e0927d622159f9cb2bfed9f9bd37567d8a6fe5b312ac7f1774"
 metafile = true
