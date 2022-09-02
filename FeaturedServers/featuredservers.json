@@ -1,0 +1,14 @@
+[
+  {
+    "serverName": "Christmas Server",
+    "serverIP": "insrt.uk.to:25565",
+    "forceResourcePack": "true",
+    "disableButtons": "true"
+  },
+  {
+    "serverName": "Test Server",
+    "serverIP": "insrt.uk.to:25566",
+    "forceResourcePack": "true",
+    "disableButtons": "true"
+  }
+]

@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "FeaturedServers/featuredservers.json"
+hash = "acc9ede89b2bbf57ecfaf5fe46cfdb9e05594302aeb4fc4e6e1c1198db4c16e7"

@@ -1,0 +1,11 @@
+.git/**
+.gitattributes
+presence_images/**
+node_modules/**
+.gitignore
+static/**
+generate.mjs
+package.json
+yarn.lock
+mods.md
+README.md
