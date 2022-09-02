@@ -1,0 +1,13 @@
+name = "Mythic Mounts"
+filename = "mythic-mounts-1.18.2-7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c7f164fb441b68b08d62f7a4c5b27e55bbe780e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3772875
+project-id = 517650

@@ -1,0 +1,13 @@
+name = "YUNG's Better Mineshafts (Forge)"
+filename = "YungsBetterMineshafts-1.18.2-Forge-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f53a3660cd8fd0675432470aa1fea7ee0b19abca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855186
+project-id = 389665

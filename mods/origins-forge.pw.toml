@@ -1,0 +1,13 @@
+name = "Origins (Forge)"
+filename = "origins-forge-1.18.2-1.18.2-1.5.0.1-fatjar.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf3372233d7128e800f2551011b68631ae6b6505"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3889853
+project-id = 474438

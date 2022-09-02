@@ -1,0 +1,13 @@
+name = "TheDragonLib"
+filename = "thedragonlib-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48a8426fd7dc33e169f7a67377a4715f57fca1e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3584757
+project-id = 248055

@@ -1,0 +1,13 @@
+name = "Aquamirae"
+filename = "Aquamirae 3.2.0 (Forge 1.18.2).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ac2bc982e04beeabfecc22690f23a273b886cfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3810716
+project-id = 536254

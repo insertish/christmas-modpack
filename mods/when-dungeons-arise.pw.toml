@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Forge!"
+filename = "DungeonsArise-1.18.2-2.1.50d-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e9ea75149237cd4643840ec0a73bb07bd5e82ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3780437
+project-id = 442508

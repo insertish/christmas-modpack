@@ -1,0 +1,13 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-forge-1.18.2-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b86fc74e8f7b6956930071b02d0f55cbcef2d8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3886212
+project-id = 416935
