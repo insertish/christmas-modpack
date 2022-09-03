@@ -145,11 +145,6 @@ hash = "8e146a9aba8869cd7725e6bcae4a541ade4461cf8f4c1c03a3b9dcfa77e9beac"
 metafile = true
 
 [[files]]
-file = "mods/dragons-survival.pw.toml"
-hash = "d0ea1e41f2bb8ab5a6005e75e495852783c7b519dea6d73561c1a23171c2ba66"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "cbf5a32fa6e806e4a3f2373d9dbcade5966243c30a54a1e0d7dde669849930c6"
 metafile = true
