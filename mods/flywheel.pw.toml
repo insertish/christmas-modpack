@@ -1,13 +1,13 @@
 name = "Flywheel"
-filename = "flywheel-forge-1.18-0.6.4.jar"
+filename = "flywheel-forge-1.18.2-0.6.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lpsZoRi/versions/1.18-0.6.4/flywheel-forge-1.18-0.6.4.jar"
 hash-format = "sha1"
-hash = "217950cfa3f4f5a148021c79569d2ce251b77524"
+hash = "c4052cab3cacd1211a7a83bab0202d770558d972"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "5lpsZoRi"
-version = "HWNRIpCy"
+[update.curseforge]
+file-id = 3934664
+project-id = 486392
