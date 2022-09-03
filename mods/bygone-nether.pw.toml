@@ -1,0 +1,13 @@
+name = "Bygone Nether"
+filename = "bygonenether-1.2-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kt3BLgXB/versions/1.2-1.18.2/bygonenether-1.2-1.18.2.jar"
+hash-format = "sha1"
+hash = "78e7c376f20afec0ebff8118d7288f9bbc5c4e70"
+
+[update]
+[update.modrinth]
+mod-id = "kt3BLgXB"
+version = "fJLxW98v"

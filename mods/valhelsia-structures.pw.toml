@@ -3,11 +3,11 @@ filename = "valhelsia_structures-forge-1.18.2-0.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/T21szC0a/versions/0.1.0/valhelsia_structures-forge-1.18.2-0.1.0.jar"
 hash-format = "sha1"
 hash = "711cc7da53b0b477c305bc2784c9491bfbc52e02"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3708292
-project-id = 347488
+[update.modrinth]
+mod-id = "T21szC0a"
+version = "17XnFv1Y"

@@ -1,0 +1,13 @@
+name = "Flowery Structures"
+filename = "flowery-forge-10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q4udWMch/versions/forge10/flowery-forge-10.jar"
+hash-format = "sha1"
+hash = "51474b00ce1a7e2aff0635a1c35e0e03e57a1410"
+
+[update]
+[update.modrinth]
+mod-id = "q4udWMch"
+version = "A9jh0mLa"

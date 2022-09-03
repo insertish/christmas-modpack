@@ -1,0 +1,13 @@
+name = "Biome Makeover"
+filename = "biomemakeover-FORGE-1.18.2-1.4.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/U4gTpMXd/biomemakeover-FORGE-1.18.2-1.4.31.jar"
+hash-format = "sha1"
+hash = "2fd495af604b6c94a6382e79ee159fdc43ca81d2"
+
+[update]
+[update.modrinth]
+mod-id = "jG8Q2YwT"
+version = "U4gTpMXd"
