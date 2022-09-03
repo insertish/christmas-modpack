@@ -1,0 +1,13 @@
+name = "Flowery Core"
+filename = "flowerycore-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CbUFLD9r/versions/forge5/flowerycore-5.jar"
+hash-format = "sha1"
+hash = "8c45cb69380252be10091a4595c37a900ba0776d"
+
+[update]
+[update.modrinth]
+mod-id = "CbUFLD9r"
+version = "P3JdMukT"

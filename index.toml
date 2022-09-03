@@ -255,6 +255,11 @@ hash = "d0824a98a7ab544b0d967316a35972d64e5adefb888542ad943c5754553655a0"
 metafile = true
 
 [[files]]
+file = "mods/flowerycore.pw.toml"
+hash = "9f0af0cc7d9cc280a6773f89036e35e366d21cff81f514c3e823f54f60a4be80"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "ecf724b67501ed0a91109a1264aa6e803f6ea028e8fb6f6af3ca4ace790dc0d2"
 metafile = true
@@ -530,6 +535,11 @@ hash = "866474cdfd52d4b00e87ddc9dcbacba582f4600e3c55b7dac9df832907cb5685"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "c6397c3fafeed44c67b0ea31e5cbdabc4001e4fee78013c7f3e0cfe88c25a42d"
 metafile = true
@@ -547,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
