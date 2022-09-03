@@ -1,0 +1,13 @@
+name = "Powder Power [FORGE]"
+filename = "PowderPower-Forge-1.18.2-3.5.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c3d9855157621a2be567b37666199d83af0861b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3947553
+project-id = 254677

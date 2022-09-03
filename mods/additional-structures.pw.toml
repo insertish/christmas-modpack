@@ -1,0 +1,13 @@
+name = "Additional Structures"
+filename = "Rex's-AdditionalStructures-1.18.2-(v.3.1.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c41f1a68278219ff8e43c2cd8d7022d48946ac6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823610
+project-id = 297680

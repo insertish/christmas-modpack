@@ -1,0 +1,13 @@
+name = "GregTech Intergalactical"
+filename = "GregTech-1.18.2-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66ce4c3216bcfe382a179f7630d701c79b3be9bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3744996
+project-id = 462715

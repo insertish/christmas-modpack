@@ -1,0 +1,13 @@
+name = "YDM's Allay "
+filename = "allay-forge-1.18.x-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "240e5318afe309e874d62cdf9add0dd7900372cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3806865
+project-id = 538828

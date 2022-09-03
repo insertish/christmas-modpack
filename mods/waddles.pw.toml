@@ -1,0 +1,13 @@
+name = "Waddles"
+filename = "Waddles-1.18.2-0.8.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b729639add6efedcdedc828feb55aefc58bc3d18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3677515
+project-id = 251767

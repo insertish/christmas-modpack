@@ -1,0 +1,13 @@
+name = "Malum"
+filename = "malum-1.18.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b61c3b033f3dd75b72972028613511a848577f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3961432
+project-id = 484064

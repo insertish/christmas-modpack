@@ -1,0 +1,13 @@
+name = "TesseractAPI"
+filename = "TesseractAPI-1.18.1-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08ad7b711a034c7d311bbb4c1c66ea905599a2e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3744992
+project-id = 462718

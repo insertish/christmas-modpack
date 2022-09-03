@@ -1,0 +1,13 @@
+name = "Fate/Unlimited Block Works"
+filename = "fateubw-1.18.2-1.0.4-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ac13cbddf3d761bc185f6849c6c29bbaf032a10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3803822
+project-id = 271719

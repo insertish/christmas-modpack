@@ -1,0 +1,13 @@
+name = "Enlightened End"
+filename = "Enlightened End RE Release V1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f18194bbecb091dfdfbd9f8a97323e3a5dc0180e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945955
+project-id = 502786
