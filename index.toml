@@ -195,11 +195,6 @@ hash = "21363c3d45e064f70926296194c89a3c1d7952565c850a6dde4d4114bae647a2"
 metafile = true
 
 [[files]]
-file = "mods/mana-and-artifice.pw.toml"
-hash = "58537c9aa0c8a500d798cd7ebf413bb047bc8ac263754260648280a9420f8b50"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
