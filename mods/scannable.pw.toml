@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-1.18.2-forge-1.7.6+135af8a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqFnwJHf/versions/1.7.6/scannable-1.18.2-forge-1.7.6%2B135af8a.jar"
+hash-format = "sha1"
+hash = "b5ea71a263231f18698063028627296636e835e7"
+
+[update]
+[update.modrinth]
+mod-id = "YqFnwJHf"
+version = "beV7tvTq"

@@ -1,0 +1,13 @@
+name = "Create: Extended Flywheels"
+filename = "extendedflywheels-1.2.2-1.18.2-0.5.e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Xkq6GAk/versions/FbExPCyy/extendedflywheels-1.2.2-1.18.2-0.5.e.jar"
+hash-format = "sha1"
+hash = "570ee6fedd5c1d8fb807b48caab19af6cfde35c1"
+
+[update]
+[update.modrinth]
+mod-id = "6Xkq6GAk"
+version = "FbExPCyy"

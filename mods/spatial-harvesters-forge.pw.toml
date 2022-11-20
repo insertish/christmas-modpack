@@ -1,0 +1,13 @@
+name = "Spatial Harvesters [Forge]"
+filename = "spatialharvesters_Forge-0.11.13a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7V5djGU/versions/0.11.13a/spatialharvesters_Forge-0.11.13a.jar"
+hash-format = "sha1"
+hash = "b81933216335383ec28494f090ba43f92c022867"
+
+[update]
+[update.modrinth]
+mod-id = "v7V5djGU"
+version = "UfmEiyUm"

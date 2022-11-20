@@ -1,0 +1,13 @@
+name = "Compressed Creativity"
+filename = "compressedcreativity-1.18.2-0.0.10-hf1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mt3rcQKj/versions/1.18.2-0.0.10-hf1/compressedcreativity-1.18.2-0.0.10-hf1.jar"
+hash-format = "sha1"
+hash = "1296db423cbf58d121df7e3d7723ef63f1fd0e6d"
+
+[update]
+[update.modrinth]
+mod-id = "Mt3rcQKj"
+version = "3pHTsuUT"

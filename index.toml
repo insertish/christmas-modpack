@@ -15,6 +15,11 @@ hash = "262660770caab718c48a5b915cfb274b491e1482ea03dce6c929ee1d5808e8b1"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "748ab6ff142471ca21a25d1ab8699ce4305a872058f983792bdeb815c67fd6a7"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "e89ca85ab49921cc5b109c65ade133803e1bed53e5af1eb23b2883c4c08d1877"
 metafile = true
@@ -22,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
 metafile = true
 
 [[files]]
@@ -96,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
-hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
 metafile = true
 
 [[files]]
@@ -145,8 +155,23 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a46627407f0bb2d45418c140bc8591c7e1261aec8ed5117174d38a6c63524664"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5efbb2d241994d9195028e5326a8ff53ae4ff0a6b393b5931563e98c7c12f10a"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "518709928a92ee12c848f45a7f77573639d7e84d545c6e120094bc3c898243c9"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "8a45a032dcc130506cd3dd1490d8d13c2645863ed9690914c1a0b144a7ef6c10"
 metafile = true
 
 [[files]]
@@ -165,13 +190,18 @@ hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "73eee2599631ecdd486619da8cfc1c8a4cb5482162a04a5ddbf9585a51439dca"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
+hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
 metafile = true
 
 [[files]]
@@ -220,6 +250,11 @@ hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
 metafile = true
 
 [[files]]
+file = "mods/energymeter.pw.toml"
+hash = "98ff5f0b4a10c95478c7f64d83800a2e7377cc84f651c24194b16b0261580312"
+metafile = true
+
+[[files]]
 file = "mods/enlightened-end.pw.toml"
 hash = "f4b7e26018c96b79ae0bb0f97d42c83567abc5d6897e1e922c671433c7caf152"
 metafile = true
@@ -237,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
+metafile = true
+
+[[files]]
+file = "mods/extended-flywheels.pw.toml"
+hash = "27cfde7c3602c7201d30fff023939fb46a0dfdca1be813d8559f025bde5b50ff"
 metafile = true
 
 [[files]]
@@ -277,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
+metafile = true
+
+[[files]]
+file = "mods/furnacemk2.pw.toml"
+hash = "ef01fe1c8bb7faf2944a7d48a9f8b70b8cb0c0d8af1996f586fab178fdef2d28"
 metafile = true
 
 [[files]]
@@ -466,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+hash = "4bdc5ae272863fe14ea6fb6fbfb7c6ce75738572e0b5d7ca46b4d537a6939d18"
 metafile = true
 
 [[files]]
@@ -485,13 +530,23 @@ hash = "defab99dd482c1a1c0cce7b250fd2a7371806344d02a499cfadcad0fbd7499bc"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "943f29aadf808761df94a4808ab6f96ee7900aabaf58aba3deb1d3b56f67366a"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "0b461a4f3f9ef80cd566f63e6b700e8562656133a3b15ecb98a580a68689e976"
+metafile = true
+
+[[files]]
 file = "mods/powder-power.pw.toml"
 hash = "b0fba0473516e78b7712a50f18be78692c889578ba8bca180f7690cbce835820"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+hash = "4d04ec67f5041f013f8794b693c20a00ce79d23cbca877b56803e5a73951414c"
 metafile = true
 
 [[files]]
@@ -575,6 +630,11 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "16fae3f13c0e7d26de25de4b312adcf6bc7c78d05509ad3332d5fed1412e6a6a"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
 metafile = true
@@ -595,6 +655,11 @@ hash = "c6397c3fafeed44c67b0ea31e5cbdabc4001e4fee78013c7f3e0cfe88c25a42d"
 metafile = true
 
 [[files]]
+file = "mods/spatial-harvesters-forge.pw.toml"
+hash = "2dd3cdbe27201435a28ed9fc0bc94d81c06d88d2fe269f542292a0ea0faf89e3"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "24cf95c3d275e37fc044713468c2a81918a72b8d91a8d6eee1538dff97f8139c"
 metafile = true
@@ -607,6 +672,16 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "117fe01ce4bdd4ad0b8313aad483c8b9c1de58bd043e935f15aa00bd7de27c00"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "9d6a173ca7d60b1a481bb403b467184e036694151080ed1917b30697fc3b9f3e"
 metafile = true
 
 [[files]]

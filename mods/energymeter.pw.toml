@@ -1,0 +1,13 @@
+name = "Energy Meter"
+filename = "energymeter-1.18.2-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MbejSZ2E/versions/y2uzV0tS/energymeter-1.18.2-3.2.1.jar"
+hash-format = "sha1"
+hash = "0ce5cd873d25678279c27218ca75c40d05f38a30"
+
+[update]
+[update.modrinth]
+mod-id = "MbejSZ2E"
+version = "y2uzV0tS"

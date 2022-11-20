@@ -3,11 +3,11 @@ filename = "Quark-3.2-358.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/e4xifKGM/Quark-3.2-358.jar"
 hash-format = "sha1"
 hash = "18919f757e7fd1b4d4b4e0e0de1ea978ead34179"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3840125
-project-id = 243121
+[update.modrinth]
+mod-id = "qnQsVE2z"
+version = "e4xifKGM"

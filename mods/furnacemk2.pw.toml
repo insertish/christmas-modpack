@@ -1,0 +1,13 @@
+name = "FurnaceMk2"
+filename = "furnacemk2-1.18.2-0.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AemlRrpk/versions/1.18.2-0.1.11-Forge/furnacemk2-1.18.2-0.1.11.jar"
+hash-format = "sha1"
+hash = "4c27cfbb2f34a951d00a1a519a3faa39c1e3b60e"
+
+[update]
+[update.modrinth]
+mod-id = "AemlRrpk"
+version = "gCTwrYz8"
