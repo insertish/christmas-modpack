@@ -23,5 +23,5 @@ for (const mod of mods) {
 }
 
 await fs.writeFile('mods.md',
-    `# ${listing.length} Mods\n\n|Name|Side|\n|---|---|---|\n` + listing.join('\n')
+    `# ${listing.length} Mods\n\n|Name|Side||\n|---|---|---|\n` + listing.join('\n')
 );
