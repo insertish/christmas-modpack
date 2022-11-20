@@ -1,0 +1,13 @@
+name = "Wavey Capes"
+filename = "WaveyCapes-forge-1.2.0-mc1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/1.2.0-forge-1.18/WaveyCapes-forge-1.2.0-mc1.18.jar"
+hash-format = "sha1"
+hash = "d3f5071db0ec1c6d7dff44ce0d34efb7b9c7dac5"
+
+[update]
+[update.modrinth]
+mod-id = "kYuIpRLv"
+version = "T4tfHi3g"

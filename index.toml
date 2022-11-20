@@ -25,6 +25,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1b76487df03b97310b7939344ab859ecf66d828ccf7c579f1fc0bbb2e7c2ae1e"
+metafile = true
+
+[[files]]
 file = "mods/antimatterapi.pw.toml"
 hash = "014a4223fc16033ad7d8937ab61c6fd5645a0bcc2c08cd71c89321403bf8424e"
 metafile = true
@@ -140,6 +145,11 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "518709928a92ee12c848f45a7f77573639d7e84d545c6e120094bc3c898243c9"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
@@ -206,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "eef8d94e5a2fc55d2315744d1242139d6fe4e523188e19aca395ce8eef3e1238"
+hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
 metafile = true
 
 [[files]]
@@ -370,6 +380,11 @@ hash = "88f8a91fd486f6a4aadf94fe15598ac21dd0c65e8eebc04e8572aa275c505cbf"
 metafile = true
 
 [[files]]
+file = "mods/mining-gadgets.pw.toml"
+hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
@@ -392,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
@@ -422,6 +442,26 @@ metafile = true
 [[files]]
 file = "mods/orva-alarms.pw.toml"
 hash = "2da1dbc3117be835964a59cee145fb739358fba7ab5f52054b8c9d48f6e3852f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "17e2beb989d98c665354decdfc2ad34689278757c43514750e4f718d65e65316"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "e786b40a72206eb8757d7147311eb1d83570df88e8a9048a603bc20941ac0469"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "beec8f7f650ee7afb5db43eeecf08b2a41271aeb7bb88852181726c7ab2106c8"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "3689cb476436d4a13114f5fd3852155663c81e9bc37939e837285c91b67243ae"
 metafile = true
 
 [[files]]
@@ -535,6 +575,11 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
+metafile = true
+
+[[files]]
 file = "mods/seeds.pw.toml"
 hash = "866474cdfd52d4b00e87ddc9dcbacba582f4600e3c55b7dac9df832907cb5685"
 metafile = true
@@ -642,6 +687,11 @@ metafile = true
 [[files]]
 file = "mods/waddles.pw.toml"
 hash = "c16620d49f020b97f3ade6ab780c6218f861faa2a134ffeff5911c4556f4f510"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "63ed494c9019e2109575dcdb2174b2fbd18dcec281e9230580990a1174b1e0dc"
 metafile = true
 
 [[files]]
