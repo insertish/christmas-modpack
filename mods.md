@@ -1,11 +1,13 @@
-# 146 Mods
+# 162 Mods
 
 |Name|Side||
 |---|---|---|
 |3D Skin Layers|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/3dskinlayers)|
 |Additional Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/additional-structures)|
+|Advanced Peripherals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancedperipherals)|
 |Applied Energistics 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2)|
 |Alex's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
+|Alternate Current|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alternate-current)|
 |Another Furniture|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture)|
 |AntimatterAPI|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antimatterapi)|
 |Apollo's Additional Structures|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apollos-additional-structures)|
@@ -21,7 +23,7 @@
 |Art of Forging: A Tetra Addon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)|
 |Artifacts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/artifacts)|
 |AutoRegLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)|
-|Better Combat [Fabric & Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
+|Better Combat [Fabric/Forge] by Daedelus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
 |BetterF3|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)|
 |Biome Makeover|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)|
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
@@ -30,7 +32,10 @@
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
 |Bygone Nether|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)|
 |Caelus API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/caelus)|
+|CC: Tweaked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)|
+|CC:C Bridge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cccbridge)|
 |Chat Heads|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads)|
+|Chunk Loaders|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)|
 |Chunky|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky)|
 |Citadel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Cloth Config API|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|
@@ -45,10 +50,12 @@
 |Dusk[Forge/Fabric]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dusk)|
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ears)|
+|Energy Meter|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/energymeter)|
 |Enlightened End|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)|
 |Entity Collision FPS Fix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)|
 |EntityCulling|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling)|
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
+|Create: Extended Flywheels|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-flywheels)|
 |Extra Disks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-disks)|
 |Fastload|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fastload)|
 |Fate/Unlimited Block Works|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fate-ubw)|
@@ -57,6 +64,7 @@
 |Flowery Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flowery-structures)|
 |Flowery Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flowerycore)|
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
+|FurnaceMk2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/furnacemk2)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |GregTech Intergalactical|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/gregtech-intergalactical)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
@@ -68,7 +76,7 @@
 |Kotlin for Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)|
 |L_Ender 's Cataclysm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)|
 |LazyDFU|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu)|
-|Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
+|Lodestone Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|
 |Mantle|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mantle)|
@@ -88,6 +96,7 @@
 |Aquamirae|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)|
 |Obscuria's Essentials|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-core)|
 |Obscuria's Tooltips|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips)|
+|OpenComputers II|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/oc2)|
 |Occultism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism)|
 |Orva Alarms and Sirens|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)|
 |Pam's HarvestCraft 2 - Crops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)|
@@ -98,6 +107,8 @@
 |Phosphor|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/phosphor)|
 |Plasmo Voice|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)|
 |playerAnimator|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/playeranimator)|
+|PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
+|Powah!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powah)|
 |Powder Power [FORGE]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powder-power)|
 |Quark|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)|
 |Radium Reforged|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)|
@@ -116,19 +127,24 @@
 |Roughly Enough Items Fabric/Forge (REI)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)|
 |Roughly Enough Resources|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)|
 |Refined Storage: Requestify|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)|
+|Scannable|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/scannable)|
 |Security Craft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/security-craft)|
 |Seeds|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/seeds)|
 |Moonlight Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)|
 |spark|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)|
+|Spatial Harvesters [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spatial-harvesters-forge)|
 |Spice of Life: Carrot Edition|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)|
 |Stalwart Dungeons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)|
 |Starlight (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)|
+|SuperMartijn642's Config Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)|
+|SuperMartijn642's Core Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)|
 |Supplementaries|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries)|
 |TenshiLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tenshilib)|
 |TerraBlender (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender)|
 |TesseractAPI|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tesseractapi)|
 |Tetra Pak|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tetra-pak)|
 |Tetra|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tetra)|
+|Thatcher's Revenge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thatchermod)|
 |The One Probe|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|
 |TheDragonLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedragonlib)|
 |Tinkers Construct|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|

@@ -190,11 +190,6 @@ hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
 metafile = true
 
 [[files]]
-file = "mods/compressedcreativity.pw.toml"
-hash = "73eee2599631ecdd486619da8cfc1c8a4cb5482162a04a5ddbf9585a51439dca"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
@@ -480,6 +475,11 @@ hash = "366310945e4c4a51ab8a2d82fb7392066ab44674b0ee66fa9949d0d2e10edde2"
 metafile = true
 
 [[files]]
+file = "mods/oc2.pw.toml"
+hash = "e4cd4eac863a7dc07f33a4a5dd5300d473317a3319d076581ff6c5b484c3a621"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "0055414190e4c9cca2c74b0e45a662d991244c6496451f501e53a8b6afaeefb3"
 metafile = true
@@ -713,6 +713,10 @@ metafile = true
 file = "mods/tetra.pw.toml"
 hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
+
+[[files]]
+file = "mods/thatchermod.toml"
+hash = "c45510c04c1ac759d8c6e05ae4c38642f7993bc80a5d820f701e7e8ccba74d82"
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
