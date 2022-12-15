@@ -1,0 +1,13 @@
+name = "Akashic Tome"
+filename = "AkashicTome-1.5-20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBthPdnp/versions/9PQPN6MH/AkashicTome-1.5-20.jar"
+hash-format = "sha1"
+hash = "4aa94016e7b13dcd6fe9dc5bb6e23fa0946f36b2"
+
+[update]
+[update.modrinth]
+mod-id = "JBthPdnp"
+version = "9PQPN6MH"

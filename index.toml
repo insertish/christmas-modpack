@@ -25,6 +25,11 @@ hash = "ac6c2997986a51fd97dee6950963aa186a7240d397f70b93760d65e641f1481b"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "a1da6eba0b36c247e005f446439ecf0647b492fc8e81a37423c37bf1345707ef"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
@@ -427,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "f412e90c29c9f24871277b01052e8f7082ed08e9392c39f4a8322c9f7b3e5ab0"
+metafile = true
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "75c4fb367079d4a434b6a6ba0724cdb329caa5562a5b40893f1b351c80176bae"
 metafile = true
 
 [[files]]
