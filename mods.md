@@ -1,4 +1,4 @@
-# 167 Mods
+# 169 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -23,6 +23,7 @@
 |Art of Forging: A Tetra Addon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)|
 |Artifacts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/artifacts)|
 |AutoRegLib|both|[Modrinth](https://modrinth.com/mod/autoreglib)|
+|Balm (Forge Edition)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)|
 |Better Combat [Fabric & Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
 |Biome Makeover|both|[Modrinth](https://modrinth.com/mod/biome-makeover)|
@@ -93,6 +94,7 @@
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
 |Mythic Mounts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)|
 |Nature's Compass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)|
+|NetherPortalFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|
 |No Telemetry|client|[Modrinth](https://modrinth.com/mod/no-telemetry)|
 |Not Enough Animations|client|[Modrinth](https://modrinth.com/mod/not-enough-animations)|
 |Not Enough Crashes|client|[Modrinth](https://modrinth.com/mod/notenoughcrashes)|

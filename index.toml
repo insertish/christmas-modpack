@@ -110,6 +110,11 @@ hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "dc923674857a64227f1fef78a0f9728c3982e47c7a5027fd8eeed274097be0a1"
 metafile = true
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
 metafile = true
 
 [[files]]
