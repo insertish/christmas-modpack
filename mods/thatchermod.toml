@@ -3,6 +3,6 @@ filename = "thatchermod-1.0.0"
 side = "both"
 
 [download]
-url = "https://insertish.github.io/christmas-modpack/static/thatchermod-1.0.0"
+url = "https://insertish.github.io/christmas-modpack/static/thatchermod-1.0.0.jar"
 hash-format = "sha256"
 hash = "5a1afbac6edc4e5ae06c3e4450b286a41803d45d1911509efdb06bc2b88bba69"
