@@ -1,0 +1,8 @@
+name = "Sedna"
+filename = "sedna-1.18.2-forge-1.0.14+21d424a.jar"
+side = "both"
+
+[download]
+url = "https://insertish.github.io/christmas-modpack/static/sedna-1.18.2-forge-1.0.14+21d424a.jar"
+hash-format = "sha256"
+hash = "a459375a1cff84e3ce55ebbc2be38a1cd093e3921319f6ad302ca87aaa02eff9"
