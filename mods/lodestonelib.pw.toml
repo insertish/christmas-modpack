@@ -1,13 +1,13 @@
-name = "Lodestone Lib"
-filename = "lodestone-1.18.2-1.1.jar"
+name = "Lodestone"
+filename = "lodestone-1.18.2-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b9d8a3ae920f567514ba28d59458255f54f24692"
+hash = "d747255ab884b89744ab63d81cd1acfca1a23e95"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3961429
+file-id = 3986845
 project-id = 616457

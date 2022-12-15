@@ -1,13 +1,13 @@
 name = "ViesCraft Machines"
-filename = "viescraftmachines-1.18.2-1.4.1.jar"
+filename = "viescraftmachines-1.18.2-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cf2bef31aee387ba99f8deb68cdb07fddcdae1a4"
+hash = "97a2292f56bd2c165f6d9a5a7f6b58b7e934fc56"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3957321
+file-id = 3971146
 project-id = 246795

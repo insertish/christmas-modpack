@@ -1,13 +1,13 @@
 name = "ArmorPlus"
-filename = "armorplus-1.18.2-18.2.0.jar"
+filename = "armorplus-1.18.2-18.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f34ba83cffd6d1165eb739b57293264886faaf47"
+hash = "5ade2d0a5f1444067f7ce700cc2ec7ed2adf44ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3933975
+file-id = 3970981
 project-id = 237366

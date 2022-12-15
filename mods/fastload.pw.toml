@@ -1,13 +1,13 @@
 name = "Fastload"
-filename = "Fastload-Reforged-1.1.1+1.18.2.jar"
+filename = "Fastload-Reforged-1.3.3+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kCpssoSb/versions/1.18.2.forge.1.1.1/Fastload-Reforged-1.1.1%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/zNe7bwry/Fastload-Reforged-1.3.3%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "1d45b8c32db80da7986e9ff844df538b44ea5bfd"
+hash = "58a7f277487a7d58bd97126891978fcc93dded9b"
 
 [update]
 [update.modrinth]
 mod-id = "kCpssoSb"
-version = "8J8D4v6o"
+version = "zNe7bwry"

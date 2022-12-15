@@ -1,13 +1,13 @@
 name = "Orva Alarms and Sirens"
-filename = "Orva Alarms 2.4 1.18.2.jar"
+filename = "Orva Alarms 3.0 1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56643dca827b14ca23cc4b908ed02c8d2ff75cd5"
+hash = "4c2b4bd2a0c5bd2892809ca93ace0724c8376695"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3813848
+file-id = 4085259
 project-id = 419734

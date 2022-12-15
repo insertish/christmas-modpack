@@ -1,13 +1,13 @@
 name = "REI Plugin Compatibilities"
-filename = "RoughlyEnoughItems-jei-internals-workaround-8.3.529.jar"
+filename = "REIPluginCompatibilities-forge-8.0.42.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fab96003c8826db5397d23442b530bebcded8f15"
+hash = "a875aa9836f7dee330ef883999d2caba034fb223"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3939270
+file-id = 4125215
 project-id = 521393
