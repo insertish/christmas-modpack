@@ -1,4 +1,4 @@
-# 162 Mods
+# 164 Mods
 
 |Name|Side||
 |---|---|---|
@@ -80,6 +80,7 @@
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|
 |Mantle|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+|Markdown Manual|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/markdownmanual)|
 |McJtyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)|
 |Mekanism Additions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)|
 |Mekanism Generators|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)|
@@ -129,6 +130,7 @@
 |Refined Storage: Requestify|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)|
 |Scannable|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/scannable)|
 |Security Craft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/security-craft)|
+|Sedna|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sedna)|
 |Seeds|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/seeds)|
 |Moonlight Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)|
 |spark|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark)|
