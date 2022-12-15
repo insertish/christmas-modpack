@@ -13,15 +13,19 @@ for (const mod of mods) {
 
         let url;
         if (mod === 'optifine.toml') {
-            url = "https://optifine.net";
+            url = "[Optifine](https://optifine.net)";
+        } else if (data?.update?.curseforge) {
+            url = "[CurseForge](https://www.curseforge.com/minecraft/mc-mods/" + mod.split('.')[0] + ")";
+        } else if (data?.update?.modrinth) {
+            url = "[Modrinth](https://modrinth.com/mod/" + mod.split('.')[0] + ")";
         } else {
-            url = "https://www.curseforge.com/minecraft/mc-mods/" + mod.split('.')[0];
+            url = "Static";
         }
 
-        listing.push(`|${data.name}|${data.side}|[CurseForge](${url})|`);
+        listing.push(`|${data.name}|${data.side}|${url}|`);
     }
 }
 
 await fs.writeFile('mods.md',
-    `# ${listing.length} Mods\n\n|Name|Side||\n|---|---|---|\n` + listing.join('\n')
+    `# ${listing.length} Mods\n\n|Name|Side||\n|---|---|:-:|\n` + listing.join('\n')
 );
