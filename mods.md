@@ -1,4 +1,4 @@
-# 166 Mods
+# 165 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -16,7 +16,6 @@
 |Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
 |Architectury API|both|[Modrinth](https://modrinth.com/mod/architectury-api)|
 |ArmorPlus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/armorplus)|
-|Ars Arsenal|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-arsenal)|
 |Ars Creo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-creo)|
 |Ars Instrumentum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)|
 |Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|

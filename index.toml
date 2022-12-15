@@ -75,11 +75,6 @@ hash = "6cac1047b5f005bbe644766a47566986723183a41304daef4911e191e2a4c2e8"
 metafile = true
 
 [[files]]
-file = "mods/ars-arsenal.pw.toml"
-hash = "774d6093e8c31c9d41560a76656e1920f79e47313a078aa485b5d4df55bedde2"
-metafile = true
-
-[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "db47277fd3569c527bb662f386318bf2b252fa6f47dddc5e9fc13995627c1481"
 metafile = true
