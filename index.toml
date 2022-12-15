@@ -430,6 +430,11 @@ hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "f412e90c29c9f24871277b01052e8f7082ed08e9392c39f4a8322c9f7b3e5ab0"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
@@ -477,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/ob-tooltips.pw.toml"
 hash = "366310945e4c4a51ab8a2d82fb7392066ab44674b0ee66fa9949d0d2e10edde2"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "767eacf6ffc98c2907df9759fb010e122a6fcc92e32e605e91f674ab840ef3dc"
 metafile = true
 
 [[files]]

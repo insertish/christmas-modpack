@@ -1,4 +1,4 @@
-# 164 Mods
+# 166 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -23,7 +23,7 @@
 |Art of Forging: A Tetra Addon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)|
 |Artifacts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/artifacts)|
 |AutoRegLib|both|[Modrinth](https://modrinth.com/mod/autoreglib)|
-|Better Combat [Fabric/Forge] by Daedelus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
+|Better Combat [Fabric & Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
 |Biome Makeover|both|[Modrinth](https://modrinth.com/mod/biome-makeover)|
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
@@ -76,7 +76,7 @@
 |Kotlin for Forge|both|[Modrinth](https://modrinth.com/mod/kotlin-for-forge)|
 |L_Ender 's Cataclysm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)|
 |LazyDFU|both|[Modrinth](https://modrinth.com/mod/lazydfu)|
-|Lodestone Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
+|Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|
 |Mantle|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mantle)|
@@ -87,6 +87,7 @@
 |Mekanism Tools|both|[Modrinth](https://modrinth.com/mod/mekanism-tools)|
 |Mekanism|both|[Modrinth](https://modrinth.com/mod/mekanism)|
 |Mining Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)|
+|Modonomicon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modonomicon)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
 |Mythic Mounts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)|
@@ -97,6 +98,7 @@
 |Aquamirae|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)|
 |Obscuria's Essentials|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-core)|
 |Obscuria's Tooltips|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips)|
+|Obscure API|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/obscure-api)|
 |OpenComputers II|both|Static|
 |Occultism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism)|
 |Orva Alarms and Sirens|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)|
