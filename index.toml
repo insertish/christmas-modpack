@@ -645,6 +645,11 @@ hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
 metafile = true
 
 [[files]]
+file = "mods/sedna.pw.toml"
+hash = "7801d9a6d4df297f6fe852f08b145507bbcc2c7e16cd0c86b3279a1b76c51093"
+metafile = true
+
+[[files]]
 file = "mods/seeds.pw.toml"
 hash = "866474cdfd52d4b00e87ddc9dcbacba582f4600e3c55b7dac9df832907cb5685"
 metafile = true
@@ -721,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/thatchermod.toml"
-hash = "c45510c04c1ac759d8c6e05ae4c38642f7993bc80a5d820f701e7e8ccba74d82"
+hash = "7982cd4e4a035ee1cd6c714d4bd18a9074e5b9094d679f6af22ce0224df476c4"
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
