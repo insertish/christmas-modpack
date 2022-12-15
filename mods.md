@@ -1,4 +1,4 @@
-# 165 Mods
+# 167 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -6,6 +6,7 @@
 |Additional Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/additional-structures)|
 |Advanced Peripherals|both|[Modrinth](https://modrinth.com/mod/advancedperipherals)|
 |Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
+|Akashic Tome|both|[Modrinth](https://modrinth.com/mod/akashic-tome)|
 |Alex's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
 |Alternate Current|server|[Modrinth](https://modrinth.com/mod/alternate-current)|
 |Another Furniture|both|[Modrinth](https://modrinth.com/mod/another-furniture)|
@@ -87,6 +88,7 @@
 |Mekanism|both|[Modrinth](https://modrinth.com/mod/mekanism)|
 |Mining Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)|
 |Modonomicon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modonomicon)|
+|Morph-o-Tool|both|[Modrinth](https://modrinth.com/mod/morph-o-tool)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
 |Mythic Mounts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)|
