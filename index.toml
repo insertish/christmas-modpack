@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "15c50d888f8aa19a4b720180dbd0e37f5e567edd726537897480e2aa646e49ac"
+hash = "72c817cd5696a46324adcfbbd61cabe296ff941629991d212df790ccab6d1112"
 metafile = true
 
 [[files]]
@@ -180,6 +180,11 @@ hash = "8a45a032dcc130506cd3dd1490d8d13c2645863ed9690914c1a0b144a7ef6c10"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "2f94c9979cd7bbf89390a611e69ab4cc92cd27a151443abb5ad4edbe236b8c80"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
@@ -215,6 +220,11 @@ hash = "2736b7cd4cd82549d9fde59b63837b5eb04f395d686c193fcedd0bfa7f4dcc79"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "58424badda6989de55a21585f4a7d1c9150edb23a0c82ff27f6f713e4618d581"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "a48c1957e523a1c335f2b3c40078892ba3c048e5d5373194bf8c1abb57b15be6"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "32e62a78ed174bf39c26f34b3c2c8d44f83c348c3ed743c376bbeab8993bed82"
 metafile = true
 
 [[files]]
@@ -317,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
 metafile = true
 
 [[files]]
@@ -455,6 +475,11 @@ hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "52272133ac67ae7355c23258f35f0bd70c2602b38d0d8bfc005872bdd04fed86"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "88e707a44bb0cc26211dc9d816d09505d8f11e67c2794f49ba9feeb03952dd11"
 metafile = true
@@ -562,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "943f29aadf808761df94a4808ab6f96ee7900aabaf58aba3deb1d3b56f67366a"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
 
 [[files]]
@@ -847,3 +877,15 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
+
+[[files]]
+file = "scripts/christmas_modpack/disable_mods.zs"
+hash = "377eb2e0279a9a7029c28374388c2c7243172dc75876ad8982e282fa8c30440a"
+
+[[files]]
+file = "scripts/christmas_modpack/no_vanilla_tools.zs"
+hash = "77ebc43b74acd465a0717c22bc57638b8a78f135513bf4054dd7ce8a6f472a87"
+
+[[files]]
+file = "scripts/christmas_modpack/pneumatic_craft.zs"
+hash = "ee161c26ceab711387dedc47fb2909a7cd37ed489e21ceda324af46e53952b49"
