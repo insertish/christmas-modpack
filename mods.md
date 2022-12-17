@@ -1,4 +1,4 @@
-# 212 Mods
+# 211 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -39,7 +39,6 @@
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
 |Bygone Nether|both|[Modrinth](https://modrinth.com/mod/bygone-nether)|
 |Caelus API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/caelus)|
-|Cats Plus|both|Static|
 |CC: Tweaked|both|[Modrinth](https://modrinth.com/mod/cc-tweaked)|
 |CC:C Bridge|both|[Modrinth](https://modrinth.com/mod/cccbridge)|
 |Chat Heads|client|[Modrinth](https://modrinth.com/mod/chat-heads)|
