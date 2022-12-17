@@ -1,4 +1,4 @@
-# 211 Mods
+# 212 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -206,6 +206,7 @@
 |Waddles|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waddles)|
 |Wavey Capes|client|[Modrinth](https://modrinth.com/mod/wavey-capes)|
 |When Dungeons Arise - Forge!|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)|
+|WMITAF|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wmitaf)|
 |YDM's Allay |both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ydms-allay)|
 |YUNG's API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)|
 |YUNG's Better Dungeons (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)|

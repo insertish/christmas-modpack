@@ -1061,6 +1061,11 @@ hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
 
 [[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "c2c0985d4fa069336f7e62e731a9474c5f8353c5784dda44efa97dcc17bbabb2"
+metafile = true
+
+[[files]]
 file = "mods/ydms-allay.pw.toml"
 hash = "f2754268e9d3ca8c299cfb77f46de772c4be65d8da5cf4acce767911e0bf09e1"
 metafile = true

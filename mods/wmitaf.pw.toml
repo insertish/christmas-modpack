@@ -1,0 +1,13 @@
+name = "WMITAF"
+filename = "wmitaf-forge-mc1.18.2-2.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "572c2310e7eaf05d0f3a5319ee419a1acdd06461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929241
+project-id = 547358
