@@ -197,11 +197,6 @@ hash = "fd84f4d2e26dfaf74ba56e710d8aad6715033c2ceddaec1efaa8fef047fec805"
 metafile = true
 
 [[files]]
-file = "mods/brvsb.pw.toml"
-hash = "afc92c43aeaa1c2a91023c6b640abfd2fc1418885b7c6d1a7f290082c6772521"
-metafile = true
-
-[[files]]
 file = "mods/buddycards.pw.toml"
 hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
 metafile = true
@@ -354,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "8c97e77297f9405164f99ae7c6b3b69c8a64faab36fc717396566c9e36c1df83"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "39b91ef8eca6b9fc64d9f39ca106fda246df868505c5c6f1434e9d23c2db5bd6"
 metafile = true
 
 [[files]]
@@ -687,11 +677,6 @@ hash = "1a10b6112d8a7c674c8d94b044c2069a456c462773adb2d3456ddaee9586d5c5"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "16194e9663ef44bd7d236a08b7483a4ba424d61916a3645c7a27b7ace886e496"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -862,16 +847,6 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "95781d9ba6edbbec6546e8c5ebf635fde7e382101795655e47781f0c4182587e"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
-metafile = true
-
-[[files]]
 file = "mods/sbm-bone-torch.pw.toml"
 hash = "060c32990ce91dc62748b376210d00810796ea64aa1396ef0dd7acc3bd517170"
 metafile = true
@@ -977,11 +952,6 @@ hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "1efb82a4f998f468fda5e9ae257c1f56e59bf0a1ecac1bad1737a9e964ded6be"
-metafile = true
-
-[[files]]
 file = "mods/thatchermod.pw.toml"
 hash = "fda54b4182c1fc34d7d49d2ad64ce4d5c547a506d8c268382da85155f18f5639"
 metafile = true
@@ -1034,11 +1004,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "9ba81b42f0c773664f44d1b4b0db62450f133d00232b94cfddf02b4b243e328f"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "623e758a646464e5b3c3199e0ea819aac1d2a5d9b37c9d8184f126b376a3d129"
 metafile = true
 
 [[files]]
