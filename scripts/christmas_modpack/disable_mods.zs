@@ -1,2 +1,2 @@
 # Disable Mekanism
-recipes.removeByMod("mekanism");
+recipes.removeByModid("mekanism");

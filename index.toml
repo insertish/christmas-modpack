@@ -1012,11 +1012,6 @@ hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
 metafile = true
 
 [[files]]
-file = "mods/torchmaster.pw.toml"
-hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
-metafile = true
-
-[[files]]
 file = "mods/trapcraft.pw.toml"
 hash = "4d42b92145e54829d8f3240b6642e113aae1561fb05c1c2f1e9533de4ce77d06"
 metafile = true
@@ -1108,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
-hash = "377eb2e0279a9a7029c28374388c2c7243172dc75876ad8982e282fa8c30440a"
+hash = "8832f4c3a83c2c4fd79ff9b0faa89f0946b67a900352b1c3d399e3267829fe59"
 
 [[files]]
 file = "scripts/christmas_modpack/no_vanilla_tools.zs"
