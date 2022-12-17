@@ -176,8 +176,9 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
-file = "mods/cats-plus.toml"
+file = "mods/cats-plus.pw.toml"
 hash = "5d96b9bfb7afcd02ad5d70125154c1bd335402719e0ca06af3ec8a5bf26b3578"
+metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -790,8 +791,9 @@ hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
 metafile = true
 
 [[files]]
-file = "mods/thatchermod.toml"
+file = "mods/thatchermod.pw.toml"
 hash = "7982cd4e4a035ee1cd6c714d4bd18a9074e5b9094d679f6af22ce0224df476c4"
+metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
