@@ -1,4 +1,4 @@
-# 212 Mods
+# 211 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -66,13 +66,12 @@
 |Cucumber Library|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cucumber)|
 |Curios API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)|
 |Discord Integration Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dcintegration)|
-|Diagonal Fences|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
 |Dynamic Trees - Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dtbop)|
 |Dungeon Crawl|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)|
 |Dynamic View[Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)|
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
-|Dynmap-Forge/Fabric|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)|
+|Dynmap-Forge/Fabric|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
 |Ender Storage 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
@@ -157,6 +156,7 @@
 |Refined Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/refined-storage)|
 |Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
 |Repurposed Structures - Forge|both|[Modrinth](https://modrinth.com/mod/repurposed-structures-forge)|
+|Restricted Portals|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/restricted-portals)|
 |RFTools Base|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-base)|
 |RFTools Builder|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)|
 |RFTools Control|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rftools-control)|
@@ -202,7 +202,6 @@
 |Universal Grid|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-grid)|
 |Valhelsia Core|both|[Modrinth](https://modrinth.com/mod/valhelsia-core)|
 |Valhelsia Structures|both|[Modrinth](https://modrinth.com/mod/valhelsia-structures)|
-|Valkyrien Skies (Forge/Fabric)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)|
 |ViesCraft Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/viescraft-airships)|
 |Waddles|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waddles)|
 |Wavey Capes|client|[Modrinth](https://modrinth.com/mod/wavey-capes)|

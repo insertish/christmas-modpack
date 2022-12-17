@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/cats-plus.pw.toml"
-hash = "a24f252cd62dc3c34b85dd85ab0311c50561f2fe653264c3bb880e2d285daead"
+hash = "4fce60536055e1f230387074dff50dcc469dd2e8ba425555a6ab8d971766ba6f"
 metafile = true
 
 [[files]]
