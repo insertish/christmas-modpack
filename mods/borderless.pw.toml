@@ -1,0 +1,13 @@
+name = "Borderless Window"
+filename = "BorderlessWindow-1.18-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b3160b25d710fb230df8dd25b349846cde86851"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3543891
+project-id = 378979

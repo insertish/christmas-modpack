@@ -201,6 +201,11 @@ hash = "fd84f4d2e26dfaf74ba56e710d8aad6715033c2ceddaec1efaa8fef047fec805"
 metafile = true
 
 [[files]]
+file = "mods/borderless.pw.toml"
+hash = "ee84a79e2079e59f32a1246cc98058786d1b59641c48c6cfbd4fbb3df66ccabd"
+metafile = true
+
+[[files]]
 file = "mods/brvsb.pw.toml"
 hash = "afc92c43aeaa1c2a91023c6b640abfd2fc1418885b7c6d1a7f290082c6772521"
 metafile = true

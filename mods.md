@@ -1,4 +1,4 @@
-# 210 Mods
+# 211 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -34,6 +34,7 @@
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
 |Oh The Biomes You'll Go|both|[Modrinth](https://modrinth.com/mod/biomesyougo)|
 |Blood Magic |both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)|
+|Borderless Window|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/borderless)|
 |Better Rubidium Video Settings Button|client|[Modrinth](https://modrinth.com/mod/brvsb)|
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
 |Bygone Nether|both|[Modrinth](https://modrinth.com/mod/bygone-nether)|
