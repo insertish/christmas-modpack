@@ -212,11 +212,6 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
-file = "mods/cats-plus.pw.toml"
-hash = "18f92927b64189a9fe9be0c11645abdd29b6a3086735dd99f4ab70f8041fc511"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "a46627407f0bb2d45418c140bc8591c7e1261aec8ed5117174d38a6c63524664"
 metafile = true
