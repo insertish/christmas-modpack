@@ -1,0 +1,13 @@
+name = "Restricted Portals"
+filename = "restrictedportals-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7d6d81680f41f4f71b41666487fb1f7abbfee50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3680528
+project-id = 228266

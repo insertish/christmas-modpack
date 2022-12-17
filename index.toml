@@ -29,6 +29,10 @@ file = "config/radium.properties"
 hash = "f1594f580859df10a783294566e796a4e8f06c2545caf8e92ddd31c7d5069f30"
 
 [[files]]
+file = "config/restrictedportals-common.toml"
+hash = "3c338be32e31514f8a26007dd53f102fd37061dad039dd7e0d387c2ede8c5f82"
+
+[[files]]
 file = "defaultconfigs/ftbchunks.snbt"
 hash = "8a91c309b00aa38044933ba0cd0f3c62801559747ceb59f3e6b674689b995156"
 
@@ -804,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "71a013ec24bf2e9ce91b302e4ea6b7b99f7ff6b3a1c12f8da9a44b43737db746"
+metafile = true
+
+[[files]]
+file = "mods/restricted-portals.pw.toml"
+hash = "f0edc86b573afec5a019c1f3b14f6830fbccdf28f69a8289799309431c80f837"
 metafile = true
 
 [[files]]
