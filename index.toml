@@ -13,6 +13,10 @@ file = "config/ftbbackups2.json"
 hash = "fcd98dcc4a8e1fed297ba4b94813423a81e1fa04c65fb231ea23f0a3412b3c65"
 
 [[files]]
+file = "config/radium.properties"
+hash = "f1594f580859df10a783294566e796a4e8f06c2545caf8e92ddd31c7d5069f30"
+
+[[files]]
 file = "defaultconfigs/ftbchunks.snbt"
 hash = "8a91c309b00aa38044933ba0cd0f3c62801559747ceb59f3e6b674689b995156"
 
@@ -792,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/thatchermod.pw.toml"
-hash = "7982cd4e4a035ee1cd6c714d4bd18a9074e5b9094d679f6af22ce0224df476c4"
+hash = "8b4b72b1ca010814ab57dfb35e2f8575b0f4e79b17826ad212e8ccaf84a34059"
 metafile = true
 
 [[files]]
