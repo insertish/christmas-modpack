@@ -1,0 +1,13 @@
+name = "AttributeFix"
+filename = "AttributeFix-Forge-1.18.2-14.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33b1dc72bb681768c4faa603a73c26ebba833b41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3801087
+project-id = 280510

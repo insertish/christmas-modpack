@@ -1,13 +1,13 @@
-name = "Discord Integration (Mod)"
+name = "Discord Integration Forge"
 filename = "dcintegration-forge-2.5.0-1.18.2.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/wNAPRS7K/dcintegration-forge-2.5.0-1.18.2.jar"
 hash-format = "sha1"
 hash = "a8eaa0313dbf05766b9964e746686132c93f46b5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "rbJ7eS5V"
-version = "wNAPRS7K"
+[update.curseforge]
+file-id = 4054862
+project-id = 324952

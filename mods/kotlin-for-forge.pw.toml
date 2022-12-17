@@ -3,11 +3,11 @@ filename = "kotlinforforge-3.8.0-obf.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ordsPcFz/versions/KjNWXm2v/kotlinforforge-3.8.0-obf.jar"
 hash-format = "sha1"
-hash = "c60902dcbc57a31d5bf6959aa2f4176f6e260f1f"
+hash = "0926a1851f745758e5f569e38f99dece98c6f534"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ordsPcFz"
-version = "KjNWXm2v"
+[update.curseforge]
+file-id = 4167046
+project-id = 351264

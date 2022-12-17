@@ -1,0 +1,13 @@
+name = "Trapcraft"
+filename = "Trapcraft-1.18.2-3.6.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb935627faeb7632f0a2e32e2c476d1858e250be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3973178
+project-id = 271272

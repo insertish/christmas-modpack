@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-1.18.1-forge39.0.9-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "977eae52ae261a87046fc1ad89149b175a6c04d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3584113
+project-id = 273279

@@ -1,0 +1,13 @@
+name = "Torchmaster"
+filename = "torchmaster-18.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de042e7bd650f6ee00959cd32b6e53cb12a25413"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3724596
+project-id = 254268

@@ -1,0 +1,13 @@
+name = "Public Gui Announcement"
+filename = "Public GUI Announcement-forge-1.18.2-3.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bae3ac959609064955856829ca3a9232a841c33a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3751443
+project-id = 341727

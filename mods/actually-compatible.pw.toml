@@ -1,0 +1,13 @@
+name = "Actually Compatible"
+filename = "actuallycompatible-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c937d62ab67bfc3464a70232aa9f6c40371acfe3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3623984
+project-id = 550269
