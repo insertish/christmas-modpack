@@ -1,4 +1,4 @@
-# 213 Mods
+# 214 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -134,6 +134,7 @@
 |OpenComputers II|both|Static|
 |Occultism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism)|
 |Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
+|Open Loader|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader)|
 |Orva Alarms and Sirens|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)|
 |Pam's HarvestCraft 2 - Crops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)|
 |Pam's HarvestCraft 2 - Food Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)|

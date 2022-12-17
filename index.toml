@@ -689,6 +689,11 @@ hash = "16194e9663ef44bd7d236a08b7483a4ba424d61916a3645c7a27b7ace886e496"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
 file = "mods/orva-alarms.pw.toml"
 hash = "2b404f16c13eee6126cb0acb95b991abdac9505936fe7a872b92b01ed7a4648a"
 metafile = true
