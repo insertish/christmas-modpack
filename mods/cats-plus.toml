@@ -1,0 +1,8 @@
+name = "Cats Plus"
+filename = "cats-plus-forge-mc1.18.2-1.0.0"
+side = "both"
+
+[download]
+url = "https://insertish.github.io/christmas-modpack/static/cats-plus-forge-mc1.18.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "8fedb94e90cae47e02156e4bb5775ff059d7f3f79a2add6196b4354e4d431ca0"

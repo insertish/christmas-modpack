@@ -5,6 +5,22 @@ file = "FeaturedServers/featuredservers.json"
 hash = "acc9ede89b2bbf57ecfaf5fe46cfdb9e05594302aeb4fc4e6e1c1198db4c16e7"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "ebc9281ef6dd051c159072afe8bb6e59f307de2761da3243d261411d32214dee"
+
+[[files]]
+file = "config/ftbbackups2.json"
+hash = "fcd98dcc4a8e1fed297ba4b94813423a81e1fa04c65fb231ea23f0a3412b3c65"
+
+[[files]]
+file = "defaultconfigs/ftbchunks.snbt"
+hash = "8a91c309b00aa38044933ba0cd0f3c62801559747ceb59f3e6b674689b995156"
+
+[[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "18720e90cdd75b3aa6d52b3ddbd69e6f8aa16fbf17a9f1f930a07566a518e331"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d2eda0ea3575fb11d212d9c9f5e56d33ef48c03aaa32f5741bca824673624bc4"
 metafile = true
@@ -160,6 +176,10 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
+file = "mods/cats-plus.toml"
+hash = "5d96b9bfb7afcd02ad5d70125154c1bd335402719e0ca06af3ec8a5bf26b3578"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "a46627407f0bb2d45418c140bc8591c7e1261aec8ed5117174d38a6c63524664"
 metafile = true
@@ -250,6 +270,11 @@ hash = "76864ff0efa14508d9cd9d3a2630cd7671e7a0b5b5f70e6cf4e412a8778fdcb4"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "a48c1957e523a1c335f2b3c40078892ba3c048e5d5373194bf8c1abb57b15be6"
 metafile = true
@@ -297,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "8fab1e360f0baffc19200e894006dbe635d5cf55e9be88a0c6ea4b14f7ebbf42"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
@@ -800,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness.pw.toml"
-hash = "311dd397251345824c071fb3503e9c13e367ae8a3e23b136c1e8e13547a3bf51"
+hash = "0ea77f6710de18ade4af3aa4f0571649698173529e2e471ae4e8d1778df3509a"
 metafile = true
 
 [[files]]
