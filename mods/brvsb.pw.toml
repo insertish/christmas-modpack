@@ -1,0 +1,13 @@
+name = "Better Rubidium Video Settings Button"
+filename = "brvsb-1.0.2-mc1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWwoD3UG/versions/GNg4gZmQ/brvsb-1.0.2-mc1.18.jar"
+hash-format = "sha1"
+hash = "1bc97a107af88bbcb8ecd04ec9743bd7cbd8be5b"
+
+[update]
+[update.modrinth]
+mod-id = "hWwoD3UG"
+version = "GNg4gZmQ"

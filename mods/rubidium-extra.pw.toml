@@ -1,0 +1,13 @@
+name = "Rubidium Extra"
+filename = "RubidiumExtra-1.18.2-0.4.11.45.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oY2B1pjg/versions/pIyHlwEB/RubidiumExtra-1.18.2-0.4.11.45.jar"
+hash-format = "sha1"
+hash = "abcb0cfdea8ce5df6ac54763c59607f7bd1e94ec"
+
+[update]
+[update.modrinth]
+mod-id = "oY2B1pjg"
+version = "pIyHlwEB"
