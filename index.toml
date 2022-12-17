@@ -651,11 +651,6 @@ hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "f6d18333fe933b52af938433b947a3400a53335f036e6e0d215fded48ddabef4"
-metafile = true
-
-[[files]]
 file = "mods/ob-aquamirae.pw.toml"
 hash = "191a95245e4bce89139bc32f052eec075eee755af42d9a81c4870183bd5e24de"
 metafile = true

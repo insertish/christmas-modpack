@@ -1,4 +1,4 @@
-# 211 Mods
+# 210 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -124,7 +124,6 @@
 |NetherPortalFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|
 |No Telemetry|client|[Modrinth](https://modrinth.com/mod/no-telemetry)|
 |Not Enough Animations|client|[Modrinth](https://modrinth.com/mod/not-enough-animations)|
-|Not Enough Crashes|client|[Modrinth](https://modrinth.com/mod/notenoughcrashes)|
 |Aquamirae|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)|
 |Obscuria's Essentials|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-core)|
 |Obscuria's Tooltips|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips)|
