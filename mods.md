@@ -1,4 +1,4 @@
-# 214 Mods
+# 212 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -84,7 +84,6 @@
 |Create: Extended Flywheels|both|[Modrinth](https://modrinth.com/mod/extended-flywheels)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
 |Fast Leaf Decay|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)|
-|Faster Ladder Climbing|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)|
 |Fastload|both|[Modrinth](https://modrinth.com/mod/fastload)|
 |Feature NBT Deadlock Be Gone|both|[Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)|
 |Flowery Structures|both|[Modrinth](https://modrinth.com/mod/flowery-structures)|
@@ -197,7 +196,6 @@
 |TheDragonLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedragonlib)|
 |Tinkers Construct|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|
 |TIS-3D|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tis-3d)|
-|Torchmaster|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/torchmaster)|
 |Trapcraft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/trapcraft)|
 |True Darkness|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/true-darkness)|
 |🪵 Twigs|both|[Modrinth](https://modrinth.com/mod/twigs)|
