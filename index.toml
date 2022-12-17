@@ -165,6 +165,11 @@ hash = "fd84f4d2e26dfaf74ba56e710d8aad6715033c2ceddaec1efaa8fef047fec805"
 metafile = true
 
 [[files]]
+file = "mods/brvsb.pw.toml"
+hash = "afc92c43aeaa1c2a91023c6b640abfd2fc1418885b7c6d1a7f290082c6772521"
+metafile = true
+
+[[files]]
 file = "mods/buddycards.pw.toml"
 hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
 metafile = true
@@ -260,6 +265,11 @@ hash = "5168b89ed2a8dab42ace3c3c4a4ec45517440ca77109d3629994c13be13270c2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "96963fe0e7f130593ec33f6de15b14a6a2794fab9cff4a166c412d7808bee501"
+metafile = true
+
+[[files]]
 file = "mods/dtbop.pw.toml"
 hash = "bbbc6c544f2dbf88dc95099138c4d85d527ea65c886dccbd9c7ea0d423c15b53"
 metafile = true
@@ -322,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "8fab1e360f0baffc19200e894006dbe635d5cf55e9be88a0c6ea4b14f7ebbf42"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
@@ -555,6 +560,11 @@ hash = "1a10b6112d8a7c674c8d94b044c2069a456c462773adb2d3456ddaee9586d5c5"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "16194e9663ef44bd7d236a08b7483a4ba424d61916a3645c7a27b7ace886e496"
+metafile = true
+
+[[files]]
 file = "mods/orva-alarms.pw.toml"
 hash = "2b404f16c13eee6126cb0acb95b991abdac9505936fe7a872b92b01ed7a4648a"
 metafile = true
@@ -705,6 +715,21 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "95781d9ba6edbbec6546e8c5ebf635fde7e382101795655e47781f0c4182587e"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
+metafile = true
+
+[[files]]
+file = "mods/sbm-bone-torch.pw.toml"
+hash = "060c32990ce91dc62748b376210d00810796ea64aa1396ef0dd7acc3bd517170"
+metafile = true
+
+[[files]]
 file = "mods/scannable.pw.toml"
 hash = "16fae3f13c0e7d26de25de4b312adcf6bc7c78d05509ad3332d5fed1412e6a6a"
 metafile = true
@@ -792,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "1efb82a4f998f468fda5e9ae257c1f56e59bf0a1ecac1bad1737a9e964ded6be"
 metafile = true
 
 [[files]]
