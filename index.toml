@@ -265,11 +265,6 @@ hash = "cbf5a32fa6e806e4a3f2373d9dbcade5966243c30a54a1e0d7dde669849930c6"
 metafile = true
 
 [[files]]
-file = "mods/dusk.pw.toml"
-hash = "76864ff0efa14508d9cd9d3a2630cd7671e7a0b5b5f70e6cf4e412a8778fdcb4"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
 metafile = true
@@ -335,18 +330,8 @@ hash = "e62c3b735fdf364ebe94610c415cd243e2b00e51c32a655d6a9d7244ad49efd0"
 metafile = true
 
 [[files]]
-file = "mods/fate-ubw.pw.toml"
-hash = "a328d078fde0ea56e3e227cfe149309e5dd81a360f7b0921f157a2e385912c55"
-metafile = true
-
-[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "2d89d3819ffa0e11a96999c67419f7a3e9be5863d62f8fa8c88472df1dff8c32"
-metafile = true
-
-[[files]]
-file = "mods/female-gender.pw.toml"
-hash = "b1da85b3eb625b5ae63209e14e9dd34a8ab2a24fb2fc6bdf6a4ba70bb05a4109"
 metafile = true
 
 [[files]]
@@ -377,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1994252b254e698f09160280bb94cdcd0590727640239b50c61c3d7bc394cfcf"
-metafile = true
-
-[[files]]
-file = "mods/gregtech-intergalactical.pw.toml"
-hash = "7a7c48cbe494a5efebec63d256165cd6d92f8a888731f19e86bda0600e4e1754"
 metafile = true
 
 [[files]]
