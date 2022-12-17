@@ -4,13 +4,30 @@
 
 ## Applied Patches
 
-None yet.
+- Disabled Quark's "Automatic Recipe Unlock" tweak.
+
+  This causes the server to hang as hundreds of recipes are unlocked on first user join.
+
+- Adjust Total Darkness mod:
+
+  1. Disabled in Nether
+  2. Disabled in End
+
+- Disable Advanced Peripherals's "Scientist Village" generations as it caused crashes last year.
+
+- Disabled teleporation commands in FTB Essentials.
+
+- Disabled land protection and chunk claiming in FTB Chunks. (used only for showing claims)
+
+- Disabled Radium's AI Point of Interest optimisations as they were causing null pointer exceptions.
 
 ## Additional Configuration
 
 The following should be configured on the server:
+
 - Disable spawn protection
 - Enforce whitelist if needed
 - Change `max-players`
 - Enable command blocks if required
 - Set `allow-flight` to `true`
+- Configure [Discord Integration](https://erdbeerbaerlp.de/projects/discord-integration/quick-setup) for providing a Discord bridge

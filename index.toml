@@ -9,12 +9,20 @@ file = "config/Advancedperipherals/world.toml"
 hash = "ebc9281ef6dd051c159072afe8bb6e59f307de2761da3243d261411d32214dee"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "d5f75b8d59ddb57353625528af9b180155d67bcf7cb2a47010398ad0c0ad701f"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "fcd98dcc4a8e1fed297ba4b94813423a81e1fa04c65fb231ea23f0a3412b3c65"
 
 [[files]]
 file = "config/openloader/resources/deez-emojiful-datapack.zip"
 hash = "b0acaf7fc39e4ee52b88f9b3f5df671a605e17e69212c8536ca13a6e2c7d75c4"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "a5350f2636327399e23a7eceb1302c22ee9570560043563b11c626aba0c9a97f"
 
 [[files]]
 file = "config/radium.properties"
