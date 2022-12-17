@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
-hash = "8832f4c3a83c2c4fd79ff9b0faa89f0946b67a900352b1c3d399e3267829fe59"
+hash = "7921aead9588bfb90066c1944a246d06f02c3c87175c79ecb15b443eacef36d0"
 
 [[files]]
 file = "scripts/christmas_modpack/no_vanilla_tools.zs"
