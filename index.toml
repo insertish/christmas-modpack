@@ -1096,6 +1096,10 @@ hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
+file = "scripts/christmas_modpack/disable_agriculture_exploit.zs"
+hash = "45d4fc5ee82ce29d117101b5624d61b8fc3c7a964c6c0749672f788730c26186"
+
+[[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
 hash = "7921aead9588bfb90066c1944a246d06f02c3c87175c79ecb15b443eacef36d0"
 
