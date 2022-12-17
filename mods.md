@@ -1,4 +1,4 @@
-# 178 Mods
+# 174 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -51,7 +51,6 @@
 |Discord Integration (Mod)|server|[Modrinth](https://modrinth.com/mod/dcintegration)|
 |Dynamic Trees - Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dtbop)|
 |Dungeon Crawl|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)|
-|Dusk[Forge/Fabric]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dusk)|
 |Dynamic View[Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)|
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
 |Dynmap-Forge/Fabric|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)|
@@ -65,16 +64,13 @@
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
 |Farsight [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/farsight)|
 |Fastload|both|[Modrinth](https://modrinth.com/mod/fastload)|
-|Fate/Unlimited Block Works|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fate-ubw)|
 |Feature NBT Deadlock Be Gone|both|[Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)|
-|Wildfire's Female Gender Mod - Fabric & Forge|both|[Modrinth](https://modrinth.com/mod/female-gender)|
 |Flowery Structures|both|[Modrinth](https://modrinth.com/mod/flowery-structures)|
 |Flowery Core|both|[Modrinth](https://modrinth.com/mod/flowerycore)|
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |FTB Backups 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)|
 |FurnaceMk2|both|[Modrinth](https://modrinth.com/mod/furnacemk2)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
-|GregTech Intergalactical|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/gregtech-intergalactical)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
 | Integrated Dungeons and Structures|both|[Modrinth](https://modrinth.com/mod/idas)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|

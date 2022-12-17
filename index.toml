@@ -894,7 +894,7 @@ hash = "377eb2e0279a9a7029c28374388c2c7243172dc75876ad8982e282fa8c30440a"
 
 [[files]]
 file = "scripts/christmas_modpack/no_vanilla_tools.zs"
-hash = "77ebc43b74acd465a0717c22bc57638b8a78f135513bf4054dd7ce8a6f472a87"
+hash = "329c766bfc80bbef5d73f9c93ea403498fa93e7e26fbd118c60413a830181775"
 
 [[files]]
 file = "scripts/christmas_modpack/pneumatic_craft.zs"
