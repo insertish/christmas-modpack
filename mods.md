@@ -1,4 +1,4 @@
-# 230 Mods
+# 232 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -112,7 +112,9 @@
 |Infernal Expansion|both|[Modrinth](https://modrinth.com/mod/infernal-expansion)|
 |JEITweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
+|Just Zoom [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge)|
 |Kiwi 🥝 (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/kiwi)|
+|Konkrete [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/konkrete)|
 |Kotlin for Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)|
 |L_Ender 's Cataclysm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)|
 |Large Ore Deposits|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)|

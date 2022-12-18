@@ -591,8 +591,18 @@ hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "8e6f7688031783440fa0e3745cc40feae2a4fd1f2b810a3aaedd790b68b5b548"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "60a421597c179801444b868859cdc1f26832f1849545683d9ae7ad1d8d8776d5"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
