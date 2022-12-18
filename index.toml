@@ -636,6 +636,16 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/little-contraptions.pw.toml"
+hash = "2173881505b6ab22e56c011c63760d9de6d4f07e4e3fb866a93cfeadfd80dc4f"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "76be9410052988fbc5e72d37118e06d58307803daed9702b8ab4da96c994775f"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "ab414062f37181497ed8db2dbd55d55a43b842cc65131d0e045bee97b8a8428b"
 metafile = true

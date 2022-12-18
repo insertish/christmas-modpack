@@ -1,0 +1,13 @@
+name = "Little Contraptions"
+filename = "littlecontraptions-forge-1.18.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54fca2e92d7a2b45e34324f2b5708bb3e6cbee17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3939879
+project-id = 594563

@@ -1,4 +1,4 @@
-# 235 Mods
+# 237 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -121,6 +121,8 @@
 |L_Ender 's Cataclysm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)|
 |Large Ore Deposits|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)|
 |LazyDFU|both|[Modrinth](https://modrinth.com/mod/lazydfu)|
+|Little Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)|
+|Little Logistics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-logistics)|
 |Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
 |Lootr (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
