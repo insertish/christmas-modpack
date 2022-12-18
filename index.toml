@@ -506,6 +506,21 @@ hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "b54758f8a03f324887043c56cf6284d1430b68c17e8159c59d398fe70b47fdf3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "2801771b4e148cf2b6e5b82e76d3a851974a1e7cc02d50fff6ff81aecd4e0004"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "7e373f11d4efe3969af3ddbdd3787506cb8e4563fdf280a1c261138a14a6123b"
+metafile = true
+
+[[files]]
 file = "mods/furnacemk2.pw.toml"
 hash = "ef01fe1c8bb7faf2944a7d48a9f8b70b8cb0c0d8af1996f586fab178fdef2d28"
 metafile = true
