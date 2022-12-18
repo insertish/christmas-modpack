@@ -1,4 +1,4 @@
-# 232 Mods
+# 235 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -62,6 +62,7 @@
 |Corpse|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |CraftTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)|
+|Create Big Cannons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons)|
 |Create Chunkloading|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading)|
 |Create|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)|
 |CreativeCore|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)|
@@ -107,6 +108,7 @@
 |FurnaceMk2|both|[Modrinth](https://modrinth.com/mod/furnacemk2)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
+|Hex Casting|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hexcasting)|
 | Integrated Dungeons and Structures|both|[Modrinth](https://modrinth.com/mod/idas)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Infernal Expansion|both|[Modrinth](https://modrinth.com/mod/infernal-expansion)|
@@ -157,6 +159,7 @@
 |Pam's HarvestCraft 2 - Food Extended|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)|
 |Pam's HarvestCraft 2 - Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
+|PAUCAL|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/paucal)|
 |Phosphor|both|[Modrinth](https://modrinth.com/mod/phosphor)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|

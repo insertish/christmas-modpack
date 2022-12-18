@@ -341,6 +341,11 @@ hash = "5f491447ecb95ee5e7410ebe1c0ec1c7f3d2da55da214dcb7a9e970c3ed2adef"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "ef388a609395a6eb9217498643a3286777ac88bf72d5c11f7ef2a8bfafc394f7"
+metafile = true
+
+[[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
 metafile = true
@@ -563,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "2fb1be79501f182d47fae6147b2401749f69250418cff7d6220f54d5e084b1b3"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
 metafile = true
 
 [[files]]
@@ -813,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "2f745271922048aca171a9a974b020c5ab57c686a0281d7ba60d4214cb521c9a"
 metafile = true
 
 [[files]]

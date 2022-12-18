@@ -1,0 +1,13 @@
+name = "Hex Casting"
+filename = "hexcasting-forge-1.18.2-0.9.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bd729dcd8fb458b8560b73c3be8dc6485f42246"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074347
+project-id = 569849
