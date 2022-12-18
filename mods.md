@@ -1,4 +1,4 @@
-# 229 Mods
+# 230 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -118,6 +118,7 @@
 |Large Ore Deposits|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)|
 |LazyDFU|both|[Modrinth](https://modrinth.com/mod/lazydfu)|
 |Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
+|Lootr (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|
 |Mantle|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mantle)|

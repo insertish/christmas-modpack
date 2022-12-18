@@ -621,6 +621,11 @@ hash = "ab414062f37181497ed8db2dbd55d55a43b842cc65131d0e045bee97b8a8428b"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1067da6e817909b6e8c6a8e0f568e180ff17251800b54a976693dd4f7f5afbb8"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "b2474cd72ebe6dee1fd0a4f164f5a922cb45a9e13ced2079aa295cf8efa5198b"
 metafile = true
