@@ -1,4 +1,4 @@
-# 228 Mods
+# 229 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -31,6 +31,7 @@
 |Balm (Forge Edition)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)|
 |Better Combat [Fabric & Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
+|Big Buckets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bigbuckets)|
 |Biome Makeover|both|[Modrinth](https://modrinth.com/mod/biome-makeover)|
 |Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
 |Oh The Biomes You'll Go|both|[Modrinth](https://modrinth.com/mod/biomesyougo)|

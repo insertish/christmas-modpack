@@ -186,6 +186,11 @@ hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
 metafile = true
 
 [[files]]
+file = "mods/bigbuckets.pw.toml"
+hash = "c2dbac6b0bd406166930ce338ede06f3c374c550a37ef1297dc4bb2b33fb83c4"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "d7bae548c5dd1ccc034e4c68d112c0837d1def22d468054a679c531ca26c0a74"
 metafile = true
