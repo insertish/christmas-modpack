@@ -1,4 +1,4 @@
-# 226 Mods
+# 227 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -159,6 +159,7 @@
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Powder Power [FORGE]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powder-power)|
+|ProjectE|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/projecte)|
 |Public Gui Announcement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement)|
 |Puzzles Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)|
 |Quark|both|[Modrinth](https://modrinth.com/mod/quark)|

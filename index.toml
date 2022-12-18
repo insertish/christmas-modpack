@@ -825,6 +825,11 @@ hash = "b0fba0473516e78b7712a50f18be78692c889578ba8bca180f7690cbce835820"
 metafile = true
 
 [[files]]
+file = "mods/projecte.pw.toml"
+hash = "824ad9a385cce61265f09bbc1eb1666756a8ba84a3870e4bed9a92b5ce7a70f8"
+metafile = true
+
+[[files]]
 file = "mods/public-gui-announcement.pw.toml"
 hash = "edf350c68c3be0c5cb5e21f8cca97b63791766f8b3a99f397b32db30ec80d610"
 metafile = true
@@ -1168,6 +1173,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
+
+[[files]]
+file = "scripts/christmas_modpack/banned_items.zs"
+hash = "8badcd894bcb204cd11dc02b515d0fcee4710eb0fb1731a1ae012bb54841fb6a"
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
