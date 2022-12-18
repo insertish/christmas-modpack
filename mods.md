@@ -1,4 +1,4 @@
-# 237 Mods
+# 236 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -62,7 +62,6 @@
 |Corpse|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |CraftTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)|
-|Create Big Cannons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons)|
 |Create Chunkloading|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading)|
 |Create|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)|
 |CreativeCore|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)|

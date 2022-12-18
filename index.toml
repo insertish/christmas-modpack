@@ -17,7 +17,7 @@ file = "config/ftbbackups2.json"
 hash = "fcd98dcc4a8e1fed297ba4b94813423a81e1fa04c65fb231ea23f0a3412b3c65"
 
 [[files]]
-file = "config/openloader/resources/deez-emojiful-datapack.zip"
+file = "config/openloader/data/deez-emojiful-datapack.zip"
 hash = "b0acaf7fc39e4ee52b88f9b3f5df671a605e17e69212c8536ca13a6e2c7d75c4"
 
 [[files]]
@@ -338,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "5f491447ecb95ee5e7410ebe1c0ec1c7f3d2da55da214dcb7a9e970c3ed2adef"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "ef388a609395a6eb9217498643a3286777ac88bf72d5c11f7ef2a8bfafc394f7"
 metafile = true
 
 [[files]]
