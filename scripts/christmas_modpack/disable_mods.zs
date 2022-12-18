@@ -12,3 +12,4 @@ recipes.removeByModid("rftoolsdim");
 recipes.removeByModid("rftoolspower");
 recipes.removeByModid("rftoolsutility");
 recipes.removeByModid("compactmachines");
+recipes.removeByModid("spatialharvesters");

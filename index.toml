@@ -1176,15 +1176,11 @@ metafile = true
 
 [[files]]
 file = "scripts/christmas_modpack/banned_items.zs"
-hash = "8badcd894bcb204cd11dc02b515d0fcee4710eb0fb1731a1ae012bb54841fb6a"
+hash = "ab91f4b236b6a82ebbfa755855fc7531cc2170d126d9cee608f8a1e655610b68"
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
-hash = "7921aead9588bfb90066c1944a246d06f02c3c87175c79ecb15b443eacef36d0"
-
-[[files]]
-file = "scripts/christmas_modpack/no_vanilla_tools.zs"
-hash = "329c766bfc80bbef5d73f9c93ea403498fa93e7e26fbd118c60413a830181775"
+hash = "3cb5168ba957b69a5627704304990d6f5a4255dee02e5dbd4ce69f8841aff643"
 
 [[files]]
 file = "scripts/christmas_modpack/pneumatic_craft.zs"

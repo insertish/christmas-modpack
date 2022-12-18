@@ -21,13 +21,13 @@
 
 - Disabled Radium's AI Point of Interest optimisations as they were causing null pointer exceptions.
 
-- Disable Vanilla tools.
-
 - Adjust Pneumatic Craft explosing crafting with TNT from 80% to 25% yield.
 
 - Disable Immersive Engineering Garden Cloche as it can be used to exploit Mystical Agriculture.
 
 - Disable certain tech mods. (this is for gradual progression)
+
+- Disabled most of ProjectE.
 
 ## Additional Configuration
 
