@@ -1,0 +1,13 @@
+name = "Materialis"
+filename = "materialis-1.18.2-2.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dab743d70ac40d6dba0b964ddb2edbb37271f030"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4066854
+project-id = 377652

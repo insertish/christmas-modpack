@@ -201,6 +201,11 @@ hash = "fd84f4d2e26dfaf74ba56e710d8aad6715033c2ceddaec1efaa8fef047fec805"
 metafile = true
 
 [[files]]
+file = "mods/blood-smeltery.pw.toml"
+hash = "2a0e3d57b4384d3cb15646fd52ccee7fa0efd1f3ef8105c95843681dbe1ecb51"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "ee84a79e2079e59f32a1246cc98058786d1b59641c48c6cfbd4fbb3df66ccabd"
 metafile = true
@@ -281,6 +286,11 @@ hash = "acdeb4420ba53b3be63bc6ac27c46d3b918501ffc7c8dd26df884acd86f4165e"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "4324583553fab47d90c8552d09c76413e0d23584fde56feeff088930bc3ef260"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "04eeb1be0aad7b7eb11e5dc6f64e64b6b47acf3c5879297f63349b8f4812ba51"
 metafile = true
@@ -356,6 +366,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "80a4fb51fe646c4f56c6cef6950dfb4ec90a948e26f3c6024fb9bfc3027e5fa6"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "8c97e77297f9405164f99ae7c6b3b69c8a64faab36fc717396566c9e36c1df83"
 metafile = true
@@ -373,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "cbf5a32fa6e806e4a3f2373d9dbcade5966243c30a54a1e0d7dde669849930c6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "4a7d6830de80e0d466d9e5841916c02fbefd45b64a146ada34db7d5de97c2999"
 metafile = true
 
 [[files]]
@@ -476,6 +496,11 @@ hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "88f914397b8b74cc276067598b1cce160c95930302bd26663d6e730841913650"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
 metafile = true
@@ -536,6 +561,11 @@ hash = "e43c094c957d856bcc07c2f34da752d98e5a3f41fcc925a647931f1574dedcf8"
 metafile = true
 
 [[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "4ee622e3a57f0b0e93878bd40dd33ea3e4bbb7eeb61f07bb678cc725f8bf0b5f"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
@@ -563,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "7848fc86eb9213041417fecedabf87539a2aa038b46ceee04906e51da040e693"
+metafile = true
+
+[[files]]
+file = "mods/materialis.pw.toml"
+hash = "c50a814bcc8371f752ad3592dc34eaf7fdd8c7a4ed9301e19d38782d6c9ac9d9"
 metafile = true
 
 [[files]]
@@ -717,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "4bdc5ae272863fe14ea6fb6fbfb7c6ce75738572e0b5d7ca46b4d537a6939d18"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
@@ -951,6 +986,11 @@ hash = "f389cee82dafe0ff9ad934e2454b49c89dd84deb4a9a447cbb6781190b2b753d"
 metafile = true
 
 [[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "136455a7da4513360e9b999bd81cddcaf162025969c19d470936ce139387ba3a"
+metafile = true
+
+[[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "7b7254521041e5749786d9fffa9ec9c1724af0fa4d322e8d189f87d86a4e16bd"
 metafile = true
@@ -1008,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/trapcraft.pw.toml"
 hash = "4d42b92145e54829d8f3240b6642e113aae1561fb05c1c2f1e9533de4ce77d06"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "639dff7d1ff855eb22e17a8734281ae932b77633a0badf87e7d360105e899f23"
 metafile = true
 
 [[files]]
@@ -1094,10 +1139,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
-
-[[files]]
-file = "scripts/christmas_modpack/disable_agriculture_exploit.zs"
-hash = "45d4fc5ee82ce29d117101b5624d61b8fc3c7a964c6c0749672f788730c26186"
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"

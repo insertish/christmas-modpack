@@ -1,0 +1,13 @@
+name = "ForgeEndertech"
+filename = "ForgeEndertech-1.18.2-9.0.5.1-build.1150.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e93e25ce5c90d0ad49fb31bf2f0e254c1f953c30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4167273
+project-id = 244844

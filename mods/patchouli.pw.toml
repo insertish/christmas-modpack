@@ -1,13 +1,13 @@
 name = "Patchouli"
-filename = "Patchouli-1.18.2-71.jar"
+filename = "Patchouli-1.18.2-71.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.18.2-71-forge/Patchouli-1.18.2-71.jar"
 hash-format = "sha1"
-hash = "f00daf01717f1ee9dcdacef82a2e42c241f607ca"
+hash = "89e1aa7994794a3476ef6de31461eb1ce78da02d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "nU0bVIaL"
-version = "OgM9g0zW"
+[update.curseforge]
+file-id = 3846086
+project-id = 306770
