@@ -1,4 +1,4 @@
-# 236 Mods
+# 237 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -140,6 +140,7 @@
 |Morph-o-Tool|both|[Modrinth](https://modrinth.com/mod/morph-o-tool)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
+|Mystical Agradditions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)|
 |Mystical Agriculture|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)|
 |Mythic Mounts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts)|
 |Nature's Compass|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)|

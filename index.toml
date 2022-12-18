@@ -731,6 +731,11 @@ hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "7534c13f82acf00b30e951afc4923a53cafb7b9ac4bfb574dcd80b382a3f8963"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "52272133ac67ae7355c23258f35f0bd70c2602b38d0d8bfc005872bdd04fed86"
 metafile = true
