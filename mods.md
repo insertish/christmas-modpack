@@ -1,4 +1,4 @@
-# 227 Mods
+# 228 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -92,6 +92,7 @@
 |Fast Leaf Decay|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)|
 |Fastload|both|[Modrinth](https://modrinth.com/mod/fastload)|
 |Feature NBT Deadlock Be Gone|both|[Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)|
+|FindMe|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/findme)|
 |Flowery Structures|both|[Modrinth](https://modrinth.com/mod/flowery-structures)|
 |Flowery Core|both|[Modrinth](https://modrinth.com/mod/flowerycore)|
 |Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
@@ -99,6 +100,7 @@
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
 |FTB Backups 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)|
 |FTB Chunks (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)|
+|FTB Essentials (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)|
 |FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
 |FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
 |FurnaceMk2|both|[Modrinth](https://modrinth.com/mod/furnacemk2)|
@@ -159,7 +161,6 @@
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Powder Power [FORGE]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powder-power)|
-|ProjectE|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/projecte)|
 |Public Gui Announcement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement)|
 |Puzzles Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)|
 |Quark|both|[Modrinth](https://modrinth.com/mod/quark)|
