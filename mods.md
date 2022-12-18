@@ -1,4 +1,4 @@
-# 221 Mods
+# 226 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -41,6 +41,7 @@
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
 |Bygone Nether|both|[Modrinth](https://modrinth.com/mod/bygone-nether)|
 |Caelus API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/caelus)|
+|Cats Plus|both|Static|
 |CC: Tweaked|both|[Modrinth](https://modrinth.com/mod/cc-tweaked)|
 |CC:C Bridge|both|[Modrinth](https://modrinth.com/mod/cccbridge)|
 |Chat Heads|client|[Modrinth](https://modrinth.com/mod/chat-heads)|
@@ -70,6 +71,7 @@
 |Curios API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)|
 |Cyclops Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)|
 |Discord Integration Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dcintegration)|
+|Diagonal Fences|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
 |Dynamic Trees - Biomes O' Plenty|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dtbop)|
 |Dungeon Crawl|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)|
@@ -96,6 +98,9 @@
 |Flywheel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)|
 |ForgeEndertech|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
 |FTB Backups 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)|
+|FTB Chunks (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)|
+|FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
+|FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
 |FurnaceMk2|both|[Modrinth](https://modrinth.com/mod/furnacemk2)|
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|

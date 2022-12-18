@@ -56,6 +56,11 @@ hash = "3df047aecd9663e8f781fb2822aa48fec524fe1a2d8ed07a54ad0bf8e1d4a70f"
 metafile = true
 
 [[files]]
+file = "mods/advanced-mining-dimension.pw.toml"
+hash = "89d9008bd9f98e0152e7c9b0208378cf891ea9f1961213729436a5ab5fb89887"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "748ab6ff142471ca21a25d1ab8699ce4305a872058f983792bdeb815c67fd6a7"
 metafile = true
@@ -231,6 +236,10 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
+file = "mods/cats-plus.toml"
+hash = "459c68825ec87bd9deb159ad48d0e505da88891ba39d285a0327a4fd071db5da"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "a46627407f0bb2d45418c140bc8591c7e1261aec8ed5117174d38a6c63524664"
 metafile = true
@@ -373,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "8c97e77297f9405164f99ae7c6b3b69c8a64faab36fc717396566c9e36c1df83"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "39b91ef8eca6b9fc64d9f39ca106fda246df868505c5c6f1434e9d23c2db5bd6"
 metafile = true
 
 [[files]]
