@@ -171,6 +171,7 @@
 |playerAnimator|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/playeranimator)|
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
+|Polymorph (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Powder Power [FORGE]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powder-power)|
 |Pretty Pipes|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)|
@@ -200,7 +201,6 @@
 |Scannable|both|[Modrinth](https://modrinth.com/mod/scannable)|
 |Security Craft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/security-craft)|
 |Sedna|both|Static|
-|Seeds|both|[Modrinth](https://modrinth.com/mod/seeds)|
 |Moonlight Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)|
 |Snow! Real Magic! ⛄ (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)|
 |Snow Under Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)|

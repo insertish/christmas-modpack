@@ -890,6 +890,11 @@ hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "0b461a4f3f9ef80cd566f63e6b700e8562656133a3b15ecb98a580a68689e976"
 metafile = true
@@ -1032,11 +1037,6 @@ metafile = true
 [[files]]
 file = "mods/sedna.pw.toml"
 hash = "7801d9a6d4df297f6fe852f08b145507bbcc2c7e16cd0c86b3279a1b76c51093"
-metafile = true
-
-[[files]]
-file = "mods/seeds.pw.toml"
-hash = "866474cdfd52d4b00e87ddc9dcbacba582f4600e3c55b7dac9df832907cb5685"
 metafile = true
 
 [[files]]
