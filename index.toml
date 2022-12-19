@@ -21,6 +21,10 @@ file = "config/openloader/data/deez-emojiful-datapack.zip"
 hash = "b0acaf7fc39e4ee52b88f9b3f5df671a605e17e69212c8536ca13a6e2c7d75c4"
 
 [[files]]
+file = "config/openloader/data/oc2rock.zip"
+hash = "a5f3c914242958e0041324bd0ebe8b36752426140165400571dde3659151cd25"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "a5350f2636327399e23a7eceb1302c22ee9570560043563b11c626aba0c9a97f"
 
@@ -386,6 +390,11 @@ hash = "80a4fb51fe646c4f56c6cef6950dfb4ec90a948e26f3c6024fb9bfc3027e5fa6"
 metafile = true
 
 [[files]]
+file = "mods/dank-storage.pw.toml"
+hash = "1e6ab3d417c2465e75364e98ab22882038c798b0deccae72150078876b2353b7"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "8c97e77297f9405164f99ae7c6b3b69c8a64faab36fc717396566c9e36c1df83"
 metafile = true
@@ -716,6 +725,11 @@ hash = "f412e90c29c9f24871277b01052e8f7082ed08e9392c39f4a8322c9f7b3e5ab0"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "4870bf0afab0c0442605237b5f2cd33b0f6aba88eed460989b5dec50f7c90cef"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "75c4fb367079d4a434b6a6ba0724cdb329caa5562a5b40893f1b351c80176bae"
 metafile = true
@@ -801,6 +815,11 @@ hash = "16194e9663ef44bd7d236a08b7483a4ba424d61916a3645c7a27b7ace886e496"
 metafile = true
 
 [[files]]
+file = "mods/online-picture-frame.pw.toml"
+hash = "1ab1d29b352cbc6c6bf6a321d261892b5a16332bd0bb68a454dd98e718a03b25"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -878,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/powder-power.pw.toml"
 hash = "b0fba0473516e78b7712a50f18be78692c889578ba8bca180f7690cbce835820"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "557ec9de11e3d1949fe7102da3e1402afd63594f823f877933202120d01b1b14"
 metafile = true
 
 [[files]]
@@ -1224,10 +1248,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
-
-[[files]]
-file = "scripts/christmas_modpack/banned_items.zs"
-hash = "ab91f4b236b6a82ebbfa755855fc7531cc2170d126d9cee608f8a1e655610b68"
 
 [[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"

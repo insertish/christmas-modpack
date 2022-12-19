@@ -1,4 +1,4 @@
-# 237 Mods
+# 241 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -71,6 +71,7 @@
 |Cucumber Library|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cucumber)|
 |Curios API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)|
 |Cyclops Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)|
+|Dank Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-storage)|
 |Discord Integration Forge|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dcintegration)|
 |Diagonal Fences|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
@@ -137,6 +138,7 @@
 |Mining Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)|
 |MmmMmmMmmMmm (Target Dummy)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)|
 |Modonomicon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modonomicon)|
+|More Overlays Updated|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)|
 |Morph-o-Tool|both|[Modrinth](https://modrinth.com/mod/morph-o-tool)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
@@ -154,6 +156,7 @@
 |OpenComputers II|both|Static|
 |Occultism|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/occultism)|
 |Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
+|Modern Online Picture Frames|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/online-picture-frame)|
 |Open Loader|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader)|
 |Orva Alarms and Sirens|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)|
 |Pam's HarvestCraft 2 - Crops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)|
@@ -170,6 +173,7 @@
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Powder Power [FORGE]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/powder-power)|
+|Pretty Pipes|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)|
 |Public Gui Announcement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement)|
 |Puzzles Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)|
 |Quark|both|[Modrinth](https://modrinth.com/mod/quark)|
