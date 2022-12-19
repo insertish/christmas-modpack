@@ -725,11 +725,6 @@ hash = "f412e90c29c9f24871277b01052e8f7082ed08e9392c39f4a8322c9f7b3e5ab0"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "4870bf0afab0c0442605237b5f2cd33b0f6aba88eed460989b5dec50f7c90cef"
-metafile = true
-
-[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "75c4fb367079d4a434b6a6ba0724cdb329caa5562a5b40893f1b351c80176bae"
 metafile = true
