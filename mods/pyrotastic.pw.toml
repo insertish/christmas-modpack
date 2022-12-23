@@ -1,0 +1,13 @@
+name = "Pyrotastic 🎆"
+filename = "pyrotastic-1.18.2+2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nlWoESo2/versions/heNO81Im/pyrotastic-1.18.2%2B2.0.3.jar"
+hash-format = "sha1"
+hash = "2be0dab81cf1e8f5601b813f6b7d773b8d681fe7"
+
+[update]
+[update.modrinth]
+mod-id = "nlWoESo2"
+version = "heNO81Im"

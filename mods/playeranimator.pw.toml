@@ -3,11 +3,11 @@ filename = "player-animation-lib-forge-0.4.0+1.18.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/mQLnpnUD/player-animation-lib-forge-0.4.0%2B1.18.jar"
 hash-format = "sha1"
 hash = "db1b8d69ede571988b49835ef503c5a7bca0d076"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4111518
-project-id = 658587
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "mQLnpnUD"

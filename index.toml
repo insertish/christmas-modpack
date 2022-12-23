@@ -75,6 +75,11 @@ hash = "ac6c2997986a51fd97dee6950963aa186a7240d397f70b93760d65e641f1481b"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "d682e8b75a1f3cbe715ed2e893d38f11a06faf82e62eac451343a5f0f751af5c"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "a1da6eba0b36c247e005f446439ecf0647b492fc8e81a37423c37bf1345707ef"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "db47277fd3569c527bb662f386318bf2b252fa6f47dddc5e9fc13995627c1481"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "8839170c3e3775f372cdf5d65d585158fa367c8eed46ee954d1dcab85ad1b97b"
 metafile = true
 
 [[files]]
@@ -285,6 +295,11 @@ hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
 
 [[files]]
+file = "mods/cinematic.pw.toml"
+hash = "7f2e151ade8d85a3ca7354f6fc345df25c8c2308e789db415c717e16d6c5b0d8"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -296,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
+hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
 metafile = true
 
 [[files]]
@@ -310,8 +325,18 @@ hash = "acdeb4420ba53b3be63bc6ac27c46d3b918501ffc7c8dd26df884acd86f4165e"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "cea03090f057ba2c5a9f43caf98dd8a3652ddb0f0ee4f8161072459dce269cc6"
+metafile = true
+
+[[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "4324583553fab47d90c8552d09c76413e0d23584fde56feeff088930bc3ef260"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "7eae3ce4584dbc01fd2d60a46aa7c965ef130335f76d48a3ec9a42652b4361a7"
 metafile = true
 
 [[files]]
@@ -460,6 +485,11 @@ hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
 metafile = true
 
 [[files]]
+file = "mods/elytra-bounce.pw.toml"
+hash = "c18603b721de77d53dc4f8f815da3bdef81123786f25ad3793a1c5345afbbe61"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "7c0dedfd8cccc3580dfbb68994925f97cc3ffb911de420fb56b3045f2659ba23"
 metafile = true
@@ -487,6 +517,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "356b5e31fe354abe4b737bfced8303099b35442b1e4757953d3eccc8d745d50a"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "c1e7cfa752afa287388747994ed8a2d0dbb19cb7f9267fa656624c9932119aeb"
 metafile = true
 
 [[files]]
@@ -595,6 +635,16 @@ hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.pw.toml"
+hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "71814550cff2335af0c7af741cdbef3e98a2968e004d118ee7f3875864323e02"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "d6b4c9a05bea1fb8727e3ea225ab334f02dad705504572759b1939db2ee87203"
 metafile = true
@@ -612,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "03493919757ef454f54808e3602bfc390c9a91e24af4f7b110c4fc5d6f5991e0"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "c6829566c5f853d8a246363500de24702958897009f060121c5dbbec09deed94"
 metafile = true
 
 [[files]]
@@ -896,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "70958f97f59b55a9b5459bbf70a5ef66ba4877f9dcb384268f0d673b8cf51834"
+hash = "de2b644bb3049c1a6bb73c6b46b818266b6ac8edf01fa386bc744d0ee66f946d"
 metafile = true
 
 [[files]]
@@ -937,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "538110c41fa71c27058a38b1660a02eff1521ca8011aa4e08ae722fdcb64d35b"
+metafile = true
+
+[[files]]
+file = "mods/pyrotastic.pw.toml"
+hash = "eb36cde8a5ce8e1d523ced8c9af8b42fae45eedda97e6d66c93be49f2087e3fc"
 metafile = true
 
 [[files]]
@@ -1160,6 +1220,36 @@ hash = "9085403caca5bc612ef965065cb39a4183792e6eeded929f83d9ab8eb2e1a395"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "e009544c1b859c325cab479053990843afaf4ce4305f4ef1bb8560a5107775d2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "b488ba2a153c2936d88a1c8c6fe395a9abbc3037726aea367e257a8e75ac4b29"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "e64516083403cde9ad2b8926e3708824e742aaad07112865e765c7236b4fd864"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "751ddfcef4d81194e88d4ff9a83c0d16d8274286966da20748c81335b19b2025"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "f05e96341002518df9beb16ac161c356d947fac41dc53b7d604346a1f61d8b28"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "e14add735981a0c39e57724866ba997c68f9589b2399db0d8dd3d8e714f310d1"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "966a2bf523bbc3fe755b804d7e96115879873b4467ba2c6bfc03c15c7bf0555a"
 metafile = true
@@ -1167,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/tis-3d.pw.toml"
 hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "fa13f21dd9ee1351610d4fd9077f449fba8bc18e8b2ad5c8827af8793def61f5"
 metafile = true
 
 [[files]]
@@ -1207,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "9ba81b42f0c773664f44d1b4b0db62450f133d00232b94cfddf02b4b243e328f"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "74d7e0c7029880ea3f4e05d944d219219b637d5a763e8b2b1244325c994530fb"
 metafile = true
 
 [[files]]
@@ -1280,3 +1380,7 @@ hash = "4ae53a772df7c85b0c163241f54c3b3d7b3fa07d9edc7b4f5513b735bbea556f"
 [[files]]
 file = "scripts/christmas_modpack/pneumatic_craft.zs"
 hash = "ee161c26ceab711387dedc47fb2909a7cd37ed489e21ceda324af46e53952b49"
+
+[[files]]
+file = "video/troll.mp4"
+hash = "52543789a44dc9577e610fd37703c264aa9ab5c1870eb3e99f9593a6d6c161ee"

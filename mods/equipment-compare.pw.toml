@@ -1,0 +1,13 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.18.1-1.2.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYSUVOdj/versions/RaLI7Zh4/EquipmentCompare-1.18.1-1.2.12.jar"
+hash-format = "sha1"
+hash = "2a8f0506ddd8f52c22ace1017405d73c98561a2f"
+
+[update]
+[update.modrinth]
+mod-id = "CYSUVOdj"
+version = "RaLI7Zh4"

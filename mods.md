@@ -1,4 +1,4 @@
-# 245 Mods
+# 265 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -8,6 +8,7 @@
 |Advanced Mining Dimension|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension)|
 |Advanced Peripherals|both|[Modrinth](https://modrinth.com/mod/advancedperipherals)|
 |Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
+|Aileron|both|[Modrinth](https://modrinth.com/mod/aileron)|
 |Akashic Tome|both|[Modrinth](https://modrinth.com/mod/akashic-tome)|
 |Alex's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
 |Alternate Current|server|[Modrinth](https://modrinth.com/mod/alternate-current)|
@@ -22,6 +23,7 @@
 |Architectury API (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)|
 |ArmorPlus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/armorplus)|
 |Ars Creo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-creo)|
+|Ars Elemental|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)|
 |Ars Instrumentum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)|
 |Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
 |Art of Forging: A Tetra Addon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)|
@@ -50,12 +52,15 @@
 |Chunk Loaders|both|[Modrinth](https://modrinth.com/mod/chunk-loaders)|
 |Chunk-Pregenerator|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)|
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
+|Cinematic|both|[Modrinth](https://modrinth.com/mod/cinematic)|
 |Citadel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Click Machine|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/click-machine)|
-|Cloth Config API (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|
+|Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
 |Coal Explosion|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/coal-explosion)|
 |CodeChicken Lib 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)|
+|CoFH Core|both|[Modrinth](https://modrinth.com/mod/cofh-core)|
 |Colossal Chests|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)|
+|Combat Roll|both|[Modrinth](https://modrinth.com/mod/combat-roll)|
 |Comforts (Fabric/Forge/Quilt)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/comforts)|
 |Common Capabilities|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)|
 |Compact Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compact-machines)|
@@ -85,12 +90,15 @@
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
 |Dynmap-Forge/Fabric|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
+|Elytra Bounce|server|[Modrinth](https://modrinth.com/mod/elytra-bounce)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
 |Ender Storage 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Enlightened End|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)|
 |Entity Collision FPS Fix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)|
 |EntityCulling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
+|Equipment Compare|client|[Modrinth](https://modrinth.com/mod/equipment-compare)|
+|Eureka!|both|[Modrinth](https://modrinth.com/mod/eureka)|
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
 |Create: Extended Flywheels|both|[Modrinth](https://modrinth.com/mod/extended-flywheels)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
@@ -112,10 +120,13 @@
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
 |Hex Casting|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hexcasting)|
+|Hexerei|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hexerei)|
+|Iceberg|both|[Modrinth](https://modrinth.com/mod/iceberg)|
 | Integrated Dungeons and Structures|both|[Modrinth](https://modrinth.com/mod/idas)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Infernal Expansion|both|[Modrinth](https://modrinth.com/mod/infernal-expansion)|
 |Integrated Dynamics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)|
+|Item Borders|client|[Modrinth](https://modrinth.com/mod/item-borders)|
 |JEITweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
 |Jousting|both|[Modrinth](https://modrinth.com/mod/jousting)|
@@ -172,7 +183,7 @@
 |Phosphor|both|[Modrinth](https://modrinth.com/mod/phosphor)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|
-|playerAnimator|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/playeranimator)|
+|playerAnimator|both|[Modrinth](https://modrinth.com/mod/playeranimator)|
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)|
@@ -181,6 +192,7 @@
 |Pretty Pipes|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)|
 |Public Gui Announcement|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement)|
 |Puzzles Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)|
+|Pyrotastic 🎆|both|[Modrinth](https://modrinth.com/mod/pyrotastic)|
 |Quark|both|[Modrinth](https://modrinth.com/mod/quark)|
 |Radium Reforged|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)|
 |Raised|client|[Modrinth](https://modrinth.com/mod/raised)|
@@ -225,8 +237,15 @@
 |Thatcher's Revenge|both|Static|
 |The One Probe|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|
 |TheDragonLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedragonlib)|
+|Thermal Cultivation|both|[Modrinth](https://modrinth.com/mod/thermal-cultivation)|
+|Thermal Expansion|both|[Modrinth](https://modrinth.com/mod/thermal-expansion)|
+|Thermal Foundation|both|[Modrinth](https://modrinth.com/mod/thermal-foundation)|
+|Thermal Innovation|both|[Modrinth](https://modrinth.com/mod/thermal-innovation)|
+|Thermal Integration|both|[Modrinth](https://modrinth.com/mod/thermal-integration)|
+|Thermal Locomotion|both|[Modrinth](https://modrinth.com/mod/thermal-locomotion)|
 |Tinkers Construct|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|
 |TIS-3D|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tis-3d)|
+|Too Many Glyphs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)|
 |TorchMaster|both|[Modrinth](https://modrinth.com/mod/torchmaster)|
 |Trapcraft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/trapcraft)|
 |Traveler's Backpack|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)|
@@ -235,6 +254,7 @@
 |Universal Grid|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-grid)|
 |Valhelsia Core|both|[Modrinth](https://modrinth.com/mod/valhelsia-core)|
 |Valhelsia Structures|both|[Modrinth](https://modrinth.com/mod/valhelsia-structures)|
+|Valkyrien Skies|both|[Modrinth](https://modrinth.com/mod/valkyrien-skies)|
 |ViesCraft Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/viescraft-airships)|
 |Waddles|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waddles)|
 |Wavey Capes|client|[Modrinth](https://modrinth.com/mod/wavey-capes)|
