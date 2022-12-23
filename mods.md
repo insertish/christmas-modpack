@@ -1,4 +1,4 @@
-# 265 Mods
+# 266 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -55,7 +55,7 @@
 |Cinematic|both|[Modrinth](https://modrinth.com/mod/cinematic)|
 |Citadel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Click Machine|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/click-machine)|
-|Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
+|Cloth Config API (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|
 |Coal Explosion|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/coal-explosion)|
 |CodeChicken Lib 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)|
 |CoFH Core|both|[Modrinth](https://modrinth.com/mod/cofh-core)|
@@ -102,6 +102,7 @@
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
 |Create: Extended Flywheels|both|[Modrinth](https://modrinth.com/mod/extended-flywheels)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
+|FancyVideo-API|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancyvideo-api)|
 |Fast Leaf Decay|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)|
 |Fastload|both|[Modrinth](https://modrinth.com/mod/fastload)|
 |Feature NBT Deadlock Be Gone|both|[Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)|
@@ -120,7 +121,7 @@
 |GeckoLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)|
 |Guard Villagers|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)|
 |Hex Casting|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hexcasting)|
-|Hexerei|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hexerei)|
+|Hexerei|both|Static|
 |Iceberg|both|[Modrinth](https://modrinth.com/mod/iceberg)|
 | Integrated Dungeons and Structures|both|[Modrinth](https://modrinth.com/mod/idas)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|

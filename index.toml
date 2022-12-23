@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
 
 [[files]]
@@ -542,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "8fab1e360f0baffc19200e894006dbe635d5cf55e9be88a0c6ea4b14f7ebbf42"
+metafile = true
+
+[[files]]
+file = "mods/fancyvideo-api.pw.toml"
+hash = "e690fefb078ee182b73a7c070c41c1831db57ca44264d8b448312ce7ed1e2f86"
 metafile = true
 
 [[files]]

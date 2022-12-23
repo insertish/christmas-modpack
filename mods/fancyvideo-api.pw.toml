@@ -1,0 +1,13 @@
+name = "FancyVideo-API"
+filename = "FancyVideo-API-forge-2.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46049d8c7697c8c29ba39197a1247e1e21fdf1ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822603
+project-id = 591686
