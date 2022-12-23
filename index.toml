@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
+hash = "fcfde92f51870f566f51a2230e737fddea6436cf67c65bdfc3e17a983dd9cdec"
 metafile = true
 
 [[files]]
