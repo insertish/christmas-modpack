@@ -1,0 +1,13 @@
+name = "Jousting"
+filename = "jousting-1.18.0-v1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/izKkKXOE/versions/jousting-1.18.2-v1.0.5/jousting-1.18.0-v1.0.5.jar"
+hash-format = "sha1"
+hash = "1ac8d03b0f9816dad272e4346d3aace707453d6d"
+
+[update]
+[update.modrinth]
+mod-id = "izKkKXOE"
+version = "7bLeACTl"

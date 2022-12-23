@@ -235,6 +235,11 @@ hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "44b0e2e0ca1f254b9f43593a9bfd2802a6074200ad9a0fafa97b01e930940169"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "55142351d25bc8a6a5280e6e8cdb99423cc8a8e5e4cc1400c76e2c06bc2b5b3a"
 metafile = true
@@ -315,6 +320,11 @@ hash = "04eeb1be0aad7b7eb11e5dc6f64e64b6b47acf3c5879297f63349b8f4812ba51"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "7dc37c73773f83859ba8908a29e5383e4bd2ea03e49181beb872de40593cbfb8"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "7fa6964ecd8a0410daacb753b9985ba1edb4f1891ef007f3e723bc0d8d04e82d"
 metafile = true
@@ -352,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "550373c6cde926832ea77f0d5e6fda708e37323468caca5a32d8ae9b88baeea7"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "9dbcda8ffbaedfdf3dcecf7af271a19e1fa886c27516bec6fda4606a36518a42"
 metafile = true
 
 [[files]]
@@ -595,6 +610,11 @@ hash = "e215cfab14b330bd5dbcf439f6edb6298092db9e2b483e2275cf46e2220f598a"
 metafile = true
 
 [[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "03493919757ef454f54808e3602bfc390c9a91e24af4f7b110c4fc5d6f5991e0"
+metafile = true
+
+[[files]]
 file = "mods/jeitweaker.pw.toml"
 hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
@@ -602,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+metafile = true
+
+[[files]]
+file = "mods/jousting.pw.toml"
+hash = "ef255bb362b94307622bc76fdc363c11be2a1a409ddeee76592d424403887d43"
 metafile = true
 
 [[files]]
@@ -1142,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/tis-3d.pw.toml"
 hash = "f59c227e0c371d55dd9182c65beaa0324433fbed6633cbc24f31adf35b2526c9"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "e7d076ac587e5362bb41628059e5828044bdc92a33a8542925338504d59d6365"
 metafile = true
 
 [[files]]

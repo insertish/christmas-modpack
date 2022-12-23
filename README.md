@@ -5,7 +5,9 @@
 ## Dates
 
 - 17th December: Server launch
-- 23rd December: Tech mods unlocked (see `disable_mods.zs`)
+- 23rd December: Tech mods unlocked (see `disable_mods.zs`), additional tech mods also added to pack:
+  - Integrated Dynamics
+  - Building Gadgets
 
 ## Applied Patches
 

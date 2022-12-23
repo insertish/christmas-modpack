@@ -1,4 +1,4 @@
-# 241 Mods
+# 245 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -40,6 +40,7 @@
 |Borderless Window|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/borderless)|
 |Better Rubidium Video Settings Button|client|[Modrinth](https://modrinth.com/mod/brvsb)|
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
+|Building Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)|
 |Bygone Nether|both|[Modrinth](https://modrinth.com/mod/bygone-nether)|
 |Caelus API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/caelus)|
 |Cats Plus|both|Static|
@@ -56,6 +57,7 @@
 |CodeChicken Lib 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)|
 |Colossal Chests|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)|
 |Comforts (Fabric/Forge/Quilt)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/comforts)|
+|Common Capabilities|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)|
 |Compact Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compact-machines)|
 |Configured|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured)|
 |Controlling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)|
@@ -64,6 +66,7 @@
 |CraftTweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)|
 |Create Chunkloading|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading)|
 |Create|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)|
+|Create Crafts & Additions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/createaddition)|
 |CreativeCore|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/creativecore)|
 |Creeper Overhaul|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)|
 |Croptopia|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia)|
@@ -112,8 +115,10 @@
 | Integrated Dungeons and Structures|both|[Modrinth](https://modrinth.com/mod/idas)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Infernal Expansion|both|[Modrinth](https://modrinth.com/mod/infernal-expansion)|
+|Integrated Dynamics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)|
 |JEITweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
+|Jousting|both|[Modrinth](https://modrinth.com/mod/jousting)|
 |Just Zoom [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge)|
 |Kiwi 🥝 (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/kiwi)|
 |Konkrete [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/konkrete)|
@@ -138,7 +143,6 @@
 |Mining Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)|
 |MmmMmmMmmMmm (Target Dummy)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)|
 |Modonomicon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modonomicon)|
-|More Overlays Updated|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)|
 |Morph-o-Tool|both|[Modrinth](https://modrinth.com/mod/morph-o-tool)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|
@@ -207,7 +211,6 @@
 |spark|both|[Modrinth](https://modrinth.com/mod/spark)|
 |Spatial Harvesters [Forge]|both|[Modrinth](https://modrinth.com/mod/spatial-harvesters-forge)|
 |Spice of Life: Carrot Edition|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)|
-|Stalwart Dungeons|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)|
 |Starlight (Forge)|both|[Modrinth](https://modrinth.com/mod/starlight-forge)|
 |SuperMartijn642's Config Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib)|
 |SuperMartijn642's Core Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib)|
@@ -224,6 +227,7 @@
 |TheDragonLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/thedragonlib)|
 |Tinkers Construct|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)|
 |TIS-3D|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tis-3d)|
+|TorchMaster|both|[Modrinth](https://modrinth.com/mod/torchmaster)|
 |Trapcraft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/trapcraft)|
 |Traveler's Backpack|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)|
 |True Darkness|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/true-darkness)|
