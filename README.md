@@ -2,6 +2,11 @@
 
 - [Mod List](mods.md)
 
+## Dates
+
+- 17th December: Server launch
+- 23rd December: Tech mods unlocked (see `disable_mods.zs`)
+
 ## Applied Patches
 
 - Disabled Quark's "Automatic Recipe Unlock" tweak.

@@ -1065,11 +1065,6 @@ hash = "24cf95c3d275e37fc044713468c2a81918a72b8d91a8d6eee1538dff97f8139c"
 metafile = true
 
 [[files]]
-file = "mods/stalwart-dungeons.pw.toml"
-hash = "3128e1d548e20e625e049f005bda8f86f3931f394a4ce308631c376e56185a92"
-metafile = true
-
-[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
 metafile = true
@@ -1245,8 +1240,12 @@ hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
+file = "pnpm-lock.yaml"
+hash = "e603dac15bf85bd7485f1cf5945235f0b18883071db26828312654543275f389"
+
+[[files]]
 file = "scripts/christmas_modpack/disable_mods.zs"
-hash = "3cb5168ba957b69a5627704304990d6f5a4255dee02e5dbd4ce69f8841aff643"
+hash = "4ae53a772df7c85b0c163241f54c3b3d7b3fa07d9edc7b4f5513b735bbea556f"
 
 [[files]]
 file = "scripts/christmas_modpack/pneumatic_craft.zs"
