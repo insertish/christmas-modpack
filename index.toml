@@ -280,6 +280,11 @@ hash = "518709928a92ee12c848f45a7f77573639d7e84d545c6e120094bc3c898243c9"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "eecf1345c0a85fe3440cd40a7317e4cbbd14e567e2973b8132d8c6a90f3ed252"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "8a45a032dcc130506cd3dd1490d8d13c2645863ed9690914c1a0b144a7ef6c10"
 metafile = true
@@ -292,11 +297,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
-metafile = true
-
-[[files]]
-file = "mods/cinematic.pw.toml"
-hash = "7f2e151ade8d85a3ca7354f6fc345df25c8c2308e789db415c717e16d6c5b0d8"
 metafile = true
 
 [[files]]
@@ -542,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "8fab1e360f0baffc19200e894006dbe635d5cf55e9be88a0c6ea4b14f7ebbf42"
-metafile = true
-
-[[files]]
-file = "mods/fancyvideo-api.pw.toml"
-hash = "e690fefb078ee182b73a7c070c41c1831db57ca44264d8b448312ce7ed1e2f86"
 metafile = true
 
 [[files]]
@@ -1022,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "58362469eda922ab1488066e697a20d0006312f778027c930ce41b1760fd2254"
 metafile = true
 
 [[files]]
