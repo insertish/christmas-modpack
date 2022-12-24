@@ -530,11 +530,6 @@ hash = "356b5e31fe354abe4b737bfced8303099b35442b1e4757953d3eccc8d745d50a"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "c1e7cfa752afa287388747994ed8a2d0dbb19cb7f9267fa656624c9932119aeb"
-metafile = true
-
-[[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true

@@ -1,4 +1,4 @@
-# 266 Mods
+# 265 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -99,7 +99,6 @@
 |Entity Collision FPS Fix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)|
 |EntityCulling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
 |Equipment Compare|client|[Modrinth](https://modrinth.com/mod/equipment-compare)|
-|Eureka!|both|[Modrinth](https://modrinth.com/mod/eureka)|
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
 |Create: Extended Flywheels|both|[Modrinth](https://modrinth.com/mod/extended-flywheels)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
