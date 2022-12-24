@@ -49,10 +49,10 @@
 |CC: Tweaked|both|[Modrinth](https://modrinth.com/mod/cc-tweaked)|
 |CC:C Bridge|both|[Modrinth](https://modrinth.com/mod/cccbridge)|
 |Chat Heads|client|[Modrinth](https://modrinth.com/mod/chat-heads)|
+|Chipped|both|[Modrinth](https://modrinth.com/mod/chipped)|
 |Chunk Loaders|both|[Modrinth](https://modrinth.com/mod/chunk-loaders)|
 |Chunk-Pregenerator|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)|
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
-|Cinematic|both|[Modrinth](https://modrinth.com/mod/cinematic)|
 |Citadel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Click Machine|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/click-machine)|
 |Cloth Config API (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|
@@ -76,6 +76,7 @@
 |Creeper Overhaul|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)|
 |Croptopia|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia)|
 |ChoiceTheorem's Overhauled Village|both|[Modrinth](https://modrinth.com/mod/ct-overhaul-village)|
+|ConnectedTexturesMod|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ctm)|
 |Cucumber Library|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cucumber)|
 |Curios API (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)|
 |Cyclops Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)|
@@ -102,7 +103,6 @@
 |ExpandAbility|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/expandability)|
 |Create: Extended Flywheels|both|[Modrinth](https://modrinth.com/mod/extended-flywheels)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
-|FancyVideo-API|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancyvideo-api)|
 |Fast Leaf Decay|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)|
 |Fastload|both|[Modrinth](https://modrinth.com/mod/fastload)|
 |Feature NBT Deadlock Be Gone|both|[Modrinth](https://modrinth.com/mod/feature-nbt-deadlock-be-gone)|
@@ -198,6 +198,7 @@
 |Radium Reforged|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/radium-reforged)|
 |Raised|client|[Modrinth](https://modrinth.com/mod/raised)|
 |Reborn Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rebornstorage)|
+|Rechiseled|both|[Modrinth](https://modrinth.com/mod/rechiseled)|
 |Refined Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/refined-storage)|
 |Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)|
 |Repurposed Structures - Forge|both|[Modrinth](https://modrinth.com/mod/repurposed-structures-forge)|
@@ -255,7 +256,6 @@
 |Universal Grid|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-grid)|
 |Valhelsia Core|both|[Modrinth](https://modrinth.com/mod/valhelsia-core)|
 |Valhelsia Structures|both|[Modrinth](https://modrinth.com/mod/valhelsia-structures)|
-|Valkyrien Skies|both|[Modrinth](https://modrinth.com/mod/valkyrien-skies)|
 |ViesCraft Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/viescraft-airships)|
 |Waddles|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/waddles)|
 |Wavey Capes|client|[Modrinth](https://modrinth.com/mod/wavey-capes)|

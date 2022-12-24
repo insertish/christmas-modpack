@@ -1315,11 +1315,6 @@ hash = "9ba81b42f0c773664f44d1b4b0db62450f133d00232b94cfddf02b4b243e328f"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "74d7e0c7029880ea3f4e05d944d219219b637d5a763e8b2b1244325c994530fb"
-metafile = true
-
-[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "7d651612898cd34831516e4d9662d48e2b0a9756d87a71a7bcd55f1de429ed1c"
 metafile = true
