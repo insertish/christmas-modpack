@@ -1,4 +1,4 @@
-# 276 Mods
+# 277 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -149,6 +149,7 @@
 |Little Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)|
 |Little Logistics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-logistics)|
 |Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
+|Longer Login Times|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/longer-login-times)|
 |Lootr (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|
@@ -236,7 +237,7 @@
 |Spatial Harvesters [Forge]|both|[Modrinth](https://modrinth.com/mod/spatial-harvesters-forge)|
 |Spice of Life: Carrot Edition|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)|
 |Starlight (Forge)|both|[Modrinth](https://modrinth.com/mod/starlight-forge)|
-|SuperMartijn642's Config Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib)|
+|SuperMartijn642's Config Lib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)|
 |SuperMartijn642's Core Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib)|
 |Supplementaries|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries)|
 |Tinkers' Integrations and Tweaks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tcintegrations)|
