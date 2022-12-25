@@ -1,0 +1,13 @@
+name = "AEInfinityBooster"
+filename = "AEInfinityBooster-1.18.2-1.1.0+9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f915abe753d53cb425439d271c8ac212ce410e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3787188
+project-id = 559313

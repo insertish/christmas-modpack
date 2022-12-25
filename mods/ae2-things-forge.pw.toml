@@ -1,0 +1,13 @@
+name = "AE2 Things [Forge]"
+filename = "AE2-Things-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddf82d5a3b2a603d69fb4599d6755ff28c362ec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4096819
+project-id = 609977

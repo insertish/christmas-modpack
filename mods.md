@@ -1,4 +1,4 @@
-# 265 Mods
+# 276 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -7,18 +7,22 @@
 |Additional Structures|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/additional-structures)|
 |Advanced Mining Dimension|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension)|
 |Advanced Peripherals|both|[Modrinth](https://modrinth.com/mod/advancedperipherals)|
+|AE2 Things [Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)|
 |Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
+|AEInfinityBooster|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)|
 |Aileron|both|[Modrinth](https://modrinth.com/mod/aileron)|
 |Akashic Tome|both|[Modrinth](https://modrinth.com/mod/akashic-tome)|
 |Alex's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
+|Almost Unified|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/almost-unified)|
 |Alternate Current|server|[Modrinth](https://modrinth.com/mod/alternate-current)|
 |AmbientSounds 5|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)|
 |Another Furniture|both|[Modrinth](https://modrinth.com/mod/another-furniture)|
 |AntiGhost|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost)|
-|AntimatterAPI|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/antimatterapi)|
 |Apollo's Additional Structures|server|[Modrinth](https://modrinth.com/mod/apollos-additional-structures)|
+|Apotheosis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
 |AppleSkin|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)|
 |Applied Energistics 2 Wireless Terminals|both|[Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)|
+|Applied Energistics 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)|
 |Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
 |Architectury API (Fabric/Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)|
 |ArmorPlus|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/armorplus)|
@@ -28,6 +32,8 @@
 |Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
 |Art of Forging: A Tetra Addon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)|
 |Artifacts|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/artifacts)|
+|Assembly Line Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/assemblylinemachines)|
+|ATO - All the Ores|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ato)|
 |AttributeFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix)|
 |AutoRegLib|both|[Modrinth](https://modrinth.com/mod/autoreglib)|
 |Balm (Forge Edition)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)|
@@ -39,6 +45,7 @@
 |Oh The Biomes You'll Go|both|[Modrinth](https://modrinth.com/mod/biomesyougo)|
 |Blood Magic |both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)|
 |Blood Smeltery|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-smeltery)|
+|Bookshelf|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)|
 |Borderless Window|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/borderless)|
 |Better Rubidium Video Settings Button|client|[Modrinth](https://modrinth.com/mod/brvsb)|
 |Buddycards|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/buddycards)|
@@ -93,6 +100,7 @@
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
 |Elytra Bounce|server|[Modrinth](https://modrinth.com/mod/elytra-bounce)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
+|Enchantment Descriptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)|
 |Ender Storage 1.8.+|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Enlightened End|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)|
@@ -126,6 +134,7 @@
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Infernal Expansion|both|[Modrinth](https://modrinth.com/mod/infernal-expansion)|
 |Integrated Dynamics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)|
+|Integrated Tunnels|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)|
 |Item Borders|client|[Modrinth](https://modrinth.com/mod/item-borders)|
 |JEITweaker|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
@@ -147,6 +156,7 @@
 |Markdown Manual|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/markdownmanual)|
 |Materialis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/materialis)|
 |McJtyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)|
+|MEGA Cells|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mega-cells)|
 |Mekanism Additions|both|[Modrinth](https://modrinth.com/mod/mekanism-additions)|
 |Mekanism Generators|both|[Modrinth](https://modrinth.com/mod/mekanism-generators)|
 |Mekanism Tools|both|[Modrinth](https://modrinth.com/mod/mekanism-tools)|
@@ -154,6 +164,7 @@
 |Mining Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)|
 |MmmMmmMmmMmm (Target Dummy)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)|
 |Modonomicon|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modonomicon)|
+|More Mekanism Processing|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing)|
 |Morph-o-Tool|both|[Modrinth](https://modrinth.com/mod/morph-o-tool)|
 |Mouse Tweaks|client|[Modrinth](https://modrinth.com/mod/mouse-tweaks)|
 |mutil|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mutil)|

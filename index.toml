@@ -70,8 +70,18 @@ hash = "748ab6ff142471ca21a25d1ab8699ce4305a872058f983792bdeb815c67fd6a7"
 metafile = true
 
 [[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "5a4bdc3f437f33059f4008085f8ba11773906bad0bd1fa861b9dc48739a23c48"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ac6c2997986a51fd97dee6950963aa186a7240d397f70b93760d65e641f1481b"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "6049ce25c35da23208c19374bc6870064144df1f7aabac29f0115af03c8ad9e8"
 metafile = true
 
 [[files]]
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "4856feb0e2a25378479e45be9c736c7504ec33b1696f513edb24be6f48133ac0"
 metafile = true
 
 [[files]]
@@ -110,13 +125,13 @@ hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
 metafile = true
 
 [[files]]
-file = "mods/antimatterapi.pw.toml"
-hash = "014a4223fc16033ad7d8937ab61c6fd5645a0bcc2c08cd71c89321403bf8424e"
+file = "mods/apollos-additional-structures.pw.toml"
+hash = "196bae8ab0877a760d6d35b5b5e7a19cc4742937a0028394b69e6d5a443fbb55"
 metafile = true
 
 [[files]]
-file = "mods/apollos-additional-structures.pw.toml"
-hash = "196bae8ab0877a760d6d35b5b5e7a19cc4742937a0028394b69e6d5a443fbb55"
+file = "mods/apotheosis.pw.toml"
+hash = "bf3d5e86acf5331a02cbf6d9717c94c55fd4fc675f8690a51cd13f8ba499e8b6"
 metafile = true
 
 [[files]]
@@ -127,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "daf2c753af5c0e870e5387d3b3ac6bd0e5014dd9b1dfc57f9c661a13e1552891"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
 metafile = true
 
 [[files]]
@@ -172,6 +192,16 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "f79243f3241bb965b2312fba4278feb6c3817affb5fc4f0574482b8253acdb39"
+metafile = true
+
+[[files]]
+file = "mods/assemblylinemachines.pw.toml"
+hash = "7d7dbef01911365e051258adbdbc8883ef69cea617896c563982985fb9a0a7f4"
+metafile = true
+
+[[files]]
+file = "mods/ato.pw.toml"
+hash = "c5795cf9270b6abed5edddff888209a3fe73f0280b1320bee7a2c04e62a710bd"
 metafile = true
 
 [[files]]
@@ -227,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/blood-smeltery.pw.toml"
 hash = "2a0e3d57b4384d3cb15646fd52ccee7fa0efd1f3ef8105c95843681dbe1ecb51"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "57a874e5167da349bb2cc7870adfac66d4ec027f884afbee45b1359950f84fb7"
 metafile = true
 
 [[files]]
@@ -500,6 +535,11 @@ hash = "7c0dedfd8cccc3580dfbb68994925f97cc3ffb911de420fb56b3045f2659ba23"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1ba74eb25be6a0c1c4296ff1199b4d7d54a926c34b4d96dc816837885519ffaf"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "5000760b9aaeb78fc25a4747c357806e756fbf8771ece8ea75afc213bcba7559"
 metafile = true
@@ -665,6 +705,11 @@ hash = "03493919757ef454f54808e3602bfc390c9a91e24af4f7b110c4fc5d6f5991e0"
 metafile = true
 
 [[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "78a7b2441a0a3351cba015266db7b0b57f3bb79eef83868638a13f08d7685d5c"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "c6829566c5f853d8a246363500de24702958897009f060121c5dbbec09deed94"
 metafile = true
@@ -770,6 +815,11 @@ hash = "c24990ef2c46b6162bcc863b1de0e122cbb03a9d9a0d31e00f1b3ce3508b6e0d"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "792af8f1c872f70fc943d8ec8aa27a3bfbe678dccb6cadc90d633a2d9da36873"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "3955a2b15298748d5dad7623b32c529b85c4831df0d93e24f2957372e3e258da"
 metafile = true
@@ -802,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "f412e90c29c9f24871277b01052e8f7082ed08e9392c39f4a8322c9f7b3e5ab0"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "fea1c7d6b98b6606ae17a2e436d7158dd1ec86c29c8af4a500b42d66fa70a00e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "ATO - All the Ores"
+filename = "alltheores-1.9.9m-1.18.2-40.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a1c2512ee9abd0f7daf0f475bdc05ea1275bdbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3975599
+project-id = 405593
