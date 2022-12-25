@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/longer-login-times.pw.toml"
-hash = "29c30c9c3187ba9f19c30cca9b7bbd0e3f72ded8fbbd1b9e11fbccd62615be4d"
+hash = "26adab3cdabdf4968b09514389459d01fd0ef883a5a06406266571ef238a1a40"
 metafile = true
 
 [[files]]
