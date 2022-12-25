@@ -72,6 +72,7 @@
 |Common Capabilities|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)|
 |Compact Machines|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compact-machines)|
 |Configured|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured)|
+|Connectivity[Forge/Fabric]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity)|
 |Controlling|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)|
 |Corpse|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/corpse)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
@@ -149,7 +150,6 @@
 |Little Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)|
 |Little Logistics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-logistics)|
 |Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
-|Longer Login Times|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/longer-login-times)|
 |Lootr (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lootr)|
 |Mahou Tsukai|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)|
 |Malum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malum)|

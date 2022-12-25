@@ -395,6 +395,11 @@ hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
 metafile = true
@@ -777,11 +782,6 @@ metafile = true
 [[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "ab414062f37181497ed8db2dbd55d55a43b842cc65131d0e045bee97b8a8428b"
-metafile = true
-
-[[files]]
-file = "mods/longer-login-times.pw.toml"
-hash = "26adab3cdabdf4968b09514389459d01fd0ef883a5a06406266571ef238a1a40"
 metafile = true
 
 [[files]]
