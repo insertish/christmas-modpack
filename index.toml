@@ -13,6 +13,10 @@ file = "config/darkness.properties"
 hash = "d5f75b8d59ddb57353625528af9b180155d67bcf7cb2a47010398ad0c0ad701f"
 
 [[files]]
+file = "config/dragonfight-common.toml"
+hash = "dc071a998ae95a7d8c8e4814887852851ef945275a8361a5c366fc7d81919e50"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "fcd98dcc4a8e1fed297ba4b94813423a81e1fa04c65fb231ea23f0a3412b3c65"
 
@@ -1162,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "058a0c02c9735a132c19e58358a1d28fe1cba6ce91267c42562d6c257b8afde8"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "781ee00c579536d44ca64d44d019f0356129c9010871eda3a0747e10d607d38a"
 metafile = true
 
 [[files]]

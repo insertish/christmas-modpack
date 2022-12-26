@@ -1,4 +1,4 @@
-# 277 Mods
+# 278 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -226,6 +226,7 @@
 |Refined Storage: Requestify|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)|
 |Rubidium Extra|client|[Modrinth](https://modrinth.com/mod/rubidium-extra)|
 |Rubidium|client|[Modrinth](https://modrinth.com/mod/rubidium)|
+|Savage Ender Dragon[Forge/Fabric]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon)|
 |[SBM] Bone Torch|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sbm-bone-torch)|
 |Scannable|both|[Modrinth](https://modrinth.com/mod/scannable)|
 |Security Craft|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/security-craft)|
