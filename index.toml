@@ -774,6 +774,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
+metafile = true
+
+[[files]]
 file = "mods/little-contraptions.pw.toml"
 hash = "2173881505b6ab22e56c011c63760d9de6d4f07e4e3fb866a93cfeadfd80dc4f"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Light Overlay"
+filename = "light-overlay-6.0.5-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YfOlc91N/versions/6.0.5-forge/light-overlay-6.0.5-forge.jar"
+hash-format = "sha1"
+hash = "b1db8b81ba6ce64c062f673e87bc0c65ec0bf9e7"
+
+[update]
+[update.modrinth]
+mod-id = "YfOlc91N"
+version = "BD2yRQrH"
