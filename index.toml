@@ -41,6 +41,10 @@ file = "config/restrictedportals-common.toml"
 hash = "3c338be32e31514f8a26007dd53f102fd37061dad039dd7e0d387c2ede8c5f82"
 
 [[files]]
+file = "config/rubidium-mixins.properties"
+hash = "0228fad54e53a93a13dc84d0a39ac82b8b6efdb0ccedbca82f10cbf958d00bb8"
+
+[[files]]
 file = "defaultconfigs/ftbchunks.snbt"
 hash = "8a91c309b00aa38044933ba0cd0f3c62801559747ceb59f3e6b674689b995156"
 
@@ -975,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/overcomputed.pw.toml"
-hash = "401eef2061f69a819fa2740144c22cdda42fd89cf56a5c9b122e601596f0ef05"
+hash = "fe1cc4e9e9de730940c41818e44bae865fc2b1001eabca9dac88448d7f0b17d7"
 metafile = true
 
 [[files]]
