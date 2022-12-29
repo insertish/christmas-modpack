@@ -1,0 +1,8 @@
+name = "Overcomputed"
+filename = "overcomputed-0.1.jar"
+side = "both"
+
+[download]
+url = "https://insertish.github.io/christmas-modpack/static/overcomputed-0.1.jar"
+hash-format = "sha256"
+hash = "ab2f49da9cb42bcdff4b493550521e19ac679e690e683b4c89dbb4e1cc934623"
