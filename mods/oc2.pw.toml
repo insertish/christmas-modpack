@@ -1,8 +1,8 @@
 name = "OpenComputers II"
-filename = "oc2-1.18.2-forge-0.0.0+569288c6.jar"
+filename = "oc2-1.18.2-forge-0.1.8.jar"
 side = "both"
 
 [download]
-url = "https://insertish.github.io/christmas-modpack/static/oc2-1.18.2-forge-0.0.0+569288c6.jar"
+url = "https://insertish.github.io/christmas-modpack/static/oc2-1.18.2-forge-0.1.8.jar"
 hash-format = "sha256"
-hash = "ab2f49da9cb42bcdff4b493550521e19ac679e690e683b4c89dbb4e1cc934623"
+hash = "00658e89e5aa5bffb1e1c7101ed18bc648a28ec104f02192db5cd51b62a64977"
