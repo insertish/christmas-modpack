@@ -218,6 +218,11 @@ hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
 metafile = true
 
 [[files]]
+file = "mods/ballistix.pw.toml"
+hash = "aa79455cb72efc42fca21456a6df4a99e885394da4fd1c0d2b5c3d5624b13a89"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
 metafile = true
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "164200c843c3985d93c49bf676d7bcc1081fe8a38e20fc590a221ce9ff5851b5"
 metafile = true
 
 [[files]]
