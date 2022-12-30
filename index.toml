@@ -933,6 +933,11 @@ hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "269c89a19a0df452d2a919e9758181280d7a5207581bbe2a0335e20fbf94bee1"
+metafile = true
+
+[[files]]
 file = "mods/ob-aquamirae.pw.toml"
 hash = "191a95245e4bce89139bc32f052eec075eee755af42d9a81c4870183bd5e24de"
 metafile = true
