@@ -218,6 +218,11 @@ hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fb694b2ac3ce618e01b4284e52025b26fe4bf9721132854836c0a985fdd7fabb"
+metafile = true
+
+[[files]]
 file = "mods/ballistix.pw.toml"
 hash = "aa79455cb72efc42fca21456a6df4a99e885394da4fd1c0d2b5c3d5624b13a89"
 metafile = true
