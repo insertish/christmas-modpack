@@ -1,4 +1,4 @@
-# 278 Mods
+# 283 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -13,7 +13,6 @@
 |Aileron|both|[Modrinth](https://modrinth.com/mod/aileron)|
 |Akashic Tome|both|[Modrinth](https://modrinth.com/mod/akashic-tome)|
 |Alex's Mobs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)|
-|Almost Unified|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/almost-unified)|
 |Alternate Current|server|[Modrinth](https://modrinth.com/mod/alternate-current)|
 |AmbientSounds 5|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)|
 |Another Furniture|both|[Modrinth](https://modrinth.com/mod/another-furniture)|
@@ -36,6 +35,8 @@
 |ATO - All the Ores|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ato)|
 |AttributeFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix)|
 |AutoRegLib|both|[Modrinth](https://modrinth.com/mod/autoreglib)|
+|Bad Wither No Cookie - Reloaded|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)|
+|Ballistix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ballistix)|
 |Balm (Forge Edition)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)|
 |Better Combat [Fabric & Forge]|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
@@ -99,6 +100,7 @@
 |Dynamic Trees|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)|
 |Dynmap-Forge/Fabric|server|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
+|Electrodynamics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)|
 |Elytra Bounce|server|[Modrinth](https://modrinth.com/mod/elytra-bounce)|
 |Emojiful|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful)|
 |Enchantment Descriptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)|
@@ -147,6 +149,7 @@
 |L_Ender 's Cataclysm|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)|
 |Large Ore Deposits|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)|
 |LazyDFU|both|[Modrinth](https://modrinth.com/mod/lazydfu)|
+|Light Overlay|client|[Modrinth](https://modrinth.com/mod/light-overlay)|
 |Little Contraptions|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)|
 |Little Logistics|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/little-logistics)|
 |Lodestone|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lodestonelib)|
@@ -176,6 +179,7 @@
 |NetherPortalFix|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)|
 |No Telemetry|client|[Modrinth](https://modrinth.com/mod/no-telemetry)|
 |Not Enough Animations|client|[Modrinth](https://modrinth.com/mod/not-enough-animations)|
+|Nuclear Science|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/nuclear-science)|
 |Aquamirae|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)|
 |Obscuria's Essentials|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-core)|
 |Obscuria's Tooltips|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips)|
@@ -186,6 +190,7 @@
 |Modern Online Picture Frames|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/online-picture-frame)|
 |Open Loader|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader)|
 |Orva Alarms and Sirens|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)|
+|Overcomputed|both|Static|
 |Pam's HarvestCraft 2 - Crops|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)|
 |Pam's HarvestCraft 2 - Food Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)|
 |Pam's HarvestCraft 2 - Food Extended|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)|

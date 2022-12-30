@@ -1472,10 +1472,6 @@ file = "pnpm-lock.yaml"
 hash = "e603dac15bf85bd7485f1cf5945235f0b18883071db26828312654543275f389"
 
 [[files]]
-file = "scripts/christmas_modpack/disable_mods.zs"
-hash = "4ae53a772df7c85b0c163241f54c3b3d7b3fa07d9edc7b4f5513b735bbea556f"
-
-[[files]]
 file = "scripts/christmas_modpack/pneumatic_craft.zs"
 hash = "ee161c26ceab711387dedc47fb2909a7cd37ed489e21ceda324af46e53952b49"
 
