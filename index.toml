@@ -141,11 +141,6 @@ hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "21d8eda40534ae97c9793b2264e54b7285a060d41bd63aa978df6f04b7df9d2e"
-metafile = true
-
-[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "5e08408d0b54c36bee36fa3328bdcacff186656d51bbe3bf033b1b3ecb492daf"
 metafile = true
@@ -373,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true
 
 [[files]]
