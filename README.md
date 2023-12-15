@@ -1,6 +1,6 @@
 # 2023 Modpack
 
-- [Mod List](mods.md)
+- [Mod List](https://insertish.github.io/christmas-modpack/MODS)
 
 ## Dates
 
