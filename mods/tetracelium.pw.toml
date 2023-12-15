@@ -1,0 +1,13 @@
+name = "tetracelium"
+filename = "tetracelium-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rTvWs5Jz/versions/J6jFGnno/tetracelium-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "646f2f6ef65039900d0dd01855f0f4488878fba8"
+
+[update]
+[update.modrinth]
+mod-id = "rTvWs5Jz"
+version = "J6jFGnno"

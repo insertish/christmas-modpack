@@ -275,6 +275,11 @@ hash = "18d3ebdaddfbfedc8a694e96ce17a5423599d440809a09d5c5cdcb6ecf8592f5"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "39d1c75ddd109d52a969c548cdb0ea1c7ddb3498b9c263b3dd97096e8a572307"
 metafile = true
@@ -422,6 +427,21 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
 metafile = true
 
 [[files]]
