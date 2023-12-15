@@ -60,6 +60,11 @@ hash = "8e1ac677b0fa6dbb1aa9225e12ec2915f853ca41a6611dd802c988a03457e4f6"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e553de7cb794101cec9a23949c80de6a0436a97f1126686efdcc80ecc54c6aef"
 metafile = true
