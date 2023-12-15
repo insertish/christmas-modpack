@@ -1,0 +1,13 @@
+name = "Ad Astra"
+filename = "ad_astra-forge-1.20.1-1.15.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/6oFkQIqc/ad_astra-forge-1.20.1-1.15.5.jar"
+hash-format = "sha1"
+hash = "4f1e5a074f39c3dcf2ef38a44415f9611cade6cf"
+
+[update]
+[update.modrinth]
+mod-id = "3ufwT9JF"
+version = "6oFkQIqc"

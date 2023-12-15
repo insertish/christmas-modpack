@@ -1,0 +1,13 @@
+name = "Create: Liquid Fuel"
+filename = "createliquidfuel-2.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sH9tXU9f/versions/vH3A0Uuf/createliquidfuel-2.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "2e1075df824eba5b2146a101cc828ada56a49309"
+
+[update]
+[update.modrinth]
+mod-id = "sH9tXU9f"
+version = "vH3A0Uuf"

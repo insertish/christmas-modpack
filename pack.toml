@@ -1,0 +1,13 @@
+name = "Christmas Modpack 2023"
+author = "insert"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc00f73daa158b69e73141407365c6b6d05503286b69e0f5e1c58365727956c4"
+
+[versions]
+forge = "47.1.3"
+minecraft = "1.20.1"

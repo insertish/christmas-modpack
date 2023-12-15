@@ -1,0 +1,13 @@
+name = "Mystical Agriculture"
+filename = "MysticalAgriculture-1.20.1-7.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C95ReXie/versions/uTITK7Q3/MysticalAgriculture-1.20.1-7.0.7.jar"
+hash-format = "sha1"
+hash = "e70136b3be5078f0e0aa856a34888b337981874a"
+
+[update]
+[update.modrinth]
+mod-id = "C95ReXie"
+version = "uTITK7Q3"

@@ -1,0 +1,13 @@
+name = "Tax Free Levels"
+filename = "TaxFreeLevels-1.3.6-forge-1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/LjDUjZCq/TaxFreeLevels-1.3.6-forge-1.20.2.jar"
+hash-format = "sha1"
+hash = "764ea6aa856dfff973cd2b7b145cad4de10562c2"
+
+[update]
+[update.modrinth]
+mod-id = "jCBrrLTs"
+version = "LjDUjZCq"

@@ -1,0 +1,13 @@
+name = "Polymorphic Energistics"
+filename = "polyeng-forge-0.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VS1a14jA/versions/Rrcb5vqI/polyeng-forge-0.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "515d726456d78487ade0162220d5a52696fbe726"
+
+[update]
+[update.modrinth]
+mod-id = "VS1a14jA"
+version = "Rrcb5vqI"

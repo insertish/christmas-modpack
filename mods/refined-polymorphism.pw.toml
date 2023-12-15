@@ -1,0 +1,13 @@
+name = "Refined Polymorphism"
+filename = "refinedpolymorph-0.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HwPAr6Pu/versions/1fHQTL6H/refinedpolymorph-0.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "f968d002ce09818e028908eaf5852b4fe6bfe11f"
+
+[update]
+[update.modrinth]
+mod-id = "HwPAr6Pu"
+version = "1fHQTL6H"

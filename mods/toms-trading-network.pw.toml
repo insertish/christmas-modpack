@@ -1,0 +1,13 @@
+name = "Tom's Trading Network"
+filename = "toms_trading_network-1.20-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/PfmGbxy4/toms_trading_network-1.20-0.2.2.jar"
+hash-format = "sha1"
+hash = "8127098965a4902a6c1a530ec10a129ce46a9467"
+
+[update]
+[update.modrinth]
+mod-id = "x5iQ3NM5"
+version = "PfmGbxy4"

@@ -1,0 +1,13 @@
+name = "Create: Structures"
+filename = "create-structures-0.1.1-1.20.1-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar"
+hash-format = "sha1"
+hash = "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8"
+
+[update]
+[update.modrinth]
+mod-id = "IAnP4np7"
+version = "XALEBs0a"

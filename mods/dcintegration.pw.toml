@@ -1,0 +1,13 @@
+name = "Discord Integration"
+filename = "dcintegration-forge-3.0.5-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/G06cne25/dcintegration-forge-3.0.5-1.20.1.jar"
+hash-format = "sha1"
+hash = "002238c005bd5ec4090b72261a66df1e54dd919f"
+
+[update]
+[update.modrinth]
+mod-id = "rbJ7eS5V"
+version = "G06cne25"

@@ -1,0 +1,13 @@
+name = "Cherished Worlds"
+filename = "cherishedworlds-forge-6.1.4+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/f9VOKtOf/cherishedworlds-forge-6.1.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "85a8dfc221ad3f26d7408a5fb93c95be2390467d"
+
+[update]
+[update.modrinth]
+mod-id = "3azQ6p0W"
+version = "f9VOKtOf"
