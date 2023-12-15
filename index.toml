@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
+hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
@@ -358,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
-metafile = true
-
-[[files]]
-file = "mods/river-redux.pw.toml"
-hash = "8e9e58a3a30c9961cba27a7992538f088e7b5da744054007af1ec450753911cd"
 metafile = true
 
 [[files]]
