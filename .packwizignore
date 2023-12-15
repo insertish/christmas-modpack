@@ -1,0 +1,10 @@
+.git/**
+.gitattributes
+meta/**
+node_modules/**
+.gitignore
+generate.mjs
+package.json
+package-lock.json
+MODS.md
+README.md
