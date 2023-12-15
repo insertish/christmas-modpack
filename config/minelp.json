@@ -1,0 +1,69 @@
+{
+  "settings": {
+    // Adjust camera intersection checks to properly cull entities when they're not in view.
+    // Helps to prevent entities from vanishing when they're in long stacks
+    "frustrum": true,
+    // Adjusts pony scales to match the show (approximate),
+    "showscale": true,
+    // Turn on to adjust the player's camera position to their model,
+    "fillycam": true,
+    // Enables the alternative horsey models from the April Fools 2023 update,
+    "horsiemode": false,
+    // Allows ponies of different sizes/ages,
+    "sizes": true,
+    // Not enough ponies? Turn this on to turn player heads and skulls into ponies too!,
+    "ponyskulls": true,
+    // Uses magic effects in first person,
+    // Turn this off if you encounter any compatibility issues with other mods,
+    "fpsmagic": true,
+    // Uses magic effects in third person,
+    "tpsmagic": true,
+    // Controls whether ponies have snouts,
+    "snuzzles": true
+  },
+  "debug": {
+    // Overrides pony races
+    // Possible values: HUMAN (default), EARTH, PEGASUS, UNICORN, ALICORN, CHANGELING, ZEBRA, CHANGEDLING, GRYPHON, HIPPOGRIFF, KIRIN, BAYPONT, SEAPONY
+    "raceoverride": "HUMAN",
+    // Overrides pony sizes,
+    // Possible values: TALL, BULKY, LANKY, NORMAL, YEARLING, FOAL, UNSET (default),
+    "sizeoverride": "UNSET",
+    // Disables pony armour textures.,
+    // If enabled, only the vanilla textures will be considered,
+    "useponifiedarmour": false
+  },
+  "entities": {
+    "allays": true,
+    "pigzombies": true,
+    "endermen": true,
+    "striders": true,
+    "skeletons": true,
+    "inanimates": true,
+    "villagers": true,
+    "illagers": true,
+    "guardians": true,
+    "zombies": true
+  },
+  "root": {
+    // How much pony do you want?
+    // PONIES - all players are turned into ponies
+    // HUMANS - all players are humans
+    // BOTH - players with compatible skins will be ponies whilst the rest are humans
+    "ponylevel": "BOTH",
+    // Whether to show the mine little pony settings button on the main menu,
+    // AUTO (default) - only show when HDSkins is not installed,
+    // ON - always show,
+    // OFF - never show,
+    "horsebutton": "AUTO",
+    // How large do you want your ponies to be?,
+    // Default is show scale (0.9),
+    "globalscalefactor": 0.9
+  },
+  "customisation": {
+    // Pegasi will use their wings to fly even when they're wearing an elytra
+    "flappyelytras": true,
+    // Disables certain easter eggs and secrets (party pooper),
+    // Turning this off may help with compatibility in some cases,
+    "nofun": false
+  }
+}

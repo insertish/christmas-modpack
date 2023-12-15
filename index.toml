@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/minelp.json"
+hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fe57f4a21d9e3a4976d2ae82381845584d964c0402c1e37b57c5ba14158d2c8d"
 metafile = true
