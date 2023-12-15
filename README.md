@@ -1,4 +1,4 @@
-# 2022 Modpack
+# 2023 Modpack
 
 - [Mod List](mods.md)
 
