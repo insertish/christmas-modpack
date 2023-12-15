@@ -10,3 +10,4 @@ Join our [Revolt](https://rvlt.gg/christmas) or [Discord](https://discord.gg/h3E
 | 2020 | [FTB Revelation](https://www.feed-the-beast.com/modpack/35_ftb_revelation) |
 | 2021 | [`2021`](https://github.com/insertish/christmas-modpack/tree/2021) |
 | 2022 | [`2022`](https://github.com/insertish/christmas-modpack/tree/2022) |
+| 2023 | [`2023`](https://github.com/insertish/christmas-modpack/tree/2023) |
