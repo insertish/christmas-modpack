@@ -473,3 +473,8 @@ metafile = true
 file = "mods/wireless-chargers.pw.toml"
 hash = "afdf4f10e6151dd619f57d33f89e3981cd4faeac0bc9c17802ff35f1733ec629"
 metafile = true
+
+[[files]]
+file = "mods/world-pre-generator.pw.toml"
+hash = "c589e95f91ae807747b5eb70c6220be7a28ac0329e308d10cf0f9e5592575405"
+metafile = true
