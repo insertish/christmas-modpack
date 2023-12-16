@@ -265,11 +265,6 @@ hash = "a72f9d22199c058b621d49d651dcb6909f211bad7b7327347691a07f4bc6ecb4"
 metafile = true
 
 [[files]]
-file = "mods/immersive-cursedness-updated.pw.toml"
-hash = "e33e7627a627c9f792a1f904e3eb44ee1ef895d7ee2e8f89132a04c07da0c471"
-metafile = true
-
-[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "efa7f152645047ef83ee81d0319b27fa938b1de8fc3ff586510931257eb18cd3"
 metafile = true
