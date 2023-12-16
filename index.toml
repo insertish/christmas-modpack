@@ -140,6 +140,11 @@ hash = "1e11f4f972028ad2b783be5fc14afa10bd554722893ee210fec74ad8722bc43f"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true

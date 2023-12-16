@@ -1,0 +1,13 @@
+name = "Ding"
+filename = "Ding-1.20.1-Forge-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UEtTD3gP/versions/ZvOp5eWG/Ding-1.20.1-Forge-1.4.1.jar"
+hash-format = "sha1"
+hash = "c46db36e9fc40865d54590c1a59ea71915e341a6"
+
+[update]
+[update.modrinth]
+mod-id = "UEtTD3gP"
+version = "ZvOp5eWG"
