@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-
 hash-format = "sha1"
 hash = "b42adab2ec0a2919db552a7acbe71196eb6e183c"
 
+[option]
+optional = true
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
