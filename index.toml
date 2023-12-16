@@ -175,6 +175,11 @@ hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "f794a8812817b5160aff46aa35057dc2696e9aad52a923b5036e625cef2e5fcd"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
+metafile = true
+
+[[files]]
+file = "mods/lucent.pw.toml"
+hash = "62041794a3b89328e32fd32fe2fd85702b000978fb6aa34d9b60c2f67bf8a0d4"
 metafile = true
 
 [[files]]
@@ -547,4 +562,14 @@ metafile = true
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
 hash = "afdf4f10e6151dd619f57d33f89e3981cd4faeac0bc9c17802ff35f1733ec629"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "22c2a89925030790e8ff327977407190e9a8ec50d2d2b04404942a70d285f0a2"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
