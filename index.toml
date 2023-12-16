@@ -295,13 +295,13 @@ hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
-file = "mods/lucent.pw.toml"
-hash = "62041794a3b89328e32fd32fe2fd85702b000978fb6aa34d9b60c2f67bf8a0d4"
+file = "mods/libipn.pw.toml"
+hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
 
 [[files]]
