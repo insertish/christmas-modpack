@@ -45,6 +45,11 @@ hash = "75e2b8d5951693a4988054d2c3b64af48f1ef5d88576b365442f8328ffa75775"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78db2c329fdaebddaff88e17b28c9fa0791497ace8fe2337ab1516129b2bd994"
 metafile = true
 
 [[files]]

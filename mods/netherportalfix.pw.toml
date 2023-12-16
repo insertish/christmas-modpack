@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-forge-1.20-13.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar"
+hash-format = "sha1"
+hash = "2179040063d0e11083e54a9b1957de9f909d0d6f"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "cWPAnu7u"
