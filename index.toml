@@ -25,6 +25,11 @@ hash = "610eaf47cffb21e153bbe5f26fb6dfb7f9af5a2d741b22005504f28602d3ec35"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bd9f67f0985aa97b0faabbee9fdfd2e36c93352b0067f26de880dc8c968b70ea"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
@@ -91,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a0083de1d569a304e8614862cba5e868e162e8703994204b1b261ef96daaf137"
+hash = "2ead99bb21f42b5b2c7dd9441429e1ab49ee05fbe754f519d229cc09538f9663"
 metafile = true
 
 [[files]]
@@ -381,12 +386,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "2ee05c095aa31539854f380e731f5173cdab1adda503a6b16e56d1a65674acec"
+hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true
 
 [[files]]
