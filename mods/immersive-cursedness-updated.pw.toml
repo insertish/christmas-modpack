@@ -1,0 +1,13 @@
+name = "Immersive Cursedness Updated"
+filename = "immersive-cursedness-1.5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aCkoEaRG/versions/ruf3b0YU/immersive-cursedness-1.5.0.jar"
+hash-format = "sha1"
+hash = "76a9564d4326d43d7fb12bed185ce188f10e1837"
+
+[update]
+[update.modrinth]
+mod-id = "aCkoEaRG"
+version = "ruf3b0YU"

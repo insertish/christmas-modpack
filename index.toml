@@ -265,6 +265,21 @@ hash = "a72f9d22199c058b621d49d651dcb6909f211bad7b7327347691a07f4bc6ecb4"
 metafile = true
 
 [[files]]
+file = "mods/immersive-cursedness-updated.pw.toml"
+hash = "e33e7627a627c9f792a1f904e3eb44ee1ef895d7ee2e8f89132a04c07da0c471"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "efa7f152645047ef83ee81d0319b27fa938b1de8fc3ff586510931257eb18cd3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "9e7d5b0d5d088e0c55edef8921d416222769301c5455d607c6ff806b4c3683fd"
 metafile = true
