@@ -1,13 +1,13 @@
 name = "Rubidium"
-filename = "rubidium-mc1.20.1-0.7.1.jar"
-side = "client"
+filename = "rubidium-mc1.20.1-0.7.1a.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/VKligEsm/rubidium-mc1.20.1-0.7.1.jar"
 hash-format = "sha1"
-hash = "9c532360e08cca8c8dd2d94827c24fc7eaac8b4b"
+hash = "2a1eeb09e35e0c2aa98cdf1d7391caad9360c94c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "4ZqxOvjD"
-version = "VKligEsm"
+[update.curseforge]
+file-id = 4952685
+project-id = 574856
