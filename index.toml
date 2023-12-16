@@ -265,6 +265,11 @@ hash = "a72f9d22199c058b621d49d651dcb6909f211bad7b7327347691a07f4bc6ecb4"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "98ed1aac14903965348411be3dd5380680cb4a9917f0497f955f1e51100d4b89"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "9e7d5b0d5d088e0c55edef8921d416222769301c5455d607c6ff806b4c3683fd"
 metafile = true
