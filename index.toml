@@ -265,11 +265,6 @@ hash = "30c1457311af0def3043d2b6bf9107003a14edcf1567d403e5ca166a6620cf04"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "b6ed9cae894fd159b6f78f6b66228750f7f38b49bb2c25cab870485bb08d462e"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
 metafile = true
@@ -342,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "18d3ebdaddfbfedc8a694e96ce17a5423599d440809a09d5c5cdcb6ecf8592f5"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
 
 [[files]]
