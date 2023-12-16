@@ -480,9 +480,8 @@ hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "561dd511de15a2a35535bad21196df592095f1405ec84456b6db74ae0881a3a6"
-metafile = true
+file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
+hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
 
 [[files]]
 file = "mods/searchables.pw.toml"
