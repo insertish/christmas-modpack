@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-forge-5.10.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/XmsWashv/modernfix-forge-5.10.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "496d1d617d78871c87fe05f69b10bb77f070b1cd"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "XmsWashv"

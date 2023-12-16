@@ -75,6 +75,16 @@ hash = "e553de7cb794101cec9a23949c80de6a0436a97f1126686efdcc80ecc54c6aef"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "dcd10eb098b243694c406ddfb32ac1493aa839db833cfeb7036fbe4bef0b618b"
+metafile = true
+
+[[files]]
+file = "mods/chatimage.pw.toml"
+hash = "c933dbd1a3aaf3c305fb187a354a2a0d71ea5026ee97cc60ce790528dfc334b1"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "824891587a4b4ec2834168fdb120ed63ef48db894ca99355399be5bb1cceabb6"
 metafile = true
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58de3eb3fec1467a6d1e0efd3c77f36546dbb208031a1eb5f2bdc4e93a93fc4b"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
 metafile = true
 
 [[files]]
@@ -97,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "2ead99bb21f42b5b2c7dd9441429e1ab49ee05fbe754f519d229cc09538f9663"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
@@ -160,6 +180,11 @@ hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
+metafile = true
+
+[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "5e08408d0b54c36bee36fa3328bdcacff186656d51bbe3bf033b1b3ecb492daf"
 metafile = true
@@ -182,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "18311cdec474d21247f33fede33ffef2ca27b715dec47b4914957a8ec59cbe6e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
@@ -230,6 +260,16 @@ hash = "30c1457311af0def3043d2b6bf9107003a14edcf1567d403e5ca166a6620cf04"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b6ed9cae894fd159b6f78f6b66228750f7f38b49bb2c25cab870485bb08d462e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7937f07a105862d70f937beef9e58bfefc64891bd711bed5934a73dec803f161"
 metafile = true
@@ -237,6 +277,16 @@ metafile = true
 [[files]]
 file = "mods/k9-mod.pw.toml"
 hash = "ab26cf52bc9664cad751c7c51bbf985e1e1d7549bcdba3e7ab3811765cecfa5e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
 
 [[files]]
@@ -267,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "df47851169731cdd5db3669d9ec209347dc11e4b2f8b4abaf14cde71fae27fed"
 metafile = true
 
 [[files]]
@@ -415,6 +470,11 @@ hash = "12f69870b129b5af1662bab266fa96644d3d3ce2441aec26f4bf5f27cfdfa9b2"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -477,9 +537,4 @@ metafile = true
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
 hash = "afdf4f10e6151dd619f57d33f89e3981cd4faeac0bc9c17802ff35f1733ec629"
-metafile = true
-
-[[files]]
-file = "mods/world-pre-generator.pw.toml"
-hash = "c589e95f91ae807747b5eb70c6220be7a28ac0329e308d10cf0f9e5592575405"
 metafile = true

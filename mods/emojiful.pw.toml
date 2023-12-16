@@ -1,0 +1,13 @@
+name = "Emojiful"
+filename = "Emojiful-Forge-1.20.1-4.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72GXx2MO/versions/NFYwjzXZ/Emojiful-Forge-1.20.1-4.2.0.jar"
+hash-format = "sha1"
+hash = "3a715b0c8e9244a0d6aace3e3d2f863a62ddc3bc"
+
+[update]
+[update.modrinth]
+mod-id = "72GXx2MO"
+version = "NFYwjzXZ"
