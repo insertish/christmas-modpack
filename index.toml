@@ -205,11 +205,6 @@ hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
 
 [[files]]
-file = "mods/earlystage.pw.toml"
-hash = "1ce5eca10d137d55ff68f1ab7068d70b5cd3fbda6f56882e6d4c619ff176351b"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
