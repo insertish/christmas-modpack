@@ -1,0 +1,13 @@
+name = "YUNG's Better Mineshafts"
+filename = "YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+hash-format = "sha1"
+hash = "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+
+[update]
+[update.modrinth]
+mod-id = "HjmxVlSr"
+version = "kVO57zxB"

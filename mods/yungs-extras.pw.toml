@@ -1,0 +1,13 @@
+name = "YUNG's Extras"
+filename = "YungsExtras-1.20-Forge-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/h4m8J7w8/YungsExtras-1.20-Forge-4.0.3.jar"
+hash-format = "sha1"
+hash = "4b2e632353a95c16a080c2e64c426480a139fbd6"
+
+[update]
+[update.modrinth]
+mod-id = "ZYgyPyfq"
+version = "h4m8J7w8"

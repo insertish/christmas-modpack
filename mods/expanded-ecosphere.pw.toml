@@ -1,0 +1,13 @@
+name = "William Wythers' Expanded Ecosphere"
+filename = "expanded_ecosphere-3.2.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/8fZ8M4rg/expanded_ecosphere-3.2.3-forge.jar"
+hash-format = "sha1"
+hash = "173c2db66c8dd6be72c03e1f10f4222ccc9c5148"
+
+[update]
+[update.modrinth]
+mod-id = "O1XGs7ps"
+version = "8fZ8M4rg"

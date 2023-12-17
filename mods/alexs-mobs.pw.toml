@@ -1,0 +1,13 @@
+name = "Alex's Mobs"
+filename = "alexsmobs-1.22.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2cMuAZAp/versions/ftwjMYH7/alexsmobs-1.22.7.jar"
+hash-format = "sha1"
+hash = "5b27e202521a2bad17582a8885227833f063507f"
+
+[update]
+[update.modrinth]
+mod-id = "2cMuAZAp"
+version = "ftwjMYH7"
