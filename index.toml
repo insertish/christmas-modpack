@@ -190,6 +190,11 @@ hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
 
 [[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "de492964e73f0137f151150591f1cc09f690b347afa0b9c1dc5b99fe9b42c16d"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
 metafile = true
@@ -352,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "df47851169731cdd5db3669d9ec209347dc11e4b2f8b4abaf14cde71fae27fed"
+metafile = true
+
+[[files]]
+file = "mods/modular-force-field-systems.pw.toml"
+hash = "62779c153132282db16d8172b120388ee509d54685c11a474552b5b37521e8a4"
 metafile = true
 
 [[files]]
