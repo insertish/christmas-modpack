@@ -1,0 +1,13 @@
+name = "River Redux"
+filename = "riverredux-0.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dhhdnacC/versions/Tjc3ivPe/riverredux-0.3.1.jar"
+hash-format = "sha1"
+hash = "4b60e85e75e79edc419aa01e03bfd7d6b77d3c5f"
+
+[update]
+[update.modrinth]
+mod-id = "dhhdnacC"
+version = "Tjc3ivPe"

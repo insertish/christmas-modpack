@@ -495,6 +495,11 @@ hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
 metafile = true
 
 [[files]]
+file = "mods/river-redux.pw.toml"
+hash = "3452f77929d5adeb1a9c577e2f1f0abc252b1daf2ab0bbf9d61f39e2a7023b38"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
 metafile = true
