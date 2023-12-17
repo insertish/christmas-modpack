@@ -125,11 +125,6 @@ hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
 
 [[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "f4598af9882b277b3d0cc68e7c79081f7dfb43ca88246703da1020af2539311f"
-metafile = true
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "28316a07bf2e2682cdb1fe096c70c498dd1d871181d39cf2dce738781d1df09d"
 metafile = true
@@ -245,11 +240,6 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
-file = "mods/equipment-compare.pw.toml"
-hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "185d3f4d972c8a414623fc9b53e1f254b32efb982d29c2fab4801ad286c61589"
 metafile = true
@@ -257,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
-metafile = true
-
-[[files]]
-file = "mods/explorify.pw.toml"
-hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
 metafile = true
 
 [[files]]
@@ -500,11 +485,6 @@ hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
-metafile = true
-
-[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "91defa6403d242ea0431e37e2f028aa33d4bd990580d7dd69eac6c4c5685732f"
 metafile = true
@@ -621,11 +601,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
-metafile = true
-
-[[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "792d9f06ecd08a3b5fcfab4867a899061df92a4695cc6bea6c4dc4afd960720d"
 metafile = true
 
 [[files]]
