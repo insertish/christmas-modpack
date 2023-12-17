@@ -1,10 +1,9 @@
-# 154 Mods
+# 164 Mods
 
 |Name|Side||
 |---|---|:-:|
 |Ad Astra|both|[Modrinth](https://modrinth.com/mod/ad-astra)|
 |Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
-|Alex's Mobs|both|[Modrinth](https://modrinth.com/mod/alexs-mobs)|
 |AppleSkin|both|[Modrinth](https://modrinth.com/mod/appleskin)|
 |Applied Energistics 2 Wireless Terminals|both|[Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)|
 |Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
@@ -24,15 +23,16 @@
 |Cherished Worlds|client|[Modrinth](https://modrinth.com/mod/cherished-worlds)|
 |Chipped|both|[Modrinth](https://modrinth.com/mod/chipped)|
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
-|Citadel|both|[Modrinth](https://modrinth.com/mod/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
-|Combat Roll|both|[Modrinth](https://modrinth.com/mod/combat-roll)|
+|Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connector Extras|both|[Modrinth](https://modrinth.com/mod/connector-extras)|
 |Sinytra Connector|both|[Modrinth](https://modrinth.com/mod/connector)|
 |Controlling|client|[Modrinth](https://modrinth.com/mod/controlling)|
+|Cosmetic Armor|both|[Modrinth](https://modrinth.com/mod/cosmetic-armor)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
 |Create: Liquid Fuel|both|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
 |Create: Structures|both|[Modrinth](https://modrinth.com/mod/create-structures)|
+|Create: Sweets And Treats|both|[Modrinth](https://modrinth.com/mod/create-sweets-and-treats)|
 |Create|both|[Modrinth](https://modrinth.com/mod/create)|
 |Create Crafts & Additions|both|[Modrinth](https://modrinth.com/mod/createaddition)|
 |Creeper Overhaul|both|[Modrinth](https://modrinth.com/mod/creeper-overhaul)|
@@ -43,22 +43,24 @@
 |Discord Integration|server|[Modrinth](https://modrinth.com/mod/dcintegration)|
 |Ding|client|[Modrinth](https://modrinth.com/mod/ding)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
+|Drogstyle|both|[Modrinth](https://modrinth.com/mod/drogstyle)|
 |Ducky Peripherals|both|[Modrinth](https://modrinth.com/mod/ducky-periphs)|
-|EarlyStage|both|[Modrinth](https://modrinth.com/mod/earlystage)|
+|Dynmap®|server|[Modrinth](https://modrinth.com/mod/dynmap)|
+|Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
 |Eating Animation|client|[Modrinth](https://modrinth.com/mod/eating-animation)|
 |Electrodynamics|both|[Modrinth](https://modrinth.com/mod/electrodynamics)|
 |Emojiful|both|[Modrinth](https://modrinth.com/mod/emojiful)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Entity Culling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
-|Equipment Compare|client|[Modrinth](https://modrinth.com/mod/equipment-compare)|
 |William Wythers' Expanded Ecosphere|both|[Modrinth](https://modrinth.com/mod/expanded-ecosphere)|
 |Explorer's Compass|both|[Modrinth](https://modrinth.com/mod/explorers-compass)|
-|Explorify|both|[Modrinth](https://modrinth.com/mod/explorify)|
 |Explosive Enhancement|client|[Modrinth](https://modrinth.com/mod/explosive-enhancement)|
 |Extra Disks|both|[Modrinth](https://modrinth.com/mod/extra-disks)|
+|Extreme sound muffler|client|[Modrinth](https://modrinth.com/mod/extreme_sound_muffler)|
 |Fabric Language Kotlin|both|[Modrinth](https://modrinth.com/mod/fabric-language-kotlin)|
 |Falling Leaves (Forge)|client|[Modrinth](https://modrinth.com/mod/fallingleavesforge)|
 |FerriteCore|both|[Modrinth](https://modrinth.com/mod/ferrite-core)|
+|Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Forgified Fabric API|both|[Modrinth](https://modrinth.com/mod/forgified-fabric-api)|
 |FTB Backups 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)|
 |Fusion (Connected Textures)|client|[Modrinth](https://modrinth.com/mod/fusion-connected-textures)|
@@ -74,6 +76,7 @@
 |Industrial Foregoing|both|[Modrinth](https://modrinth.com/mod/industrial-foregoing)|
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
 |Create: Interiors|both|[Modrinth](https://modrinth.com/mod/interiors)|
+|Inventory Essentials|both|[Modrinth](https://modrinth.com/mod/inventory-essentials)|
 |Jade 🔍|both|[Modrinth](https://modrinth.com/mod/jade)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
 |K9 Mod|both|[Modrinth](https://modrinth.com/mod/k9-mod)|
@@ -85,6 +88,8 @@
 |Mekanism Generators|both|[Modrinth](https://modrinth.com/mod/mekanism-generators)|
 |Mekanism Tools|both|[Modrinth](https://modrinth.com/mod/mekanism-tools)|
 |Mekanism|both|[Modrinth](https://modrinth.com/mod/mekanism)|
+|Modular Force Field Systems (MFFS)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mffs)|
+|Mica|client|[Modrinth](https://modrinth.com/mod/mica)|
 |Mine Little Pony|client|[Modrinth](https://modrinth.com/mod/mine-little-pony)|
 |ModernFix|both|[Modrinth](https://modrinth.com/mod/modernfix)|
 |Modular Force Field Systems|both|[Modrinth](https://modrinth.com/mod/modular-force-field-systems)|
@@ -97,12 +102,15 @@
 |Mystical Agriculture Tiered Crystals|both|[Modrinth](https://modrinth.com/mod/mystical-agriculture-tiered-crystals)|
 |Mystical Agriculture|both|[Modrinth](https://modrinth.com/mod/mystical-agriculture)|
 |Mystical Customization|both|[Modrinth](https://modrinth.com/mod/mystical-customization)|
+|Naturalist|both|[Modrinth](https://modrinth.com/mod/naturalist)|
 |Nature's Compass|both|[Modrinth](https://modrinth.com/mod/natures-compass)|
 |NetherPortalFix|both|[Modrinth](https://modrinth.com/mod/netherportalfix)|
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
 |Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
-|playerAnimator|both|[Modrinth](https://modrinth.com/mod/playeranimator)|
-|PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
+|Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
+|Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
+|Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
+|PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph|both|[Modrinth](https://modrinth.com/mod/polymorph)|
 |Polymorphic Energistics|both|[Modrinth](https://modrinth.com/mod/polymorphic-energistics)|
@@ -125,7 +133,7 @@
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
 |Sound Physics Remastered|both|[Modrinth](https://modrinth.com/mod/sound-physics-remastered)|
 |spark|both|[Modrinth](https://modrinth.com/mod/spark)|
-|Spelunkery|both|[Modrinth](https://modrinth.com/mod/spelunkery)|
+|Styled Nicknames|both|[Modrinth](https://modrinth.com/mod/styled-nicknames)|
 |SuperMartijn642's Config Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib)|
 |SuperMartijn642's Core Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib)|
 |Supplementaries Squared|both|[Modrinth](https://modrinth.com/mod/supplementaries-squared)|
@@ -135,10 +143,12 @@
 |Terralith|both|[Modrinth](https://modrinth.com/mod/terralith)|
 |tetra|both|[Modrinth](https://modrinth.com/mod/tetra)|
 |tetracelium|both|[Modrinth](https://modrinth.com/mod/tetracelium)|
+|Tiny Item Animations|client|[Modrinth](https://modrinth.com/mod/tiny-item-animations)|
 |Titanium|both|[Modrinth](https://modrinth.com/mod/titanium)|
 |Tom's Peripherals|both|[Modrinth](https://modrinth.com/mod/toms-peripherals)|
 |Tom's Trading Network|both|[Modrinth](https://modrinth.com/mod/toms-trading-network)|
 |Towers of the Wild Modded|both|[Modrinth](https://modrinth.com/mod/towers-of-the-wild-modded)|
+|Trinkets|both|[Modrinth](https://modrinth.com/mod/trinkets)|
 |Waystones|both|[Modrinth](https://modrinth.com/mod/waystones)|
 |When Dungeons Arise|both|[Modrinth](https://modrinth.com/mod/when-dungeons-arise)|
 |Wireless Chargers|both|[Modrinth](https://modrinth.com/mod/wireless-chargers)|
