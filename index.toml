@@ -15,11 +15,6 @@ hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -115,11 +110,6 @@ hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "bbdde189f98ef22538522bde4f9f2991a72d7ce68c4204bede8065139f2d74e2"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
@@ -137,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
@@ -465,6 +460,11 @@ hash = "5351c5c6480e5385dcb2de151ab7d9229311af7c2680b463fb92a10b7282a581"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "b5667d8296390025430b548d3f6d0d2c727cf2659f7f57f8c2b4e5d3444774f3"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
@@ -666,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
 hash = "cac4ba2e405276534a555a4962a152de1c3cf1b619cb53015d353254943eb801"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
