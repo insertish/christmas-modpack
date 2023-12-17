@@ -1,0 +1,13 @@
+name = "Create: Sweets And Treats"
+filename = "Create Sweets And Treats 1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FS7yzdnX/versions/quqA6XES/Create%20Sweets%20And%20Treats%201.1.jar"
+hash-format = "sha1"
+hash = "bdc43824a8a75af0a6b48e20a96f8191e35e5f00"
+
+[update]
+[update.modrinth]
+mod-id = "FS7yzdnX"
+version = "quqA6XES"

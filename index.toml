@@ -115,6 +115,11 @@ hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "dee714d069c7256a3eb634135a1334d1c7b5efbe6d29e517b7090f9e76e39503"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "28316a07bf2e2682cdb1fe096c70c498dd1d871181d39cf2dce738781d1df09d"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create-sweets-and-treats.pw.toml"
+hash = "31c74e96c76aabdbe2d9f9a7e5e36dbaf8866ea91feab92a71ed60489643c506"
 metafile = true
 
 [[files]]
@@ -200,8 +210,23 @@ hash = "efad049b95cf27f4bdd3ce2b192e1adb71d21c08dbbb50fa0b32ea45ed16377a"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "3cb69f9380e633b3187fef3c0855ffc8f8bee0477626d37329ba8a90c8c20ec9"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "dbae5e6824caa84014ccc2ba0a72423b8fc2c85a6f26be3294a0b16b638b3469"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
@@ -250,6 +275,11 @@ hash = "f794a8812817b5160aff46aa35057dc2696e9aad52a923b5036e625cef2e5fcd"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "cb6b07414d3d90a6cc0f8a4c16bb8773bb14c9e84bb262e1ace80f1b12329958"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
@@ -262,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
 metafile = true
 
 [[files]]
@@ -340,6 +375,11 @@ hash = "30c1457311af0def3043d2b6bf9107003a14edcf1567d403e5ca166a6620cf04"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "02ae7c6bac56915122621b677cdc334c2651b182009caf451c80b3e177e37d02"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
 metafile = true
@@ -392,6 +432,16 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "22ef61953f3dbf520cc89eac5c6ab9a046cecd46254f37b04e80ed01e9e8a6fe"
+metafile = true
+
+[[files]]
+file = "mods/mffs.pw.toml"
+hash = "9329765ba2bdad8d7fc30104c9d107374059d54db928de1647feb333e8b8c04a"
+metafile = true
+
+[[files]]
+file = "mods/mica.pw.toml"
+hash = "3b71439d190d60070923693d98999f7433c7beb7e46864e8bf81391fec796a02"
 metafile = true
 
 [[files]]
@@ -480,8 +530,23 @@ hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "5304520a63731d43091412cabe6e285b5869cbe00e774b3e6e5d9327e14f8632"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae09750e91dfdf78e55cf5f7d2171029eccca6411cffa7dd12e04d1a155e32d7"
+metafile = true
+
+[[files]]
+file = "mods/pingspam.pw.toml"
+hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "91defa6403d242ea0431e37e2f028aa33d4bd990580d7dd69eac6c4c5685732f"
+hash = "c206c546c7df2ec8aff9a734716e3e4c4d37647caff01adeafa7cf130b2951d0"
 metafile = true
 
 [[files]]
@@ -574,6 +639,11 @@ hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
+file = "mods/sessility.pw.toml"
+hash = "e581c087c57b5f865613ff0ec169fac5b20416f6c18398f7bb7fbffbb9858a7d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat-radio.pw.toml"
 hash = "f2e538d44912ed4d42c1f8664cabe9c2de3b46aea305188d2f428127fe9bf56d"
 metafile = true
@@ -596,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
@@ -641,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/tetracelium.pw.toml"
 hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "fbd1d93ab318f520b3c755c993d4e4ff24eff7ced81bf4327ae229b0c4d1a5db"
 metafile = true
 
 [[files]]

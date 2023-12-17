@@ -1,0 +1,13 @@
+name = "Modular Force Field Systems (MFFS)"
+filename = "mffs-5.1.9-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c18bb0180578292a75d8d76c8453345b146c1d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4840967
+project-id = 238546
