@@ -85,11 +85,6 @@ hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "af68133e1ff9f51bb388aeaee10398814b7572f8506698dc6c1366a57b092dda"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "8e1ac677b0fa6dbb1aa9225e12ec2915f853ca41a6611dd802c988a03457e4f6"
 metafile = true
@@ -260,6 +255,11 @@ hash = "de492964e73f0137f151150591f1cc09f690b347afa0b9c1dc5b99fe9b42c16d"
 metafile = true
 
 [[files]]
+file = "mods/elegantarmour.pw.toml"
+hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
 metafile = true
@@ -420,11 +420,6 @@ hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
@@ -550,6 +545,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "78d7c4809dd33dac8560fa46e30e6f2296f4979520ee75c8f303f5c87991a13d"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "95386ab23d1f87cb2f48df3e73519b291fd3959a43667fba7acc303d9277a6f1"
 metafile = true
@@ -669,6 +669,11 @@ file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
 hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
 
 [[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "901d94b2d30605d39c38c3e9992e5d8441d7d3cb5449757b16f4789a45c62bc4"
+metafile = true
+
+[[files]]
 file = "mods/scorched.pw.toml"
 hash = "1a6cf59cdf06746770e17e0b281b05ec4576ac37bf2ce6e61b327b80d5394784"
 metafile = true
@@ -676,11 +681,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
-metafile = true
-
-[[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
 metafile = true
 
 [[files]]
