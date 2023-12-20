@@ -1,4 +1,4 @@
-# 164 Mods
+# 174 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -8,13 +8,16 @@
 |Applied Energistics 2 Wireless Terminals|both|[Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)|
 |Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
 |Architectury API|both|[Modrinth](https://modrinth.com/mod/architectury-api)|
+|Ars Nouveau|both|[Modrinth](https://modrinth.com/mod/ars-nouveau)|
 |Artifacts|both|[Modrinth](https://modrinth.com/mod/artifacts)|
 |Athena|client|[Modrinth](https://modrinth.com/mod/athena-ctm)|
 |Axiom|both|[Modrinth](https://modrinth.com/mod/axiom)|
 |Balm|both|[Modrinth](https://modrinth.com/mod/balm)|
 |Create: Bells & Whistles|both|[Modrinth](https://modrinth.com/mod/bellsandwhistles)|
+|Better Third Person|client|[Modrinth](https://modrinth.com/mod/better-third-person)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
 |Biomes O' Plenty|both|[Modrinth](https://modrinth.com/mod/biomes-o-plenty)|
+|Blood Magic|both|[Modrinth](https://modrinth.com/mod/blood-magic)|
 |Botarium|both|[Modrinth](https://modrinth.com/mod/botarium)|
 |Building Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)|
 |CC: Tweaked|both|[Modrinth](https://modrinth.com/mod/cc-tweaked)|
@@ -49,6 +52,7 @@
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
 |Eating Animation|client|[Modrinth](https://modrinth.com/mod/eating-animation)|
 |Electrodynamics|both|[Modrinth](https://modrinth.com/mod/electrodynamics)|
+|Elegant Armour 👕|both|[Modrinth](https://modrinth.com/mod/elegantarmour)|
 |Emojiful|both|[Modrinth](https://modrinth.com/mod/emojiful)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Entity Culling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
@@ -81,7 +85,6 @@
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
 |K9 Mod|both|[Modrinth](https://modrinth.com/mod/k9-mod)|
 |Kotlin for Forge|both|[Modrinth](https://modrinth.com/mod/kotlin-for-forge)|
-|LambDynamicLights|client|[Modrinth](https://modrinth.com/mod/lambdynamiclights)|
 |libIPN|client|[Modrinth](https://modrinth.com/mod/libipn)|
 |MEGA Cells|both|[Modrinth](https://modrinth.com/mod/mega)|
 |Mekanism Additions|both|[Modrinth](https://modrinth.com/mod/mekanism-additions)|
@@ -92,6 +95,7 @@
 |Mica|client|[Modrinth](https://modrinth.com/mod/mica)|
 |Mine Little Pony|client|[Modrinth](https://modrinth.com/mod/mine-little-pony)|
 |ModernFix|both|[Modrinth](https://modrinth.com/mod/modernfix)|
+|Modonomicon|both|[Modrinth](https://modrinth.com/mod/modonomicon)|
 |Modular Force Field Systems|both|[Modrinth](https://modrinth.com/mod/modular-force-field-systems)|
 |Moonlight Lib|both|[Modrinth](https://modrinth.com/mod/moonlight)|
 |More Red x CC:Tweaked Compat|both|[Modrinth](https://modrinth.com/mod/more-red-x-cc-tweaked-compat)|
@@ -106,6 +110,8 @@
 |Nature's Compass|both|[Modrinth](https://modrinth.com/mod/natures-compass)|
 |NetherPortalFix|both|[Modrinth](https://modrinth.com/mod/netherportalfix)|
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
+|ObsidianUI|client|[Modrinth](https://modrinth.com/mod/obsidianui)|
+|Occultism|both|[Modrinth](https://modrinth.com/mod/occultism)|
 |Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
@@ -122,15 +128,19 @@
 |Refined Storage Addons|both|[Modrinth](https://modrinth.com/mod/refined-storage-addons)|
 |Refined Storage|both|[Modrinth](https://modrinth.com/mod/refined-storage)|
 |Roughly Enough Items (REI)|both|[Modrinth](https://modrinth.com/mod/rei)|
+|Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)|
 |Resourceful Config|both|[Modrinth](https://modrinth.com/mod/resourceful-config)|
 |Resourceful Lib|both|[Modrinth](https://modrinth.com/mod/resourceful-lib)|
 |River Redux|server|[Modrinth](https://modrinth.com/mod/river-redux)|
+|RSInfinityBooster|both|[Modrinth](https://modrinth.com/mod/rsinfinitybooster)|
 |Rubidium Extra|client|[Modrinth](https://modrinth.com/mod/rubidium-extra)|
+|RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
 |Simple Voice Chat Radio|server|[Modrinth](https://modrinth.com/mod/simple-voice-chat-radio)|
 |Simple Voice Chat|both|[Modrinth](https://modrinth.com/mod/simple-voice-chat)|
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
+|SmartBrainLib|both|[Modrinth](https://modrinth.com/mod/smartbrainlib)|
 |Sound Physics Remastered|both|[Modrinth](https://modrinth.com/mod/sound-physics-remastered)|
 |spark|both|[Modrinth](https://modrinth.com/mod/spark)|
 |Styled Nicknames|both|[Modrinth](https://modrinth.com/mod/styled-nicknames)|
