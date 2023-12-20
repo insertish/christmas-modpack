@@ -1,0 +1,13 @@
+name = "VECTOR"
+filename = "VECTOR_v1.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8nz2nHG/versions/BL5PF1Kg/VECTOR_v1.2.1.zip"
+hash-format = "sha1"
+hash = "c44aa85cb69e58b26d74813100697690473cd657"
+
+[update]
+[update.modrinth]
+mod-id = "a8nz2nHG"
+version = "BL5PF1Kg"

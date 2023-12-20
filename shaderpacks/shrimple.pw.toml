@@ -1,0 +1,13 @@
+name = "Shrimple"
+filename = "Shrimple_v0.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BS9T99lD/versions/51aLQA1v/Shrimple_v0.10.zip"
+hash-format = "sha1"
+hash = "54435dd65129b35d1a3fd4f78335556e9d13e224"
+
+[update]
+[update.modrinth]
+mod-id = "BS9T99lD"
+version = "51aLQA1v"

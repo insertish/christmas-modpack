@@ -35,6 +35,11 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "885ab1050064dd233fc1a154893842676443d0bcfbfb93ba20887d01847d4469"
 metafile = true
@@ -60,6 +65,11 @@ hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
@@ -67,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "af68133e1ff9f51bb388aeaee10398814b7572f8506698dc6c1366a57b092dda"
 metafile = true
 
 [[files]]
@@ -455,6 +475,11 @@ hash = "df47851169731cdd5db3669d9ec209347dc11e4b2f8b4abaf14cde71fae27fed"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "8eaa5eef56fc4fe3633682964b8c198ec2af5011b92ea78dd28c943cb990e269"
+metafile = true
+
+[[files]]
 file = "mods/modular-force-field-systems.pw.toml"
 hash = "62779c153132282db16d8172b120388ee509d54685c11a474552b5b37521e8a4"
 metafile = true
@@ -522,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "95386ab23d1f87cb2f48df3e73519b291fd3959a43667fba7acc303d9277a6f1"
 metafile = true
 
 [[files]]
@@ -605,6 +635,11 @@ hash = "78c2924034bad9bfe4ecfa7367e3e4efbadb2e1634f98e67d725bdc8a9c40398"
 metafile = true
 
 [[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "ad8b3da5238809416fb632b19c842317c0bf990f80b95e1de1b7926a3c5d90ab"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "78362b7e7661e4511545b6f782e3dbcff2500a64e61dea86125f2a60484eb6a8"
 metafile = true
@@ -617,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/river-redux.pw.toml"
 hash = "3452f77929d5adeb1a9c577e2f1f0abc252b1daf2ab0bbf9d61f39e2a7023b38"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "6d2e78c790e5bfe249dab8cab5a237ad3706548e3ff0bb5fa277e53b5ea663e1"
 metafile = true
 
 [[files]]
@@ -639,6 +679,11 @@ hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat-radio.pw.toml"
 hash = "f2e538d44912ed4d42c1f8664cabe9c2de3b46aea305188d2f428127fe9bf56d"
 metafile = true
@@ -651,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "f378856092ca47a32e9446ef69696fa25facd26361f20c43467ef4018dbad427"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "297081f7f2c1077fe15462dcff69143f96f672818dfa6829fae39d1c5849f25c"
 metafile = true
 
 [[files]]
@@ -826,4 +876,64 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "107b8b43e9fdd45cc38780875db8e4b976fadacc261f45cb39addd4e0ddb576a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/fastpbr.pw.toml"
+hash = "d7d710edc5451d7f4b5f4e6f3f047fd1cc130787a230257a8db94edbb6aa96fe"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "201eb66d6fe70a24e16d3105017990832893b1d3080e666dfe63951253021217"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "d08fb31148ea233e10429a69318cc722a11eaeb4304853311e1af26f6fd54ca5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pixel-perfect.pw.toml"
+hash = "fa74fcb377b138dba41aa391436f918178dea9e709fea7dede15357e1d3714fc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "49e6dfd941f8111e02f515b314516dfaddf70b9410429330e56ef69828d31394"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "31cafccd47faddc208d0187511e5e7329fdca3d7c55d089a9046ad91f2bec1d5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vector.pw.toml"
+hash = "ae53e5cedf12a110308cf4db76c9cb6ef321e2a82834b36557d558cb3c4b06fb"
 metafile = true

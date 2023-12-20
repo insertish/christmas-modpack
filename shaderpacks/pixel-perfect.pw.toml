@@ -1,0 +1,13 @@
+name = "Pixel Perfect"
+filename = "Pixel-Perfect-1-4-1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D5k8BTVz/versions/B7NHcqal/Pixel-Perfect-1-4-1.zip"
+hash-format = "sha1"
+hash = "684d3acaf992b4edaa3d1c872120ea82c8c3b5d2"
+
+[update]
+[update.modrinth]
+mod-id = "D5k8BTVz"
+version = "B7NHcqal"

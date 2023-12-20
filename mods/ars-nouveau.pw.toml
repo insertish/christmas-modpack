@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.20.1-4.8.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TKB6INcv/versions/8164ilRA/ars_nouveau-1.20.1-4.8.1-all.jar"
+hash-format = "sha1"
+hash = "9c432e8dd86a712ccd928ce4880fef52fc75b4c3"
+
+[update]
+[update.modrinth]
+mod-id = "TKB6INcv"
+version = "8164ilRA"
