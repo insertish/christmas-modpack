@@ -1,4 +1,4 @@
-# 174 Mods
+# 185 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -31,7 +31,7 @@
 |Connector Extras|both|[Modrinth](https://modrinth.com/mod/connector-extras)|
 |Sinytra Connector|both|[Modrinth](https://modrinth.com/mod/connector)|
 |Controlling|client|[Modrinth](https://modrinth.com/mod/controlling)|
-|Cosmetic Armor|both|[Modrinth](https://modrinth.com/mod/cosmetic-armor)|
+|Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
 |Create: Liquid Fuel|both|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
 |Create: Structures|both|[Modrinth](https://modrinth.com/mod/create-structures)|
@@ -43,6 +43,7 @@
 |ContainerSearcher|client|[Modrinth](https://modrinth.com/mod/csearcher)|
 |Cucumber Library|both|[Modrinth](https://modrinth.com/mod/cucumber)|
 |Curios API|both|[Modrinth](https://modrinth.com/mod/curios)|
+|Dank Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-storage)|
 |Discord Integration|server|[Modrinth](https://modrinth.com/mod/dcintegration)|
 |Ding|client|[Modrinth](https://modrinth.com/mod/ding)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
@@ -67,6 +68,9 @@
 |Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Forgified Fabric API|both|[Modrinth](https://modrinth.com/mod/forgified-fabric-api)|
 |FTB Backups 2|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2)|
+|FTB Library (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)|
+|FTB Teams (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)|
+|FTB Ultimine (Forge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)|
 |Fusion (Connected Textures)|client|[Modrinth](https://modrinth.com/mod/fusion-connected-textures)|
 |Geckolib|both|[Modrinth](https://modrinth.com/mod/geckolib)|
 |GraveStone Mod|both|[Modrinth](https://modrinth.com/mod/gravestone-mod)|
@@ -134,6 +138,10 @@
 |Resourceful Config|both|[Modrinth](https://modrinth.com/mod/resourceful-config)|
 |Resourceful Lib|both|[Modrinth](https://modrinth.com/mod/resourceful-lib)|
 |River Redux|server|[Modrinth](https://modrinth.com/mod/river-redux)|
+|REI Plugin Compatibilities (REIPC)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-hacks)|
+|Roughly Enough Items Fabric/Forge (REI)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)|
+|Roughly Enough Professions (REP)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep)|
+|Roughly Enough Resources|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)|
 |RSInfinityBooster|both|[Modrinth](https://modrinth.com/mod/rsinfinitybooster)|
 |Rubidium Extra|client|[Modrinth](https://modrinth.com/mod/rubidium-extra)|
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
@@ -141,8 +149,11 @@
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
 |SmartBrainLib|both|[Modrinth](https://modrinth.com/mod/smartbrainlib)|
+|Sophisticated Backpacks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)|
+|Sophisticated Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)|
 |Sound Physics Remastered|both|[Modrinth](https://modrinth.com/mod/sound-physics-remastered)|
 |spark|both|[Modrinth](https://modrinth.com/mod/spark)|
+|Spice of Life: Apple Pie Edition|both|[Modrinth](https://modrinth.com/mod/spice-of-life-apple-pie-edition)|
 |Styled Nicknames|both|[Modrinth](https://modrinth.com/mod/styled-nicknames)|
 |SuperMartijn642's Config Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib)|
 |SuperMartijn642's Core Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib)|
