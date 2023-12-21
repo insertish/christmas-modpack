@@ -404,11 +404,6 @@ hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
 
 [[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "c2269a9e657db40350aea860ad7b115abbc8aaad5a131d68b503841751ad182b"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "9e7d5b0d5d088e0c55edef8921d416222769301c5455d607c6ff806b4c3683fd"
 metafile = true
