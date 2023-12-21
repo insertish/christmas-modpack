@@ -154,6 +154,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "887894f269566efe8d753540e5edfe0e9d0357f440806d024db18282061ec10c"
+metafile = true
+
+[[files]]
+file = "mods/dank-storage.pw.toml"
+hash = "1877b9bc2e15cd13b708a1d5e3675505c314551e09540bce267ff5ec08467fac"
 metafile = true
 
 [[files]]
@@ -339,6 +349,11 @@ hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "ccc676f2fe83d77631fda1cc9ee4f1888d5ae4790f9777b0075f820d71dee3a0"
 metafile = true
@@ -391,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "c2269a9e657db40350aea860ad7b115abbc8aaad5a131d68b503841751ad182b"
 metafile = true
 
 [[files]]
@@ -679,6 +699,26 @@ hash = "3452f77929d5adeb1a9c577e2f1f0abc252b1daf2ab0bbf9d61f39e2a7023b38"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "3fce40c9060e26cbf4dab3dac2b14afe803641595e718f2c9935fd9aef93449f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "8eaa51d7f63c6abb594354921b8acb246bc5b7b6955cc98720fd36ae4f5b44be"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
+metafile = true
+
+[[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "6d2e78c790e5bfe249dab8cab5a237ad3706548e3ff0bb5fa277e53b5ea663e1"
 metafile = true
@@ -718,6 +758,16 @@ hash = "297081f7f2c1077fe15462dcff69143f96f672818dfa6829fae39d1c5849f25c"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ee0fa3921e81c5c47c27e09de1dffef9088d51981082fd1c80186f4c412e238e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9f68a11739e652f811453f92768c0170064240f79700bc8d68f4665a2b1c697f"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "12f69870b129b5af1662bab266fa96644d3d3ce2441aec26f4bf5f27cfdfa9b2"
 metafile = true
@@ -725,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-apple-pie-edition.pw.toml"
+hash = "31e492a48e31300b8e6f42d0b4b7b2c827024b647c74d4613180a5cb6b4b125c"
 metafile = true
 
 [[files]]

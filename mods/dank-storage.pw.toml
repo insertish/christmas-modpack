@@ -1,0 +1,13 @@
+name = "Dank Storage"
+filename = "dankstorage-forge-1.20.1-5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f1d87141717bea774fe22a697504f0532df4d61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4969928
+project-id = 335673
