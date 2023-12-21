@@ -116,11 +116,13 @@
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
+|Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|
 |PneumaticCraft: Repressurized|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph|both|[Modrinth](https://modrinth.com/mod/polymorph)|
 |Polymorphic Energistics|both|[Modrinth](https://modrinth.com/mod/polymorphic-energistics)|
 |Puzzles Lib|both|[Modrinth](https://modrinth.com/mod/puzzles-lib)|
+|pv-addon-soundphysics|client|[Modrinth](https://modrinth.com/mod/pv-addon-soundphysics)|
 |Raised|client|[Modrinth](https://modrinth.com/mod/raised)|
 |Rechiseled: Create|both|[Modrinth](https://modrinth.com/mod/rechiseled-create)|
 |Rechiseled|both|[Modrinth](https://modrinth.com/mod/rechiseled)|
@@ -137,8 +139,6 @@
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
-|Simple Voice Chat Radio|server|[Modrinth](https://modrinth.com/mod/simple-voice-chat-radio)|
-|Simple Voice Chat|both|[Modrinth](https://modrinth.com/mod/simple-voice-chat)|
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
 |SmartBrainLib|both|[Modrinth](https://modrinth.com/mod/smartbrainlib)|
 |Sound Physics Remastered|both|[Modrinth](https://modrinth.com/mod/sound-physics-remastered)|
