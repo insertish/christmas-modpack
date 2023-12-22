@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-12.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/etNAESKo/modular-routers-12.0.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "de1aa88ac2657c68905c09b9968c465d1819eccf"
+
+[update]
+[update.modrinth]
+mod-id = "EuTS81Z3"
+version = "etNAESKo"

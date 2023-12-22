@@ -1,0 +1,13 @@
+name = "Pylons"
+filename = "pylons-1.20.1-4.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A82glthi/versions/mzB1TpAu/pylons-1.20.1-4.2.0.jar"
+hash-format = "sha1"
+hash = "6504c3eed194ea7fd6402081073a09d090a864d4"
+
+[update]
+[update.modrinth]
+mod-id = "A82glthi"
+version = "mzB1TpAu"

@@ -24,6 +24,16 @@ hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "e7fc067ffd5dc111227e70ade57fa51dac0371a5376c9b7e71695d941921d85d"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "b056940d55f3c34ebc8c80df1079168004280fb5d35119c29cca6bd0165b967e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -156,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "2ead99bb21f42b5b2c7dd9441429e1ab49ee05fbe754f519d229cc09538f9663"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
 metafile = true
 
 [[files]]
@@ -459,6 +474,16 @@ hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "18844b7f2a830c1d701ad2c0b9ac3ffbfd69b2abffa5ea80be9e1686e3c153de"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "339d04b251e150eab2e616d7a19eefef27a8c9dc0921be49651223f1a5407a17"
 metafile = true
@@ -511,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/modular-force-field-systems.pw.toml"
 hash = "62779c153132282db16d8172b120388ee509d54685c11a474552b5b37521e8a4"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "7ff40ee5a1ac43a35aa0ff113befb0cff02aeebf8b45e58e7fb0d1ddb27eac05"
 metafile = true
 
 [[files]]
@@ -609,6 +639,11 @@ hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "ede670d359032727702c58ade5a73509658bcdea56738a66f8b9d0a59423f28e"
 metafile = true
@@ -641,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
+metafile = true
+
+[[files]]
+file = "mods/pylons.pw.toml"
+hash = "935722c62be609702fc07ed517cded28e1580955641b3e78aca34eca5d568559"
 metafile = true
 
 [[files]]
@@ -691,6 +731,21 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "44e35060d764d847704deb2b1301c169b798c7c19eef49997516a48acc3d7fd2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "0fc2306ce2ef207a31aa24a8d3454f20e51b1e8b6f920a453c4d98c3bf74259c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "98b6a4de348910cc31bd3a782ab9c38abadef6bca7ec32bd047059b3311ad796"
 metafile = true
 
 [[files]]
