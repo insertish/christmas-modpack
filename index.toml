@@ -9,6 +9,10 @@ file = "config/minelp.json"
 hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
 
 [[files]]
+file = "mods/ApothicAttributes-1.20.1-1.2.1.jar"
+hash = "f7643a53fd9f9800e319786dea5a0b6c94a55af454a720cd0d52067a10dc1fd4"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fe57f4a21d9e3a4976d2ae82381845584d964c0402c1e37b57c5ba14158d2c8d"
 metafile = true
@@ -26,11 +30,6 @@ metafile = true
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "e7fc067ffd5dc111227e70ade57fa51dac0371a5376c9b7e71695d941921d85d"
-metafile = true
-
-[[files]]
-file = "mods/apothic-attributes.pw.toml"
-hash = "b056940d55f3c34ebc8c80df1079168004280fb5d35119c29cca6bd0165b967e"
 metafile = true
 
 [[files]]
