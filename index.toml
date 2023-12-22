@@ -19,6 +19,11 @@ hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
 metafile = true
 
 [[files]]
@@ -738,6 +748,11 @@ hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "d250747a28c2b5e478792fc071bd4c603f06e0853af2cbe4d827124cc971ce83"
+metafile = true
+
+[[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "f378856092ca47a32e9446ef69696fa25facd26361f20c43467ef4018dbad427"
 metafile = true
@@ -768,8 +783,13 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-apple-pie-edition.pw.toml"
-hash = "31e492a48e31300b8e6f42d0b4b7b2c827024b647c74d4613180a5cb6b4b125c"
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "c21e23d246d27c0b40cdb214da2eb521287f76b30666c8934e3b8dac02953066"
 metafile = true
 
 [[files]]
