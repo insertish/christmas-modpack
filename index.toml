@@ -9,10 +9,6 @@ file = "config/minelp.json"
 hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
 
 [[files]]
-file = "mods/ApothicAttributes-1.20.1-1.2.1.jar"
-hash = "f7643a53fd9f9800e319786dea5a0b6c94a55af454a720cd0d52067a10dc1fd4"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fe57f4a21d9e3a4976d2ae82381845584d964c0402c1e37b57c5ba14158d2c8d"
 metafile = true
@@ -25,11 +21,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
-metafile = true
-
-[[files]]
-file = "mods/apotheosis.pw.toml"
-hash = "e7fc067ffd5dc111227e70ade57fa51dac0371a5376c9b7e71695d941921d85d"
 metafile = true
 
 [[files]]
@@ -635,11 +626,6 @@ metafile = true
 [[files]]
 file = "mods/pingspam.pw.toml"
 hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
-metafile = true
-
-[[files]]
-file = "mods/placebo.pw.toml"
-hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
 metafile = true
 
 [[files]]
