@@ -1,9 +1,10 @@
-# 185 Mods
+# 201 Mods
 
 |Name|Side||
 |---|---|:-:|
 |Ad Astra|both|[Modrinth](https://modrinth.com/mod/ad-astra)|
 |Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
+|Alex's Caves|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)|
 |AppleSkin|both|[Modrinth](https://modrinth.com/mod/appleskin)|
 |Applied Energistics 2 Wireless Terminals|both|[Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)|
 |Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
@@ -25,12 +26,16 @@
 |ChatImage|both|[Modrinth](https://modrinth.com/mod/chatimage)|
 |Cherished Worlds|client|[Modrinth](https://modrinth.com/mod/cherished-worlds)|
 |Chipped|both|[Modrinth](https://modrinth.com/mod/chipped)|
+|Chunk Loaders|both|[Modrinth](https://modrinth.com/mod/chunk-loaders)|
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
+|Citadel|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
 |Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connector Extras|both|[Modrinth](https://modrinth.com/mod/connector-extras)|
 |Sinytra Connector|both|[Modrinth](https://modrinth.com/mod/connector)|
+|Construction Wand|both|[Modrinth](https://modrinth.com/mod/construction-wand)|
 |Controlling|client|[Modrinth](https://modrinth.com/mod/controlling)|
+|Cooking for Blockheads|both|[Modrinth](https://modrinth.com/mod/cooking-for-blockheads)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
 |Create: Liquid Fuel|both|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
@@ -85,11 +90,14 @@
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
 |Create: Interiors|both|[Modrinth](https://modrinth.com/mod/interiors)|
 |Inventory Essentials|both|[Modrinth](https://modrinth.com/mod/inventory-essentials)|
+|Inventory Profiles Next|client|[Modrinth](https://modrinth.com/mod/inventory-profiles-next)|
 |Jade 🔍|both|[Modrinth](https://modrinth.com/mod/jade)|
 |JourneyMap|both|[Modrinth](https://modrinth.com/mod/journeymap)|
 |K9 Mod|both|[Modrinth](https://modrinth.com/mod/k9-mod)|
 |Kotlin for Forge|both|[Modrinth](https://modrinth.com/mod/kotlin-for-forge)|
 |libIPN|client|[Modrinth](https://modrinth.com/mod/libipn)|
+|Macaw's Roofs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)|
+|McJtyLib|both|[Modrinth](https://modrinth.com/mod/mcjtylib)|
 |MEGA Cells|both|[Modrinth](https://modrinth.com/mod/mega)|
 |Mekanism Additions|both|[Modrinth](https://modrinth.com/mod/mekanism-additions)|
 |Mekanism Generators|both|[Modrinth](https://modrinth.com/mod/mekanism-generators)|
@@ -98,9 +106,11 @@
 |Modular Force Field Systems (MFFS)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mffs)|
 |Mica|client|[Modrinth](https://modrinth.com/mod/mica)|
 |Mine Little Pony|client|[Modrinth](https://modrinth.com/mod/mine-little-pony)|
+|Mob Grinding Utils|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)|
 |ModernFix|both|[Modrinth](https://modrinth.com/mod/modernfix)|
 |Modonomicon|both|[Modrinth](https://modrinth.com/mod/modonomicon)|
 |Modular Force Field Systems|both|[Modrinth](https://modrinth.com/mod/modular-force-field-systems)|
+|Modular Routers|both|[Modrinth](https://modrinth.com/mod/modular-routers)|
 |Moonlight Lib|both|[Modrinth](https://modrinth.com/mod/moonlight)|
 |More Red x CC:Tweaked Compat|both|[Modrinth](https://modrinth.com/mod/more-red-x-cc-tweaked-compat)|
 |More Red|both|[Modrinth](https://modrinth.com/mod/more-red)|
@@ -127,6 +137,7 @@
 |Polymorphic Energistics|both|[Modrinth](https://modrinth.com/mod/polymorphic-energistics)|
 |Puzzles Lib|both|[Modrinth](https://modrinth.com/mod/puzzles-lib)|
 |pv-addon-soundphysics|client|[Modrinth](https://modrinth.com/mod/pv-addon-soundphysics)|
+|Pylons|both|[Modrinth](https://modrinth.com/mod/pylons)|
 |Raised|client|[Modrinth](https://modrinth.com/mod/raised)|
 |Rechiseled: Create|both|[Modrinth](https://modrinth.com/mod/rechiseled-create)|
 |Rechiseled|both|[Modrinth](https://modrinth.com/mod/rechiseled)|
@@ -137,6 +148,9 @@
 |Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)|
 |Resourceful Config|both|[Modrinth](https://modrinth.com/mod/resourceful-config)|
 |Resourceful Lib|both|[Modrinth](https://modrinth.com/mod/resourceful-lib)|
+|RFTools Base|both|[Modrinth](https://modrinth.com/mod/rftools-base)|
+|RFTools Dimensions|both|[Modrinth](https://modrinth.com/mod/rftools-dimensions)|
+|RFTools Utility|both|[Modrinth](https://modrinth.com/mod/rftools-utility)|
 |River Redux|server|[Modrinth](https://modrinth.com/mod/river-redux)|
 |REI Plugin Compatibilities (REIPC)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-hacks)|
 |Roughly Enough Items Fabric/Forge (REI)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)|
@@ -147,13 +161,15 @@
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
+|Simple Hats|both|[Modrinth](https://modrinth.com/mod/simple-hats)|
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
 |SmartBrainLib|both|[Modrinth](https://modrinth.com/mod/smartbrainlib)|
 |Sophisticated Backpacks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)|
 |Sophisticated Core|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)|
 |Sound Physics Remastered|both|[Modrinth](https://modrinth.com/mod/sound-physics-remastered)|
 |spark|both|[Modrinth](https://modrinth.com/mod/spark)|
-|Spice of Life: Apple Pie Edition|both|[Modrinth](https://modrinth.com/mod/spice-of-life-apple-pie-edition)|
+|Spice of Life: Carrot Edition|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)|
+|Stalwart Dungeons|both|[Modrinth](https://modrinth.com/mod/stalwart-dungeons)|
 |Styled Nicknames|both|[Modrinth](https://modrinth.com/mod/styled-nicknames)|
 |SuperMartijn642's Config Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib)|
 |SuperMartijn642's Core Lib|both|[Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib)|
