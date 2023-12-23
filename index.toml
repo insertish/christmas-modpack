@@ -129,6 +129,11 @@ hash = "58de3eb3fec1467a6d1e0efd3c77f36546dbb208031a1eb5f2bdc4e93a93fc4b"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
 metafile = true
@@ -439,6 +444,11 @@ hash = "02ae7c6bac56915122621b677cdc334c2651b182009caf451c80b3e177e37d02"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b6ed9cae894fd159b6f78f6b66228750f7f38b49bb2c25cab870485bb08d462e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "810f773689a23c44b37d6b6f4e05d4c2277f2ec43cb393a7a793a92cacb89685"
 metafile = true
@@ -455,12 +465,12 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
+hash = "f60ee4f5518c610ef222895d891743ad8e9937ea2cda33fbad8187e568a15edb"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
+hash = "e124c9b28a45af3d7f401f71d526b5e18cc5ec90b31208cd7f0f7555b0d17df1"
 metafile = true
 
 [[files]]
@@ -511,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
 hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "8885a270b8065fd0477078f258b8d59fa07b3cc1a7cfb30ec3f298b380f4cefb"
 metafile = true
 
 [[files]]
