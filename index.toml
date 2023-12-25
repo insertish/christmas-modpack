@@ -69,6 +69,11 @@ hash = "75e2b8d5951693a4988054d2c3b64af48f1ef5d88576b365442f8328ffa75775"
 metafile = true
 
 [[files]]
+file = "mods/ballistix.pw.toml"
+hash = "5653a2ecb2040752d2db80b4dde3f4cf50d74bfb57652a4abf4623475a5f51f8"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
@@ -646,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "51bb33e059d4e060fb4324ab57682c6f424b2e0145dbf0ecbacf07be583b98c1"
 metafile = true
 
 [[files]]
