@@ -5,8 +5,16 @@ file = "config/Mekanism/additions.toml"
 hash = "7963c26e01437885c7c087ec6266bbcad55ecdd2ec2e3fd6dd42342f7cf54fac"
 
 [[files]]
+file = "config/industrialforegoing/machine-resource-production.toml"
+hash = "860e2db1b04c608a994139908752b8c56aa2f6a9831f239e426d4ba026b70775"
+
+[[files]]
 file = "config/minelp.json"
 hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
+
+[[files]]
+file = "config/openloader/data/if_christmas_datapack.zip"
+hash = "c3944a966f2f2afbd3debe7ecd10af187d9169d802f8c79147fc67986cd9241a"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -179,6 +187,11 @@ hash = "dee714d069c7256a3eb634135a1334d1c7b5efbe6d29e517b7090f9e76e39503"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "83686a5a858828bb12622ce109262bad0dcfddcde4ce57942b81bbea1ea88229"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "28316a07bf2e2682cdb1fe096c70c498dd1d871181d39cf2dce738781d1df09d"
 metafile = true
@@ -309,6 +322,11 @@ hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "094f4efe0dc66255c812c6f41d489c63468c724319af7b6a94abb9c2abc7aed5"
+metafile = true
+
+[[files]]
 file = "mods/electrodynamics.pw.toml"
 hash = "de492964e73f0137f151150591f1cc09f690b347afa0b9c1dc5b99fe9b42c16d"
 metafile = true
@@ -351,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "f794a8812817b5160aff46aa35057dc2696e9aad52a923b5036e625cef2e5fcd"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "c44b6577219cf4886ac2a0eeb8486b73936a6571dfb5f07af5fd3c8abc4a1678"
 metafile = true
 
 [[files]]
@@ -411,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ec8c818d45d9d25c601c1130b5cc80d44a769fe42ea7d05f6322920185192855"
+metafile = true
+
+[[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "2c59a283cd67e680b21d6c561530def197539456f3ea52b7ba159a36df78ee11"
 metafile = true
 
 [[files]]
@@ -709,6 +737,16 @@ hash = "83e840100b02e6113ebe6e388e2b9e13b7d1c87a0fbc4186cb69c5d63483e529"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "bc0eb25b2b06890a328c7f56a927a840901fc6dec10e33d43a29112b03ae724e"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "d66dafbe365e449088597a71d181cfa0e91fd1bb61ab98c7c1daaf14e6b9b4d6"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c5372ddbf3c5abc5c1cb5ef67086e13f688574c5a1699130e6d0792e3e990310"
 metafile = true
@@ -965,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/toms-trading-network.pw.toml"
 hash = "8593cbba259bfd8500c20c4e8188e574a5f022f8719de9e0150941fd9f7019e9"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.10-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DghO0R02/versions/c8tyVtF8/connectedglass-1.1.10-forge-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "a4d65ad2b3e3f40479ee62b6c29f849ee1df6296"
+
+[update]
+[update.modrinth]
+mod-id = "DghO0R02"
+version = "c8tyVtF8"
