@@ -1,0 +1,13 @@
+name = "TorchMaster"
+filename = "torchmaster-20.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tl8ESrhX/versions/mDKAXTiu/torchmaster-20.1.5.jar"
+hash-format = "sha1"
+hash = "5cb257626093409d35701aaa307b8eecef6ecd31"
+
+[update]
+[update.modrinth]
+mod-id = "Tl8ESrhX"
+version = "mDKAXTiu"

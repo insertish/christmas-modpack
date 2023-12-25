@@ -44,6 +44,11 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "6e70f15a5c5adc6c32035355cd418f0bd9b9f45063d9cb1e774d4f3d142611a1"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
 metafile = true
@@ -69,8 +74,18 @@ hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "4abd0d53e87555ba75e23c4b0c3dac66b35c961eb8f87ebfc3358547acccef9e"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "1bf633be9aa13b87fe2381a0aa4bf49df3d201303743142151bd443a0c87072b"
 metafile = true
 
 [[files]]
@@ -101,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
+metafile = true
+
+[[files]]
+file = "mods/cable-tiers.pw.toml"
+hash = "04db20b4e1a5fa9746819fd992b26a7c41db6e8920d7d2c5394e9da82dd321c3"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "5af3192b2b36b2a9f02ebd72d7bcba82fae39fdc1a263e25039095b547deb02c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
 metafile = true
 
 [[files]]
@@ -529,6 +554,11 @@ hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "c1fe64388a1b9d8ba5f20e01b6c63b915c8efed3e602616f7c5a6a4f71b992f9"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "8885a270b8065fd0477078f258b8d59fa07b3cc1a7cfb30ec3f298b380f4cefb"
 metafile = true
@@ -689,6 +719,11 @@ hash = "935722c62be609702fc07ed517cded28e1580955641b3e78aca34eca5d568559"
 metafile = true
 
 [[files]]
+file = "mods/railroad-blocks.pw.toml"
+hash = "017f476834ac243309fbd0a9c4a3d53b6f6e5a52a79fbeed8a68e603cbaa64d4"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "47b95884f41ca1f097388fd3b820a9c6ced157a07eff0e52eeadc526f9a47482"
 metafile = true
@@ -776,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "1a1bfe0776cb92961f84add606ac5ef2cf0cea183f1cf8ba168feb29520142a2"
 metafile = true
 
 [[files]]
@@ -920,6 +960,11 @@ metafile = true
 [[files]]
 file = "mods/toms-trading-network.pw.toml"
 hash = "8593cbba259bfd8500c20c4e8188e574a5f022f8719de9e0150941fd9f7019e9"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "ca9e4861ab0cfeb2ea854e0f92f147c82e7036f2a5f8682ae088aabcc616aa7c"
 metafile = true
 
 [[files]]

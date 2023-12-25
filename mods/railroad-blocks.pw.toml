@@ -1,0 +1,13 @@
+name = "Railroad Blocks"
+filename = "Railroad Blocks-forge-1.20.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTmgisaB/versions/e377wUHJ/Railroad%20Blocks-forge-1.20.1-0.4.0.jar"
+hash-format = "sha1"
+hash = "c05a819cdca8e673909915b3a4beea72a54ad145"
+
+[update]
+[update.modrinth]
+mod-id = "sTmgisaB"
+version = "e377wUHJ"
