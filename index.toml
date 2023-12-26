@@ -17,10 +17,6 @@ file = "config/minelp.json"
 hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
 
 [[files]]
-file = "config/openloader/data/if_christmas_datapack.zip"
-hash = "c3944a966f2f2afbd3debe7ecd10af187d9169d802f8c79147fc67986cd9241a"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "fe57f4a21d9e3a4976d2ae82381845584d964c0402c1e37b57c5ba14158d2c8d"
 metafile = true
@@ -344,6 +340,10 @@ metafile = true
 file = "mods/emojiful.pw.toml"
 hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
 metafile = true
+
+[[files]]
+file = "mods/endgame_prosperity-1.0.0.jar"
+hash = "131d951202b32ce59e7af175038affd20f456ed3e9b41766caae6fab7e0581f1"
 
 [[files]]
 file = "mods/energymeter.pw.toml"
