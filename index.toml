@@ -136,10 +136,6 @@ hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar"
-hash = "8f4777f989667d451d3b8728b6ba91f0e8cdfe82d1f8f58fc51b408fc38a2abd"
-
-[[files]]
 file = "mods/cable-tiers.pw.toml"
 hash = "04db20b4e1a5fa9746819fd992b26a7c41db6e8920d7d2c5394e9da82dd321c3"
 metafile = true
