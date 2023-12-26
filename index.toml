@@ -6,7 +6,11 @@ hash = "7963c26e01437885c7c087ec6266bbcad55ecdd2ec2e3fd6dd42342f7cf54fac"
 
 [[files]]
 file = "config/industrialforegoing/machine-resource-production.toml"
-hash = "860e2db1b04c608a994139908752b8c56aa2f6a9831f239e426d4ba026b70775"
+hash = "c1198c624d9587e364f1caa27e9dc31b82c6b650b8949f7db2900b9ef1f8c0f9"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "790a56b6c5e7533400068f5dea700bd2d9ea0d111a3163d9d56ecd85d0a1cac7"
 
 [[files]]
 file = "config/minelp.json"
@@ -130,6 +134,10 @@ metafile = true
 file = "mods/building-gadgets.pw.toml"
 hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
 metafile = true
+
+[[files]]
+file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar"
+hash = "8f4777f989667d451d3b8728b6ba91f0e8cdfe82d1f8f58fc51b408fc38a2abd"
 
 [[files]]
 file = "mods/cable-tiers.pw.toml"
