@@ -1,0 +1,13 @@
+name = "Dynamic Electricity"
+filename = "Dynamic Electricity-1.20.1-1.1.0-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af0808046ed103cedaabe1107a8f594853a25cb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4880390
+project-id = 535933

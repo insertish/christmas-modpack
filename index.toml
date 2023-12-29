@@ -57,6 +57,11 @@ hash = "6e70f15a5c5adc6c32035355cd418f0bd9b9f45063d9cb1e774d4f3d142611a1"
 metafile = true
 
 [[files]]
+file = "mods/ars-instrumentum.pw.toml"
+hash = "94d18289646db6771a6c716e46481f24e3ce254c26807b6ad7edc549a61301fb"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "439d75f6e4413773780ccda63ea39138fbb44beb5eeb5895c197dcb6f9006e94"
 metafile = true
@@ -307,6 +312,11 @@ hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-electricity.pw.toml"
+hash = "0d5deaff9c9f10781467fc9fd22492a4be9acf37c0deebb35b37353747dbd03e"
+metafile = true
+
+[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "dbae5e6824caa84014ccc2ba0a72423b8fc2c85a6f26be3294a0b16b638b3469"
 metafile = true
@@ -408,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "0e0f6b3047cdbfaf9add707ca6d6762c3aef6f4f3de5fdd855a99a23e79a55b3"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
 
 [[files]]
@@ -536,8 +551,18 @@ hash = "da40f0376990f0471e35f15a56993a6e7ccc01be7851bf930862b08005c6fbcd"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c28104485fe8a5b1cae3da3807301ee849ee5e1daf48dcb3b40fcdffb35d38fd"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "18844b7f2a830c1d701ad2c0b9ac3ffbfd69b2abffa5ea80be9e1686e3c153de"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "353dd4807aef72d226e691fdf1f90dd3acd733df9d9b5d80ec11dd47ccbfc822"
 metafile = true
 
 [[files]]
@@ -661,6 +686,11 @@ hash = "5351c5c6480e5385dcb2de151ab7d9229311af7c2680b463fb92a10b7282a581"
 metafile = true
 
 [[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "e37f81b9e82e757ba91a3efc644ec63dfcac7f89d87a83032f02ea637b955f52"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "b5667d8296390025430b548d3f6d0d2c727cf2659f7f57f8c2b4e5d3444774f3"
 metafile = true
@@ -748,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-pipes.pw.toml"
 hash = "d66dafbe365e449088597a71d181cfa0e91fd1bb61ab98c7c1daaf14e6b9b4d6"
+metafile = true
+
+[[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "21f19221f1dda741a0c492142299bce46af2231795f12cc370963c3131a8e040"
 metafile = true
 
 [[files]]

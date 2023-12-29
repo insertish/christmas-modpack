@@ -1,0 +1,13 @@
+name = "Proxy Compatible Forge"
+filename = "proxy-compatible-forge-1.20-1.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vDyrHl8l/versions/K43ePlgq/proxy-compatible-forge-1.20-1.1.4.jar"
+hash-format = "sha1"
+hash = "d729d767a7cecfb2a3382f5e901cfe1da77d5d49"
+
+[update]
+[update.modrinth]
+mod-id = "vDyrHl8l"
+version = "K43ePlgq"
