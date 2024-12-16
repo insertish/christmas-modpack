@@ -1,0 +1,13 @@
+name = "Apotheosis"
+filename = "Apotheosis-1.20.1-7.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "301ded73e26a178cb2673a3e9e02235afbf824b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5753183
+project-id = 313970

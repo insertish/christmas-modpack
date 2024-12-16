@@ -1,0 +1,13 @@
+name = "Ars Creo"
+filename = "ars_creo-1.20.1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fZ324GMc/versions/IBTmGXNV/ars_creo-1.20.1-4.0.1.jar"
+hash-format = "sha1"
+hash = "4db15d1de2526d5aa72586bb3454dc6828f6b778"
+
+[update]
+[update.modrinth]
+mod-id = "fZ324GMc"
+version = "IBTmGXNV"
