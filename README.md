@@ -11,3 +11,4 @@ Join our [Revolt](https://rvlt.gg/christmas) or [Discord](https://discord.gg/h3E
 | 2021 | [`2021`](https://github.com/insertish/christmas-modpack/tree/2021) |
 | 2022 | [`2022`](https://github.com/insertish/christmas-modpack/tree/2022) |
 | 2023 | [`2023`](https://github.com/insertish/christmas-modpack/tree/2023) |
+| 2024 | [`2024`](https://github.com/insertish/christmas-modpack/tree/2024) |
