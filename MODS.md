@@ -1,11 +1,14 @@
-# 206 Mods
+# 210 Mods
 
 |Name|Side||
 |---|---|:-:|
 |Alex's Caves|both|[Modrinth](https://modrinth.com/mod/alexs-caves)|
 |Amendments|both|[Modrinth](https://modrinth.com/mod/amendments)|
+|Apotheosis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
+|Apothic Attributes (AttributesLib)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)|
 |AppleSkin|both|[Modrinth](https://modrinth.com/mod/appleskin)|
 |Architectury API (Fabric/Forge/NeoForge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)|
+|Ars Creo|both|[Modrinth](https://modrinth.com/mod/ars-creo)|
 |Ars Elemental|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)|
 |Ars Instrumentum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)|
 |Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
@@ -128,8 +131,9 @@
 |Occultism|both|[Modrinth](https://modrinth.com/mod/occultism)|
 |Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
-|Patchouli|both|[Modrinth](https://modrinth.com/mod/patchouli)|
+|Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
+|Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
