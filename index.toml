@@ -662,11 +662,6 @@ hash = "4b156e5231ebc8aa2ca733dbd029d00be50d08fc219d60022020037b1c21e62f"
 metafile = true
 
 [[files]]
-file = "mods/polymorphic-energistics.pw.toml"
-hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "24660c4b368b47a6f6ad3aee54b044b0036ec5c1c63bba2031124a78949d13ca"
 metafile = true
@@ -800,15 +795,6 @@ metafile = true
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "211dfc56773f4ed52c796ac844e35ceed81dc117039b66e42d1fb917c3291202"
 metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "9997cb8bf8582994a88444c7c2db5ef8eb25d3adeabf9d66772f4ec720303730"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
-hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
