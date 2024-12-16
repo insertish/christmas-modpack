@@ -1,13 +1,13 @@
 name = "Sleep Tight"
-filename = "sleep_tight-1.20-1.1.12.jar"
+filename = "sleep_tight-1.20-1.1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tNai0h2Y/versions/Paumip4p/sleep_tight-1.20-1.1.12.jar"
+url = "https://cdn.modrinth.com/data/tNai0h2Y/versions/iBTTQBfH/sleep_tight-1.20-1.1.19.jar"
 hash-format = "sha1"
-hash = "d39d95ac22fd28d146173588afec361b3290a1da"
+hash = "7080c6452bb7f3332e6f973d6ef75c456741b0b7"
 
 [update]
 [update.modrinth]
 mod-id = "tNai0h2Y"
-version = "Paumip4p"
+version = "iBTTQBfH"

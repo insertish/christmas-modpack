@@ -1,13 +1,13 @@
 name = "pv-addon-soundphysics"
-filename = "pv-addon-soundphysics-1.0.1.jar"
+filename = "pv-addon-soundphysics-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K1y8brkJ/versions/UNgY2UqF/pv-addon-soundphysics-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/K1y8brkJ/versions/E3AxqvF3/pv-addon-soundphysics-1.1.0.jar"
 hash-format = "sha1"
-hash = "1b9e6e312ed055187af3f8e670ca5e57b124efc0"
+hash = "2fec021d4dfeb25b0cae3f11db655a8afabcf631"
 
 [update]
 [update.modrinth]
 mod-id = "K1y8brkJ"
-version = "UNgY2UqF"
+version = "E3AxqvF3"

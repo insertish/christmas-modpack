@@ -1,13 +1,13 @@
 name = "Overflowing Bars"
-filename = "OverflowingBars-v8.0.0-1.20.1-Forge.jar"
+filename = "OverflowingBars-v8.0.1-1.20.1-Forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/juXraD7j/OverflowingBars-v8.0.0-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/w90XIUWB/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "e6445bdd4fafa9c41bd70ed271cf87b8ab692eda"
+hash = "047ac47549ae0a21b05f70d74bcf436ee0221eef"
 
 [update]
 [update.modrinth]
 mod-id = "XD7XOrAF"
-version = "juXraD7j"
+version = "w90XIUWB"

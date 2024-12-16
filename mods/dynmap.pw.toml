@@ -1,13 +1,13 @@
 name = "Dynmap®"
-filename = "Dynmap-3.7-beta-3-forge-1.20.jar"
+filename = "Dynmap-3.7-beta-6-forge-1.20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRQREgAc/versions/q3wyIwb8/Dynmap-3.7-beta-3-forge-1.20.jar"
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/RtI5TFAi/Dynmap-3.7-beta-6-forge-1.20.jar"
 hash-format = "sha1"
-hash = "f52bd62be411a49c7740519f7a39d04f6f8c97f7"
+hash = "a3718c3a850f30377aca18a333d8941fbb0ba91e"
 
 [update]
 [update.modrinth]
 mod-id = "fRQREgAc"
-version = "q3wyIwb8"
+version = "RtI5TFAi"

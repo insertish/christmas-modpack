@@ -1,13 +1,13 @@
 name = "Tom's Peripherals"
-filename = "toms-peripherals-1.20.1-1.1.1.jar"
+filename = "toms-peripherals-1.20.1-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ljgxd2P8/versions/WYKnYl7N/toms-peripherals-1.20.1-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/ljgxd2P8/versions/9B5CPuxC/toms-peripherals-1.20.1-1.3.0.jar"
 hash-format = "sha1"
-hash = "998470ceae748d82ec2381e61ae98a0c3e98a7d5"
+hash = "1ed5ea45ee4e84fc6be386360354c10592f7fbf4"
 
 [update]
 [update.modrinth]
 mod-id = "ljgxd2P8"
-version = "WYKnYl7N"
+version = "9B5CPuxC"
