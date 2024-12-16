@@ -1,8 +1,9 @@
-# 205 Mods
+# 206 Mods
 
 |Name|Side||
 |---|---|:-:|
 |Alex's Caves|both|[Modrinth](https://modrinth.com/mod/alexs-caves)|
+|Amendments|both|[Modrinth](https://modrinth.com/mod/amendments)|
 |AppleSkin|both|[Modrinth](https://modrinth.com/mod/appleskin)|
 |Architectury API (Fabric/Forge/NeoForge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)|
 |Ars Elemental|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)|
@@ -29,6 +30,7 @@
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
 |Citadel|both|[Modrinth](https://modrinth.com/mod/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
+|Cobblemon|both|[Modrinth](https://modrinth.com/mod/cobblemon)|
 |Cobweb|both|[Modrinth](https://modrinth.com/mod/cobweb)|
 |Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connected Glass|both|[Modrinth](https://modrinth.com/mod/connected-glass)|
@@ -40,6 +42,7 @@
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
 |Create: Liquid Fuel|server|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
+|Create: Steam 'n' Rails|both|[Modrinth](https://modrinth.com/mod/create-steam-n-rails)|
 |Create: Structures|both|[Modrinth](https://modrinth.com/mod/create-structures)|
 |Create: Sweets & Treats|both|[Modrinth](https://modrinth.com/mod/create-sweets-and-treats)|
 |Create|both|[Modrinth](https://modrinth.com/mod/create)|
@@ -131,7 +134,6 @@
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph|both|[Modrinth](https://modrinth.com/mod/polymorph)|
-|Polymorphic Energistics|both|[Modrinth](https://modrinth.com/mod/polymorphic-energistics)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Pretty Pipes|both|[Modrinth](https://modrinth.com/mod/pretty-pipes)|
 |Proxy Compatible Forge|server|[Modrinth](https://modrinth.com/mod/proxy-compatible-forge)|
@@ -159,7 +161,6 @@
 |Roughly Enough Resources|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)|
 |Refined Storage: Requestify|both|[Modrinth](https://modrinth.com/mod/rs-requestify)|
 |RSInfinityBooster|both|[Modrinth](https://modrinth.com/mod/rsinfinitybooster)|
-|Rubidium Extra|client|[Modrinth](https://modrinth.com/mod/rubidium-extra)|
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
