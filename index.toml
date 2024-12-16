@@ -642,11 +642,6 @@ hash = "aa4ad90f52ed69b3b2212b5a69f49e1ee46f3882211ccbd92e1ad4db17e487ad"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
 metafile = true
