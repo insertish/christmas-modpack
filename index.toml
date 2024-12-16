@@ -312,11 +312,6 @@ hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-electricity.pw.toml"
-hash = "ebfcfda524cf705a669dcf2df1085521a2597a90360d2e79786a1163a9d62efe"
-metafile = true
-
-[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "2eeebf102f9a8aa466c5e2a19c62a3f1f57bc206200587463bd5283fa6261c9f"
 metafile = true
@@ -334,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "094f4efe0dc66255c812c6f41d489c63468c724319af7b6a94abb9c2abc7aed5"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "7e24bc360a327c848e250ecfa29e52837eb86851a880ca4ccf06b03f6c03d866"
 metafile = true
 
 [[files]]

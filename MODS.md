@@ -1,4 +1,4 @@
-# 210 Mods
+# 208 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -61,12 +61,10 @@
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
 |Drogstyle|server|[Modrinth](https://modrinth.com/mod/drogstyle)|
 |Ducky Peripherals|both|[Modrinth](https://modrinth.com/mod/ducky-periphs)|
-|Dynamic Electricity|client|[Modrinth](https://modrinth.com/mod/dynamic-electricity)|
 |Dynmap®|server|[Modrinth](https://modrinth.com/mod/dynmap)|
 |Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)|client|[Modrinth](https://modrinth.com/mod/ears)|
 |Eating Animation|client|[Modrinth](https://modrinth.com/mod/eating-animation)|
 |EdivadLib|both|[Modrinth](https://modrinth.com/mod/edivadlib)|
-|Electrodynamics|both|[Modrinth](https://modrinth.com/mod/electrodynamics)|
 |Elegant Armour 👕|both|[Modrinth](https://modrinth.com/mod/elegantarmour)|
 |Emojiful|both|[Modrinth](https://modrinth.com/mod/emojiful)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
