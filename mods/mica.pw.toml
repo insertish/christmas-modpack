@@ -1,13 +1,13 @@
 name = "Mica"
-filename = "mica-1.0.1-forge.jar"
+filename = "mica-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ku1JKosh/versions/2H4AeOZK/mica-1.0.1-forge.jar"
+url = "https://cdn.modrinth.com/data/ku1JKosh/versions/2suYcmxv/mica-1.0.2.jar"
 hash-format = "sha1"
-hash = "6f48b492bb63915a74d01b85a185e7133683678d"
+hash = "4988ae9045f6d034940bcd4b2b9baaa62219f29e"
 
 [update]
 [update.modrinth]
 mod-id = "ku1JKosh"
-version = "2H4AeOZK"
+version = "2suYcmxv"

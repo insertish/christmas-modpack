@@ -1,13 +1,13 @@
 name = "HD Skins"
-filename = "hdskins-6.10.2+1.20.jar"
+filename = "hdskins-6.10.3+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FzE9gshV/versions/1Jdf1Be1/hdskins-6.10.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/FzE9gshV/versions/ipK4gJzR/hdskins-6.10.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "e15bb8b3d76aa6f1bf755d9580df99d5d40ed86c"
+hash = "87def47d0c182ff0600e3e5b33722fd770032dce"
 
 [update]
 [update.modrinth]
 mod-id = "FzE9gshV"
-version = "1Jdf1Be1"
+version = "ipK4gJzR"

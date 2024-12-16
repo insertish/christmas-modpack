@@ -1,13 +1,13 @@
 name = "Chat Heads"
-filename = "chat_heads-0.10.27-forge-1.20.jar"
-side = "client"
+filename = "chat_heads-0.13.7-forge-1.20.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/vG1diamy/chat_heads-0.10.27-forge-1.20.jar"
 hash-format = "sha1"
-hash = "8180eaf932a9f9e62ac854fccff4a23c9eeb7f77"
+hash = "288ca8e77d116f4cb0b487a4e490c0337ec1fa1f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Wb5oqrBJ"
-version = "vG1diamy"
+[update.curseforge]
+file-id = 5936595
+project-id = 407206

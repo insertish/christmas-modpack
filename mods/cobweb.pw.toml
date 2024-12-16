@@ -1,0 +1,13 @@
+name = "Cobweb"
+filename = "cobweb-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQcfqGbl/versions/RdRlnl4S/cobweb-forge-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "65b6cf6873c9e5e6aadc5e46eb9a7c3a7508ab3f"
+
+[update]
+[update.modrinth]
+mod-id = "dQcfqGbl"
+version = "RdRlnl4S"

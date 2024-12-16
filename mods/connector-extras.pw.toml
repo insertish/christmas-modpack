@@ -1,13 +1,13 @@
 name = "Connector Extras"
-filename = "ConnectorExtras-1.8.0+1.20.1.jar"
+filename = "ConnectorExtras-1.11.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/D4hGQD7g/ConnectorExtras-1.8.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "0d2faf5d5d099eb164b782c59a7370d2f134958d"
+hash = "9336db4e6ce458bccf7724c039f0371e822397ae"
 
 [update]
 [update.modrinth]
 mod-id = "FYpiwiBR"
-version = "D4hGQD7g"
+version = "d28gpPn6"
