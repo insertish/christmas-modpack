@@ -1,0 +1,13 @@
+name = "Cobblemon"
+filename = "Cobblemon-forge-1.5.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/vm5zUZAg/Cobblemon-forge-1.5.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "02601f79f0c442b75463538da7a3c7f260fda42e"
+
+[update]
+[update.modrinth]
+mod-id = "MdwFAVRL"
+version = "vm5zUZAg"

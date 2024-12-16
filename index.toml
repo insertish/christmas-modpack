@@ -22,6 +22,11 @@ hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "e548fa51bb741d279d0e4e975aca6cc54579dfded7566e24dd1abcd1f06469ea"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -149,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "8cad751fd685ff4f0143411e2b7c9f9444309b04f05948d7e92370b8c05b26b2"
 metafile = true
 
 [[files]]
