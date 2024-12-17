@@ -5,6 +5,10 @@ file = "config/Mekanism/additions.toml"
 hash = "7963c26e01437885c7c087ec6266bbcad55ecdd2ec2e3fd6dd42342f7cf54fac"
 
 [[files]]
+file = "config/alexscaves-client.toml"
+hash = "74b9c966af55c863c197c7192bc080f002888b3cce19bd6da02878c4736e4d13"
+
+[[files]]
 file = "config/industrialforegoing/machine-resource-production.toml"
 hash = "c1198c624d9587e364f1caa27e9dc31b82c6b650b8949f7db2900b9ef1f8c0f9"
 
@@ -169,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "8cad751fd685ff4f0143411e2b7c9f9444309b04f05948d7e92370b8c05b26b2"
 metafile = true
 
 [[files]]
@@ -714,11 +713,6 @@ metafile = true
 [[files]]
 file = "mods/railroad-blocks.pw.toml"
 hash = "a962fc5bd4e60a027e78c04921785ed05414101bb8646fff342f311c35ba3ee9"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "2d4454a9c2e9d8486dd49a1120ca9ca7bbbe0e07e7678a50e2b46308ab5568ea"
 metafile = true
 
 [[files]]
