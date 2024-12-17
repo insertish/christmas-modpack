@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-
 hash-format = "sha1"
 hash = "95b8fe605ada8c3f24ea62d45d1fdb065bd81329"
 
+[option]
+optional = true
+default = true
+description = "Super far render distance (may lower performance - you should try the in-game quality slider first though if you're having issues with it and want to use it)"
+
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"

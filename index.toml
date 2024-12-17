@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
+hash = "dd5155dac2c85e24683e45859fe5d77f7d7a94fdc5440db5517653ad7c10acc9"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "b22cbb78f09cca54f87a3a1a266800b8051bd1d5a4a57e423eef13157596ea14"
+hash = "b0f679893b1e482006f6e0745c1e758c5258b90ae8912c617d2d600114d4beb7"
 metafile = true
 
 [[files]]

@@ -10,6 +10,7 @@ mode = "metadata:curseforge"
 [option]
 optional = true
 default = false
+description = "Make Minecraft work properly on macOS"
 
 [update]
 [update.curseforge]
