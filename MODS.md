@@ -1,4 +1,4 @@
-# 205 Mods
+# 218 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -34,6 +34,7 @@
 |Citadel|both|[Modrinth](https://modrinth.com/mod/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
 |Cobweb|both|[Modrinth](https://modrinth.com/mod/cobweb)|
+|Collector's Reap|both|[Modrinth](https://modrinth.com/mod/collectors-reap)|
 |Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connected Glass|both|[Modrinth](https://modrinth.com/mod/connected-glass)|
 |Connector Extras|both|[Modrinth](https://modrinth.com/mod/connector-extras)|
@@ -41,9 +42,14 @@
 |Construction Wand|both|[Modrinth](https://modrinth.com/mod/construction-wand)|
 |Controlling|client|[Modrinth](https://modrinth.com/mod/controlling)|
 |Cooking for Blockheads|both|[Modrinth](https://modrinth.com/mod/cooking-for-blockheads)|
+|Corn Delight|both|[Modrinth](https://modrinth.com/mod/corn-delight)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
+|Create Central Kitchen|both|[Modrinth](https://modrinth.com/mod/create-central-kitchen)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
+|Create Jetpack|both|[Modrinth](https://modrinth.com/mod/create-jetpack)|
 |Create: Liquid Fuel|server|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
+|Create: New Age|both|[Modrinth](https://modrinth.com/mod/create-new-age)|
+|Create Ore Excavation|both|[Modrinth](https://modrinth.com/mod/create-ore-excavation)|
 |Create: Steam 'n' Rails|both|[Modrinth](https://modrinth.com/mod/create-steam-n-rails)|
 |Create: Structures|both|[Modrinth](https://modrinth.com/mod/create-structures)|
 |Create: Sweets & Treats|both|[Modrinth](https://modrinth.com/mod/create-sweets-and-treats)|
@@ -66,6 +72,7 @@
 |EdivadLib|both|[Modrinth](https://modrinth.com/mod/edivadlib)|
 |Elegant Armour 👕|both|[Modrinth](https://modrinth.com/mod/elegantarmour)|
 |Emojiful|both|[Modrinth](https://modrinth.com/mod/emojiful)|
+|End's Delight|both|[Modrinth](https://modrinth.com/mod/ends-delight)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Entity Culling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
 |William Wythers' Expanded Ecosphere|server|[Modrinth](https://modrinth.com/mod/expanded-ecosphere)|
@@ -74,6 +81,7 @@
 |Extreme sound muffler|client|[Modrinth](https://modrinth.com/mod/extreme_sound_muffler)|
 |Fabric Language Kotlin|both|[Modrinth](https://modrinth.com/mod/fabric-language-kotlin)|
 |Falling Leaves (NeoForge/Forge)|client|[Modrinth](https://modrinth.com/mod/fallingleavesforge)|
+|Farmer's Delight|both|[Modrinth](https://modrinth.com/mod/farmers-delight)|
 |FerriteCore|both|[Modrinth](https://modrinth.com/mod/ferrite-core)|
 |Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Forgified Fabric API|both|[Modrinth](https://modrinth.com/mod/forgified-fabric-api)|
@@ -113,6 +121,8 @@
 |Mekanism|both|[Modrinth](https://modrinth.com/mod/mekanism)|
 |Mica|client|[Modrinth](https://modrinth.com/mod/mica)|
 |Mine Little Pony|client|[Modrinth](https://modrinth.com/mod/mine-little-pony)|
+|Miner's Delight|both|[Modrinth](https://modrinth.com/mod/miners-delight)|
+|Mysterious Mountain Lib|both|[Modrinth](https://modrinth.com/mod/mmlib)|
 |ModernFix|both|[Modrinth](https://modrinth.com/mod/modernfix)|
 |Modonomicon|both|[Modrinth](https://modrinth.com/mod/modonomicon)|
 |Moonlight Lib|both|[Modrinth](https://modrinth.com/mod/moonlight)|
@@ -123,10 +133,12 @@
 |Naturalist|both|[Modrinth](https://modrinth.com/mod/naturalist)|
 |Nature's Compass|both|[Modrinth](https://modrinth.com/mod/natures-compass)|
 |NetherPortalFix|both|[Modrinth](https://modrinth.com/mod/netherportalfix)|
+|Nether's Delight|both|[Modrinth](https://modrinth.com/mod/nethers-delight)|
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
 |ObsidianUI|client|[Modrinth](https://modrinth.com/mod/obsidianui)|
 |Occultism|both|[Modrinth](https://modrinth.com/mod/occultism)|
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
+|Overweight Farming|both|[Modrinth](https://modrinth.com/mod/overweight-farming)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
@@ -150,6 +162,7 @@
 |Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)|
 |Resourceful Config|both|[Modrinth](https://modrinth.com/mod/resourceful-config)|
 |Resourceful Lib|both|[Modrinth](https://modrinth.com/mod/resourceful-lib)|
+|Respiteful|both|[Modrinth](https://modrinth.com/mod/respiteful)|
 |RFTools Base|both|[Modrinth](https://modrinth.com/mod/rftools-base)|
 |RFTools Dimensions|both|[Modrinth](https://modrinth.com/mod/rftools-dimensions)|
 |RFTools Utility|both|[Modrinth](https://modrinth.com/mod/rftools-utility)|

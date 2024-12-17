@@ -181,6 +181,11 @@ hash = "0eac2160f9f252888dde9f5e524ec8d4cfb1dde7f9cc0606899f4386ed7782d3"
 metafile = true
 
 [[files]]
+file = "mods/collectors-reap.pw.toml"
+hash = "e6222d5c9b8c7477fb8b42f35f189a9d1e8339bb6a635c6b1c24141432b07bce"
+metafile = true
+
+[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "dee714d069c7256a3eb634135a1334d1c7b5efbe6d29e517b7090f9e76e39503"
 metafile = true
@@ -216,8 +221,18 @@ hash = "d5b2b5da94578330450196091933b125b846e927e9b86a4ae46f4682a67eaa5d"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "2512c5a1f17499f5db342eea6811ad3f1888d05e4fb8ba56ffbc6348cb75da07"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "a8325458914ecc387c8fdb2e64ddf2076454c7f3171a303b6809bc055df99028"
 metafile = true
 
 [[files]]
@@ -226,8 +241,23 @@ hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "0ff2d89b4f6544be779edc232d5c723bb0d296e89fe66112168027dcd65715c9"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "880a30dbb8a40fcbe8fc808379bdf0d864a20b52150266001ed53bdabc44d040"
 metafile = true
 
 [[files]]
@@ -341,6 +371,11 @@ hash = "99a2a8efb36693ad6fba3995879d177072a83b9a2df3f657f79cb948ec639f33"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "aaf8eb8844b9f261de1d3cd791359d78de60ff54304dff165c38c5a62065a786"
+metafile = true
+
+[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "5e08408d0b54c36bee36fa3328bdcacff186656d51bbe3bf033b1b3ecb492daf"
 metafile = true
@@ -378,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
 
 [[files]]
@@ -576,6 +616,16 @@ hash = "fb89f003777cc4ef253e73da08268e9ed4011e99998e206f9d59340400ab9f65"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
+metafile = true
+
+[[files]]
+file = "mods/mmlib.pw.toml"
+hash = "8c9fa6f7b2dfb4b5627e276948739b9682aedb3aa7d92277a30454b5840d2577"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e3501be82bd8d13cef6e7c333b076dd5cbb39c795f0618c029bb2b957282bdea"
 metafile = true
@@ -626,6 +676,11 @@ hash = "78db2c329fdaebddaff88e17b28c9fa0791497ace8fe2337ab1516129b2bd994"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
@@ -643,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "ca54ccd33453cf0b9a2572f54017119aa95e62d55dce68d610899afd213419fb"
 metafile = true
 
 [[files]]
@@ -758,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+metafile = true
+
+[[files]]
+file = "mods/respiteful.pw.toml"
+hash = "7c585c9fc5cbd84f1df7aa2ff1c5fd074b1cc9160dab544a44c277115ffc65ac"
 metafile = true
 
 [[files]]

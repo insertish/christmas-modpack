@@ -1,0 +1,13 @@
+name = "Corn Delight"
+filename = "corn_delight-1.1.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uxLAKWU8/versions/tgWWaScH/corn_delight-1.1.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "6e991e46527cbe5d7d10dbcde8c4d7c2ffdd1ca0b02412ab1f64e0d6a24b0646dc633ca881c8b1fe98a0735007c826e76d35bf88bc26466d9adfe0d298be2937"
+
+[update]
+[update.modrinth]
+mod-id = "uxLAKWU8"
+version = "tgWWaScH"

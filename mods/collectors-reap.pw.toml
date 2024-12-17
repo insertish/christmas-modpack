@@ -1,0 +1,13 @@
+name = "Collector's Reap"
+filename = "collectorsreap-1.20.1-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXXLr36C/versions/A4sqyvVP/collectorsreap-1.20.1-1.3.2.jar"
+hash-format = "sha512"
+hash = "08670311812661c4c1964b86ff4f8c3b9fc1a5041fc9dcdd66c8fbfc03512109d2dd20c2d03add4bf120f80d48241efacda46605bc6667476699b3a598352fbc"
+
+[update]
+[update.modrinth]
+mod-id = "AXXLr36C"
+version = "A4sqyvVP"

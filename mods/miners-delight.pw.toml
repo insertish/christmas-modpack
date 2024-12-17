@@ -1,0 +1,13 @@
+name = "Miner's Delight"
+filename = "miners_delight-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qMxbM4BQ/versions/loZ09szX/miners_delight-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "4d459153ab93a4536b75bfd566b0915cceb7953347d05c0cb5fe129360e5d49d64731528ccd63ff5e785091e9f6300db0bcf5778f51ca82a8f5584fba9278f60"
+
+[update]
+[update.modrinth]
+mod-id = "qMxbM4BQ"
+version = "loZ09szX"
