@@ -21,6 +21,10 @@ file = "config/minelp.json"
 hash = "4cd381e15154e1322fca688c90c93a9216dd992b989e7d87784117729b001749"
 
 [[files]]
+file = "mods/Psi-1.20-103.jar"
+hash = "ccbdcb9ac8d72bb52e1788ed99bc656823bfa62b93766cdf2e49642454c8db76"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
