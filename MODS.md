@@ -1,4 +1,4 @@
-# 208 Mods
+# 205 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -33,7 +33,6 @@
 |Chunky|both|[Modrinth](https://modrinth.com/mod/chunky)|
 |Citadel|both|[Modrinth](https://modrinth.com/mod/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
-|Cobblemon|both|[Modrinth](https://modrinth.com/mod/cobblemon)|
 |Cobweb|both|[Modrinth](https://modrinth.com/mod/cobweb)|
 |Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connected Glass|both|[Modrinth](https://modrinth.com/mod/connected-glass)|
@@ -127,7 +126,6 @@
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
 |ObsidianUI|client|[Modrinth](https://modrinth.com/mod/obsidianui)|
 |Occultism|both|[Modrinth](https://modrinth.com/mod/occultism)|
-|Oculus|client|[Modrinth](https://modrinth.com/mod/oculus)|
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
@@ -143,7 +141,6 @@
 |pv-addon-soundphysics|client|[Modrinth](https://modrinth.com/mod/pv-addon-soundphysics)|
 |Pylons|both|[Modrinth](https://modrinth.com/mod/pylons)|
 |Railroad Blocks|both|[Modrinth](https://modrinth.com/mod/railroad-blocks)|
-|Raised|client|[Modrinth](https://modrinth.com/mod/raised)|
 |Rechiseled: Create|both|[Modrinth](https://modrinth.com/mod/rechiseled-create)|
 |Rechiseled|both|[Modrinth](https://modrinth.com/mod/rechiseled)|
 |Refined Polymorphism|both|[Modrinth](https://modrinth.com/mod/refined-polymorphism)|
