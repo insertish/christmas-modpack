@@ -121,6 +121,11 @@ hash = "4c6233f697779c1eb83616e96216be90cd7c64054f2310185fdcd2158994f38c"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "2feae581c36c173096b02edb7da506a168a0e60b0a9b2459d60a6e42adbc70ab"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
@@ -421,6 +426,11 @@ hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -668,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "5bdccb1cb9a1d964a0dcec4f5fa8c4948cb53ace2cb6db430ed51cb3daa130b4"
 metafile = true
 
 [[files]]

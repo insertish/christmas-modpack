@@ -1,4 +1,4 @@
-# 218 Mods
+# 221 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -22,6 +22,7 @@
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
 |Biomes O' Plenty|both|[Modrinth](https://modrinth.com/mod/biomes-o-plenty)|
 |Blood Magic|both|[Modrinth](https://modrinth.com/mod/blood-magic)|
+|Blueprint|both|[Modrinth](https://modrinth.com/mod/blueprint)|
 |Botarium|both|[Modrinth](https://modrinth.com/mod/botarium)|
 |Building Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)|
 |CC: Tweaked|both|[Modrinth](https://modrinth.com/mod/cc-tweaked)|
@@ -82,6 +83,7 @@
 |Fabric Language Kotlin|both|[Modrinth](https://modrinth.com/mod/fabric-language-kotlin)|
 |Falling Leaves (NeoForge/Forge)|client|[Modrinth](https://modrinth.com/mod/fallingleavesforge)|
 |Farmer's Delight|both|[Modrinth](https://modrinth.com/mod/farmers-delight)|
+|Farmer's Respite|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)|
 |FerriteCore|both|[Modrinth](https://modrinth.com/mod/ferrite-core)|
 |Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Forgified Fabric API|both|[Modrinth](https://modrinth.com/mod/forgified-fabric-api)|
@@ -132,6 +134,7 @@
 |mutil|both|[Modrinth](https://modrinth.com/mod/mutil)|
 |Naturalist|both|[Modrinth](https://modrinth.com/mod/naturalist)|
 |Nature's Compass|both|[Modrinth](https://modrinth.com/mod/natures-compass)|
+|Neapolitan|both|[Modrinth](https://modrinth.com/mod/neapolitan)|
 |NetherPortalFix|both|[Modrinth](https://modrinth.com/mod/netherportalfix)|
 |Nether's Delight|both|[Modrinth](https://modrinth.com/mod/nethers-delight)|
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
