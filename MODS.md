@@ -1,4 +1,4 @@
-# 273 Mods
+# 275 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -100,6 +100,7 @@
 |Eating Animation|client|[Modrinth](https://modrinth.com/mod/eating-animation)|
 |EdivadLib|both|[Modrinth](https://modrinth.com/mod/edivadlib)|
 |Elegant Armour 👕|both|[Modrinth](https://modrinth.com/mod/elegantarmour)|
+|Embeddium|client|[Modrinth](https://modrinth.com/mod/embeddium)|
 |Emojiful|both|[Modrinth](https://modrinth.com/mod/emojiful)|
 |End's Delight|both|[Modrinth](https://modrinth.com/mod/ends-delight)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
@@ -219,6 +220,7 @@
 |Roughly Enough Resources|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)|
 |Refined Storage: Requestify|both|[Modrinth](https://modrinth.com/mod/rs-requestify)|
 |RSInfinityBooster|both|[Modrinth](https://modrinth.com/mod/rsinfinitybooster)|
+|Embeddium (Rubidium) Extra|client|[Modrinth](https://modrinth.com/mod/rubidium-extra)|
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
