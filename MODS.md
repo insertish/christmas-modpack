@@ -1,4 +1,4 @@
-# 285 Mods
+# 279 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -19,7 +19,7 @@
 |Ars Elemental|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)|
 |Ars Énergistique|both|[Modrinth](https://modrinth.com/mod/ars-energistique)|
 |Ars Instrumentum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)|
-|Ars Nouveau|both|[Modrinth](https://modrinth.com/mod/ars-nouveau)|
+|Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
 |Artifacts|both|[Modrinth](https://modrinth.com/mod/artifacts)|
 |Athena|client|[Modrinth](https://modrinth.com/mod/athena-ctm)|
 |Balm|both|[Modrinth](https://modrinth.com/mod/balm)|
@@ -105,7 +105,6 @@
 |End's Delight|both|[Modrinth](https://modrinth.com/mod/ends-delight)|
 |Energy Meter|both|[Modrinth](https://modrinth.com/mod/energymeter)|
 |Entity Culling|client|[Modrinth](https://modrinth.com/mod/entityculling)|
-|Eureka! Ships! for Valkyrien Skies (Forge/Fabric)|both|[Modrinth](https://modrinth.com/mod/eureka)|
 |William Wythers' Expanded Ecosphere|server|[Modrinth](https://modrinth.com/mod/expanded-ecosphere)|
 |Explorer's Compass|both|[Modrinth](https://modrinth.com/mod/explorers-compass)|
 |Explosive Enhancement|client|[Modrinth](https://modrinth.com/mod/explosive-enhancement)|
@@ -145,7 +144,6 @@
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Industrial Foregoing|both|[Modrinth](https://modrinth.com/mod/industrial-foregoing)|
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
-|Create: Interactive|both|[Modrinth](https://modrinth.com/mod/interactive)|
 |Create: Interiors|both|[Modrinth](https://modrinth.com/mod/interiors)|
 |Inventory Essentials|both|[Modrinth](https://modrinth.com/mod/inventory-essentials)|
 |Inventory Profiles Next|client|[Modrinth](https://modrinth.com/mod/inventory-profiles-next)|
@@ -259,14 +257,10 @@
 |Too Many Glyphs|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)|
 |TorchMaster|both|[Modrinth](https://modrinth.com/mod/torchmaster)|
 |Towers of the Wild Modded|both|[Modrinth](https://modrinth.com/mod/towers-of-the-wild-modded)|
-|Trackwork|both|[Modrinth](https://modrinth.com/mod/trackwork)|
 |Trash Cans|both|[Modrinth](https://modrinth.com/mod/trash-cans)|
 |Trinkets|both|[Modrinth](https://modrinth.com/mod/trinkets)|
 |Underground Bunkers|server|[Modrinth](https://modrinth.com/mod/underground-bunkers)|
 |Underground Village, Stoneholm|both|[Modrinth](https://modrinth.com/mod/underground-village,-stoneholm)|
-|Valkyrien Pirates|both|[Modrinth](https://modrinth.com/mod/valkyrien-pirates)|
-|Valkyrien Skies|both|[Modrinth](https://modrinth.com/mod/valkyrien-skies)|
-|VMod|both|[Modrinth](https://modrinth.com/mod/vmod)|
 |Waystones|both|[Modrinth](https://modrinth.com/mod/waystones)|
 |WebDisplays|both|[Modrinth](https://modrinth.com/mod/webdisplays)|
 |When Dungeons Arise|both|[Modrinth](https://modrinth.com/mod/when-dungeons-arise)|

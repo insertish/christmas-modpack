@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
+hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
@@ -540,11 +540,6 @@ hash = "e848a078376aef2d168255aa880a65b19a1c94122736eb55d27a5b52fccfa32a"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "b635e6c2e6976b14140c9ae1539ea06936def38f77565298a7df100eaf87f6ee"
 metafile = true
@@ -737,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "3909a7931a3b04b8fef9bbee681e67d79759f6d67edcaccb00e38b83b0758c2e"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "f3d339c1821af9e9e3a97a93a7f15bab1a93cc71ca4d19c121f02d30d25fd826"
 metafile = true
 
 [[files]]
@@ -1310,11 +1300,6 @@ hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "b394d88b8a32bb8890eae40ff427bbe76e15796560d9cfbc049e3b01547206cf"
-metafile = true
-
-[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
@@ -1332,21 +1317,6 @@ metafile = true
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
 hash = "adacee706a90ec7d2555c49d2a9417e5167e593ff3742e17ee57a94caaffb6f1"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-pirates.pw.toml"
-hash = "a1b86db65eb5fedacc23b0d626b461c1a4f21a01494f20eb60ec80db7a97fc7b"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
-metafile = true
-
-[[files]]
-file = "mods/vmod.pw.toml"
-hash = "9f80da69b42fff9ac0c5eaa2c15be23ecaa9f79ba073fd0306e595c765b5c7d9"
 metafile = true
 
 [[files]]
