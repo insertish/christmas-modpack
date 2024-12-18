@@ -1,4 +1,4 @@
-# 287 Mods
+# 285 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -155,8 +155,6 @@
 |libIPN|client|[Modrinth](https://modrinth.com/mod/libipn)|
 |Light Overlay|client|[Modrinth](https://modrinth.com/mod/light-overlay)|
 |Liquid Burner|both|[Modrinth](https://modrinth.com/mod/liquid-burner)|
-|Lucky TNT Lib|server|[Modrinth](https://modrinth.com/mod/lucky-tnt-lib)|
-|Lucky TNT Mod|both|[Modrinth](https://modrinth.com/mod/lucky-tnt-mod)|
 |Macaw's Roofs|both|[Modrinth](https://modrinth.com/mod/macaws-roofs)|
 |MacOS Input Fixes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macos-input-fixes)|
 |Man of Many Planes|both|[Modrinth](https://modrinth.com/mod/man-of-many-planes)|

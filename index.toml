@@ -790,16 +790,6 @@ hash = "0f2bdc73d4444398501b97a8417a8ad34ac216658a8bef555d11ec12bbabb38a"
 metafile = true
 
 [[files]]
-file = "mods/lucky-tnt-lib.pw.toml"
-hash = "b51cb0f0a0c6bfec38d0300e1c219ead5f7c9daf5fa66e451f3c7d0b86a273b0"
-metafile = true
-
-[[files]]
-file = "mods/lucky-tnt-mod.pw.toml"
-hash = "5f1549c266901531e9d0108de4651c3c7845a03c49e8e33b42ab15b9900c6e4c"
-metafile = true
-
-[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "a264530c93a44f0760b41bd21f6698e25655a3d47c93eb34019a96aa3c80837b"
 metafile = true
