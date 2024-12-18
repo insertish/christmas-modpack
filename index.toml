@@ -25,6 +25,21 @@ file = "mods/Psi-1.20-103.jar"
 hash = "ccbdcb9ac8d72bb52e1788ed99bc656823bfa62b93766cdf2e49642454c8db76"
 
 [[files]]
+file = "mods/ae2-better-villagers.pw.toml"
+hash = "e68b2a7f7dc22428dbf4946d1fc27b55474b81a43ff39441d1e224a101842c1a"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "34c9168a17589ee99abd9bdbe434bb61e33faa7926e288a0b5d441fb193da652"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "f6f4b3464a309086cca1c8c82009af8784e0fce014de1c85ab93588c0696fd59"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
 metafile = true
@@ -50,8 +65,23 @@ hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-delight.pw.toml"
+hash = "d7e1b0030e1e423f4b8ea83966674ca8e54401eeb39771582899854f4788b20a"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "711693f4c7a902e3386f355d60ed8fce6f1a42238f5e9209e4a7439a70ad7b6f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -65,13 +95,18 @@ hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
 metafile = true
 
 [[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "7ce1bd971a8571077ffc4d7625e411c2a35a8d02791392a0efef8270c18359e3"
+metafile = true
+
+[[files]]
 file = "mods/ars-instrumentum.pw.toml"
 hash = "a21b070c85af000dd4385876cfda648205de70079f7c9bd8bd2b66e4b4b1d83c"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
+hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
 metafile = true
 
 [[files]]
@@ -195,6 +230,11 @@ hash = "0eac2160f9f252888dde9f5e524ec8d4cfb1dde7f9cc0606899f4386ed7782d3"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
 file = "mods/collectors-reap.pw.toml"
 hash = "e6222d5c9b8c7477fb8b42f35f189a9d1e8339bb6a635c6b1c24141432b07bce"
 metafile = true
@@ -245,6 +285,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "32e2177d84c73ac042a6f1a1411718a2115133851496af9d5513bc41068ec54b"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "a8325458914ecc387c8fdb2e64ddf2076454c7f3171a303b6809bc055df99028"
 metafile = true
@@ -252,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "0053ef8e3e37e5769df2c9990d55b25628b3c8c6c8249a091761d30e77dc9eb6"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
@@ -525,6 +575,11 @@ hash = "d69a7bae47c6c727c8f0fb1176113ff426a5584c7c4214604ac5e955a33ecd7a"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
 metafile = true
@@ -535,18 +590,53 @@ hash = "1f480633dc1c22b9fd5924320b49fbe4645eebcb7fe21283b85b687c376efe0f"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "fe672a6a6d5931ff04bfcfad96c5c9a46bddbf0ba8524f1dce7d57cbd0527c94"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "dad7340be9b36778872f58addd597fadd07f82b47e22b038af5cf47af9b725b9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "09d3ffa456aa300a1e083dc201008a455836749a852349156ddbe1a070efd57f"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "5c94220894a24a9696246c365382635eaf9c25c5ebbafe0eeb6a6a02f5d44437"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "870a07e190741b4b08ee7ae848d5c21f37c714ad9926c64af8f9d694cea12afc"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 metafile = true
 
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "3909a7931a3b04b8fef9bbee681e67d79759f6d67edcaccb00e38b83b0758c2e"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "f3d339c1821af9e9e3a97a93a7f15bab1a93cc71ca4d19c121f02d30d25fd826"
 metafile = true
 
 [[files]]
@@ -597,6 +687,11 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "b0f679893b1e482006f6e0745c1e758c5258b90ae8912c617d2d600114d4beb7"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
@@ -720,6 +815,11 @@ hash = "aa4ad90f52ed69b3b2212b5a69f49e1ee46f3882211ccbd92e1ad4db17e487ad"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
 metafile = true
@@ -770,6 +870,11 @@ hash = "4b156e5231ebc8aa2ca733dbd029d00be50d08fc219d60022020037b1c21e62f"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "24660c4b368b47a6f6ad3aee54b044b0036ec5c1c63bba2031124a78949d13ca"
 metafile = true
@@ -802,6 +907,11 @@ metafile = true
 [[files]]
 file = "mods/railroad-blocks.pw.toml"
 hash = "a962fc5bd4e60a027e78c04921785ed05414101bb8646fff342f311c35ba3ee9"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-ae2.pw.toml"
+hash = "38342c1b01004c7c280a2827471710d18c45a85008034d362a53a4ec5b913c68"
 metafile = true
 
 [[files]]
@@ -920,6 +1030,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
+metafile = true
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "15663ed4816572f02e955b7dc1cdaceb83f1119e1924f5c85cfde2c97242d818"
 metafile = true
@@ -1015,6 +1130,16 @@ hash = "ef593110796782edd4a1d62c09aaf05995b53a206ffa728c861dcd471608fd5c"
 metafile = true
 
 [[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "fbd1d93ab318f520b3c755c993d4e4ff24eff7ced81bf4327ae229b0c4d1a5db"
 metafile = true
@@ -1055,6 +1180,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/underground-village,-stoneholm.pw.toml"
+hash = "adacee706a90ec7d2555c49d2a9417e5167e593ff3742e17ee57a94caaffb6f1"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "3eeea7bf3d9841dd2442ab0a9e4ad16c43e2bc10d50b7e1cf5e55f351bbab3e0"
 metafile = true
@@ -1067,6 +1197,11 @@ metafile = true
 [[files]]
 file = "mods/wireless-chargers.pw.toml"
 hash = "c72c9fb086e6ead5f9576141ec5a1a2b775d79a63e654da6250bf8ee4c858b26"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "3d3ddb0d9891a8aafec380f88d7358f894a1ed155f406ee549aadbe030799d41"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Applied Mekanistics"
+filename = "Applied-Mekanistics-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IiATswDj/versions/d9GM663Q/Applied-Mekanistics-1.4.2.jar"
+hash-format = "sha512"
+hash = "ea5ce898888da123405a676fe1dc0a6a15e0eb5cfa1cc8bcda50de50e559ff92434c391e88c6bf5bc8c46e864518ae4ebdade8da47fe1f48b5c77135d0f6052e"
+
+[update]
+[update.modrinth]
+mod-id = "IiATswDj"
+version = "d9GM663Q"

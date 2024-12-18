@@ -1,0 +1,13 @@
+name = "Ars Énergistique"
+filename = "arseng-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar"
+hash-format = "sha512"
+hash = "38a04730a9761664d765ad7ac32f41047827da7fd7569696187bc2e2205408ad8cba1aadf6c19e376cac411e42d02a106cec641c502bd6df67a5e19cde868a80"
+
+[update]
+[update.modrinth]
+mod-id = "IJI3QuK8"
+version = "xpgyRm6m"

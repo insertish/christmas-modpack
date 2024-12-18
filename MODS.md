@@ -1,17 +1,24 @@
-# 223 Mods
+# 250 Mods
 
 |Name|Side||
 |---|---|:-:|
+|AE2: Better Villagers|both|[Modrinth](https://modrinth.com/mod/ae2-better-villagers)|
+|AE2 QoL Recipes|server|[Modrinth](https://modrinth.com/mod/ae2-qol-recipes)|
+|Applied Energistics 2|both|[Modrinth](https://modrinth.com/mod/ae2)|
 |Alex's Caves|both|[Modrinth](https://modrinth.com/mod/alexs-caves)|
 |Amendments|both|[Modrinth](https://modrinth.com/mod/amendments)|
 |Apotheosis|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)|
 |Apothic Attributes (AttributesLib)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)|
 |AppleSkin|both|[Modrinth](https://modrinth.com/mod/appleskin)|
-|Architectury API (Fabric/Forge/NeoForge)|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)|
+|Applied Energistics 2 Wireless Terminals|both|[Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)|
+|Applied Energistics Delight|both|[Modrinth](https://modrinth.com/mod/applied-energistics-delight)|
+|Applied Mekanistics|both|[Modrinth](https://modrinth.com/mod/applied-mekanistics)|
+|Architectury API|both|[Modrinth](https://modrinth.com/mod/architectury-api)|
 |Ars Creo|both|[Modrinth](https://modrinth.com/mod/ars-creo)|
 |Ars Elemental|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)|
+|Ars Énergistique|both|[Modrinth](https://modrinth.com/mod/ars-energistique)|
 |Ars Instrumentum|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-instrumentum)|
-|Ars Nouveau|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)|
+|Ars Nouveau|both|[Modrinth](https://modrinth.com/mod/ars-nouveau)|
 |Artifacts|both|[Modrinth](https://modrinth.com/mod/artifacts)|
 |Athena|client|[Modrinth](https://modrinth.com/mod/athena-ctm)|
 |Balm|both|[Modrinth](https://modrinth.com/mod/balm)|
@@ -36,6 +43,7 @@
 |Citadel|both|[Modrinth](https://modrinth.com/mod/citadel)|
 |Cloth Config API|both|[Modrinth](https://modrinth.com/mod/cloth-config)|
 |Cobweb|both|[Modrinth](https://modrinth.com/mod/cobweb)|
+|CoFH Core|both|[Modrinth](https://modrinth.com/mod/cofh-core)|
 |Collector's Reap|both|[Modrinth](https://modrinth.com/mod/collectors-reap)|
 |Compressed Creativity|both|[Modrinth](https://modrinth.com/mod/compressedcreativity)|
 |Connected Glass|both|[Modrinth](https://modrinth.com/mod/connected-glass)|
@@ -46,8 +54,10 @@
 |Cooking for Blockheads|both|[Modrinth](https://modrinth.com/mod/cooking-for-blockheads)|
 |Corn Delight|both|[Modrinth](https://modrinth.com/mod/corn-delight)|
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
+|Create: Applied Kinetics|both|[Modrinth](https://modrinth.com/mod/create-applied-kinetics)|
 |Create Central Kitchen|both|[Modrinth](https://modrinth.com/mod/create-central-kitchen)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
+|Create: Dreams & Desires|both|[Modrinth](https://modrinth.com/mod/create-dreams-and-desires)|
 |Create Jetpack|both|[Modrinth](https://modrinth.com/mod/create-jetpack)|
 |Create: Liquid Fuel|server|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
 |Create: New Age|both|[Modrinth](https://modrinth.com/mod/create-new-age)|
@@ -102,11 +112,19 @@
 |Hang Glider|both|[Modrinth](https://modrinth.com/mod/hang-glider)|
 |Harvest with ease|server|[Modrinth](https://modrinth.com/mod/harvest-with-ease)|
 |HD Skins|client|[Modrinth](https://modrinth.com/mod/hd-skins)|
+|Hourglass|both|[Modrinth](https://modrinth.com/mod/hourglass)|
 |Iceberg|client|[Modrinth](https://modrinth.com/mod/iceberg)|
 |iChunUtil|both|[Modrinth](https://modrinth.com/mod/ichunutil)|
+|Immersive Aircraft|both|[Modrinth](https://modrinth.com/mod/immersive-aircraft)|
+|Immersive Armors|both|[Modrinth](https://modrinth.com/mod/immersive-armors)|
 |Immersive Melodies|both|[Modrinth](https://modrinth.com/mod/immersive-melodies)|
 |Immersive Paintings|both|[Modrinth](https://modrinth.com/mod/immersive-paintings)|
+|Immersive Snow|server|[Modrinth](https://modrinth.com/mod/immersive-snow)|
+|Immersive UI|client|[Modrinth](https://modrinth.com/mod/immersive-ui)|
+|Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
+|Industrial Foregoing|both|[Modrinth](https://modrinth.com/mod/industrial-foregoing)|
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
+|Create: Interactive|both|[Modrinth](https://modrinth.com/mod/interactive)|
 |Create: Interiors|both|[Modrinth](https://modrinth.com/mod/interiors)|
 |Inventory Essentials|both|[Modrinth](https://modrinth.com/mod/inventory-essentials)|
 |Inventory Profiles Next|client|[Modrinth](https://modrinth.com/mod/inventory-profiles-next)|
@@ -117,6 +135,7 @@
 |Light Overlay|client|[Modrinth](https://modrinth.com/mod/light-overlay)|
 |Macaw's Roofs|both|[Modrinth](https://modrinth.com/mod/macaws-roofs)|
 |MacOS Input Fixes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macos-input-fixes)|
+|Man of Many Planes|both|[Modrinth](https://modrinth.com/mod/man-of-many-planes)|
 |McJtyLib|both|[Modrinth](https://modrinth.com/mod/mcjtylib)|
 |Mekanism Additions|both|[Modrinth](https://modrinth.com/mod/mekanism-additions)|
 |Mekanism Generators|both|[Modrinth](https://modrinth.com/mod/mekanism-generators)|
@@ -141,6 +160,7 @@
 |No Chat Reports|both|[Modrinth](https://modrinth.com/mod/no-chat-reports)|
 |ObsidianUI|client|[Modrinth](https://modrinth.com/mod/obsidianui)|
 |Occultism|both|[Modrinth](https://modrinth.com/mod/occultism)|
+|OctoLib|both|[Modrinth](https://modrinth.com/mod/octo-lib)|
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
 |Overweight Farming|both|[Modrinth](https://modrinth.com/mod/overweight-farming)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
@@ -151,6 +171,7 @@
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph|both|[Modrinth](https://modrinth.com/mod/polymorph)|
+|Polymorphic Energistics|both|[Modrinth](https://modrinth.com/mod/polymorphic-energistics)|
 |Powah!|both|[Modrinth](https://modrinth.com/mod/powah)|
 |Pretty Pipes|both|[Modrinth](https://modrinth.com/mod/pretty-pipes)|
 |Proxy Compatible Forge|server|[Modrinth](https://modrinth.com/mod/proxy-compatible-forge)|
@@ -158,6 +179,7 @@
 |pv-addon-soundphysics|client|[Modrinth](https://modrinth.com/mod/pv-addon-soundphysics)|
 |Pylons|both|[Modrinth](https://modrinth.com/mod/pylons)|
 |Railroad Blocks|both|[Modrinth](https://modrinth.com/mod/railroad-blocks)|
+|Rechiseled: AE2|both|[Modrinth](https://modrinth.com/mod/rechiseled-ae2)|
 |Rechiseled: Create|both|[Modrinth](https://modrinth.com/mod/rechiseled-create)|
 |Rechiseled|both|[Modrinth](https://modrinth.com/mod/rechiseled)|
 |Refined Polymorphism|both|[Modrinth](https://modrinth.com/mod/refined-polymorphism)|
@@ -181,6 +203,7 @@
 |RyoamicLights|client|[Modrinth](https://modrinth.com/mod/ryoamiclights)|
 |Scorched|both|[Modrinth](https://modrinth.com/mod/scorched)|
 |Searchables|client|[Modrinth](https://modrinth.com/mod/searchables)|
+|Serene Seasons|both|[Modrinth](https://modrinth.com/mod/serene-seasons)|
 |Simple Hats|both|[Modrinth](https://modrinth.com/mod/simple-hats)|
 |Sleep Tight|both|[Modrinth](https://modrinth.com/mod/sleep-tight)|
 |SmartBrainLib|both|[Modrinth](https://modrinth.com/mod/smartbrainlib)|
@@ -200,6 +223,8 @@
 |Terralith|both|[Modrinth](https://modrinth.com/mod/terralith)|
 |tetra|both|[Modrinth](https://modrinth.com/mod/tetra)|
 |tetracelium|both|[Modrinth](https://modrinth.com/mod/tetracelium)|
+|Thermal Expansion|both|[Modrinth](https://modrinth.com/mod/thermal-expansion)|
+|Thermal Foundation|both|[Modrinth](https://modrinth.com/mod/thermal-foundation)|
 |Tiny Item Animations|client|[Modrinth](https://modrinth.com/mod/tiny-item-animations)|
 |Titanium|both|[Modrinth](https://modrinth.com/mod/titanium)|
 |Tom's Peripherals|both|[Modrinth](https://modrinth.com/mod/toms-peripherals)|
@@ -208,9 +233,11 @@
 |TorchMaster|both|[Modrinth](https://modrinth.com/mod/torchmaster)|
 |Towers of the Wild Modded|both|[Modrinth](https://modrinth.com/mod/towers-of-the-wild-modded)|
 |Trinkets|both|[Modrinth](https://modrinth.com/mod/trinkets)|
+|Underground Village, Stoneholm|both|[Modrinth](https://modrinth.com/mod/underground-village,-stoneholm)|
 |Waystones|both|[Modrinth](https://modrinth.com/mod/waystones)|
 |When Dungeons Arise|both|[Modrinth](https://modrinth.com/mod/when-dungeons-arise)|
 |Wireless Chargers|both|[Modrinth](https://modrinth.com/mod/wireless-chargers)|
+|XNet|both|[Modrinth](https://modrinth.com/mod/xnet)|
 |YetAnotherConfigLib|both|[Modrinth](https://modrinth.com/mod/yacl)|
 |YUNG's API|both|[Modrinth](https://modrinth.com/mod/yungs-api)|
 |YUNG's Better Desert Temples|both|[Modrinth](https://modrinth.com/mod/yungs-better-desert-temples)|

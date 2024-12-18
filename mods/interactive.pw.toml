@@ -1,0 +1,13 @@
+name = "Create: Interactive"
+filename = "create_interactive-1201-forge-1.0.2-beta.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyfCcqiE/versions/ogrWXsFW/create_interactive-1201-forge-1.0.2-beta.2.jar"
+hash-format = "sha512"
+hash = "1f5cea4c4a60c910f0f1fe80649b14b68c6280a3c0a76dd25baf96fde7da3b26f2715cedc1ee4f9b1fb3b70efbd71e32080d3e81a7b765f86e63e3d405f856a3"
+
+[update]
+[update.modrinth]
+mod-id = "MyfCcqiE"
+version = "ogrWXsFW"

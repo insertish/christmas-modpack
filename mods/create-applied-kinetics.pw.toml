@@ -1,0 +1,13 @@
+name = "Create: Applied Kinetics"
+filename = "createappliedkinetics-1.4.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mYGTCuZY/versions/d9CAiaER/createappliedkinetics-1.4.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "5dd65c2c5dc7d3132c3267c7787ce8dbd30c80a57bf021c190650157eb2c44911da39eb59d2d9e283a1cc45cfa3d9eadf7998c5b83ce7badb1a7f185c49db56a"
+
+[update]
+[update.modrinth]
+mod-id = "mYGTCuZY"
+version = "d9CAiaER"
