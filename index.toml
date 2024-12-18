@@ -1065,11 +1065,6 @@ hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
-file = "mods/respiteful.pw.toml"
-hash = "7c585c9fc5cbd84f1df7aa2ff1c5fd074b1cc9160dab544a44c277115ffc65ac"
-metafile = true
-
-[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "39e7b84b22c396048362c54cd80ba9c3495e4ac1fd71b72fa3d52ca73cba1333"
 metafile = true
