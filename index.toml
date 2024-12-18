@@ -175,6 +175,11 @@ hash = "2feae581c36c173096b02edb7da506a168a0e60b0a9b2459d60a6e42adbc70ab"
 metafile = true
 
 [[files]]
+file = "mods/bop-rose-quartz-create-mod-compat.pw.toml"
+hash = "a3b9f146021f641582aa5a0818e884f7b9e05f6c416214f1abf3dc0600fca35b"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true

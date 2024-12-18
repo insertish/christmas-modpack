@@ -1,0 +1,13 @@
+name = "Biomes O' Plenty and Create Rose Quartz Compat"
+filename = "bop_create_mod_rose_quartz-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mksTBGrj/versions/FXqUvmIX/bop_create_mod_rose_quartz-1.0.0.jar"
+hash-format = "sha1"
+hash = "fc203e4742173e6a5d18d865367a4f561c54a1e2"
+
+[update]
+[update.modrinth]
+mod-id = "mksTBGrj"
+version = "FXqUvmIX"

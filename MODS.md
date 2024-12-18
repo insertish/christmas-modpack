@@ -1,4 +1,4 @@
-# 275 Mods
+# 276 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -32,6 +32,7 @@
 |Biomes O' Plenty|both|[Modrinth](https://modrinth.com/mod/biomes-o-plenty)|
 |Blood Magic|both|[Modrinth](https://modrinth.com/mod/blood-magic)|
 |Blueprint|both|[Modrinth](https://modrinth.com/mod/blueprint)|
+|Biomes O' Plenty and Create Rose Quartz Compat|server|[Modrinth](https://modrinth.com/mod/bop-rose-quartz-create-mod-compat)|
 |Botarium|both|[Modrinth](https://modrinth.com/mod/botarium)|
 |Building Gadgets|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)|
 |Camera Mod|both|[Modrinth](https://modrinth.com/mod/camera-mod)|
