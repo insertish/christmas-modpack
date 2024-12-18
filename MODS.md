@@ -1,4 +1,4 @@
-# 286 Mods
+# 287 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -69,7 +69,7 @@
 |Create: High Pressure|both|[Modrinth](https://modrinth.com/mod/create-high-pressure)|
 |Create Jetpack|both|[Modrinth](https://modrinth.com/mod/create-jetpack)|
 |Create: Liquid Fuel|server|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
-|Create: Love & War|both|[Modrinth](https://modrinth.com/mod/create-love-war)|
+|Create: Love & War|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-love-war)|
 |Create Mechanical Extruder|both|[Modrinth](https://modrinth.com/mod/create-mechanical-extruder)|
 |Create: Metalwork|both|[Modrinth](https://modrinth.com/mod/create-metalwork)|
 |Create: Misc and Things|both|[Modrinth](https://modrinth.com/mod/create-misc-and-things)|
@@ -116,6 +116,7 @@
 |Farmer's Delight|both|[Modrinth](https://modrinth.com/mod/farmers-delight)|
 |Farmer's Respite|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)|
 |FerriteCore|both|[Modrinth](https://modrinth.com/mod/ferrite-core)|
+|Flan's Mod: Reloaded|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flans-mod-reloaded)|
 |Flux Networks|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks)|
 |Forgified Fabric API|both|[Modrinth](https://modrinth.com/mod/forgified-fabric-api)|
 |FramedBlocks|both|[Modrinth](https://modrinth.com/mod/framedblocks)|

@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-love-war.pw.toml"
-hash = "b7d4571b4ca4b746b817b0d2825fd02e1485c2f6b7cd2d62941ba78522e1931c"
+hash = "5cc0dd50e42d47094a0ad0707894a13903309565148d74fb57f4a16ad8f9812a"
 metafile = true
 
 [[files]]
@@ -592,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-reloaded.pw.toml"
+hash = "edcff5ac3f48e3f33e7193745e8cbf8428bc5bc4ddea5f0629c4e14b172883f4"
 metafile = true
 
 [[files]]
