@@ -1,4 +1,4 @@
-# 276 Mods
+# 274 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -66,7 +66,6 @@
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
 |Create: Dreams & Desires|both|[Modrinth](https://modrinth.com/mod/create-dreams-and-desires)|
 |Create: Framed|both|[Modrinth](https://modrinth.com/mod/create-framed)|
-|Create: Garnished|both|[Modrinth](https://modrinth.com/mod/create-garnished)|
 |Create: High Pressure|both|[Modrinth](https://modrinth.com/mod/create-high-pressure)|
 |Create Jetpack|both|[Modrinth](https://modrinth.com/mod/create-jetpack)|
 |Create: Liquid Fuel|server|[Modrinth](https://modrinth.com/mod/create-liquid-fuel)|
@@ -211,7 +210,6 @@
 |Reliquary Reincarnations|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)|
 |Resourceful Config|both|[Modrinth](https://modrinth.com/mod/resourceful-config)|
 |Resourceful Lib|both|[Modrinth](https://modrinth.com/mod/resourceful-lib)|
-|Respiteful|both|[Modrinth](https://modrinth.com/mod/respiteful)|
 |RFTools Base|both|[Modrinth](https://modrinth.com/mod/rftools-base)|
 |RFTools Dimensions|both|[Modrinth](https://modrinth.com/mod/rftools-dimensions)|
 |RFTools Utility|both|[Modrinth](https://modrinth.com/mod/rftools-utility)|
