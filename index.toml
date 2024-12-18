@@ -310,6 +310,11 @@ hash = "4d5d17927034be93d7fc70f6fa13ba4bce96504f28389c0e983e3709ba15bd93"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "06d41d478529da12b3d5c776d976ec00506abdf5eecaae599619685a89b95282"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "fed6d1141a6053160662822f62b005be1c00d809e2ab3fd251cb97c26c1194fe"
 metafile = true
@@ -467,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "ec5b452599201804f40e6a9f4549849065b8428d5b046bd0638f9897e1e4b72c"
-metafile = true
-
-[[files]]
-file = "mods/destroy.pw.toml"
-hash = "185632166936b1d3641e2d9da2a1739955eb6090eb1e89b6660e1771d5e090e8"
 metafile = true
 
 [[files]]
@@ -715,11 +715,6 @@ hash = "5c94220894a24a9696246c365382635eaf9c25c5ebbafe0eeb6a6a02f5d44437"
 metafile = true
 
 [[files]]
-file = "mods/immersive-ui.pw.toml"
-hash = "870a07e190741b4b08ee7ae848d5c21f37c714ad9926c64af8f9d694cea12afc"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
 metafile = true
@@ -947,11 +942,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
-metafile = true
-
-[[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "63cf76f3e4f95f2b70fd20094353f7ae547d663f0553c8bb6962e5588a11b1a2"
 metafile = true
 
 [[files]]
@@ -1257,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "a4b08e52d3a6f5ed9fa1b3124b64d1d9b29845d80da284474654a719739ed5c7"
 metafile = true
 
 [[files]]
