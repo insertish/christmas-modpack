@@ -1,0 +1,13 @@
+name = "Lucky TNT Mod"
+filename = "luckytntmod-1.20-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KGqgmI7/versions/s2cYdm7r/luckytntmod-1.20-2.4.jar"
+hash-format = "sha512"
+hash = "98ae3b6774f5ab48bd503b2241ca7e928f341593443271aca742a39a02ebdda58c8b6c79ec70ea60c407b19b210486b2f8b45f77306e29d9d06200e62e8adc45"
+
+[update]
+[update.modrinth]
+mod-id = "6KGqgmI7"
+version = "s2cYdm7r"

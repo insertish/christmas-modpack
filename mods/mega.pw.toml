@@ -1,0 +1,13 @@
+name = "MEGA Cells"
+filename = "megacells-forge-2.4.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/7xqN6FcJ/megacells-forge-2.4.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "5f2f7f8364f14803018b701ad1040be5112f0d4b048dcfc4550b49855937a28abde2ead2fb26c46f1df0d86235104cc5f282fc06c9caf4765fc1653169068822"
+
+[update]
+[update.modrinth]
+mod-id = "jjuIRIVr"
+version = "7xqN6FcJ"

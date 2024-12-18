@@ -1,0 +1,13 @@
+name = "Lucky TNT Lib"
+filename = "luckytntlib-1.20-47.2.32.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rpuC10sK/versions/qVku3D4j/luckytntlib-1.20-47.2.32.0.jar"
+hash-format = "sha512"
+hash = "1b80ca5e2344bcd5b2be68c9ee21edfdcd6cb3098b5840b0c779ecde7a2559970f5431b11ff18ce55b6c1795d6907bdeb17deaecadbd611372842ec1c2366efa"
+
+[update]
+[update.modrinth]
+mod-id = "rpuC10sK"
+version = "qVku3D4j"

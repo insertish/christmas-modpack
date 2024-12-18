@@ -1,0 +1,13 @@
+name = "ZeroCore"
+filename = "ZeroCore2-1.20.1-2.1.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/OIzaNrPI/ZeroCore2-1.20.1-2.1.45.jar"
+hash-format = "sha512"
+hash = "12ea63f8b4cff7899d639b443710a34e0a655515bd2f39f7e604799ae63329edf27e3dbdf8dbebf414c33db72b209d4e69f59c0cc413b15765ed6710479eb9d1"
+
+[update]
+[update.modrinth]
+mod-id = "rHpb85Mf"
+version = "OIzaNrPI"

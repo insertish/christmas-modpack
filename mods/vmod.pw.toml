@@ -1,0 +1,13 @@
+name = "VMod"
+filename = "VMod-Forge-1.20.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qS1ot7R2/versions/mGgUMpre/VMod-Forge-1.20.1-0.1.1.jar"
+hash-format = "sha512"
+hash = "d4bc89d3870930cd4fa8734e5cdcc6c1647046d2170ec4e76632494a7cf75321f3ff5794450a445963315a1ede1b3f3550ceb9f6ee213d24dca4d9789bb97759"
+
+[update]
+[update.modrinth]
+mod-id = "qS1ot7R2"
+version = "mGgUMpre"

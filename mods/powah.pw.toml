@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/nUwRVMI3/Powah-5.0.7.jar"
-hash-format = "sha1"
-hash = "c8f5f62f91a97931e71e22503c602824490b87df"
+hash-format = "sha512"
+hash = "5af07f838ee07356fa937da5c3e35ffcdd3648ba036da49541aea252a97946cd606d7d8e34f83c2da60b42498784d378de81aaa50b6f20734c9f2224629c9851"
 
 [update]
 [update.modrinth]

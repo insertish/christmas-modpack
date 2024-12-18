@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/tdH61AWD/refinedstorageaddons-0.10.0.jar"
-hash-format = "sha1"
-hash = "cdf4cee3f012bff3c3307b71992970b33bd726e4"
+hash-format = "sha512"
+hash = "19730e347b7d7252f9ff0f91ab79d952760be5b4973d20ffd5dec2a6311073d69d8606b45c151f04aa3c688de109bffa76c9e550baf9a65a17e30a3f73a768b7"
 
 [update]
 [update.modrinth]

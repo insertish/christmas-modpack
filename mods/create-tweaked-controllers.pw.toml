@@ -1,0 +1,13 @@
+name = "Create: Tweaked Controllers"
+filename = "create_tweaked_controllers-1.20.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/UAbUIQOp/create_tweaked_controllers-1.20.1-1.2.4.jar"
+hash-format = "sha512"
+hash = "27c1debf15651439723552e6ce07edb4a05c883b2be88aaa1a58371ce3ba1d5a8216eaf1457ea24f4ffd4821e731bf92f283135ec1dea7ec5a7c0e69b81d0ae7"
+
+[update]
+[update.modrinth]
+mod-id = "H6bJ8Ju4"
+version = "UAbUIQOp"

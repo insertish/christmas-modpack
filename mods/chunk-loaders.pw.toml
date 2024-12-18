@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t1VgucWo/versions/5RSR78ic/chunkloaders-1.2.8a-forge-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "e8da2a6a554840d8e7e44d6544f93c52d8662864"
+hash-format = "sha512"
+hash = "97156c4e0e0997618ec7e9b00b3e2a69a17434e2655f547f2cdf71bfa2aa6afb13beefce44b5c53fb33de46a877846ce904b22958f0e33f2269d2bb97635a651"
 
 [update]
 [update.modrinth]

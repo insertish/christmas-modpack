@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nCk7Sfz8/versions/ilLITZvh/wirelesschargers-1.0.9a-forge-mc1.20.jar"
-hash-format = "sha1"
-hash = "e3f1efc1260c67c77eadb105a4ee36403becbdb5"
+hash-format = "sha512"
+hash = "d8399c14816545496d9c83d48678f2bff3788b695676611c0dadfc5e64526e2522685d157f30ba8e6baed80b402ccdf29184112c8edb6933cb4f466f07f74d1f"
 
 [update]
 [update.modrinth]

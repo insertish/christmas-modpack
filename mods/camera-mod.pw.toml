@@ -1,0 +1,13 @@
+name = "Camera Mod"
+filename = "camera-forge-1.20.1-1.0.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/k0HGRziM/camera-forge-1.20.1-1.0.19.jar"
+hash-format = "sha512"
+hash = "dfc527c7c6446068e22145f099f9c45ee173091b8e10e1a8638dd46409724d3cc8a5de57c1bed5f9552154aa46baf68e5602c849d7fb123cffb74d5d093e8aa0"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "k0HGRziM"

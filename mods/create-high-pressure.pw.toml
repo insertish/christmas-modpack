@@ -1,0 +1,13 @@
+name = "Create: High Pressure"
+filename = "create_high_pressure-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mn8ziD0c/versions/Say8KKfn/create_high_pressure-1.1.0.jar"
+hash-format = "sha512"
+hash = "ba350d99f1d3cddcf01f96a9db21921fde74600b59867a2cde2663957f966cf997a053e66bd741fc3bccb2f2dcf51b94131947a06034f3d21c53e379bb123c3a"
+
+[update]
+[update.modrinth]
+mod-id = "Mn8ziD0c"
+version = "Say8KKfn"
