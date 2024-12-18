@@ -1,4 +1,4 @@
-# 274 Mods
+# 273 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -138,7 +138,6 @@
 |Immersive Armors|both|[Modrinth](https://modrinth.com/mod/immersive-armors)|
 |Immersive Melodies|both|[Modrinth](https://modrinth.com/mod/immersive-melodies)|
 |Immersive Paintings|both|[Modrinth](https://modrinth.com/mod/immersive-paintings)|
-|Immersive Snow|server|[Modrinth](https://modrinth.com/mod/immersive-snow)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Industrial Foregoing|both|[Modrinth](https://modrinth.com/mod/industrial-foregoing)|
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
