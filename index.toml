@@ -345,11 +345,6 @@ hash = "f979bba5c6435c2b46cabb0761d95311c3fe3676b9046c6f476e273b8e9be91a"
 metafile = true
 
 [[files]]
-file = "mods/create-garnished.pw.toml"
-hash = "cee3b68e12a23fe32c2f0d28407abe7d0032c532acbceb0c5889bdb6cb2777ee"
-metafile = true
-
-[[files]]
 file = "mods/create-high-pressure.pw.toml"
 hash = "b7ed2013129e724d86007de3aa0454c76e0fdafd7eb1c39131199da157af6259"
 metafile = true
