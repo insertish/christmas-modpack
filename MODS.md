@@ -60,7 +60,7 @@
 |Create: Applied Kinetics|both|[Modrinth](https://modrinth.com/mod/create-applied-kinetics)|
 |Create: Bitterballen|both|[Modrinth](https://modrinth.com/mod/create-bitterballen)|
 |Create: Broken Bad|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad)|
-|Create Cafe|server|[Modrinth](https://modrinth.com/mod/create-cafe)|
+|Create Cafe|both|[Modrinth](https://modrinth.com/mod/create-cafe)|
 |Create Central Kitchen|both|[Modrinth](https://modrinth.com/mod/create-central-kitchen)|
 |Create Cobblestone|both|[Modrinth](https://modrinth.com/mod/create-cobblestone)|
 |Create: Diesel Generators|both|[Modrinth](https://modrinth.com/mod/create-diesel-generators)|
