@@ -1,4 +1,4 @@
-# 279 Mods
+# 276 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -59,6 +59,7 @@
 |Cosmetic Armor Reworked|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)|
 |Create: Applied Kinetics|both|[Modrinth](https://modrinth.com/mod/create-applied-kinetics)|
 |Create: Bitterballen|both|[Modrinth](https://modrinth.com/mod/create-bitterballen)|
+|Create: Broken Bad|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad)|
 |Create Cafe|server|[Modrinth](https://modrinth.com/mod/create-cafe)|
 |Create Central Kitchen|both|[Modrinth](https://modrinth.com/mod/create-central-kitchen)|
 |Create Cobblestone|both|[Modrinth](https://modrinth.com/mod/create-cobblestone)|
@@ -91,7 +92,6 @@
 |Curios API|both|[Modrinth](https://modrinth.com/mod/curios)|
 |Dank Storage|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-storage)|
 |Discord Integration|server|[Modrinth](https://modrinth.com/mod/dcintegration)|
-|Destroy (Create add-on)|both|[Modrinth](https://modrinth.com/mod/destroy)|
 |Ding|client|[Modrinth](https://modrinth.com/mod/ding)|
 |Distant Horizons|client|[Modrinth](https://modrinth.com/mod/distanthorizons)|
 |Drogstyle|server|[Modrinth](https://modrinth.com/mod/drogstyle)|
@@ -140,7 +140,6 @@
 |Immersive Melodies|both|[Modrinth](https://modrinth.com/mod/immersive-melodies)|
 |Immersive Paintings|both|[Modrinth](https://modrinth.com/mod/immersive-paintings)|
 |Immersive Snow|server|[Modrinth](https://modrinth.com/mod/immersive-snow)|
-|Immersive UI|client|[Modrinth](https://modrinth.com/mod/immersive-ui)|
 |Immersive Engineering|both|[Modrinth](https://modrinth.com/mod/immersiveengineering)|
 |Industrial Foregoing|both|[Modrinth](https://modrinth.com/mod/industrial-foregoing)|
 |Infinity Buttons|both|[Modrinth](https://modrinth.com/mod/infinitybuttons)|
@@ -156,7 +155,6 @@
 |Macaw's Roofs|both|[Modrinth](https://modrinth.com/mod/macaws-roofs)|
 |MacOS Input Fixes|client|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/macos-input-fixes)|
 |Man of Many Planes|both|[Modrinth](https://modrinth.com/mod/man-of-many-planes)|
-|MCEF (Minecraft Chromium Embedded Framework)|client|[Modrinth](https://modrinth.com/mod/mcef)|
 |McJtyLib|both|[Modrinth](https://modrinth.com/mod/mcjtylib)|
 |MEGA Cells|both|[Modrinth](https://modrinth.com/mod/mega)|
 |Mekanism Additions|both|[Modrinth](https://modrinth.com/mod/mekanism-additions)|
@@ -188,7 +186,6 @@
 |Overflowing Bars|client|[Modrinth](https://modrinth.com/mod/overflowing-bars)|
 |Overweight Farming|both|[Modrinth](https://modrinth.com/mod/overweight-farming)|
 |Patchouli|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)|
-|Petrolpark's Library|both|[Modrinth](https://modrinth.com/mod/petrolpark)|
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|
@@ -250,6 +247,7 @@
 |tetracelium|both|[Modrinth](https://modrinth.com/mod/tetracelium)|
 |Thermal Expansion|both|[Modrinth](https://modrinth.com/mod/thermal-expansion)|
 |Thermal Foundation|both|[Modrinth](https://modrinth.com/mod/thermal-foundation)|
+|[TaCZ] Timeless and Classics Zero|both|[Modrinth](https://modrinth.com/mod/timeless-and-classics-zero)|
 |Tiny Item Animations|client|[Modrinth](https://modrinth.com/mod/tiny-item-animations)|
 |Titanium|both|[Modrinth](https://modrinth.com/mod/titanium)|
 |Tom's Peripherals|both|[Modrinth](https://modrinth.com/mod/toms-peripherals)|
@@ -262,7 +260,6 @@
 |Underground Bunkers|server|[Modrinth](https://modrinth.com/mod/underground-bunkers)|
 |Underground Village, Stoneholm|both|[Modrinth](https://modrinth.com/mod/underground-village,-stoneholm)|
 |Waystones|both|[Modrinth](https://modrinth.com/mod/waystones)|
-|WebDisplays|both|[Modrinth](https://modrinth.com/mod/webdisplays)|
 |When Dungeons Arise|both|[Modrinth](https://modrinth.com/mod/when-dungeons-arise)|
 |Wireless Chargers|both|[Modrinth](https://modrinth.com/mod/wireless-chargers)|
 |XNet|both|[Modrinth](https://modrinth.com/mod/xnet)|
