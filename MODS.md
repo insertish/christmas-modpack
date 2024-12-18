@@ -1,4 +1,4 @@
-# 221 Mods
+# 223 Mods
 
 |Name|Side||
 |---|---|:-:|
@@ -18,6 +18,7 @@
 |Baubley Heart Canisters|both|[Modrinth](https://modrinth.com/mod/baubley-heart-canisters)|
 |Create: Bells & Whistles|both|[Modrinth](https://modrinth.com/mod/bellsandwhistles)|
 |Better Climbing|both|[Modrinth](https://modrinth.com/mod/better-climbing)|
+|Better Combat|both|[Modrinth](https://modrinth.com/mod/better-combat)|
 |Better Third Person|client|[Modrinth](https://modrinth.com/mod/better-third-person)|
 |BetterF3|client|[Modrinth](https://modrinth.com/mod/betterf3)|
 |Biomes O' Plenty|both|[Modrinth](https://modrinth.com/mod/biomes-o-plenty)|
@@ -146,6 +147,7 @@
 |Pingspam|both|[Modrinth](https://modrinth.com/mod/pingspam)|
 |Placebo|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/placebo)|
 |Plasmo Voice|both|[Modrinth](https://modrinth.com/mod/plasmo-voice)|
+|playerAnimator|both|[Modrinth](https://modrinth.com/mod/playeranimator)|
 |PneumaticCraft: Repressurized|both|[Modrinth](https://modrinth.com/mod/pneumaticcraft-repressurized)|
 |PolyLib|both|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polylib)|
 |Polymorph|both|[Modrinth](https://modrinth.com/mod/polymorph)|

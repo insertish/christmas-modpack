@@ -105,6 +105,11 @@ hash = "1bf633be9aa13b87fe2381a0aa4bf49df3d201303743142151bd443a0c87072b"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
@@ -742,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "19cc8dcf42488e0f88379eda0f5302a3da2dde5c22c40fb6b7aa44de68999bbd"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
